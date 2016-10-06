@@ -1,0 +1,4229 @@
+{
+  "unidad": "Personas",
+  "valores": [
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 1178.360659
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 205.8583399
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 16388.55408
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 3870.744708
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 4344.320829
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 778.8138181
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 35364.0277
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 6343.073479
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 2834.354976
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 580.0540416
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 1602.246536
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 290.0270208
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 250603.5985
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 38134.47994
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 28507.82416
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 5854.277534
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 51175.57044
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 16207.03443
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 6807.516445
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 1603.256104
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 5565.273742
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 1197.629061
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 99066.51478
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 28107.24713
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 103696.8225
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 24076.29478
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 15979.87525
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 3350.519493
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 161331.0766
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 41680.73365
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 37087.96463
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 8918.831928
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 11853.58609
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 3283.591694
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 11548.3474
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 2505.789611
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 16687.70858
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 1943.990188
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 309667.7093
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 91025.87625
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 172033.6811
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 50204.07597
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 9212.921273
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 2488.553528
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 80077.87296
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 15416.05058
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 67838.94051
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 11456.06373
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 9537.425737
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 2107.257308
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 23411.06225
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 5455.752483
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 22133.32055
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 3941.730874
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 11983.38918
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 2247.202371
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 11688.29131
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 2640.664433
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 192910.5542
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 43902.58042
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 190663.355
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 41125.01943
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2010,
+      "nivel3": "Masculina",
+      "valor": 1875.03483
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2010,
+      "nivel3": "Femenina",
+      "valor": 298.1396647
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 1204.936863
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 213.1313125
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 16723.97174
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 4007.503617
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 4491.336344
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 816.7531388
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 36271.84648
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 6605.802235
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 2879.339486
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 598.6593646
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 1639.738126
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 300.458917
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 255690.4641
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 39537.68786
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 28869.90894
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 6021.826991
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 51171.63493
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 16437.24307
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 6917.718616
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 1651.574414
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 5641.868636
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 1233.492647
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 100194.6557
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 28807.25214
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 105911.8679
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 24908.37771
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 16214.05744
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 3445.674023
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 165441.4412
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 43449.57262
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 37576.44713
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 9161.276497
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 12060.14258
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 3386.946202
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 11807.92071
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2593.470826
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 16778.39349
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2000.297824
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 312957.116
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 93264.28665
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 174930.5061
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 51774.28676
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 9442.859493
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2588.558438
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 83631.65314
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 16353.09817
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 68938.64045
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 11793.65105
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 9698.33165
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2176.083744
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 23974.97012
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 5657.320841
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 22612.33618
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 4085.102032
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 12129.77431
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2310.384752
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 11967.47032
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 2737.19751
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 195966.9726
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 45158.6748
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 194591.0134
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 42541.14852
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2011,
+      "nivel3": "Masculina",
+      "valor": 1893.651087
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2011,
+      "nivel3": "Femenina",
+      "valor": 306.065175
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 1231.376479
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 220.5847911
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 17060.57387
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 4147.280975
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 4635.160587
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 855.0577555
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 37139.07835
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 6877.547563
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 2924.595444
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 617.5945123
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 1676.268294
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 311.0229543
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 260465.8559
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 40982.10455
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 29270.10312
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 6192.716197
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 51154.47711
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 16664.60366
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 7021.643222
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 1700.477514
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 5718.095601
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 1270.315952
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 101297.3236
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 29519.25841
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 108083.1412
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 25766.52474
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 16447.37607
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 3542.234868
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 169502.1219
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 45271.83871
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 38069.08893
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 9411.731648
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 12271.93951
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 3492.949812
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 12062.9032
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2682.586558
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 16849.30935
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2057.3953
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 316175.1666
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 95547.83774
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 177818.6309
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 53387.98419
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 9671.247144
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2692.048175
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 87213.68375
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 17322.41467
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 69997.26863
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 12140.23913
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 9858.219969
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2246.760492
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 24551.33566
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 5864.530571
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 23067.00834
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 4232.585451
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 12279.24514
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2374.752806
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 12235.6609
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 2837.24235
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 198729.9832
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 46436.62114
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 198464.4945
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 43995.38257
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2012,
+      "nivel3": "Masculina",
+      "valor": 1912.906422
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2012,
+      "nivel3": "Femenina",
+      "valor": 314.1294522
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 1257.410028
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 228.1616192
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 17390.54612
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 4288.458466
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 4777.395011
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 894.1214594
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 38020.98423
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 7158.120074
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 2969.485162
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 636.8209585
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 1711.786702
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 321.7070969
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 265266.2964
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 42461.10101
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 29647.16656
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 6364.690886
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 51115.17683
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 16886.24522
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 7121.252701
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 1749.711816
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 5791.263791
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 1307.579197
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 102380.1034
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 30239.57254
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 110245.3311
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 26648.08015
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 16669.40555
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 3639.465593
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 173558.0655
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 47142.95805
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 38548.83156
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 9666.928798
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 12482.81138
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 3600.684743
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 12311.89443
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2773.089212
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 16925.04925
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2115.021903
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 319311.9673
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 97867.73344
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 180701.0439
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 55041.39362
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 9897.243008
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2798.670233
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 90817.99077
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 18325.5104
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 71052.04635
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 12494.18005
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 10015.67546
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2318.796716
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 25131.35343
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 6077.001546
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 23522.22923
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 4383.691206
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 12425.12646
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2439.568074
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 12508.44641
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 2940.749733
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 201468.4091
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 47736.40997
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 202352.3001
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 45486.60854
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2013,
+      "nivel3": "Masculina",
+      "valor": 1931.65501
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2013,
+      "nivel3": "Femenina",
+      "valor": 322.1932343
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 1283.096684
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 235.8546624
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 17715.00022
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 4430.930199
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 4917.810859
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 933.9284767
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 38915.08077
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 7447.386217
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 3014.579489
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 656.3324365
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 1746.318176
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 332.5040099
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 270141.5664
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 43976.93959
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 30028.412
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 6538.410085
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 51055.61893
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 17102.22169
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 7219.945508
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 1799.475992
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 5862.90161
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 1345.362564
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 103463.2907
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 30971.10248
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 112415.943
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 27552.65757
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 16880.88894
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 3737.247277
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 177609.5445
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 49063.3171
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 39017.64528
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 9926.540642
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 12693.22062
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 3709.926768
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 12557.61733
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 2865.034025
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 17004.98106
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 2173.261819
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 322460.9547
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 100228.1285
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 183619.191
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 56735.4071
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 10121.09013
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 2908.293999
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 94441.92416
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 19362.33525
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 72116.25448
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 12856.10764
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 10173.39774
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 2392.253594
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 25714.7835
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 6294.6031
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 23978.39057
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 4538.295041
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 12569.29318
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 2504.809473
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 12786.5923
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 3047.761267
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 204203.2212
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 49058.5351
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 206261.6076
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 47015.08443
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2014,
+      "nivel3": "Masculina",
+      "valor": 1950.141194
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2014,
+      "nivel3": "Femenina",
+      "valor": 330.2929562
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 1308.434603
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 243.6461379
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 18033.48853
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 4574.546683
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 5056.603866
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 974.5116384
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 39817.01067
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 7745.511828
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 3059.311572
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 676.0643875
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 1779.895548
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 343.4053896
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 275079.1733
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 45528.69297
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 30405.0509
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 6713.580426
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 50976.89284
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 17312.39568
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 7317.337453
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 1849.791055
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 5934.022212
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 1383.760125
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 104541.7507
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 31712.24955
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 114586.889
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 28479.15317
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 17080.6648
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 3835.388019
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 181648.0604
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 51031.70301
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 39473.51289
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 10190.28712
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 12901.11337
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 3820.407709
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 12799.61497
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 2958.399935
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 17087.22868
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 2232.221622
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 325651.6829
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 102625.7191
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 186550.3714
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 58463.91232
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 10342.79188
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 3020.828416
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 98081.65275
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 20432.60007
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 73185.63637
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 13225.69785
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 10330.85623
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 2467.062773
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 26299.27157
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 6517.179607
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 24433.37942
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 4696.344968
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 12711.44806
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 2570.601919
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 13069.10464
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 3158.191945
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 206920.3101
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 50401.12488
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 210193.2938
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 48580.28874
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2015,
+      "nivel3": "Masculina",
+      "valor": 1968.297852
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2015,
+      "nivel3": "Femenina",
+      "valor": 338.4320229
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 1333.394708
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 251.5215603
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 18344.56889
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 4718.957843
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 5194.012983
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 1015.858786
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 40723.17653
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 8052.55621
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 3103.171982
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 695.9735034
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 1812.515021
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 354.3824332
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 280014.9218
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 47111.84117
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 30776.03975
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 6889.868601
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 50878.55626
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 17516.17104
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 7412.415507
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 1900.497612
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 6004.303026
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 1422.713255
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 105602.4725
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 32458.6818
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 116744.4489
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 29426.66169
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 17266.17513
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 3933.777254
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 185669.7016
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 53047.44638
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 39912.58423
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 10457.98946
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 13105.04482
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 3932.044487
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 13036.54812
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 3053.025483
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 17169.24068
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 2291.655435
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 328845.188
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 105052.7216
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 189453.2544
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 60220.7777
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 10562.0598
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 3136.219217
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 101733.2078
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 21536.05468
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 74251.20252
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 13602.20492
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 10488.31767
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 2543.215684
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 26884.41661
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 6745.134049
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 24883.60973
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 4857.705943
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 12850.684
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 2636.844042
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 13354.39217
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 3272.057316
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 209583.1012
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 51761.27586
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 214132.1251
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 50182.02377
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2016,
+      "nivel3": "Masculina",
+      "valor": 1985.763253
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2016,
+      "nivel3": "Femenina",
+      "valor": 346.5777499
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 1357.941394
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 259.4810016
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 18646.34175
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 4863.731925
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 5329.91692
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 1057.924088
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 41629.00647
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 8368.344484
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 3146.461187
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 716.0513526
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 1844.225657
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 365.3957188
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 284874.9714
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 48721.11004
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 31142.98332
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 7067.188555
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 50760.35062
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 17713.143
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 7504.324694
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 1951.394634
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 6072.54224
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 1462.037999
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 106621.2806
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 33206.23629
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 118892.8158
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 30395.80269
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 17437.84975
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 4032.334642
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 189661.3348
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 55111.0038
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 40333.61308
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 10729.34803
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 13306.55109
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 4045.059956
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 13267.98666
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 3148.791244
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 17250.47408
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 2351.474451
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 331981.5042
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 107505.4968
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 192336.0658
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 62009.70928
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 10778.2171
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 3254.422847
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 105393.4855
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 22672.80948
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 75309.94388
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 13985.18162
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 10645.42145
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 2620.72312
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 27471.43989
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 6978.832465
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 25328.77053
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 5022.355609
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 12987.24071
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 2703.319969
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 13642.01943
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 3389.602666
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 212176.6251
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 53137.80261
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 218045.2091
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 51818.77911
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2017,
+      "nivel3": "Masculina",
+      "valor": 2002.218261
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2017,
+      "nivel3": "Femenina",
+      "valor": 354.7048429
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 1382.090037
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 267.5408773
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 18937.94321
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 5008.764769
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 5464.050352
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 1100.664799
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 42534.94215
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 8692.978419
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 3189.444396
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 736.2915971
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 1875.318872
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 376.4391215
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 289679.0202
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 50356.22673
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 31501.64889
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 7245.501391
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 50625.53953
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 17903.44352
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 7592.383029
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 2002.396667
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 6138.630558
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 1501.694339
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 107610.0899
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 33958.71057
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 121031.0657
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 31388.16408
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 17599.00292
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 4131.017915
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 193606.8074
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 57220.31617
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 40741.02785
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 11004.59363
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 13505.9734
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 4159.532743
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 13492.92228
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 3245.670564
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 17328.65693
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 2411.671956
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 335061.1696
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 109989.7938
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 195232.6565
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 63837.24813
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 10991.4663
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 3375.429524
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 109059.5507
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 23843.0375
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 76362.4161
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 14375.14599
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 10801.51238
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 2699.615948
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 28059.50758
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 7218.412275
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 25771.32747
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 5190.412702
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 13120.15335
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 2769.896496
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 13932.28778
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 3511.081945
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 214724.7504
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 54533.12922
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 221941.0409
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 53490.79602
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2018,
+      "nivel3": "Masculina",
+      "valor": 2017.691159
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2018,
+      "nivel3": "Femenina",
+      "valor": 362.8277827
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 1405.833969
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 275.7195376
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 19218.35064
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 5153.851996
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 5596.411207
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 1144.012025
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 43443.5524
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 9026.528354
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 3232.186134
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 756.6815724
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 1905.760664
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 387.5045818
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 294514.9936
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 52023.09055
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 31850.63716
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 7425.193164
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 50479.1267
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 18087.22965
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 7677.446778
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 2053.623526
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 6203.454736
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 1541.706756
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 108592.588
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 34719.03551
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 123149.2005
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 32405.12552
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 17750.26987
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 4229.743038
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 197518.2823
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 59375.15885
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 41138.32824
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 11284.13062
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 13703.22056
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 4275.537815
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 13711.4693
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 3343.778659
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 17403.48892
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 2472.187732
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 338152.2842
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 112512.8045
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 198159.9658
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 65704.86188
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 11202.71546
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 3499.199338
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 112727.6388
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 25046.42207
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 77407.21388
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 14772.77808
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 10956.58565
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 2779.867802
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 28647.76334
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 7463.793783
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 26213.10589
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 5361.902078
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 13248.41139
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 2836.462513
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 14225.42202
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 3636.489904
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 217244.9446
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 55947.99179
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 225847.926
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 55198.97362
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2019,
+      "nivel3": "Masculina",
+      "valor": 2032.278177
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2019,
+      "nivel3": "Femenina",
+      "valor": 370.9696396
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 1429.047703
+    },
+    {
+      "nivel1": "Aguascalientes",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 284.0144096
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 19486.92852
+    },
+    {
+      "nivel1": "Baja California",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 5298.720729
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 5727.029438
+    },
+    {
+      "nivel1": "Baja California Sur",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 1187.893935
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 44352.72887
+    },
+    {
+      "nivel1": "Campeche",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 9369.080567
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 3274.862805
+    },
+    {
+      "nivel1": "Coahuila",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 777.1739543
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 1935.212835
+    },
+    {
+      "nivel1": "Colima",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 398.5669836
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 299331.8438
+    },
+    {
+      "nivel1": "Chiapas",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 53722.76494
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 32190.03527
+    },
+    {
+      "nivel1": "Chihuahua",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 7605.955891
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 50322.99816
+    },
+    {
+      "nivel1": "Distrito Federal",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 18264.49165
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 7760.056079
+    },
+    {
+      "nivel1": "Durango",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 2105.042959
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 6266.256891
+    },
+    {
+      "nivel1": "Guanajuato",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 1581.862506
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 109556.502
+    },
+    {
+      "nivel1": "Guerrero",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 35484.35682
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 125238.0287
+    },
+    {
+      "nivel1": "Hidalgo",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 33445.69974
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 17890.37977
+    },
+    {
+      "nivel1": "Jalisco",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 4328.24205
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 201390.4579
+    },
+    {
+      "nivel1": "México",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 61574.72301
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 41520.46385
+    },
+    {
+      "nivel1": "Michoacán",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 11567.72765
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 13898.34824
+    },
+    {
+      "nivel1": "Morelos",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 4392.915356
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 13923.98024
+    },
+    {
+      "nivel1": "Nayarit",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 3443.006398
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 17476.90589
+    },
+    {
+      "nivel1": "Nuevo León",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 2532.929565
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 341234.528
+    },
+    {
+      "nivel1": "Oaxaca",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 115069.5441
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 201058.0437
+    },
+    {
+      "nivel1": "Puebla",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 67604.16344
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 11411.05333
+    },
+    {
+      "nivel1": "Querétaro",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 3625.639923
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 116393.032
+    },
+    {
+      "nivel1": "Quintana Roo",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 26282.03175
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 78434.46104
+    },
+    {
+      "nivel1": "San Luis Potosí",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 15177.70388
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 11109.34489
+    },
+    {
+      "nivel1": "Sinaloa",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 2861.297075
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 29237.29633
+    },
+    {
+      "nivel1": "Sonora",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 7714.576744
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 26651.8474
+    },
+    {
+      "nivel1": "Tabasco",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 5536.624845
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 13373.21524
+    },
+    {
+      "nivel1": "Tamaulipas",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 2902.917153
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 14520.38232
+    },
+    {
+      "nivel1": "Tlaxcala",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 3765.636417
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 219713.1623
+    },
+    {
+      "nivel1": "Veracruz",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 57379.51179
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 229765.8925
+    },
+    {
+      "nivel1": "Yucatán",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 56943.19079
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2020,
+      "nivel3": "Masculina",
+      "valor": 2045.601285
+    },
+    {
+      "nivel1": "Zacatecas",
+      "nivel2": 2020,
+      "nivel3": "Femenina",
+      "valor": 379.0868317
+    }
+  ]
+}

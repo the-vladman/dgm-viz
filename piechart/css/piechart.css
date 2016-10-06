@@ -1,0 +1,54 @@
+#pie-chart {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.title-pop {
+  color: #00CC99;
+}
+
+.legend {
+  position: absolute;
+  left: 15px;
+  font-family: "Open sans";
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.toolTip {
+  position: absolute;
+	display: none;
+	width: auto;
+	height: auto;
+	background: none repeat scroll 0 0 white;
+	border: 0 none;
+	box-shadow: 0 0 8px rgba(0,0,0,0.7);
+	background: #FFFFFF;
+  color: #484848;
+	line-height: 1;
+  padding: 18px 12px 19px;
+  font-family: "Open sans";
+}
+
+/* Creates a small triangle extender for the tooltip */
+.toolTip:after {
+  font-size: 20px;
+  color: #FFFFFF;
+  content: "\25BC";
+  text-shadow: 0 3px 6px rgba(0,0,0,0.7);
+  position: absolute;
+  left: 40%;
+  bottom: -15px;
+}
+
+/* Style northward tooltips differently */
+.toolTip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.svgLegend4 {
+  margin: 40px 0 0 65px;
+}

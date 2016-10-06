@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title></title>
+    <meta charset="utf-8" http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- JQuery -->
+    <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- BOOTSTRAP -->
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel='stylesheet' href='/css/main.css' />
+    <!-- <link rel='stylesheet' href='/css/mx.css' /> -->
+    <link rel="import" href="/bower_components/polymer/polymer.html">
+    <link rel="import" href="/bower_components/dgm-navbar/dgm-navbar.html">
+    <link rel="import" href="/bower_components/dgm-footer/dgm-footer.html">
+</head>
+
+<body>
+    <dgm-navbar></dgm-navbar>
+    <div class="toolbar breadcrumb-container">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-7">
+                    <ul class="breadcrumb">
+                        <!-- Snippet snippets/home_breadcrumb_item.html start -->
+                        <li><a href="/busca/dataset/"><i class="glyphicon glyphicon-home"></i></a></li>
+                        <!-- Snippet snippets/home_breadcrumb_item.html end -->
+                        <li class="active"><a href="http://datos.gob.mx/visualizaciones">Visualizaciones</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Visualizaciones</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p>Utilice el siguiente formulario para reportar un problema o solución que haya identificadopara este recurso de datos. El reporte se le enviará automáticamente al encargado de generar y actualizar los datos con el fin de mejorar continuamente
+                    su calidad y/o accesibilidad.</p>
+                <br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <strong style="margin-bottom:10px;">1. Selecciona un tipo de gráfica</strong>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <br>
+                <!-- Nav tabs -->
+                <ul id="myTabs" class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong><i class="fa fa-bar-chart" aria-hidden="true"></i> Gráfica de barras</strong></a></li>
+                    <li role="presentation"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+                    <li role="presentation"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab"><strong><i class="fa fa-map" aria-hidden="true"></i> Mapa</strong></a></li>
+                    <li role="presentation"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong><i class="fa fa-pie-chart" aria-hidden="true"></i> Gráfica de sectores</strong></a></li>
+                    <li role="presentation"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <strong>2. Selecciona la base de datos</strong>
+                <br><br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="tab-content">
+                    <div id="barras" class="tab-pane fade in active">
+                        <select id="chartBarra" class="form-control graficas">
+                        <option value="/barchart/barchart.html">Gráfica de barras</option>
+                        <option value="/treemap/treemap.html">Gráfica de composición</option>
+                        <option value="/mapa/mapa.html">Mapa</option>
+                        <option value="/piechart/piechart.html">Gráfica de sectores</option>
+                        <option value="/scatter/scatter.html">Gráfica de dispersión</option>
+                    </select>
+                    </div>
+                    <div id="composicion" class="tab-pane fade">
+                      <select id="chartComposicion" class="form-control graficas">
+                      <option value="/barchart/barchart.html">1</option>
+                      <option value="/treemap/treemap.html">2</option>
+                      <option value="/mapa/mapa.html">3</option>
+                      <option value="/piechart/piechart.html">4</option>
+                      <option value="/scatter/scatter.html">5</option>
+                      </select>
+                    </div>
+                    <div id="mapa" class="tab-pane fade">
+                      <select id="chartMap" class="form-control graficas">
+                      <option value="/barchart/barchart.html">Gráfica de barras</option>
+                      <option value="/treemap/treemap.html">Gráfica de composición</option>
+                      <option value="/mapa/mapa.html">Mapa</option>
+                      <option value="/piechart/piechart.html">Gráfica de sectores</option>
+                      <option value="/scatter/scatter.html">Gráfica de dispersión</option>
+                      </select>
+                    </div>
+                    <div id="sector" class="tab-pane fade">
+                      <select id="chartSector" class="form-control graficas">
+                      <option value="/barchart/barchart.html">Gráfica de barras</option>
+                      <option value="/treemap/treemap.html">Gráfica de composición</option>
+                      <option value="/mapa/mapa.html">Mapa</option>
+                      <option value="/piechart/piechart.html">Gráfica de sectores</option>
+                      <option value="/scatter/scatter.html">Gráfica de dispersión</option>
+                      </select>
+                    </div>
+                    <div id="dispersicion" class="tab-pane fade">
+                      <select id="chartDispersion" class="form-control graficas">
+                      <option value="/barchart/barchart.html">Gráfica de barras</option>
+                      <option value="/treemap/treemap.html">Gráfica de composición</option>
+                      <option value="/mapa/mapa.html">Mapa</option>
+                      <option value="/piechart/piechart.html">Gráfica de sectores</option>
+                      <option value="/scatter/scatter.html">Gráfica de dispersión</option>
+                      </select>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Lorem ipsum dolor sit amet</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <iframe id="marcoVisualizaciones" src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 500px;">
+                <p>Tu navegador no soporta IFRAMES</p>
+              </iframe>
+                <!-- AQUÍ VA LA VISUALIZACIÓN -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Datos</h1>
+                <div class="data-table">
+                    <table class="table">
+                        <thead class="hidden-xs hidden-sm">
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Institución</th>
+                                <th>Formato</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="hidden-xs hidden-sm">
+                                <td class="">Cuarto Informe de Gobierno</td>
+                                <td width="25%" class="">Presidencia</td>
+                                <td width="10%">
+                                    <span data-format="XLSX" class="dataset-format">XLSX</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <br><br>
+            </div>
+        </div>
+        <div class="row">
+            <!-- <ul class="nav nav-pills row nav-columns catcount_8">
+                <li class="col-sm-2"><a href="#">Favs</a></li>
+                <li class="col-sm-2"><a href="#">Opt1</a></li>
+                <li class="col-sm-2"><a href="#">Opt2</a></li>
+                <li class="col-sm-2"><a href="#">Opt3</a></li>
+                <li class="col-sm-2"><a href="#">Opt4</a></li>
+                <li class="col-sm-2"><a href="#">Opt5</a></li>
+            </ul> -->
+        </div>
+    </div>
+    <dgm-footer></dgm-footer>
+</body>
+
+<script>
+    var switcher$ = $('.graficas'),
+        switchTarget$ = $('#marcoVisualizaciones');
+    switcher$.on('change', switchIframeSrc);
+
+    function switchIframeSrc() {
+        switchTarget$.attr('src', switcher$.val());
+    }
+    switchIframeSrc();
+</script>
+
+</html>

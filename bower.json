@@ -1,0 +1,23 @@
+{
+  "name": "visualizaciones",
+  "authors": [
+    "Sergio Rodríguez <sergio.alrose@gmail.com>"
+  ],
+  "description": "Visualizaciones del top 50 de los datasets de DGM",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3",
+    "webcomponentsjs": "^0.7.22",
+    "polymer": "^1.5.0",
+    "dgm-navbar":"mxabierto/dgm-navbar#latest",
+    "dgm-footer":"mxabierto/dgm-footer#latest"
+  }
+}

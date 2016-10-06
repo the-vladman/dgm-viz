@@ -1,0 +1,127 @@
+{
+  "titulo": "Tipos de contratación",
+  "ejex": "Fecha de firma",
+  "ejey": "Vigencia en meses",
+  "unidad": "Pesos",
+  "valores": [
+  {
+    "tipo": "Licitación",
+    "monto": 12596,
+    "vigencia": 34,
+    "fecha": "12 Ene 2015",
+    "contrato": "SO-005542-N23-2015"
+  },
+  {
+    "tipo": "Contrato",
+    "monto": 11955,
+    "vigencia": 32,
+    "fecha": "2 Feb 2016",
+    "contrato": "CO-33232-N23-2016"
+  },
+  {
+    "tipo": "Contrato",
+    "monto": 69095,
+    "vigencia": 29,
+    "fecha": "8 Feb 2016",
+    "contrato": "CO-11005454-N23-2016"
+  },
+  {
+    "tipo": "Contrato",
+    "monto": 92810,
+    "vigencia": 28,
+    "fecha": "16 Feb 2016",
+    "contrato": "CO-005542-N23-2016"
+  },
+  {
+    "tipo": "Contrato",
+    "monto": 9022,
+    "vigencia": 3,
+    "fecha": "20 Feb 2016",
+    "contrato": "CO-456633-N23-2016"
+  },
+  {
+    "tipo": "Contrato",
+    "monto": 61554,
+    "vigencia": 12,
+    "fecha": "20 Feb 2016",
+    "contrato": "CO-36990-N23-2016"
+  },
+  {
+    "tipo": "Licitación",
+    "monto": 84127,
+    "vigencia": 36,
+    "fecha": "Mar 2016",
+    "contrato": "LI-14855-N23-2015"
+  },
+  {
+    "tipo": "Adjudicación directa",
+    "monto": 12315,
+    "vigencia": 6,
+    "fecha": "Jun 2015",
+    "contrato": "AD-32121-N23-2015"
+  },
+    {
+    "tipo": "Adjudicación directa 2",
+    "monto": 7653,
+    "vigencia": 54,
+    "fecha": "May 2016",
+    "contrato": "AD-654325-N23-2016"
+  },
+  {
+    "tipo": "Adjudicación directa 3",
+    "monto": 12578,
+    "vigencia": 5,
+    "fecha": "Jul 2016",
+    "contrato": "SO-987987-N23-2016"
+  },
+  {
+    "tipo": "Invitación a 3",
+    "monto": 1221,
+    "vigencia": 13,
+    "fecha": "Abr 2015",
+    "contrato": "IN-000005-N23-2015"
+  },
+  {
+    "tipo": "Invitación a 3",
+    "monto": 40745,
+    "vigencia": 47,
+    "fecha": "May 2016",
+    "contrato": "IN-230056-N23-2015"
+  }
+,
+  {
+    "tipo": "Invitación a todos",
+    "monto": 48329,
+    "vigencia": 67,
+    "fecha": "ago 2016",
+    "contrato": "IN-230056-N23-2016"
+  },
+  {
+    "tipo": "Para el que quiera",
+    "monto": 248329,
+    "vigencia": 57,
+    "fecha": "ago 2016",
+    "contrato": "IN-230056-N23-2016"
+  },
+  {
+    "tipo": "Para el que pueda",
+    "monto": 124829,
+    "vigencia": 57,
+    "fecha": "ago 2016",
+    "contrato": "IN-230053-N23-2016"
+  },
+  {
+    "tipo": "Cooperativas",
+    "monto": 212429,
+    "vigencia": 55,
+    "fecha": "ago 2016",
+    "contrato": "IN-230059-N23-2016"
+  },
+  {
+    "tipo": "Sindicatos",
+    "monto": 324839,
+    "vigencia": 120,
+    "fecha": "ago 2016",
+    "contrato": "IN-230051-N23-2016"
+  }  ]
+}

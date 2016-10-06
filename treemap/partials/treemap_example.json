@@ -1,0 +1,1021 @@
+{
+
+  "unidad": "Personas",
+  "valores": [
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niño",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 41458
+  },
+  {
+    "nivel1": "Bebe",
+    "nivel2": "Niña",
+    "nivel3": "Prueba B",
+    "nivel4": "Prueba C.",
+    "valor": 52317
+  },
+  {
+    "nivel1": "Niño",
+    "nivel2": "Pre escolar",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 29023
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "NIño",
+    "nivel2": "Primaria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 46422
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Secundaria",
+    "nivel3": "Prueba B",
+    "nivel4": "Prueba D",
+    "valor": 36012
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Universidad",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 32220
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Joven",
+    "nivel2": "Preparatoria",
+    "nivel3": "Prueba A",
+    "nivel4": "Prueba C",
+    "valor": 40222
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Ciudad",
+    "valor": 30792
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Mujer",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 63839
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Mujer",
+    "nivel3": "Trabajador",
+    "nivel4": "Ciudad",
+    "valor": 75839
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Desempleado",
+    "nivel4": "Campo",
+    "valor": 83528
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Desempleado",
+    "nivel4": "Ciudad",
+    "valor": 25839
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 45856
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Mujer",
+    "nivel3": "Desempleado",
+    "nivel4": "Campo",
+    "valor": 22839
+  },
+  {
+    "nivel1": "Adulto",
+    "nivel2": "Mujer",
+    "nivel3": "Desempleado",
+    "nivel4": "Ciudad",
+    "valor": 26839
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 19839
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Hombre",
+    "nivel3": "Trabajador",
+    "nivel4": "Ciudad",
+    "valor": 12589
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Trabajador",
+    "nivel4": "Campo",
+    "valor": 12589
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Trabajador",
+    "nivel4": "Ciudad",
+    "valor": 22583
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Hombre",
+    "nivel3": "Jubilado",
+    "nivel4": "Campo",
+    "valor": 27839
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Hombre",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 27839
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Campo",
+    "valor": 82639
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  },
+  {
+    "nivel1": "Adulto mayor",
+    "nivel2": "Mujer",
+    "nivel3": "Jubilado",
+    "nivel4": "Ciudad",
+    "valor": 62789
+  }
+]
+}

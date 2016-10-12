@@ -77,14 +77,14 @@
             <div class="col-md-12">
                 <div class="tab-content">
                     <div id="barras" class="tab-pane fade in active">
-                        <select id="chartBarra" class="form-control graficas">
+                        <select id="chartBarra" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
                         <option value="/barchart/indice-rezago-social.html">Índice de rezago social</option>
                         <option value="/barchart/nombramiento-pueblos-magicos.html">Pueblos mágicos</option>
                         <option value="/barchart/ocupacion-hotelera.html">Actividad hotelera</option>
                     </select>
                     </div>
                     <div id="composicion" class="tab-pane fade">
-                      <select id="chartComposicion" class="form-control graficas">
+                        <select id="chartComposicion" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
                       <option value="/treemap/hogares.html">Proyecciones de los hogares en México y las Entidades Federativas, 2010-2030</option>
                       <option value="/treemap/hogaresIndigenas.html">Proyecciones de los hogares Indígenas de México y las Entidades Federativas, 2010-2020</option>
                       <option value="/treemap/fecundidad.html">Tasa específica de fecundidad 1990/2030</option>
@@ -97,13 +97,13 @@
                       </select>
                     </div>
                     <div id="mapa" class="tab-pane fade">
-                      <select id="chartMap" class="form-control graficas">
+                        <select id="chartMap" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
                       <option value="/mapa/barchart.html">Matrícula por institución</option>
                       <option value="/mapa/treemap.html">Catálogo Centros de Trabajo</option>
                       </select>
                     </div>
-                    <div id="sector" class="tab-pane fade">
-                      <select id="chartSector" class="form-control graficas">
+                    <div id="sector" class="tab-pane fade" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                        <select id="chartSector" class="form-control graficas">
                       <option value="/piechart/barchart.html">Calidad general del agua por estación</option>
                       <option value="/piechart/treemap.html">Escuelas por estado</option>
                       <option value="/piechart/mapa.html">Estaciones de calidad del agua por estado</option>
@@ -116,8 +116,8 @@
                       <option value="/piechart/scatter.html">Tipo de sostenimiento de instituciones educativas</option>
                       </select>
                     </div>
-                    <div id="dispersion" class="tab-pane fade">
-                      <select id="chartDispersion" class="form-control graficas">
+                    <div id="dispersion" class="tab-pane fade" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                        <select id="chartDispersion" class="form-control graficas">
                       <option value="/scatter/scatter.html">Ejemplo</option>
                       </select>
                     </div>
@@ -127,7 +127,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-              <br>
+                <br>
                 <iframe id="marcoVisualizaciones" src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 500px;">
                 <p>Tu navegador no soporta IFRAMES</p>
               </iframe>
@@ -165,14 +165,14 @@
 </body>
 
 <script>
-    var switcher$ = $('.graficas'),
-        switchTarget$ = $('#marcoVisualizaciones');
-    switcher$.on('change', switchIframeSrc);
-
-    function switchIframeSrc() {
-        switchTarget$.attr('src', switcher$.val());
-    }
-    switchIframeSrc();
+    // var switcher$ = $('.graficas'),
+    //     switchTarget$ = $('#marcoVisualizaciones');
+    // switcher$.on('change', switchIframeSrc);
+    //
+    // function switchIframeSrc() {
+    //     switchTarget$.attr('src', switcher$.val());
+    // }
+    // switchIframeSrc();
 </script>
 
 </html>

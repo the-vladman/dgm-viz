@@ -102,22 +102,22 @@
                       <option value="/mapa/treemap.html">Catálogo Centros de Trabajo</option>
                       </select>
                     </div>
-                    <div id="sector" class="tab-pane fade" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
-                        <select id="chartSector" class="form-control graficas">
-                      <option value="/piechart/barchart.html">Calidad general del agua por estación</option>
-                      <option value="/piechart/treemap.html">Escuelas por estado</option>
-                      <option value="/piechart/mapa.html">Estaciones de calidad del agua por estado</option>
-                      <option value="/piechart/piechart.html">Inscritos en RETC por estado en 2013</option>
-                      <option value="/piechart/scatter.html">Llegadas a hoteles 2014</option>
-                      <option value="/piechart/barchart.html">numero de pueblos magicos por estado</option>
-                      <option value="/piechart/treemap.html">Poblacion por estado 2010</option>
-                      <option value="/piechart/mapa.html">Residuos solidos manejados adecuadamente por estado 2014</option>
-                      <option value="/piechart/piechart.html">Residuos solidos manejados adecuadamente por estado 2015</option>
-                      <option value="/piechart/scatter.html">Tipo de sostenimiento de instituciones educativas</option>
+                    <div id="sector" class="tab-pane fade">
+                        <select id="chartSector" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                      <option value="/piechart/calidad general del agua por estacion.html">Calidad general del agua por estación</option>
+                      <option value="/piechart/escuelas por estado.html">Escuelas por estado</option>
+                      <option value="/piechart/estaciones de calidad del agua por estado.html">Estaciones de calidad del agua por estado</option>
+                      <option value="/piechart/inscritos-en-RETC-por-estado-en-2013.html">Inscritos en RETC por estado en 2013</option>
+                      <option value="/piechart/llegadas a hoteles 2014.html">Llegadas a hoteles 2014</option>
+                      <option value="/piechart/numero de pueblos magicos por estado.html">numero de pueblos magicos por estado</option>
+                      <option value="/piechart/poblacion por estado 2010.html">Poblacion por estado 2010</option>
+                      <option value="/piechart/residuos solidos manejados adecuadamente por estado 2014.html">Residuos solidos manejados adecuadamente por estado 2014</option>
+                      <option value="/piechart/residuos solidos manejados adecuadamente por estado 2015.html">Residuos solidos manejados adecuadamente por estado 2015</option>
+                      <option value="/piechart/tipo de sostenimiento de instituciones educativas.html">Tipo de sostenimiento de instituciones educativas</option>
                       </select>
                     </div>
-                    <div id="dispersion" class="tab-pane fade" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
-                        <select id="chartDispersion" class="form-control graficas">
+                    <div id="dispersion" class="tab-pane fade">
+                        <select id="chartDispersion" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
                       <option value="/scatter/scatter.html">Ejemplo</option>
                       </select>
                     </div>
@@ -165,14 +165,14 @@
 </body>
 
 <script>
-    // var switcher$ = $('.graficas'),
-    //     switchTarget$ = $('#marcoVisualizaciones');
-    // switcher$.on('change', switchIframeSrc);
-    //
-    // function switchIframeSrc() {
-    //     switchTarget$.attr('src', switcher$.val());
-    // }
-    // switchIframeSrc();
+    var switcher$ = $('.graficas'),
+        switchTarget$ = $('#marcoVisualizaciones');
+    //switcher$.on('change', switchIframeSrc);
+
+    function switchIframeSrc() {
+        switchTarget$.attr('src', switcher$.val());
+    }
+    switchIframeSrc();
 </script>
 
 </html>

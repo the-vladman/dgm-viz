@@ -15,79 +15,39 @@ svg {
   overflow: visible !important;
 }
 
-.legend {
-    font-size: 60%;
+.nvd3 g.nv-groups path.nv-line {
+  stroke-width: 5px;
 }
 
-rect {
-    stroke-width: 2;
-}
-
-text {
-  font-size: 11px;
-}
-
-.axis text {
-  font-size: 11px;
-}
-
-.axis path{
-  fill: none;
-  stroke: #000;
-}
-
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.axis .tick line {
-  stroke-width: 1;
-  stroke: rgba(0, 0, 0, 0.2);
-}
-
-.axisHorizontal path{
-  fill: none;
-}
-
-.axisHorizontal line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.axisHorizontal .tick line {
-  stroke-width: 1;
-  stroke: rgba(0, 0, 0, 0.2);
-}
-
-.bar {
-  fill: steelblue;
-  fill-opacity: .9;
-}
-
-.x.axis path {
-  display: none;
-}
-
-.toolTip {
+.toolTip, .nvtooltip {
   position: absolute;
 	display: none;
 	width: auto;
 	height: auto;
 	background: none repeat scroll 0 0 white;
-	border: 0 none;
+	border: 0 none !important;
 	box-shadow: 0 0 8px rgba(0,0,0,0.7);
 	background: #FFFFFF;
   color: #484848;
 	line-height: 1;
-  padding: 18px 12px 19px;
-  font-family: "Open sans";
+  padding: 18px 12px 19px !important;
+  font-family: "Open sans" !important;
+  font-size: 16px !important;
+  border-radius: 0 !important;
 }
 
 /* Creates a small triangle extender for the tooltip */
 .toolTip:after {
+  font-size: 20px;
+  color: #FFFFFF;
+  content: "\25BC";
+  text-shadow: 0 3px 6px rgba(0,0,0,0.7);
+  position: absolute;
+  left: 40%;
+  bottom: -15px;
+}
+
+.nvtooltip:after {
   font-size: 20px;
   color: #FFFFFF;
   content: "\25BC";
@@ -105,12 +65,12 @@ text {
 }
 
 .svgLegend4 {
-  margin: 82px 0 0 18%;
+  margin: 30px 0 0 118px;
 }
 
 .legend {
   position: absolute;
-  left: 13%;
+  left: 66px;
   font-family: "Open sans";
   font-size: 11px;
   text-transform: uppercase;

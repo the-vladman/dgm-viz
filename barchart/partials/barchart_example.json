@@ -2,13 +2,77 @@
   "ejex": "Transporte",
   "ejey": "Personas",
   "valores": [
-  {"label":"Coche", "Chihuahua":35650, "Coahuila":43202, "Sonora": 20315, "Nuevo León":51898, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Coche compartido", "Chihuahua":21485, "Coahuila":17607, "Sonora":44859, "Nuevo León":21654, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Autobus", "Chihuahua":19506, "Coahuila":29290, "Sonora":20366, "Nuevo León":50168, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Metro", "Chihuahua":40897, "Coahuila":58730, "Sonora":31225, "Nuevo León":28146, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Bicicleta", "Chihuahua":45854, "Coahuila":21477, "Sonora":57146, "Nuevo León":17710, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"A pie", "Chihuahua":35442, "Coahuila":16479, "Sonora":21230, "Nuevo León":46679, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Motocicleta", "Chihuahua":54449, "Coahuila":43351, "Sonora":29799, "Nuevo León":43121, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434},
-  {"label":"Taxi", "Chihuahua":58984, "Coahuila":41265, "Sonora":33589, "Nuevo León":30472, "Aguascalientes":32434,"Baja California":32434,"Baja California Sur":32434,"Campeche":32434,"Chiapas":32434,"Colima":32434,"Distrito Federal":32434,"Durango":32434,"Estado de México":32434,"Guanajuato":32434,"Guerrero":32434,"Hidalgo":32434,"Jalisco":32434,"Michoacán":32434,"Morelos":32434,"Nayarit":32434,"Oaxaca":32434,"Puebla":32434,"Querétaro":32434,"Quintana Roo":32434,"San Luis Potosí":32434,"Sinaloa":32434,"Tabasco":32434,"Tamaulipas":32434,"Tlaxcala":32434,"Veracruz":32434,"Yucatán":32434,"Zacatecas":32434}
+    {
+      "key": "Chihuahua",
+      "values": [
+        {"x": "Coche", "y": 35650},
+        {"x": "Coche compartido", "y": 18546},
+        {"x": "Metro", "y": 12654},
+        {"x": "Bicicleta", "y": 12654},
+        {"x": "A pie", "y": 12654},
+        {"x": "Motocicleta", "y": 12654},
+        {"x": "Taxi", "y": 12654}
+      ]
+    },
+    {
+      "key": "Coahuila",
+      "values": [
+        {"x": "Coche", "y": 30569},
+        {"x": "Coche compartido", "y": 26548},
+        {"x": "Metro", "y": 19456},
+        {"x": "Bicicleta", "y": 19456},
+        {"x": "A pie", "y": 19456},
+        {"x": "Motocicleta", "y": 19456},
+        {"x": "Taxi", "y": 19456}
+      ]
+    },
+    {
+      "key": "Sonora",
+      "values": [
+        {"x": "Coche", "y": 26748},
+        {"x": "Coche compartido", "y": 20158},
+        {"x": "Metro", "y": 16432},
+        {"x": "Bicicleta", "y": 16432},
+        {"x": "A pie", "y": 16432},
+        {"x": "Motocicleta", "y": 16432},
+        {"x": "Taxi", "y": 16432}
+      ]
+    },
+    {
+      "key": "Nuevo León",
+      "values": [
+        {"x": "Coche", "y": 18546},
+        {"x": "Coche compartido", "y": 10325},
+        {"x": "Metro", "y": 9521},
+        {"x": "Bicicleta", "y": 9521},
+        {"x": "A pie", "y": 9521},
+        {"x": "Motocicleta", "y": 9521},
+        {"x": "Taxi", "y": 9521}
+      ]
+    },
+    {
+      "key": "Aguascalientes",
+      "values": [
+        {"x": "Coche", "y": 8365},
+        {"x": "Coche compartido", "y": 29321},
+        {"x": "Metro", "y": 11211},
+        {"x": "Bicicleta", "y": 11211},
+        {"x": "A pie", "y": 11211},
+        {"x": "Motocicleta", "y": 11211},
+        {"x": "Taxi", "y": 11211}
+      ]
+    },
+    {
+      "key": "Baja California",
+      "values": [
+        {"x": "Coche", "y": 10522},
+        {"x": "Coche compartido", "y": 14789},
+        {"x": "Metro", "y": 15155},
+        {"x": "Bicicleta", "y": 15155},
+        {"x": "A pie", "y": 15155},
+        {"x": "Motocicleta", "y": 15155},
+        {"x": "Taxi", "y": 15155}
+      ]
+    }
   ]
 }

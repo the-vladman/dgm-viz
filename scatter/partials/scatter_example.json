@@ -1,127 +1,939 @@
 {
-  "titulo": "Tipos de contratación",
-  "ejex": "Fecha de firma",
-  "ejey": "Vigencia en meses",
-  "unidad": "Pesos",
+  "titulo": "Concesiones mineras por municipios",
+  "ejex": "Fecha de inicio de contrato",
+  "ejey": "Superficie en km²",
+  "unidad": "días de vigencia",
   "valores": [
   {
-    "tipo": "Licitación",
-    "monto": 12596,
-    "vigencia": 34,
-    "fecha": "12 Ene 2015",
-    "contrato": "SO-005542-N23-2015"
+    "fecha": "4/26/1967",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 24,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Contrato",
-    "monto": 11955,
-    "vigencia": 32,
-    "fecha": "2 Feb 2016",
-    "contrato": "CO-33232-N23-2016"
+    "fecha": "12/13/1978",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 352.5153,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
   },
   {
-    "tipo": "Contrato",
-    "monto": 69095,
-    "vigencia": 29,
-    "fecha": "8 Feb 2016",
-    "contrato": "CO-11005454-N23-2016"
+    "fecha": "9/12/1979",
+    "vigencia": 9131,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 9,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Contrato",
-    "monto": 92810,
-    "vigencia": 28,
-    "fecha": "16 Feb 2016",
-    "contrato": "CO-005542-N23-2016"
+    "fecha": "10/22/1980",
+    "vigencia": 18261,
+    "contrato": "MINAS DE SAN PEDRO Y ANEXAS EN TEPEZALA, S.A. DE C.V.",
+    "superficie": 96.0048,
+    "tipo": "ASIENTOS, AGUASCALIENTES|TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Contrato",
-    "monto": 9022,
-    "vigencia": 3,
-    "fecha": "20 Feb 2016",
-    "contrato": "CO-456633-N23-2016"
+    "fecha": "5/13/1982",
+    "vigencia": 18262,
+    "contrato": "MINAS DE SAN PEDRO Y ANEXAS EN TEPEZALA, S.A. DE C.V.",
+    "superficie": 16,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
   },
   {
-    "tipo": "Contrato",
-    "monto": 61554,
-    "vigencia": 12,
-    "fecha": "20 Feb 2016",
-    "contrato": "CO-36990-N23-2016"
+    "fecha": "9/26/1983",
+    "vigencia": 25567,
+    "contrato": "",
+    "superficie": 14.9889,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Licitación",
-    "monto": 84127,
-    "vigencia": 36,
-    "fecha": "Mar 2016",
-    "contrato": "LI-14855-N23-2015"
+    "fecha": "3/23/1984",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 52,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Adjudicación directa",
-    "monto": 12315,
-    "vigencia": 6,
-    "fecha": "Jun 2015",
-    "contrato": "AD-32121-N23-2015"
-  },
-    {
-    "tipo": "Adjudicación directa 2",
-    "monto": 7653,
-    "vigencia": 54,
-    "fecha": "May 2016",
-    "contrato": "AD-654325-N23-2016"
+    "fecha": "12/15/1987",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 147.828,
+    "tipo": "ASIENTOS, AGUASCALIENTES|TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Adjudicación directa 3",
-    "monto": 12578,
-    "vigencia": 5,
-    "fecha": "Jul 2016",
-    "contrato": "SO-987987-N23-2016"
+    "fecha": "12/15/1987",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 9,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Invitación a 3",
-    "monto": 1221,
-    "vigencia": 13,
-    "fecha": "Abr 2015",
-    "contrato": "IN-000005-N23-2015"
+    "fecha": "12/15/1987",
+    "vigencia": 9131,
+    "contrato": "COMPAÑIA MINERA REAL DE ASIENTOS Y ANEXOS, S.A. DE C.V. CAM. DENOM. POR: MINAS DE SANLUIS, S.A. DE C.V.",
+    "superficie": 20,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
   },
   {
-    "tipo": "Invitación a 3",
-    "monto": 40745,
-    "vigencia": 47,
-    "fecha": "May 2016",
-    "contrato": "IN-230056-N23-2015"
+    "fecha": "12/16/1987",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 29.7025,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/27/1988",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 18,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/27/1988",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 227.8477,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/9/1988",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 30.2078,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/13/1989",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 3,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/14/1989",
+    "vigencia": 1095,
+    "contrato": "",
+    "superficie": 30,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/14/1989",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 493.7949,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/14/1989",
+    "vigencia": 18261,
+    "contrato": "COMPAÑIA MINERA REAL DE ASIENTOS Y ANEXOS, S.A. DE C.V. CAM. DENOM. POR: MINAS DE SANLUIS, S.A. DE C.V.",
+    "superficie": 475.574,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/14/1989",
+    "vigencia": 9130,
+    "contrato": "MINAS DE SAN PEDRO Y ANEXAS EN TEPEZALA, S.A. DE C.V.",
+    "superficie": 59.3491,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/4/1990",
+    "vigencia": 18262,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 76.514,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/29/1990",
+    "vigencia": 18262,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 12,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/29/1991",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 12.1946,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/20/1991",
+    "vigencia": 18262,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 88.9858,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/20/1991",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 474.9015,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/26/1992",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 6.4517,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/26/1992",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 2.5055,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/23/1992",
+    "vigencia": 18261,
+    "contrato": "MINAS DE SAN PEDRO Y ANEXAS EN TEPEZALA, S.A. DE C.V.",
+    "superficie": 1.8722,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/30/1993",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 1141.2146,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/12/1994",
+    "vigencia": 18262,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 3151.175,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/11/1995",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 0.761,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/8/1995",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 24,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/13/1996",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 30.1789,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/5/1996",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 36.0664,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/18/1996",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 20,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/8/1997",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 22.1951,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/8/1997",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 119.9017,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/8/1997",
+    "vigencia": 18261,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 3900.8042,
+    "tipo": "ASIENTOS, AGUASCALIENTES|TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/19/1997",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 75,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/12/1998",
+    "vigencia": 18262,
+    "contrato": "DESARROLLOS MINEROS DEL CENTRO, S.A. DE C.V.",
+    "superficie": 31.25,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/27/1998",
+    "vigencia": 2191,
+    "contrato": "",
+    "superficie": 105,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/24/1998",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 4.6154,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/15/1998",
+    "vigencia": 18262,
+    "contrato": "MINAS DE SAN PEDRO Y ANEXAS EN TEPEZALA, S.A. DE C.V.",
+    "superficie": 12.3467,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/15/1998",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 10.4463,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/3/1999",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 20.2328,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/3/1999",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 42.3333,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/3/1999",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 10,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/31/1999",
+    "vigencia": 2191,
+    "contrato": "",
+    "superficie": 3.057,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/8/1999",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 48.2143,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/24/2000",
+    "vigencia": 2190,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 9,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/31/2000",
+    "vigencia": 2190,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 42.9062,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/31/2000",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 45,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/31/2000",
+    "vigencia": 2190,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 32.6789,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/11/2000",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 32.2533,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/11/2000",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 36.4694,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/30/2000",
+    "vigencia": 18261,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 17.902,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/25/2000",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 24,
+    "tipo": "COSIO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/25/2000",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 57,
+    "tipo": "COSIO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/31/2000",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 100.6926,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/31/2000",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 589.2101,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/6/2001",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 250,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/26/2001",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 13.5088,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/26/2001",
+    "vigencia": 2190,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 1.4616,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/26/2001",
+    "vigencia": 2190,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 0.2137,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/19/2002",
+    "vigencia": 2191,
+    "contrato": "",
+    "superficie": 30,
+    "tipo": "COSIO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/17/2002",
+    "vigencia": 2191,
+    "contrato": "INDUSTRIAL MINERA MEXICO, S.A. DE C.V.",
+    "superficie": 252.1112,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/17/2002",
+    "vigencia": 2191,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 4.6084,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/14/2002",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 1.0366,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/14/2002",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 8.8454,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/11/2002",
+    "vigencia": 2191,
+    "contrato": "COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.",
+    "superficie": 7200,
+    "tipo": "JESUS MARIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/11/2002",
+    "vigencia": 18262,
+    "contrato": "CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.",
+    "superficie": 1.0374,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/22/2002",
+    "vigencia": 1658,
+    "contrato": "COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.",
+    "superficie": 1949,
+    "tipo": "JESUS MARIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "2/18/2003",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 20,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "2/25/2003",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 49.809,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/28/2004",
+    "vigencia": 18261,
+    "contrato": "BUFETE GEOLOGICO E INGENIERIA BASICA, S.A. DE C.V.",
+    "superficie": 1752.4814,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/28/2004",
+    "vigencia": 18261,
+    "contrato": "BUFETE GEOLOGICO E INGENIERIA BASICA, S.A. DE C.V.",
+    "superficie": 230,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/19/2004",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 75,
+    "tipo": "TEPEZALA, AGUASCALIENTES|LUIS MOYA, ZACATECAS"
+  },
+  {
+    "fecha": "12/8/2004",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 171.8931,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/8/2004",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 10.0131,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/8/2004",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 60,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/8/2004",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 32,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "1/21/2005",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 37.2645,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/16/2005",
+    "vigencia": 2190,
+    "contrato": "COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.",
+    "superficie": 949.4108,
+    "tipo": "JESUS MARIA, AGUASCALIENTES|SAN JOSE DE GRACIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/23/2005",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 40,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/17/2005",
+    "vigencia": 18261,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 86.3148,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/12/2005",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 90,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/12/2005",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 72,
+    "tipo": "SAN JOSE DE GRACIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/12/2005",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 30,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES|LAGOS DE MORENO, JALISCO"
+  },
+  {
+    "fecha": "9/21/2005",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 70,
+    "tipo": "COSIO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/28/2005",
+    "vigencia": 2190,
+    "contrato": "",
+    "superficie": 90,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES|LAGOS DE MORENO, JALISCO"
+  },
+  {
+    "fecha": "1/24/2006",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 32.5251,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "2/17/2006",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 32,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/17/2006",
+    "vigencia": 18262,
+    "contrato": "MINERA REAL DE ANGELES, S.A. DE C.V.",
+    "superficie": 55.5741,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/13/2006",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/3/2007",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 30,
+    "tipo": "COSIO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/24/2007",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/24/2007",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 105,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "8/24/2007",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "1/16/2008",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 198.0343,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "1/16/2008",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/8/2008",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 64,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/26/2009",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 20,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/11/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 180,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/11/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 64,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/11/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 8508.9121,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/9/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 131.1838,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/9/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 657,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/3/2010",
+    "vigencia": 18262,
+    "contrato": "EXPLORACIONES MINERAS PEÑOLES, S.A. DE C.V.",
+    "superficie": 100,
+    "tipo": "JESUS MARIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "9/14/2010",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "SAN JOSE DE GRACIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/12/2011",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 30,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/4/2011",
+    "vigencia": 18262,
+    "contrato": "PLAMINCO, S.A. DE C.V.",
+    "superficie": 8,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/30/2011",
+    "vigencia": 18262,
+    "contrato": "PLAMINCO, S.A. DE C.V.",
+    "superficie": 2227.5566,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/15/2011",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 748,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "12/15/2011",
+    "vigencia": 18262,
+    "contrato": "EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.",
+    "superficie": 77.7963,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "3/16/2012",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 3452.3027,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/13/2012",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "4/13/2012",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 148.6443,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/23/2012",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 935.9556,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES|TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "11/22/2012",
+    "vigencia": 18261,
+    "contrato": "PLAMINCO, S.A. DE C.V.",
+    "superficie": 3419.4561,
+    "tipo": "TEPEZALA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "1/30/2013",
+    "vigencia": 16583,
+    "contrato": "MINERA DE CORDILLERAS, S. DE R.L. DE C.V.",
+    "superficie": 29681.1094,
+    "tipo": "COSIO, AGUASCALIENTES|RINCON DE ROMOS, AGUASCALIENTES|CUAUHTEMOC, ZACATECAS|OJOCALIENTE, ZACATECAS"
+  },
+  {
+    "fecha": "1/30/2013",
+    "vigencia": 16583,
+    "contrato": "MINERA DE CORDILLERAS, S. DE R.L. DE C.V.",
+    "superficie": 1431.908,
+    "tipo": "COSIO, AGUASCALIENTES|RINCON DE ROMOS, AGUASCALIENTES|CUAUHTEMOC, ZACATECAS|OJOCALIENTE, ZACATECAS"
+  },
+  {
+    "fecha": "4/10/2013",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 928,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/10/2013",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 96,
+    "tipo": "SAN JOSE DE GRACIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "2/5/2014",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 732,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "2/5/2014",
+    "vigencia": 18261,
+    "contrato": "",
+    "superficie": 779,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "7/10/2014",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "SAN JOSE DE GRACIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/3/2014",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 952,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/3/2014",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 854,
+    "tipo": "AGUASCALIENTES, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/3/2014",
+    "vigencia": 18262,
+    "contrato": "EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.",
+    "superficie": 3003.437,
+    "tipo": "ASIENTOS, AGUASCALIENTES"
+  },
+  {
+    "fecha": "10/3/2014",
+    "vigencia": 18262,
+    "contrato": "EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.",
+    "superficie": 1362.8279,
+    "tipo": "ASIENTOS, AGUASCALIENTES|OJUELOS DE JALISCO, JALISCO"
+  },
+  {
+    "fecha": "11/4/2014",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 100,
+    "tipo": "CALVILLO, AGUASCALIENTES"
+  },
+  {
+    "fecha": "5/13/2015",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 385.9972,
+    "tipo": "PABELLON DE ARTEAGA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/2/2015",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 200,
+    "tipo": "JESUS MARIA, AGUASCALIENTES"
+  },
+  {
+    "fecha": "6/2/2015",
+    "vigencia": 18262,
+    "contrato": "",
+    "superficie": 992,
+    "tipo": "ASIENTOS, AGUASCALIENTES|OJUELOS DE JALISCO, JALISCO|VILLA GARCIA, ZACATECAS"
   }
-,
-  {
-    "tipo": "Invitación a todos",
-    "monto": 48329,
-    "vigencia": 67,
-    "fecha": "ago 2016",
-    "contrato": "IN-230056-N23-2016"
-  },
-  {
-    "tipo": "Para el que quiera",
-    "monto": 248329,
-    "vigencia": 57,
-    "fecha": "ago 2016",
-    "contrato": "IN-230056-N23-2016"
-  },
-  {
-    "tipo": "Para el que pueda",
-    "monto": 124829,
-    "vigencia": 57,
-    "fecha": "ago 2016",
-    "contrato": "IN-230053-N23-2016"
-  },
-  {
-    "tipo": "Cooperativas",
-    "monto": 212429,
-    "vigencia": 55,
-    "fecha": "ago 2016",
-    "contrato": "IN-230059-N23-2016"
-  },
-  {
-    "tipo": "Sindicatos",
-    "monto": 324839,
-    "vigencia": 120,
-    "fecha": "ago 2016",
-    "contrato": "IN-230051-N23-2016"
-  }  ]
+]
 }

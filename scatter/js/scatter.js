@@ -39,19 +39,19 @@
           "label": jsonScatter.ejex
       })
       .y({
-          "value": "vigencia",
+          "value": "superficie",
           "label": jsonScatter.ejey
       })
-      .size("monto")
+      .size("vigencia")
       .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
       .format({
           "number": function(number, params) {
               var formattedFirst = d3plus.number.format(number, params);
               var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
               n = parseFloat(number).toFixed(2)
-              var formatted = Number(n).toLocaleString('en');
-              if (params.key === "monto") {
-                  return "MXN $ " + formatted;
+              var formatted = Number(n).toLocaleString('es');
+              if (params.key === "vigencia") {
+                  return formatted + " días";
               } else {
                   return formattedFirst;
               }
@@ -60,7 +60,7 @@
       })
       .labels(false)
       .tooltip({
-          "value": ["contrato", "monto"],
+          "value": ["contrato", "vigencia"],
           "size": false,
           "small": 300
       })
@@ -82,7 +82,7 @@
 
   //// Simbología ////
   $.each(jsonScatter.valores, function(key, value) {
-      var numberFormat = parseFloat(value.monto).toLocaleString('es');
+      var numberFormat = parseFloat(value.vigencia).toLocaleString('es');
       var new_num = Math.round(numberFormat);
       getNumbers.push(new_num);
       middle = middle + new_num;
@@ -100,8 +100,8 @@
 
   //Validacion de Json
   function validaJsonScatter(json_scatter) {
-      var keys_validaciones = ["tipo", "monto", "vigencia", "fecha", "contrato"],
-          tipos_validaciones = { "tipo": "string", "monto": "number", "vigencia": "number", "fecha": "string", "contrato": "string" },
+      var keys_validaciones = ["tipo", "vigencia", "superficie", "fecha", "contrato"],
+          tipos_validaciones = { "tipo": "string", "vigencia": "number", "superficie": "number", "fecha": "string", "contrato": "string" },
           valores = json_scatter["valores"];
 
       if (!json_scatter['ejex']) {

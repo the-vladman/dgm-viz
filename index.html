@@ -59,11 +59,11 @@
                 <br>
                 <!-- Nav tabs -->
                 <ul id="myTabs" class="nav nav-tabs" role="tablist">
-                    <li role="presentation" class="active"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong><i class="fa fa-bar-chart" aria-hidden="true"></i> Gráfica de barras</strong></a></li>
-                    <li role="presentation"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
-                    <li role="presentation"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab"><strong><i class="fa fa-map" aria-hidden="true"></i> Mapa</strong></a></li>
-                    <li role="presentation"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong><i class="fa fa-pie-chart" aria-hidden="true"></i> Gráfica de sectores</strong></a></li>
-                    <li role="presentation"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
+                    <li role="presentation" class="active" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong><i class="fa fa-bar-chart" aria-hidden="true"></i> Gráfica de barras</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong><i class="fa fa-map" aria-hidden="true"></i> Mapa</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong><i class="fa fa-pie-chart" aria-hidden="true"></i> Gráfica de sectores</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
                 </ul>
             </div>
         </div>
@@ -123,7 +123,38 @@
                     </div>
                     <div id="dispersion" class="tab-pane fade">
                         <select id="chartDispersion" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
-                      <option value="/scatter/scatter.html">Ejemplo</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Aguascalientes</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Baja California</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Baja California Sur</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Campeche</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Coahuila de Zaragoza</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Colima</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Chiapas</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Chihuahua</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Ciudad de México</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Durango</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Guanajuato</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Guerrero</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Hidalgo</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Campeche</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Jalisco</option>
+                      <option value="/scatter/scatter.html">Concesión minera - México</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Michoacán de Ocampo</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Morelos</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Nayarit</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Nuevo León</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Oaxaca</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Puebla</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Querétaro</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Quintana Roo</option>
+                      <option value="/scatter/scatter.html">Concesión minera - San Luis Potosí</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Sinaloa</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Sonora</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Tabasco</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Tlaxcala</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Veracruz</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Yucatán</option>
+                      <option value="/scatter/scatter.html">Concesión minera - Zacatecas</option>
                       </select>
                     </div>
                 </div>

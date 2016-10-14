@@ -4,7 +4,7 @@
   //Carga geoJson de Mexico
   var mxData;
   $.ajax({
-    url: "partials/mxGeo.json",
+    url: "partials/Matrícula por institución - DoctoradoPublica.json",
     async: false,
     success: function(data){
       if (validaJsonMap(data)){
@@ -257,7 +257,7 @@
 
               if(typeof valores[elemento][llaves_elemento[k]] !== json_types[llaves_elemento[k]]){
                   alert("Error en la estructura del JSON: El campo " + llaves_elemento[k] + " debe ser de tipo " + json_types[llaves_elemento[k]]);
-                  return false;   
+                  return false;
               }
           }
       }

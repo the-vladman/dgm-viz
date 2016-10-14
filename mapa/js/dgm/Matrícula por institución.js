@@ -4,7 +4,7 @@
   //Carga geoJson de Mexico
   var mxData;
   $.ajax({
-    url: "partials/mxGeo.json",
+    url: "partials/Matrícula por institución.json",
     async: false,
     success: function(data){
       if (validaJsonMap(data)){
@@ -36,10 +36,9 @@
     map.keyboard.disable();
 
     function getColor(d) {
-      return d > 50 ? '#008261' :
-      d > 40  ? '#049873' :
-      d > 30  ? '#00af83' :
-      d > 20  ? '#00CC99' :
+      return d > 10 ? '#008261' :
+      d > 5  ? '#049873' :
+      d > 3  ? '#00af83' :
       '#17f5bd';
     }
 
@@ -198,7 +197,7 @@
       var legend = L.control({position: 'bottomleft'});
       legend.onAdd = function (map) {
         var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 10, 20, 30, 40, 50],
+        grades = [0, 3, 5, 10],
         labels = [''],
         from, to;
 
@@ -257,7 +256,7 @@
 
               if(typeof valores[elemento][llaves_elemento[k]] !== json_types[llaves_elemento[k]]){
                   alert("Error en la estructura del JSON: El campo " + llaves_elemento[k] + " debe ser de tipo " + json_types[llaves_elemento[k]]);
-                  return false;   
+                  return false;
               }
           }
       }

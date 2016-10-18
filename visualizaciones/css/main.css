@@ -7071,7 +7071,8 @@ dgm-footer {
   list-style: none;
 }
 .btn {
-  padding-right: 30px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .btn.dropdown .caret {
   position: relative;

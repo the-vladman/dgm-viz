@@ -30,7 +30,7 @@ $.ajax({
   var arrayLegends = [];
 
   $.each(dataset, function( index, value ) {
-    console.log( index + ": " + value.key );
+    // console.log( index + ": " + value.key );
     arrayLegends.push(value.key);
   });
 

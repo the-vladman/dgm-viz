@@ -1,4 +1,4 @@
-  
+
 var jsonBarchart;
 
 $.ajax({
@@ -30,7 +30,7 @@ $.ajax({
   var arrayLegends = [];
 
   $.each(dataset, function( index, value ) {
-    console.log( index + ": " + value.key );
+    // console.log( index + ": " + value.key );
     arrayLegends.push(value.key);
   });
 
@@ -40,10 +40,10 @@ nv.addGraph(function() {
       .reduceXTicks(false)   //If 'false', every single x-axis tick label will be rendered.
       .rotateLabels(0)      //Angle to rotate x-axis labels.
       .showControls(false)   //Allow user to switch between 'Grouped' and 'Stacked' mode.
-      .showLegend(false)   
+      .showLegend(false)
       .groupSpacing(0.1)    //Distance between each group of bars.
       .color(d3.scale.categoryDatos().range())
-      .tooltipContent( function(key, x, y){ 
+      .tooltipContent( function(key, x, y){
         //return 'x: ' + x + '  y: ' + y
         return "<span class='title-pop'>"+key+"</span><hr>" + jsonBarchart.ejey + ": "+y.toLocaleString('en')
       });
@@ -66,7 +66,7 @@ nv.addGraph(function() {
   .attr("width", '100%')
   .attr("height", '100%')
   .attr("font-family","Open sans")
-  
+
   var dataL = 0;
   var offset = 20;
 
@@ -81,7 +81,7 @@ nv.addGraph(function() {
     if (i == 0) {
       dataL = d.length + offset
       return "translate(0,0)"
-    } else { 
+    } else {
       var newdataL = dataL
       dataL += offset + 9
       return "translate(" + (newdataL) + ",0)"

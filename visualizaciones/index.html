@@ -174,8 +174,15 @@
         <div class="row">
             <div class="col-md-12">
               <button class="btn btn-default" type="submit">DESCARGAR</button>
-              <button class="btn btn-default">EMBEBER</button>
+              <button id="btnEmbeber" class="btn btn-default">EMBEBER</button>
+
             </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+          <br>
+            <pre id="compartir" hidden></pre>
+          </div>
         </div>
         <div class="row">
             <div class="col-md-12">
@@ -222,6 +229,15 @@
         switchTarget$.attr('src', switcher$.val());
     }
     switchIframeSrc();
+
+    $( "#btnEmbeber" ).click(function() {
+      $( "#compartir" ).fadeToggle("slow", function() {
+        // Animation complete.
+        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
+        $( "#compartir" ).text('<iframe src="'+ fuente +'" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
+      });
+    });
+
 </script>
 
 </html>

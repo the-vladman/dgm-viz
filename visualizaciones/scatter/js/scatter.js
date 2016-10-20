@@ -46,14 +46,14 @@
       .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
       .format({
           "number": function(number, params) {
-              var formattedFirst = d3plus.number.format(number, params);
+              //var formattedFirst = d3plus.number.format(number, params);
               var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-              n = parseFloat(number).toFixed(2)
-              var formatted = Number(n).toLocaleString('es');
+              n = parseFloat(number).toFixed(3);
+              var formatted = Number(n).toLocaleString('en');
               if (params.key === "vigencia") {
                   return formatted + " días";
               } else {
-                  return formattedFirst;
+                  return formatted;
               }
           },
           "locale": "es_ES"
@@ -70,7 +70,7 @@
       })
       .legend({
           "filters": true,
-          "size": 60,
+          "size": 0,
           "align": "start"
       })
       .draw()

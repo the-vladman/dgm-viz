@@ -1,3 +1,6 @@
 node_modules/
 bower_components/
 assets/
+visualizaciones/node_modules/
+visualizaciones/bower_components/
+visualizaciones/assets/

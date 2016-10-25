@@ -1,0 +1,10 @@
+{
+  "label": "Concesiones mineras por municipios",
+  "ejex": "Fecha de inicio de contrato",
+  "ejey": "Superficie en km²",
+  "unidad": "meses de vigencia",
+  "valores": [
+{"TITULO":210971,"NOMBRE LOTE":"EL PEDERNAL 6 FRACCION A","INICIO":"2/29/2000","FIN":"2/28/2050","VIGENCIA":599,"TITULAR":"CIA. MRA. MONSSERRAT, S.A.","SUPERFICIE":30,"ENTIDAD":"DISTRITO FEDERAL","MUNICIPIO":"","DESCRIPCION":"LAS FALDAS NORTE  SUR   Y CUMBRE DE UN CERRO  SIN NOMBRE QUE SE  LOCALIZA AL NE","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
+
+]
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Concesiones mineras por municipios",
+  "ejex": "Fecha de inicio de contrato",
+  "ejey": "Superficie en km²",
+  "unidad": "meses de vigencia",
+  "valores": [
+{"TITULO":184493,"NOMBRE LOTE":"2a. FRACCION JORGE","INICIO":"6/11/1989","FIN":"5/11/2014","VIGENCIA":299,"TITULAR":"","SUPERFICIE":345,"ENTIDAD":"GUANAJUATO-SAN LUIS POTOSI","MUNICIPIO":"SAN LUIS DE LA PAZ, GUANAJUATO-SANTA MARIA DEL RIO, SAN LUIS POTOSI","DESCRIPCION":"EL CERRO DEL CORITO","COO UTM X":326404.453,"COO UTM Y":2379764.909,"CARTA INEGI":"E14A33"}
+
+]
+}

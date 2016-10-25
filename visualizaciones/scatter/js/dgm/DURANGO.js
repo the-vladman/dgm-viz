@@ -2,7 +2,7 @@
   //Llamada ajax Json
   $.ajax({
       type: "GET",
-      url: "partials/scatter_example.json",
+      url: "partials/DURANGO.json",
       async: false,
       success: function(data) {
           if (validaJsonScatter(data)) {

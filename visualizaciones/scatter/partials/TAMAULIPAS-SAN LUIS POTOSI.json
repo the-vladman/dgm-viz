@@ -1,0 +1,10 @@
+{
+  "label": "Concesiones mineras por municipios",
+  "ejex": "Fecha de inicio de contrato",
+  "ejey": "Superficie en km²",
+  "unidad": "meses de vigencia",
+  "valores": [
+{"TITULO":166424,"NOMBRE LOTE":"SANGRE DE CRISTO","INICIO":"4/6/1980","FIN":"3/6/2030","VIGENCIA":599,"TITULAR":"SAINT- GOBAIN GYPSUM, S.A. DE C.V.","SUPERFICIE":6912,"ENTIDAD":"TAMAULIPAS-SAN LUIS POTOSI","MUNICIPIO":"CIUDAD DEL MAIZ, SAN LUIS POTOSI-TULA, TAMAULIPAS","DESCRIPCION":"","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
+
+]
+}

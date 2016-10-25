@@ -60,7 +60,7 @@
       })
       .labels(false)
       .tooltip({
-          "value": ["TITULAR", "VIGENCIA", "TITULO", "NOMBRE LOTE", "FIN", "ENTIDAD", "COO UTM X", "COO UTM Y", "CARTA INEGI"],
+          "value": ["TITULAR", "TITULO", "NOMBRE LOTE", "INICIO", "FIN", "VIGENCIA", "COO UTM X", "COO UTM Y", "CARTA INEGI"],
           "size": false,
           "small": 300
       })

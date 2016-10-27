@@ -73,7 +73,8 @@
           "size": 0,
           "align": "start"
       })
-      .draw()
+      .resize(true)
+  .draw()
 
   //$("#scatterplot").prepend("draw");
 

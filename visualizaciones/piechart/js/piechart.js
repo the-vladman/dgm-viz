@@ -1,10 +1,10 @@
-
+  
   var jsonPiechart;
   var total = 0;
 
   $.ajax({
     type: "GET",
-    url: "partials/tipo de sostenimiento de instituciones educativas.json",
+    url: "partials/piechart_example.json",
     async: false,
     success: function(data){
       if (validaJsonPieChart(data.valores)){
@@ -45,14 +45,14 @@
   .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
   .format({
     "text": function(text, params) {
-
+      
       if (text === "value") {
         return jsonPiechart.unidad;
       }
       else {
         return d3plus.string.title(text, params);
       }
-
+      
     },
     "number": function(number, params) {
       n = parseFloat(number).toFixed(2)
@@ -86,7 +86,7 @@
 
                   if(typeof json[elemento][llaves_elemento[k]] !== json_types[llaves_elemento[k]]){
                       alert("Error en la estructura del JSON: El campo " + llaves_elemento[k] + " debe ser de tipo " + json_types[llaves_elemento[k]]);
-                      return false;
+                      return false;   
                   }
               }
           }

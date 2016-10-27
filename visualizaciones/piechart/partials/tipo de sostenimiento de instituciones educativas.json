@@ -1,1 +1,5 @@
-[{"label":"PARTICULAR","value":2565},{"label":"P\u00daBLICO","value":1021}]
+{
+  "unidad": "Especies",
+  "ancho": 480,
+  "valores": [{"label":"PARTICULAR","value":2565},{"label":"P\u00daBLICO","value":1021}]
+}

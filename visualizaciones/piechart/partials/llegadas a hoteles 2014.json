@@ -1,4 +1,7 @@
-[{
+{
+  "unidad": "Especies",
+  "ancho": 480,
+  "valores": [{
     "label": "Aguascalientes",
     "value": 530502.9751
 }, {
@@ -66,7 +69,7 @@
     "value": 1685639.614
 }, {
     "label": "Quintana Roo",
-    "value": "1.225786981E7"
+    "value": 12257869.81
 }, {
     "label": "San Luis Potos\u00ed",
     "value": 1055065.874
@@ -95,3 +98,4 @@
     "label": "Zacatecas",
     "value": 1077749.237
 }]
+}

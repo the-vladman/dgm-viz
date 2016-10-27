@@ -27,7 +27,8 @@ svg {
 	background: none repeat scroll 0 0 white;
 	border: 0 none !important;
 	box-shadow: 0 0 8px rgba(0,0,0,0.7);
-	background: #FFFFFF;
+	/*background: #FFFFFF;*/
+  background: rgba(255,255,255,1) !important;
   color: #484848;
 	line-height: 1;
   padding: 18px 12px 19px !important;
@@ -38,16 +39,6 @@ svg {
 
 /* Creates a small triangle extender for the tooltip */
 .toolTip:after {
-  font-size: 20px;
-  color: #FFFFFF;
-  content: "\25BC";
-  text-shadow: 0 3px 6px rgba(0,0,0,0.7);
-  position: absolute;
-  left: 40%;
-  bottom: -15px;
-}
-
-.nvtooltip:after {
   font-size: 20px;
   color: #FFFFFF;
   content: "\25BC";
@@ -74,4 +65,24 @@ svg {
   font-family: "Open sans";
   font-size: 11px;
   text-transform: uppercase;
+}
+
+.textRed { color: #FF0000 !important; }
+
+.arrow-down {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.7);
+  position: absolute;
+  left: 40%;
+  bottom: -15px;
+}
+
+.arrow-up {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-shadow: 0 -4px 6px rgba(0,0,0,0.4);
+  position: absolute;
+  left: 40%;
+  top: -16px;
 }

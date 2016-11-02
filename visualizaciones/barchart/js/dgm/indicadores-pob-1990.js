@@ -39,7 +39,7 @@ nv.addGraph(function() {
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
-      .margin({"left":100,"right":5,"top":10,"bottom":10})
+      .margin({"left":100,"right":20,"top":5,"bottom":100})
       .color(d3.scale.categoryDatos().range())
       .tooltipContent( function(key, x, y){
         if (parseInt(y) >= 0) {
@@ -58,6 +58,7 @@ nv.addGraph(function() {
 
     chart.xAxis
       .axisLabel(jsonBarchart.ejex.toUpperCase())
+      .rotateLabels(-45)
       .margin({"left":100,"right":5,"top":10,"bottom":10});
 
     d3.select('#bar-chart svg')
@@ -71,7 +72,7 @@ nv.addGraph(function() {
 
 //////////////////// Horizontal Legend ////////////////
 
-var svgLegned4 = d3.select(".svgLegend4").append("svg")
+/*var svgLegned4 = d3.select(".svgLegend4").append("svg")
 .attr("width", '100%')
 .attr("height", '100%')
 .attr("font-family","Open sans")
@@ -121,7 +122,7 @@ legend4.on("mouseout", function(d){
   divTooltip.style("display", "none");
 });
 
-$('.legend4').append('<span class="legend">Leyenda</span>');
+$('.legend4').append('<span class="legend">Leyenda</span>');*/
 
   // Validacion de BarChart
   function validaJsonBarChart(jsonBarchart){

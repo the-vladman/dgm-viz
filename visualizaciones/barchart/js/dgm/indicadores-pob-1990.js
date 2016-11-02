@@ -39,6 +39,7 @@ nv.addGraph(function() {
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
+      .margin({"left":100,"right":5,"top":10,"bottom":10})
       .color(d3.scale.categoryDatos().range())
       .tooltipContent( function(key, x, y){
         if (parseInt(y) >= 0) {
@@ -52,10 +53,12 @@ nv.addGraph(function() {
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())
+      .margin({"left":100,"right":5,"top":10,"bottom":10})
       .tickFormat(d3.format(',.0f'));
 
     chart.xAxis
-      .axisLabel(jsonBarchart.ejex.toUpperCase());
+      .axisLabel(jsonBarchart.ejex.toUpperCase())
+      .margin({"left":100,"right":5,"top":10,"bottom":10});
 
     d3.select('#bar-chart svg')
         .datum(dataset)

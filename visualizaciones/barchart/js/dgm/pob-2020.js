@@ -3,7 +3,8 @@ var jsonBarchart;
 
 $.ajax({
   type: "GET",
-  url: "partials/indicadores-pob-1990.json",
+      url: "partials/pob-2020.json",
+
   async: false,
   success: function(data){
     if (validaJsonBarChart(data) ){
@@ -33,6 +34,8 @@ $.ajax({
 
 nv.addGraph(function() {
   var chart = nv.models.multiBarChart()
+      .x(function(d) { return d.ent })
+      .y(function(d) { return d.pob })
       .transitionDuration(350)
       .reduceXTicks(false)
       .rotateLabels(45)
@@ -42,14 +45,8 @@ nv.addGraph(function() {
       .margin({"left":100,"right":20,"top":5,"bottom":100})
       .color(d3.scale.categoryDatos().range())
       .tooltipContent( function(key, x, y){
-        if (parseInt(y) >= 0) {
-          return "<span class='title-pop'>"+key+"</span><hr>" + "<span>" + jsonBarchart.ejey + ": " + y + "</span><div class='arrow-down'>▼</div>"
-        } else {
-          return "<div class='arrow-up'>▲</div><span class='title-pop'>"+key+"</span><hr>" + jsonBarchart.ejey + ": " + "<span class='textRed'>" + y + "</span>"
-        }
-
+          return "<span>" + x +": " + y + "</span>"
       });
-
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())

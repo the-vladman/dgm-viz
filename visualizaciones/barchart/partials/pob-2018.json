@@ -1,0 +1,75 @@
+{
+    "ejex": "Estados",
+    "ejey": "Población",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2018,"ent":"Aguascalientes","pob":1337792.494}
+,
+{"año":2018,"ent":"Baja California","pob":3633772.198}
+,
+{"año":2018,"ent":"Baja California Sur","pob":832827.197}
+,
+{"año":2018,"ent":"Campeche","pob":948459.3239}
+,
+{"año":2018,"ent":"Chiapas","pob":5445232.73}
+,
+{"año":2018,"ent":"Chihuahua","pob":3816865.369}
+,
+{"año":2018,"ent":"Coahuila","pob":3063662.456}
+,
+{"año":2018,"ent":"Colima","pob":759686.4939}
+,
+{"año":2018,"ent":"Distrito Federal","pob":8788140.622}
+,
+{"año":2018,"ent":"Durango","pob":1815965.569}
+,
+{"año":2018,"ent":"Guanajuato","pob":5952086.509}
+,
+{"año":2018,"ent":"Guerrero","pob":3625039.983}
+,
+{"año":2018,"ent":"Hidalgo","pob":2980532.155}
+,
+{"año":2018,"ent":"Jalisco","pob":8197483.106}
+,
+{"año":2018,"ent":"México","pob":17604619.12}
+,
+{"año":2018,"ent":"Michoacán","pob":4687210.525}
+,
+{"año":2018,"ent":"Morelos","pob":1987595.763}
+,
+{"año":2018,"ent":"Nayarit","pob":1290518.813}
+,
+{"año":2018,"ent":"Nuevo León","pob":5300618.559}
+,
+{"año":2018,"ent":"Oaxaca","pob":4084674.038}
+,
+{"año":2018,"ent":"Puebla","pob":6371380.815}
+,
+{"año":2018,"ent":"Querétaro","pob":2091823.169}
+,
+{"año":2018,"ent":"Quintana Roo","pob":1709478.7}
+,
+{"año":2018,"ent":"República Mexicana","pob":124737788.6}
+,
+{"año":2018,"ent":"San Luis Potosí","pob":2824975.983}
+,
+{"año":2018,"ent":"Sinaloa","pob":3059321.663}
+,
+{"año":2018,"ent":"Sonora","pob":3050472.708}
+,
+{"año":2018,"ent":"Tabasco","pob":2454294.55}
+,
+{"año":2018,"ent":"Tamaulipas","pob":3661161.749}
+,
+{"año":2018,"ent":"Tlaxcala","pob":1330142.581}
+,
+{"año":2018,"ent":"Veracruz","pob":8220321.858}
+,
+{"año":2018,"ent":"Yucatán","pob":2199617.601}
+,
+{"año":2018,"ent":"Zacatecas","pob":1612014.214}
+
+        ]
+    }]
+}

@@ -1,0 +1,75 @@
+{
+    "ejex": "Estados",
+    "ejey": "Población",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2009,"ent":"Aguascalientes","pob":1175942}
+,
+{"año":2009,"ent":"Baja California","pob":3168319}
+,
+{"año":2009,"ent":"Baja California Sur","pob":626900}
+,
+{"año":2009,"ent":"Campeche","pob":824071}
+,
+{"año":2009,"ent":"Chiapas","pob":4836326}
+,
+{"año":2009,"ent":"Chihuahua","pob":3485093}
+,
+{"año":2009,"ent":"Coahuila","pob":2743966}
+,
+{"año":2009,"ent":"Colima","pob":645050}
+,
+{"año":2009,"ent":"Distrito Federal","pob":8961594}
+,
+{"año":2009,"ent":"Durango","pob":1650042}
+,
+{"año":2009,"ent":"Guanajuato","pob":5503354}
+,
+{"año":2009,"ent":"Guerrero","pob":3415204}
+,
+{"año":2009,"ent":"Hidalgo","pob":2649264}
+,
+{"año":2009,"ent":"Jalisco","pob":7331993}
+,
+{"año":2009,"ent":"México","pob":15315644}
+,
+{"año":2009,"ent":"Michoacán","pob":4381615}
+,
+{"año":2009,"ent":"Morelos","pob":1779708}
+,
+{"año":2009,"ent":"Nayarit","pob":1083772}
+,
+{"año":2009,"ent":"Nuevo León","pob":4646180}
+,
+{"año":2009,"ent":"Oaxaca","pob":3838339}
+,
+{"año":2009,"ent":"Puebla","pob":5796436}
+,
+{"año":2009,"ent":"Querétaro","pob":1815459}
+,
+{"año":2009,"ent":"Quintana Roo","pob":1305885}
+,
+{"año":2009,"ent":"República Mexicana","pob":112852594}
+,
+{"año":2009,"ent":"San Luis Potosí","pob":2589037}
+,
+{"año":2009,"ent":"Sinaloa","pob":2820908}
+,
+{"año":2009,"ent":"Sonora","pob":2679501}
+,
+{"año":2009,"ent":"Tabasco","pob":2229667}
+,
+{"año":2009,"ent":"Tamaulipas","pob":3290198}
+,
+{"año":2009,"ent":"Tlaxcala","pob":1168846}
+,
+{"año":2009,"ent":"Veracruz","pob":7646283}
+,
+{"año":2009,"ent":"Yucatán","pob":1953829}
+,
+{"año":2009,"ent":"Zacatecas","pob":1494169}
+
+        ]
+    }]
+}

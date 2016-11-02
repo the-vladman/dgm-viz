@@ -1,0 +1,75 @@
+{
+    "ejex": "Estados",
+    "ejey": "Población",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1994,"ent":"Aguascalientes","pob":902128}
+,
+{"año":1994,"ent":"Baja California","pob":2058198}
+,
+{"año":1994,"ent":"Baja California Sur","pob":387994}
+,
+{"año":1994,"ent":"Campeche","pob":614694}
+,
+{"año":1994,"ent":"Chiapas","pob":3644811}
+,
+{"año":1994,"ent":"Chihuahua","pob":2636937}
+,
+{"año":1994,"ent":"Coahuila","pob":2158403}
+,
+{"año":1994,"ent":"Colima","pob":509258}
+,
+{"año":1994,"ent":"Distrito Federal","pob":8828375}
+,
+{"año":1994,"ent":"Durango","pob":1439646}
+,
+{"año":1994,"ent":"Guanajuato","pob":4889078}
+,
+{"año":1994,"ent":"Guerrero","pob":3124968}
+,
+{"año":1994,"ent":"Hidalgo","pob":2288570}
+,
+{"año":1994,"ent":"Jalisco","pob":6118571}
+,
+{"año":1994,"ent":"México","pob":11300207}
+,
+{"año":1994,"ent":"Michoacán","pob":4100535}
+,
+{"año":1994,"ent":"Morelos","pob":1493515}
+,
+{"año":1994,"ent":"Nayarit","pob":893093}
+,
+{"año":1994,"ent":"Nuevo León","pob":3519985}
+,
+{"año":1994,"ent":"Oaxaca","pob":3501881}
+,
+{"año":1994,"ent":"Puebla","pob":4815366}
+,
+{"año":1994,"ent":"Querétaro","pob":1372231}
+,
+{"año":1994,"ent":"Quintana Roo","pob":715788}
+,
+{"año":1994,"ent":"República Mexicana","pob":93055300}
+,
+{"año":1994,"ent":"San Luis Potosí","pob":2296679}
+,
+{"año":1994,"ent":"Sinaloa","pob":2354573}
+,
+{"año":1994,"ent":"Sonora","pob":2030370}
+,
+{"año":1994,"ent":"Tabasco","pob":1781609}
+,
+{"año":1994,"ent":"Tamaulipas","pob":2452645}
+,
+{"año":1994,"ent":"Tlaxcala","pob":895027}
+,
+{"año":1994,"ent":"Veracruz","pob":6945101}
+,
+{"año":1994,"ent":"Yucatán","pob":1559473}
+,
+{"año":1994,"ent":"Zacatecas","pob":1425591}
+
+        ]
+    }]
+}

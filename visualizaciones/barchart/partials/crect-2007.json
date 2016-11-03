@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2007,"ent":"Aguascalientes","crect":19602}
+,
+{"año":2007,"ent":"Baja California","crect":63684}
+,
+{"año":2007,"ent":"Baja California Sur","crect":20034}
+,
+{"año":2007,"ent":"Campeche","crect":13973}
+,
+{"año":2007,"ent":"Chiapas","crect":72473}
+,
+{"año":2007,"ent":"Chihuahua","crect":53062}
+,
+{"año":2007,"ent":"Coahuila","crect":38916}
+,
+{"año":2007,"ent":"Colima","crect":12532}
+,
+{"año":2007,"ent":"Distrito Federal","crect":-5085}
+,
+{"año":2007,"ent":"Durango","crect":20490}
+,
+{"año":2007,"ent":"Guanajuato","crect":48937}
+,
+{"año":2007,"ent":"Guerrero","crect":26524}
+,
+{"año":2007,"ent":"Hidalgo","crect":35560}
+,
+{"año":2007,"ent":"Jalisco","crect":104159}
+,
+{"año":2007,"ent":"México","crect":269482}
+,
+{"año":2007,"ent":"Michoacán","crect":35194}
+,
+{"año":2007,"ent":"Morelos","crect":23748}
+,
+{"año":2007,"ent":"Nayarit","crect":20991}
+,
+{"año":2007,"ent":"Nuevo León","crect":78475}
+,
+{"año":2007,"ent":"Oaxaca","crect":23426}
+,
+{"año":2007,"ent":"Puebla","crect":63830}
+,
+{"año":2007,"ent":"Querétaro","crect":31062}
+,
+{"año":2007,"ent":"Quintana Roo","crect":43235}
+,
+{"año":2007,"ent":"San Luis Potosí","crect":27032}
+,
+{"año":2007,"ent":"Sinaloa","crect":32271}
+,
+{"año":2007,"ent":"Sonora","crect":44516}
+,
+{"año":2007,"ent":"Tabasco","crect":27504}
+,
+{"año":2007,"ent":"Tamaulipas","crect":53674}
+,
+{"año":2007,"ent":"Tlaxcala","crect":17811}
+,
+{"año":2007,"ent":"Veracruz","crect":58671}
+,
+{"año":2007,"ent":"Yucatán","crect":26509}
+,
+{"año":2007,"ent":"Zacatecas","crect":13274}
+
+]
+    }]
+}

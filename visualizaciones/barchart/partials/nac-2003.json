@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2003,"ent":"Aguascalientes","nac":27339}
+,
+{"año":2003,"ent":"Baja California","nac":54028}
+,
+{"año":2003,"ent":"Baja California Sur","nac":10102}
+,
+{"año":2003,"ent":"Campeche","nac":15656}
+,
+{"año":2003,"ent":"Chiapas","nac":121161}
+,
+{"año":2003,"ent":"Chihuahua","nac":68434}
+,
+{"año":2003,"ent":"Coahuila","nac":55880}
+,
+{"año":2003,"ent":"Colima","nac":12517}
+,
+{"año":2003,"ent":"Distrito Federal","nac":152510}
+,
+{"año":2003,"ent":"Durango","nac":36440}
+,
+{"año":2003,"ent":"Guanajuato","nac":123173}
+,
+{"año":2003,"ent":"Guerrero","nac":85545}
+,
+{"año":2003,"ent":"Hidalgo","nac":57445}
+,
+{"año":2003,"ent":"Jalisco","nac":150947}
+,
+{"año":2003,"ent":"México","nac":304691}
+,
+{"año":2003,"ent":"Michoacán","nac":95157}
+,
+{"año":2003,"ent":"Morelos","nac":33744}
+,
+{"año":2003,"ent":"Nayarit","nac":20241}
+,
+{"año":2003,"ent":"Nuevo León","nac":84851}
+,
+{"año":2003,"ent":"Oaxaca","nac":88476}
+,
+{"año":2003,"ent":"Puebla","nac":135333}
+,
+{"año":2003,"ent":"Querétaro","nac":38294}
+,
+{"año":2003,"ent":"Quintana Roo","nac":21193}
+,
+{"año":2003,"ent":"San Luis Potosí","nac":57140}
+,
+{"año":2003,"ent":"Sinaloa","nac":57848}
+,
+{"año":2003,"ent":"Sonora","nac":52073}
+,
+{"año":2003,"ent":"Tabasco","nac":49147}
+,
+{"año":2003,"ent":"Tamaulipas","nac":63213}
+,
+{"año":2003,"ent":"Tlaxcala","nac":26018}
+,
+{"año":2003,"ent":"Veracruz","nac":154206}
+,
+{"año":2003,"ent":"Yucatán","nac":38192}
+,
+{"año":2003,"ent":"Zacatecas","nac":33057}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2014,"ent":"Aguascalientes","crect":17737.50214}
+,
+{"año":2014,"ent":"Baja California","crect":51593.93485}
+,
+{"año":2014,"ent":"Baja California Sur","crect":22876.45705}
+,
+{"año":2014,"ent":"Campeche","crect":13788.14064}
+,
+{"año":2014,"ent":"Chiapas","crect":66926.49384}
+,
+{"año":2014,"ent":"Chihuahua","crect":37065.43806}
+,
+{"año":2014,"ent":"Coahuila","crect":35311.41904}
+,
+{"año":2014,"ent":"Colima","crect":12597.68065}
+,
+{"año":2014,"ent":"Distrito Federal","crect":-19476.36506}
+,
+{"año":2014,"ent":"Durango","crect":18180.12051}
+,
+{"año":2014,"ent":"Guanajuato","crect":49068.29572}
+,
+{"año":2014,"ent":"Guerrero","crect":22292.14787}
+,
+{"año":2014,"ent":"Hidalgo","crect":36112.98614}
+,
+{"año":2014,"ent":"Jalisco","crect":94663.3047}
+,
+{"año":2014,"ent":"México","crect":253179.895}
+,
+{"año":2014,"ent":"Michoacán","crect":33372.94113}
+,
+{"año":2014,"ent":"Morelos","crect":23078.87289}
+,
+{"año":2014,"ent":"Nayarit","crect":22727.41777}
+,
+{"año":2014,"ent":"Nuevo León","crect":72351.70451}
+,
+{"año":2014,"ent":"Oaxaca","crect":26696.07659}
+,
+{"año":2014,"ent":"Puebla","crect":63166.03982}
+,
+{"año":2014,"ent":"Querétaro","crect":30354.92402}
+,
+{"año":2014,"ent":"Quintana Roo","crect":44937.94675}
+,
+{"año":2014,"ent":"San Luis Potosí","crect":25728.29743}
+,
+{"año":2014,"ent":"Sinaloa","crect":26136.70121}
+,
+{"año":2014,"ent":"Sonora","crect":40751.94056}
+,
+{"año":2014,"ent":"Tabasco","crect":24715.37571}
+,
+{"año":2014,"ent":"Tamaulipas","crect":41056.54267}
+,
+{"año":2014,"ent":"Tlaxcala","crect":17802.23656}
+,
+{"año":2014,"ent":"Veracruz","crect":62050.63648}
+,
+{"año":2014,"ent":"Yucatán","crect":27291.31101}
+,
+{"año":2014,"ent":"Zacatecas","crect":12956.26487}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2014,"ent":"Aguascalientes","nac":26435.37847}
+,
+{"año":2014,"ent":"Baja California","nac":58770.24498}
+,
+{"año":2014,"ent":"Baja California Sur","nac":12384.49316}
+,
+{"año":2014,"ent":"Campeche","nac":16552.46549}
+,
+{"año":2014,"ent":"Chiapas","nac":113096.3933}
+,
+{"año":2014,"ent":"Chihuahua","nac":69019.543}
+,
+{"año":2014,"ent":"Coahuila","nac":54189.92519}
+,
+{"año":2014,"ent":"Colima","nac":13515.18437}
+,
+{"año":2014,"ent":"Distrito Federal","nac":129569.6894}
+,
+{"año":2014,"ent":"Durango","nac":33517.4203}
+,
+{"año":2014,"ent":"Guanajuato","nac":114316.7965}
+,
+{"año":2014,"ent":"Guerrero","nac":73597.39417}
+,
+{"año":2014,"ent":"Hidalgo","nac":55569.53333}
+,
+{"año":2014,"ent":"Jalisco","nac":149073.5967}
+,
+{"año":2014,"ent":"México","nac":307906.5292}
+,
+{"año":2014,"ent":"Michoacán","nac":90340.19982}
+,
+{"año":2014,"ent":"Morelos","nac":34827.65333}
+,
+{"año":2014,"ent":"Nayarit","nac":22143.75559}
+,
+{"año":2014,"ent":"Nuevo León","nac":85617.73819}
+,
+{"año":2014,"ent":"Oaxaca","nac":81341.42774}
+,
+{"año":2014,"ent":"Puebla","nac":127888.9846}
+,
+{"año":2014,"ent":"Querétaro","nac":37820.16913}
+,
+{"año":2014,"ent":"Quintana Roo","nac":28726.42196}
+,
+{"año":2014,"ent":"San Luis Potosí","nac":53601.53615}
+,
+{"año":2014,"ent":"Sinaloa","nac":54340.34684}
+,
+{"año":2014,"ent":"Sonora","nac":52897.79423}
+,
+{"año":2014,"ent":"Tabasco","nac":46169.67405}
+,
+{"año":2014,"ent":"Tamaulipas","nac":62400.32305}
+,
+{"año":2014,"ent":"Tlaxcala","nac":25262.6371}
+,
+{"año":2014,"ent":"Veracruz","nac":141425.0542}
+,
+{"año":2014,"ent":"Yucatán","nac":39867.27162}
+,
+{"año":2014,"ent":"Zacatecas","nac":31166.67578}
+
+]
+    }]
+}

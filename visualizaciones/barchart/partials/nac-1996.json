@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1996,"ent":"Aguascalientes","nac":27211}
+,
+{"año":1996,"ent":"Baja California","nac":52675}
+,
+{"año":1996,"ent":"Baja California Sur","nac":9485}
+,
+{"año":1996,"ent":"Campeche","nac":16306}
+,
+{"año":1996,"ent":"Chiapas","nac":124050}
+,
+{"año":1996,"ent":"Chihuahua","nac":63951}
+,
+{"año":1996,"ent":"Coahuila","nac":57628}
+,
+{"año":1996,"ent":"Colima","nac":12618}
+,
+{"año":1996,"ent":"Distrito Federal","nac":168084}
+,
+{"año":1996,"ent":"Durango","nac":40026}
+,
+{"año":1996,"ent":"Guanajuato","nac":134097}
+,
+{"año":1996,"ent":"Guerrero","nac":96337}
+,
+{"año":1996,"ent":"Hidalgo","nac":60084}
+,
+{"año":1996,"ent":"Jalisco","nac":157355}
+,
+{"año":1996,"ent":"México","nac":303875}
+,
+{"año":1996,"ent":"Michoacán","nac":106502}
+,
+{"año":1996,"ent":"Morelos","nac":36133}
+,
+{"año":1996,"ent":"Nayarit","nac":21507}
+,
+{"año":1996,"ent":"Nuevo León","nac":82442}
+,
+{"año":1996,"ent":"Oaxaca","nac":97636}
+,
+{"año":1996,"ent":"Puebla","nac":140427}
+,
+{"año":1996,"ent":"Querétaro","nac":39555}
+,
+{"año":1996,"ent":"Quintana Roo","nac":18942}
+,
+{"año":1996,"ent":"San Luis Potosí","nac":62073}
+,
+{"año":1996,"ent":"Sinaloa","nac":60667}
+,
+{"año":1996,"ent":"Sonora","nac":51709}
+,
+{"año":1996,"ent":"Tabasco","nac":50161}
+,
+{"año":1996,"ent":"Tamaulipas","nac":60113}
+,
+{"año":1996,"ent":"Tlaxcala","nac":26167}
+,
+{"año":1996,"ent":"Veracruz","nac":176411}
+,
+{"año":1996,"ent":"Yucatán","nac":40172}
+,
+{"año":1996,"ent":"Zacatecas","nac":36561}
+
+]
+    }]
+}

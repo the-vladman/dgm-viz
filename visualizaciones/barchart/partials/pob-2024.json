@@ -50,8 +50,6 @@
 ,
 {"año":2024,"ent":"Quintana Roo","pob":1974939.123}
 ,
-{"año":2024,"ent":"República Mexicana","pob":131529467.5}
-,
 {"año":2024,"ent":"San Luis Potosí","pob":2949933.341}
 ,
 {"año":2024,"ent":"Sinaloa","pob":3191685.765}
@@ -70,6 +68,6 @@
 ,
 {"año":2024,"ent":"Zacatecas","pob":1674043.2}
 
-        ]
+]
     }]
 }

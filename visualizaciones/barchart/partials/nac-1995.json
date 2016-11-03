@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1995,"ent":"Aguascalientes","nac":27147}
+,
+{"año":1995,"ent":"Baja California","nac":51951}
+,
+{"año":1995,"ent":"Baja California Sur","nac":9391}
+,
+{"año":1995,"ent":"Campeche","nac":16436}
+,
+{"año":1995,"ent":"Chiapas","nac":123074}
+,
+{"año":1995,"ent":"Chihuahua","nac":63680}
+,
+{"año":1995,"ent":"Coahuila","nac":57684}
+,
+{"año":1995,"ent":"Colima","nac":12781}
+,
+{"año":1995,"ent":"Distrito Federal","nac":170761}
+,
+{"año":1995,"ent":"Durango","nac":40343}
+,
+{"año":1995,"ent":"Guanajuato","nac":135439}
+,
+{"año":1995,"ent":"Guerrero","nac":97271}
+,
+{"año":1995,"ent":"Hidalgo","nac":60923}
+,
+{"año":1995,"ent":"Jalisco","nac":158870}
+,
+{"año":1995,"ent":"México","nac":302881}
+,
+{"año":1995,"ent":"Michoacán","nac":108746}
+,
+{"año":1995,"ent":"Morelos","nac":36775}
+,
+{"año":1995,"ent":"Nayarit","nac":21836}
+,
+{"año":1995,"ent":"Nuevo León","nac":82160}
+,
+{"año":1995,"ent":"Oaxaca","nac":98664}
+,
+{"año":1995,"ent":"Puebla","nac":141972}
+,
+{"año":1995,"ent":"Querétaro","nac":39640}
+,
+{"año":1995,"ent":"Quintana Roo","nac":18788}
+,
+{"año":1995,"ent":"San Luis Potosí","nac":62695}
+,
+{"año":1995,"ent":"Sinaloa","nac":60900}
+,
+{"año":1995,"ent":"Sonora","nac":51592}
+,
+{"año":1995,"ent":"Tabasco","nac":50267}
+,
+{"año":1995,"ent":"Tamaulipas","nac":59740}
+,
+{"año":1995,"ent":"Tlaxcala","nac":26137}
+,
+{"año":1995,"ent":"Veracruz","nac":178509}
+,
+{"año":1995,"ent":"Yucatán","nac":40660}
+,
+{"año":1995,"ent":"Zacatecas","nac":37196}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2008,"ent":"Aguascalientes","crect":20556}
+,
+{"año":2008,"ent":"Baja California","crect":62087}
+,
+{"año":2008,"ent":"Baja California Sur","crect":20996}
+,
+{"año":2008,"ent":"Campeche","crect":14174}
+,
+{"año":2008,"ent":"Chiapas","crect":73306}
+,
+{"año":2008,"ent":"Chihuahua","crect":51157}
+,
+{"año":2008,"ent":"Coahuila","crect":39206}
+,
+{"año":2008,"ent":"Colima","crect":13413}
+,
+{"año":2008,"ent":"Distrito Federal","crect":-6971}
+,
+{"año":2008,"ent":"Durango","crect":21463}
+,
+{"año":2008,"ent":"Guanajuato","crect":57434}
+,
+{"año":2008,"ent":"Guerrero","crect":30025}
+,
+{"año":2008,"ent":"Hidalgo","crect":39654}
+,
+{"año":2008,"ent":"Jalisco","crect":109989}
+,
+{"año":2008,"ent":"México","crect":271611}
+,
+{"año":2008,"ent":"Michoacán","crect":41117}
+,
+{"año":2008,"ent":"Morelos","crect":24978}
+,
+{"año":2008,"ent":"Nayarit","crect":22946}
+,
+{"año":2008,"ent":"Nuevo León","crect":78559}
+,
+{"año":2008,"ent":"Oaxaca","crect":29310}
+,
+{"año":2008,"ent":"Puebla","crect":69351}
+,
+{"año":2008,"ent":"Querétaro","crect":32903}
+,
+{"año":2008,"ent":"Quintana Roo","crect":43551}
+,
+{"año":2008,"ent":"San Luis Potosí","crect":29953}
+,
+{"año":2008,"ent":"Sinaloa","crect":32354}
+,
+{"año":2008,"ent":"Sonora","crect":45511}
+,
+{"año":2008,"ent":"Tabasco","crect":27401}
+,
+{"año":2008,"ent":"Tamaulipas","crect":51506}
+,
+{"año":2008,"ent":"Tlaxcala","crect":18698}
+,
+{"año":2008,"ent":"Veracruz","crect":66778}
+,
+{"año":2008,"ent":"Yucatán","crect":27241}
+,
+{"año":2008,"ent":"Zacatecas","crect":15462}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2028,"ent":"Aguascalientes","crect":12862.13344}
+,
+{"año":2028,"ent":"Baja California","crect":41894.2358}
+,
+{"año":2028,"ent":"Baja California Sur","crect":22533.55565}
+,
+{"año":2028,"ent":"Campeche","crect":11940.28039}
+,
+{"año":2028,"ent":"Chiapas","crect":53061.79044}
+,
+{"año":2028,"ent":"Chihuahua","crect":27676.74438}
+,
+{"año":2028,"ent":"Coahuila","crect":27991.04229}
+,
+{"año":2028,"ent":"Colima","crect":10447.39253}
+,
+{"año":2028,"ent":"Distrito Federal","crect":-32474.74733}
+,
+{"año":2028,"ent":"Durango","crect":12482.9557}
+,
+{"año":2028,"ent":"Guanajuato","crect":28818.93485}
+,
+{"año":2028,"ent":"Guerrero","crect":9302.091167}
+,
+{"año":2028,"ent":"Hidalgo","crect":26583.51756}
+,
+{"año":2028,"ent":"Jalisco","crect":69497.8697}
+,
+{"año":2028,"ent":"México","crect":195477.8349}
+,
+{"año":2028,"ent":"Michoacán","crect":19492.38552}
+,
+{"año":2028,"ent":"Morelos","crect":18019.13222}
+,
+{"año":2028,"ent":"Nayarit","crect":20776.63662}
+,
+{"año":2028,"ent":"Nuevo León","crect":63432.37985}
+,
+{"año":2028,"ent":"Oaxaca","crect":14096.57144}
+,
+{"año":2028,"ent":"Puebla","crect":41601.13686}
+,
+{"año":2028,"ent":"Querétaro","crect":24219.9222}
+,
+{"año":2028,"ent":"Quintana Roo","crect":42737.28361}
+,
+{"año":2028,"ent":"San Luis Potosí","crect":16981.11596}
+,
+{"año":2028,"ent":"Sinaloa","crect":17920.40029}
+,
+{"año":2028,"ent":"Sonora","crect":33656.14193}
+,
+{"año":2028,"ent":"Tabasco","crect":17243.44352}
+,
+{"año":2028,"ent":"Tamaulipas","crect":31282.97146}
+,
+{"año":2028,"ent":"Tlaxcala","crect":14554.87286}
+,
+{"año":2028,"ent":"Veracruz","crect":40790.29136}
+,
+{"año":2028,"ent":"Yucatán","crect":24346.25307}
+,
+{"año":2028,"ent":"Zacatecas","crect":8444.047671}
+
+]
+    }]
+}

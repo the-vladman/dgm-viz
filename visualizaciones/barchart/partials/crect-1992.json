@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1992,"ent":"Aguascalientes","crect":19309}
+,
+{"año":1992,"ent":"Baja California","crect":80434}
+,
+{"año":1992,"ent":"Baja California Sur","crect":12094}
+,
+{"año":1992,"ent":"Campeche","crect":15323}
+,
+{"año":1992,"ent":"Chiapas","crect":82233}
+,
+{"año":1992,"ent":"Chihuahua","crect":56748}
+,
+{"año":1992,"ent":"Coahuila","crect":38204}
+,
+{"año":1992,"ent":"Colima","crect":8908}
+,
+{"año":1992,"ent":"Distrito Federal","crect":31445}
+,
+{"año":1992,"ent":"Durango","crect":12482}
+,
+{"año":1992,"ent":"Guanajuato","crect":57045}
+,
+{"año":1992,"ent":"Guerrero","crect":25489}
+,
+{"año":1992,"ent":"Hidalgo","crect":20211}
+,
+{"año":1992,"ent":"Jalisco","crect":86892}
+,
+{"año":1992,"ent":"México","crect":300003}
+,
+{"año":1992,"ent":"Michoacán","crect":29538}
+,
+{"año":1992,"ent":"Morelos","crect":23613}
+,
+{"año":1992,"ent":"Nayarit","crect":10226}
+,
+{"año":1992,"ent":"Nuevo León","crect":70406}
+,
+{"año":1992,"ent":"Oaxaca","crect":35084}
+,
+{"año":1992,"ent":"Puebla","crect":79220}
+,
+{"año":1992,"ent":"Querétaro","crect":31502}
+,
+{"año":1992,"ent":"Quintana Roo","crect":34809}
+,
+{"año":1992,"ent":"San Luis Potosí","crect":23278}
+,
+{"año":1992,"ent":"Sinaloa","crect":34446}
+,
+{"año":1992,"ent":"Sonora","crect":42707}
+,
+{"año":1992,"ent":"Tabasco","crect":35630}
+,
+{"año":1992,"ent":"Tamaulipas","crect":49928}
+,
+{"año":1992,"ent":"Tlaxcala","crect":19306}
+,
+{"año":1992,"ent":"Veracruz","crect":80346}
+,
+{"año":1992,"ent":"Yucatán","crect":28454}
+,
+{"año":1992,"ent":"Zacatecas","crect":3895}
+
+]
+    }]
+}

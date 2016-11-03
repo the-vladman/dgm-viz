@@ -50,8 +50,6 @@
 ,
 {"año":1993,"ent":"Quintana Roo","pob":680236}
 ,
-{"año":1993,"ent":"República Mexicana","pob":91600655}
-,
 {"año":1993,"ent":"San Luis Potosí","pob":2274743}
 ,
 {"año":1993,"ent":"Sinaloa","pob":2320874}
@@ -70,6 +68,6 @@
 ,
 {"año":1993,"ent":"Zacatecas","pob":1422730}
 
-        ]
+]
     }]
 }

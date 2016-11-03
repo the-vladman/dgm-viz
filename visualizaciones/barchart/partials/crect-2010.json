@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2010,"ent":"Aguascalientes","crect":19749.51337}
+,
+{"año":2010,"ent":"Baja California","crect":54831.29898}
+,
+{"año":2010,"ent":"Baja California Sur","crect":22648.89037}
+,
+{"año":2010,"ent":"Campeche","crect":14147.55325}
+,
+{"año":2010,"ent":"Chiapas","crect":72250.27314}
+,
+{"año":2010,"ent":"Chihuahua","crect":39027.84008}
+,
+{"año":2010,"ent":"Coahuila","crect":37371.77714}
+,
+{"año":2010,"ent":"Colima","crect":13555.33307}
+,
+{"año":2010,"ent":"Distrito Federal","crect":-14632.56909}
+,
+{"año":2010,"ent":"Durango","crect":20606.86399}
+,
+{"año":2010,"ent":"Guanajuato","crect":57200.84945}
+,
+{"año":2010,"ent":"Guerrero","crect":29276.43229}
+,
+{"año":2010,"ent":"Hidalgo","crect":40585.71101}
+,
+{"año":2010,"ent":"Jalisco","crect":106127.5148}
+,
+{"año":2010,"ent":"México","crect":266204.06}
+,
+{"año":2010,"ent":"Michoacán","crect":39418.27463}
+,
+{"año":2010,"ent":"Morelos","crect":24168.87822}
+,
+{"año":2010,"ent":"Nayarit","crect":23950.14043}
+,
+{"año":2010,"ent":"Nuevo León","crect":75903.35908}
+,
+{"año":2010,"ent":"Oaxaca","crect":31833.12411}
+,
+{"año":2010,"ent":"Puebla","crect":70079.39201}
+,
+{"año":2010,"ent":"Querétaro","crect":32971.20593}
+,
+{"año":2010,"ent":"Quintana Roo","crect":44639.06442}
+,
+{"año":2010,"ent":"San Luis Potosí","crect":29501.45405}
+,
+{"año":2010,"ent":"Sinaloa","crect":29128.66164}
+,
+{"año":2010,"ent":"Sonora","crect":44005.45537}
+,
+{"año":2010,"ent":"Tabasco","crect":26771.28695}
+,
+{"año":2010,"ent":"Tamaulipas","crect":44517.70321}
+,
+{"año":2010,"ent":"Tlaxcala","crect":18849.38186}
+,
+{"año":2010,"ent":"Veracruz","crect":71610.75866}
+,
+{"año":2010,"ent":"Yucatán","crect":27647.19125}
+,
+{"año":2010,"ent":"Zacatecas","crect":14729.59247}
+
+]
+    }]
+}

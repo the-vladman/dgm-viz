@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1997,"ent":"Aguascalientes","nac":27234}
+,
+{"año":1997,"ent":"Baja California","nac":52973}
+,
+{"año":1997,"ent":"Baja California Sur","nac":9571}
+,
+{"año":1997,"ent":"Campeche","nac":16147}
+,
+{"año":1997,"ent":"Chiapas","nac":124561}
+,
+{"año":1997,"ent":"Chihuahua","nac":64243}
+,
+{"año":1997,"ent":"Coahuila","nac":57512}
+,
+{"año":1997,"ent":"Colima","nac":12447}
+,
+{"año":1997,"ent":"Distrito Federal","nac":165458}
+,
+{"año":1997,"ent":"Durango","nac":39615}
+,
+{"año":1997,"ent":"Guanajuato","nac":132722}
+,
+{"año":1997,"ent":"Guerrero","nac":95163}
+,
+{"año":1997,"ent":"Hidalgo","nac":59292}
+,
+{"año":1997,"ent":"Jalisco","nac":155855}
+,
+{"año":1997,"ent":"México","nac":304115}
+,
+{"año":1997,"ent":"Michoacán","nac":104311}
+,
+{"año":1997,"ent":"Morelos","nac":35473}
+,
+{"año":1997,"ent":"Nayarit","nac":21207}
+,
+{"año":1997,"ent":"Nuevo León","nac":82816}
+,
+{"año":1997,"ent":"Oaxaca","nac":96497}
+,
+{"año":1997,"ent":"Puebla","nac":139960}
+,
+{"año":1997,"ent":"Querétaro","nac":39418}
+,
+{"año":1997,"ent":"Quintana Roo","nac":19153}
+,
+{"año":1997,"ent":"San Luis Potosí","nac":61411}
+,
+{"año":1997,"ent":"Sinaloa","nac":60327}
+,
+{"año":1997,"ent":"Sonora","nac":51734}
+,
+{"año":1997,"ent":"Tabasco","nac":50067}
+,
+{"año":1997,"ent":"Tamaulipas","nac":60381}
+,
+{"año":1997,"ent":"Tlaxcala","nac":26169}
+,
+{"año":1997,"ent":"Veracruz","nac":173694}
+,
+{"año":1997,"ent":"Yucatán","nac":39689}
+,
+{"año":1997,"ent":"Zacatecas","nac":35892}
+
+]
+    }]
+}

@@ -50,8 +50,6 @@
 ,
 {"año":2016,"ent":"Quintana Roo","pob":1619762.476}
 ,
-{"año":2016,"ent":"República Mexicana","pob":122273473.3}
-,
 {"año":2016,"ent":"San Luis Potosí","pob":2777994.746}
 ,
 {"año":2016,"ent":"Sinaloa","pob":3009952.101}
@@ -70,6 +68,6 @@
 ,
 {"año":2016,"ent":"Zacatecas","pob":1588417.583}
 
-        ]
+]
     }]
 }

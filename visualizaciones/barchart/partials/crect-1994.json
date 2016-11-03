@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1994,"ent":"Aguascalientes","crect":18959}
+,
+{"año":1994,"ent":"Baja California","crect":82198}
+,
+{"año":1994,"ent":"Baja California Sur","crect":12547}
+,
+{"año":1994,"ent":"Campeche","crect":15201}
+,
+{"año":1994,"ent":"Chiapas","crect":85732}
+,
+{"año":1994,"ent":"Chihuahua","crect":57923}
+,
+{"año":1994,"ent":"Coahuila","crect":39058}
+,
+{"año":1994,"ent":"Colima","crect":8229}
+,
+{"año":1994,"ent":"Distrito Federal","crect":25971}
+,
+{"año":1994,"ent":"Durango","crect":11826}
+,
+{"año":1994,"ent":"Guanajuato","crect":53246}
+,
+{"año":1994,"ent":"Guerrero","crect":23658}
+,
+{"año":1994,"ent":"Hidalgo","crect":19500}
+,
+{"año":1994,"ent":"Jalisco","crect":79993}
+,
+{"año":1994,"ent":"México","crect":292992}
+,
+{"año":1994,"ent":"Michoacán","crect":23502}
+,
+{"año":1994,"ent":"Morelos","crect":21431}
+,
+{"año":1994,"ent":"Nayarit","crect":9322}
+,
+{"año":1994,"ent":"Nuevo León","crect":71340}
+,
+{"año":1994,"ent":"Oaxaca","crect":33462}
+,
+{"año":1994,"ent":"Puebla","crect":79329}
+,
+{"año":1994,"ent":"Querétaro","crect":31351}
+,
+{"año":1994,"ent":"Quintana Roo","crect":35787}
+,
+{"año":1994,"ent":"San Luis Potosí","crect":21148}
+,
+{"año":1994,"ent":"Sinaloa","crect":33430}
+,
+{"año":1994,"ent":"Sonora","crect":43137}
+,
+{"año":1994,"ent":"Tabasco","crect":34601}
+,
+{"año":1994,"ent":"Tamaulipas","crect":52338}
+,
+{"año":1994,"ent":"Tlaxcala","crect":19554}
+,
+{"año":1994,"ent":"Veracruz","crect":70591}
+,
+{"año":1994,"ent":"Yucatán","crect":28065}
+,
+{"año":1994,"ent":"Zacatecas","crect":2400}
+
+]
+    }]
+}

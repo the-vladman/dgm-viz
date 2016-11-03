@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2000,"ent":"Aguascalientes","crect":17116}
+,
+{"año":2000,"ent":"Baja California","crect":78675}
+,
+{"año":2000,"ent":"Baja California Sur","crect":13706}
+,
+{"año":2000,"ent":"Campeche","crect":13441}
+,
+{"año":2000,"ent":"Chiapas","crect":78824}
+,
+{"año":2000,"ent":"Chihuahua","crect":60108}
+,
+{"año":2000,"ent":"Coahuila","crect":39351}
+,
+{"año":2000,"ent":"Colima","crect":7182}
+,
+{"año":2000,"ent":"Distrito Federal","crect":15841}
+,
+{"año":2000,"ent":"Durango","crect":12031}
+,
+{"año":2000,"ent":"Guanajuato","crect":30636}
+,
+{"año":2000,"ent":"Guerrero","crect":13569}
+,
+{"año":2000,"ent":"Hidalgo","crect":17647}
+,
+{"año":2000,"ent":"Jalisco","crect":71511}
+,
+{"año":2000,"ent":"México","crect":260737}
+,
+{"año":2000,"ent":"Michoacán","crect":10568}
+,
+{"año":2000,"ent":"Morelos","crect":17059}
+,
+{"año":2000,"ent":"Nayarit","crect":8912}
+,
+{"año":2000,"ent":"Nuevo León","crect":74935}
+,
+{"año":2000,"ent":"Oaxaca","crect":13524}
+,
+{"año":2000,"ent":"Puebla","crect":58320}
+,
+{"año":2000,"ent":"Querétaro","crect":26651}
+,
+{"año":2000,"ent":"Quintana Roo","crect":37944}
+,
+{"año":2000,"ent":"San Luis Potosí","crect":15274}
+,
+{"año":2000,"ent":"Sinaloa","crect":31460}
+,
+{"año":2000,"ent":"Sonora","crect":41639}
+,
+{"año":2000,"ent":"Tabasco","crect":29431}
+,
+{"año":2000,"ent":"Tamaulipas","crect":60230}
+,
+{"año":2000,"ent":"Tlaxcala","crect":17162}
+,
+{"año":2000,"ent":"Veracruz","crect":28522}
+,
+{"año":2000,"ent":"Yucatán","crect":25401}
+,
+{"año":2000,"ent":"Zacatecas","crect":1540}
+
+]
+    }]
+}

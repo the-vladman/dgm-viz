@@ -50,8 +50,6 @@
 ,
 {"año":2010,"ent":"Quintana Roo","pob":1350944.904}
 ,
-{"año":2010,"ent":"República Mexicana","pob":114255555.4}
-,
 {"año":2010,"ent":"San Luis Potosí","pob":2616458.554}
 ,
 {"año":2010,"ent":"Sinaloa","pob":2851333.842}
@@ -70,6 +68,6 @@
 ,
 {"año":2010,"ent":"Zacatecas","pob":1509019.468}
 
-        ]
+]
     }]
 }

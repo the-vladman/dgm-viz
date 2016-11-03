@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1991,"ent":"Aguascalientes","nac":26427}
+,
+{"año":1991,"ent":"Baja California","nac":46737}
+,
+{"año":1991,"ent":"Baja California Sur","nac":8995}
+,
+{"año":1991,"ent":"Campeche","nac":16298}
+,
+{"año":1991,"ent":"Chiapas","nac":116184}
+,
+{"año":1991,"ent":"Chihuahua","nac":61696}
+,
+{"año":1991,"ent":"Coahuila","nac":56872}
+,
+{"año":1991,"ent":"Colima","nac":13099}
+,
+{"año":1991,"ent":"Distrito Federal","nac":183141}
+,
+{"año":1991,"ent":"Durango","nac":40649}
+,
+{"año":1991,"ent":"Guanajuato","nac":136891}
+,
+{"año":1991,"ent":"Guerrero","nac":96714}
+,
+{"año":1991,"ent":"Hidalgo","nac":62471}
+,
+{"año":1991,"ent":"Jalisco","nac":162258}
+,
+{"año":1991,"ent":"México","nac":294662}
+,
+{"año":1991,"ent":"Michoacán","nac":113599}
+,
+{"año":1991,"ent":"Morelos","nac":37552}
+,
+{"año":1991,"ent":"Nayarit","nac":22414}
+,
+{"año":1991,"ent":"Nuevo León","nac":80190}
+,
+{"año":1991,"ent":"Oaxaca","nac":99644}
+,
+{"año":1991,"ent":"Puebla","nac":139902}
+,
+{"año":1991,"ent":"Querétaro","nac":39305}
+,
+{"año":1991,"ent":"Quintana Roo","nac":18078}
+,
+{"año":1991,"ent":"San Luis Potosí","nac":63306}
+,
+{"año":1991,"ent":"Sinaloa","nac":60127}
+,
+{"año":1991,"ent":"Sonora","nac":50496}
+,
+{"año":1991,"ent":"Tabasco","nac":50170}
+,
+{"año":1991,"ent":"Tamaulipas","nac":58616}
+,
+{"año":1991,"ent":"Tlaxcala","nac":25483}
+,
+{"año":1991,"ent":"Veracruz","nac":178805}
+,
+{"año":1991,"ent":"Yucatán","nac":41893}
+,
+{"año":1991,"ent":"Zacatecas","nac":38581}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Esperanza de vida al nacimiento total (ambos sexos)",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1992,"ent":"Aguascalientes","e0":73.0994235}
+,
+{"año":1992,"ent":"Baja California","e0":69.55294322}
+,
+{"año":1992,"ent":"Baja California Sur","e0":73.3616873}
+,
+{"año":1992,"ent":"Campeche","e0":72.00443273}
+,
+{"año":1992,"ent":"Chiapas","e0":67.80193696}
+,
+{"año":1992,"ent":"Chihuahua","e0":69.33097091}
+,
+{"año":1992,"ent":"Coahuila","e0":72.24356526}
+,
+{"año":1992,"ent":"Colima","e0":72.09977736}
+,
+{"año":1992,"ent":"Distrito Federal","e0":73.41982634}
+,
+{"año":1992,"ent":"Durango","e0":72.19043177}
+,
+{"año":1992,"ent":"Guanajuato","e0":71.41477966}
+,
+{"año":1992,"ent":"Guerrero","e0":69.42491798}
+,
+{"año":1992,"ent":"Hidalgo","e0":70.63548947}
+,
+{"año":1992,"ent":"Jalisco","e0":72.0299452}
+,
+{"año":1992,"ent":"México","e0":71.14928336}
+,
+{"año":1992,"ent":"Michoacán","e0":71.26429393}
+,
+{"año":1992,"ent":"Morelos","e0":72.49176356}
+,
+{"año":1992,"ent":"Nayarit","e0":72.34272611}
+,
+{"año":1992,"ent":"Nuevo León","e0":73.38050762}
+,
+{"año":1992,"ent":"Oaxaca","e0":68.05255787}
+,
+{"año":1992,"ent":"Puebla","e0":70.5530759}
+,
+{"año":1992,"ent":"Querétaro","e0":71.70677584}
+,
+{"año":1992,"ent":"Quintana Roo","e0":72.61097935}
+,
+{"año":1992,"ent":"San Luis Potosí","e0":70.97016291}
+,
+{"año":1992,"ent":"Sinaloa","e0":72.95238376}
+,
+{"año":1992,"ent":"Sonora","e0":70.99255516}
+,
+{"año":1992,"ent":"Tabasco","e0":71.64984095}
+,
+{"año":1992,"ent":"Tamaulipas","e0":72.46897597}
+,
+{"año":1992,"ent":"Tlaxcala","e0":71.15488058}
+,
+{"año":1992,"ent":"Veracruz","e0":70.56256134}
+,
+{"año":1992,"ent":"Yucatán","e0":73.20472231}
+,
+{"año":1992,"ent":"Zacatecas","e0":71.58559855}
+
+]
+    }]
+}

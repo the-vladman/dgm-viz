@@ -50,8 +50,6 @@
 ,
 {"año":2013,"ent":"Quintana Roo","pob":1484960.049}
 ,
-{"año":2013,"ent":"República Mexicana","pob":118395053.8}
-,
 {"año":2013,"ent":"San Luis Potosí","pob":2702145.267}
 ,
 {"año":2013,"ent":"Sinaloa","pob":2932312.792}
@@ -70,6 +68,6 @@
 ,
 {"año":2013,"ent":"Zacatecas","pob":1550178.94}
 
-        ]
+]
     }]
 }

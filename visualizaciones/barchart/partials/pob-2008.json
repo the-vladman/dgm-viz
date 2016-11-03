@@ -50,8 +50,6 @@
 ,
 {"año":2008,"ent":"Quintana Roo","pob":1261970}
 ,
-{"año":2008,"ent":"República Mexicana","pob":111299015}
-,
 {"año":2008,"ent":"San Luis Potosí","pob":2555735}
 ,
 {"año":2008,"ent":"Sinaloa","pob":2787098}
@@ -70,6 +68,6 @@
 ,
 {"año":2008,"ent":"Zacatecas","pob":1476134}
 
-        ]
+]
     }]
 }

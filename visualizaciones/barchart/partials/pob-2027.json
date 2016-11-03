@@ -50,8 +50,6 @@
 ,
 {"año":2027,"ent":"Quintana Roo","pob":2104973.471}
 ,
-{"año":2027,"ent":"República Mexicana","pob":134619410.6}
-,
 {"año":2027,"ent":"San Luis Potosí","pob":3005123.992}
 ,
 {"año":2027,"ent":"Sinaloa","pob":3250210.579}
@@ -70,6 +68,6 @@
 ,
 {"año":2027,"ent":"Zacatecas","pob":1701464.766}
 
-        ]
+]
     }]
 }

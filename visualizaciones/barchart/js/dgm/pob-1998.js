@@ -42,7 +42,7 @@ nv.addGraph(function() {
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
-      .margin({"left":100,"right":20,"top":5,"bottom":100})
+      .margin({"left":100,"right":20,"top":5,"bottom":20})
       .color(d3.scale.categoryDatos().range())
       .tooltipContent( function(key, x, y){
           return "<span>" + x +": " + y + "</span>"

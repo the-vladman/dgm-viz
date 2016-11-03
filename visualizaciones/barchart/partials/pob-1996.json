@@ -50,8 +50,6 @@
 ,
 {"año":1996,"ent":"Quintana Roo","pob":788218}
 ,
-{"año":1996,"ent":"República Mexicana","pob":95876664}
-,
 {"año":1996,"ent":"San Luis Potosí","pob":2336411}
 ,
 {"año":1996,"ent":"Sinaloa","pob":2420265}
@@ -70,6 +68,6 @@
 ,
 {"año":1996,"ent":"Zacatecas","pob":1428912}
 
-        ]
+]
     }]
 }

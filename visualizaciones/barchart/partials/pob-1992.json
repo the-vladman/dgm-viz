@@ -50,8 +50,6 @@
 ,
 {"año":1992,"ent":"Quintana Roo","pob":645180}
 ,
-{"año":1992,"ent":"República Mexicana","pob":90132585}
-,
 {"año":1992,"ent":"San Luis Potosí","pob":2251877}
 ,
 {"año":1992,"ent":"Sinaloa","pob":2286742}
@@ -70,6 +68,6 @@
 ,
 {"año":1992,"ent":"Zacatecas","pob":1419273}
 
-        ]
+]
     }]
 }

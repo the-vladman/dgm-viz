@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2022,"ent":"Aguascalientes","crect":14843.43609}
+,
+{"año":2022,"ent":"Baja California","crect":46089.83035}
+,
+{"año":2022,"ent":"Baja California Sur","crect":22977.09384}
+,
+{"año":2022,"ent":"Campeche","crect":12815.36589}
+,
+{"año":2022,"ent":"Chiapas","crect":59052.7629}
+,
+{"año":2022,"ent":"Chihuahua","crect":31331.40618}
+,
+{"año":2022,"ent":"Coahuila","crect":31599.72248}
+,
+{"año":2022,"ent":"Colima","crect":11205.46017}
+,
+{"año":2022,"ent":"Distrito Federal","crect":-27277.85031}
+,
+{"año":2022,"ent":"Durango","crect":14696.77271}
+,
+{"año":2022,"ent":"Guanajuato","crect":36774.90186}
+,
+{"año":2022,"ent":"Guerrero","crect":13728.37014}
+,
+{"año":2022,"ent":"Hidalgo","crect":30401.95458}
+,
+{"año":2022,"ent":"Jalisco","crect":78384.58496}
+,
+{"año":2022,"ent":"México","crect":223084.2102}
+,
+{"año":2022,"ent":"Michoacán","crect":24439.47313}
+,
+{"año":2022,"ent":"Morelos","crect":20424.84506}
+,
+{"año":2022,"ent":"Nayarit","crect":21392.95306}
+,
+{"año":2022,"ent":"Nuevo León","crect":68020.42128}
+,
+{"año":2022,"ent":"Oaxaca","crect":19063.98972}
+,
+{"año":2022,"ent":"Puebla","crect":50661.78441}
+,
+{"año":2022,"ent":"Querétaro","crect":26829.826}
+,
+{"año":2022,"ent":"Quintana Roo","crect":44120.10719}
+,
+{"año":2022,"ent":"San Luis Potosí","crect":20289.99435}
+,
+{"año":2022,"ent":"Sinaloa","crect":21532.30107}
+,
+{"año":2022,"ent":"Sonora","crect":36535.33867}
+,
+{"año":2022,"ent":"Tabasco","crect":20550.19146}
+,
+{"año":2022,"ent":"Tamaulipas","crect":35422.98458}
+,
+{"año":2022,"ent":"Tlaxcala","crect":16063.68435}
+,
+{"año":2022,"ent":"Veracruz","crect":49868.86867}
+,
+{"año":2022,"ent":"Yucatán","crect":25786.7705}
+,
+{"año":2022,"ent":"Zacatecas","crect":10064.33635}
+
+]
+    }]
+}

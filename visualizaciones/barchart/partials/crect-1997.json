@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1997,"ent":"Aguascalientes","crect":17763}
+,
+{"año":1997,"ent":"Baja California","crect":81691}
+,
+{"año":1997,"ent":"Baja California Sur","crect":13160}
+,
+{"año":1997,"ent":"Campeche","crect":14402}
+,
+{"año":1997,"ent":"Chiapas","crect":86914}
+,
+{"año":1997,"ent":"Chihuahua","crect":57889}
+,
+{"año":1997,"ent":"Coahuila","crect":39196}
+,
+{"año":1997,"ent":"Colima","crect":6887}
+,
+{"año":1997,"ent":"Distrito Federal","crect":19039}
+,
+{"año":1997,"ent":"Durango","crect":9776}
+,
+{"año":1997,"ent":"Guanajuato","crect":42586}
+,
+{"año":1997,"ent":"Guerrero","crect":17126}
+,
+{"año":1997,"ent":"Hidalgo","crect":16848}
+,
+{"año":1997,"ent":"Jalisco","crect":66042}
+,
+{"año":1997,"ent":"México","crect":273589}
+,
+{"año":1997,"ent":"Michoacán","crect":10270}
+,
+{"año":1997,"ent":"Morelos","crect":16426}
+,
+{"año":1997,"ent":"Nayarit","crect":7353}
+,
+{"año":1997,"ent":"Nuevo León","crect":71617}
+,
+{"año":1997,"ent":"Oaxaca","crect":28282}
+,
+{"año":1997,"ent":"Puebla","crect":72101}
+,
+{"año":1997,"ent":"Querétaro","crect":30398}
+,
+{"año":1997,"ent":"Quintana Roo","crect":37149}
+,
+{"año":1997,"ent":"San Luis Potosí","crect":15771}
+,
+{"año":1997,"ent":"Sinaloa","crect":30568}
+,
+{"año":1997,"ent":"Sonora","crect":43204}
+,
+{"año":1997,"ent":"Tabasco","crect":32430}
+,
+{"año":1997,"ent":"Tamaulipas","crect":55838}
+,
+{"año":1997,"ent":"Tlaxcala","crect":19427}
+,
+{"año":1997,"ent":"Veracruz","crect":48966}
+,
+{"año":1997,"ent":"Yucatán","crect":26904}
+,
+{"año":1997,"ent":"Zacatecas","crect":-1290}
+
+]
+    }]
+}

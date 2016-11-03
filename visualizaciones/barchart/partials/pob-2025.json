@@ -50,8 +50,6 @@
 ,
 {"año":2025,"ent":"Quintana Roo","pob":2018531.982}
 ,
-{"año":2025,"ent":"República Mexicana","pob":132584052.8}
-,
 {"año":2025,"ent":"San Luis Potosí","pob":2968898.145}
 ,
 {"año":2025,"ent":"Sinaloa","pob":3211819.789}
@@ -70,6 +68,6 @@
 ,
 {"año":2025,"ent":"Zacatecas","pob":1683466.599}
 
-        ]
+]
     }]
 }

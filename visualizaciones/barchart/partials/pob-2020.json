@@ -50,8 +50,6 @@
 ,
 {"año":2020,"ent":"Quintana Roo","pob":1798603.314}
 ,
-{"año":2020,"ent":"República Mexicana","pob":127091642.3}
-,
 {"año":2020,"ent":"San Luis Potosí","pob":2868906.001}
 ,
 {"año":2020,"ent":"Sinaloa","pob":3105703.852}
@@ -70,6 +68,6 @@
 ,
 {"año":2020,"ent":"Zacatecas","pob":1633877.673}
 
-        ]
+]
     }]
 }

@@ -50,8 +50,6 @@
 ,
 {"año":2003,"ent":"Quintana Roo","pob":1054642}
 ,
-{"año":2003,"ent":"República Mexicana","pob":104719891}
-,
 {"año":2003,"ent":"San Luis Potosí","pob":2445009}
 ,
 {"año":2003,"ent":"Sinaloa","pob":2633143}
@@ -70,6 +68,6 @@
 ,
 {"año":2003,"ent":"Zacatecas","pob":1431569}
 
-        ]
+]
     }]
 }

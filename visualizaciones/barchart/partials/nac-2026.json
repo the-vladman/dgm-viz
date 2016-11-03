@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2026,"ent":"Aguascalientes","nac":25897.69906}
+,
+{"año":2026,"ent":"Baja California","nac":62640.12719}
+,
+{"año":2026,"ent":"Baja California Sur","nac":15282.99377}
+,
+{"año":2026,"ent":"Campeche","nac":16852.67}
+,
+{"año":2026,"ent":"Chiapas","nac":111391.6254}
+,
+{"año":2026,"ent":"Chihuahua","nac":70467.203}
+,
+{"año":2026,"ent":"Coahuila","nac":54537.76696}
+,
+{"año":2026,"ent":"Colima","nac":14185.54304}
+,
+{"año":2026,"ent":"Distrito Federal","nac":109965.5199}
+,
+{"año":2026,"ent":"Durango","nac":32291.11269}
+,
+{"año":2026,"ent":"Guanajuato","nac":107289.948}
+,
+{"año":2026,"ent":"Guerrero","nac":66919.32451}
+,
+{"año":2026,"ent":"Hidalgo","nac":53892.35066}
+,
+{"año":2026,"ent":"Jalisco","nac":147245.1042}
+,
+{"año":2026,"ent":"México","nac":310996.885}
+,
+{"año":2026,"ent":"Michoacán","nac":85450.07017}
+,
+{"año":2026,"ent":"Morelos","nac":35188.93722}
+,
+{"año":2026,"ent":"Nayarit","nac":24435.08348}
+,
+{"año":2026,"ent":"Nuevo León","nac":89490.61612}
+,
+{"año":2026,"ent":"Oaxaca","nac":74836.02178}
+,
+{"año":2026,"ent":"Puebla","nac":120338.6605}
+,
+{"año":2026,"ent":"Querétaro","nac":38366.20884}
+,
+{"año":2026,"ent":"Quintana Roo","nac":33913.98244}
+,
+{"año":2026,"ent":"San Luis Potosí","nac":50809.12435}
+,
+{"año":2026,"ent":"Sinaloa","nac":51990.81574}
+,
+{"año":2026,"ent":"Sonora","nac":54981.05975}
+,
+{"año":2026,"ent":"Tabasco","nac":43238.84522}
+,
+{"año":2026,"ent":"Tamaulipas","nac":62405.65081}
+,
+{"año":2026,"ent":"Tlaxcala","nac":25129.5188}
+,
+{"año":2026,"ent":"Veracruz","nac":135258.246}
+,
+{"año":2026,"ent":"Yucatán","nac":40278.45711}
+,
+{"año":2026,"ent":"Zacatecas","nac":29664.93683}
+
+]
+    }]
+}

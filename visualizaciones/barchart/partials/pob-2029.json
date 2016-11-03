@@ -50,8 +50,6 @@
 ,
 {"año":2029,"ent":"Quintana Roo","pob":2190410.111}
 ,
-{"año":2029,"ent":"República Mexicana","pob":136554493.7}
-,
 {"año":2029,"ent":"San Luis Potosí","pob":3039094.034}
 ,
 {"año":2029,"ent":"Sinaloa","pob":3286051.508}
@@ -70,6 +68,6 @@
 ,
 {"año":2029,"ent":"Zacatecas","pob":1718357.393}
 
-        ]
+]
     }]
 }

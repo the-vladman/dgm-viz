@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1990,"ent":"Aguascalientes","crect":19272}
+,
+{"año":1990,"ent":"Baja California","crect":79105}
+,
+{"año":1990,"ent":"Baja California Sur","crect":11543}
+,
+{"año":1990,"ent":"Campeche","crect":14939}
+,
+{"año":1990,"ent":"Chiapas","crect":78960}
+,
+{"año":1990,"ent":"Chihuahua","crect":55629}
+,
+{"año":1990,"ent":"Coahuila","crect":36724}
+,
+{"año":1990,"ent":"Colima","crect":9415}
+,
+{"año":1990,"ent":"Distrito Federal","crect":37284}
+,
+{"año":1990,"ent":"Durango","crect":12716}
+,
+{"año":1990,"ent":"Guanajuato","crect":59080}
+,
+{"año":1990,"ent":"Guerrero","crect":25814}
+,
+{"año":1990,"ent":"Hidalgo","crect":20046}
+,
+{"año":1990,"ent":"Jalisco","crect":91780}
+,
+{"año":1990,"ent":"México","crect":304650}
+,
+{"año":1990,"ent":"Michoacán","crect":33554}
+,
+{"año":1990,"ent":"Morelos","crect":24631}
+,
+{"año":1990,"ent":"Nayarit","crect":10753}
+,
+{"año":1990,"ent":"Nuevo León","crect":69614}
+,
+{"año":1990,"ent":"Oaxaca","crect":34253}
+,
+{"año":1990,"ent":"Puebla","crect":78579}
+,
+{"año":1990,"ent":"Querétaro","crect":31243}
+,
+{"año":1990,"ent":"Quintana Roo","crect":33626}
+,
+{"año":1990,"ent":"San Luis Potosí","crect":24412}
+,
+{"año":1990,"ent":"Sinaloa","crect":35080}
+,
+{"año":1990,"ent":"Sonora","crect":41892}
+,
+{"año":1990,"ent":"Tabasco","crect":36382}
+,
+{"año":1990,"ent":"Tamaulipas","crect":47326}
+,
+{"año":1990,"ent":"Tlaxcala","crect":18876}
+,
+{"año":1990,"ent":"Veracruz","crect":88346}
+,
+{"año":1990,"ent":"Yucatán","crect":28451}
+,
+{"año":1990,"ent":"Zacatecas","crect":4994}
+
+]
+    }]
+}

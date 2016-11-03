@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1993,"ent":"Aguascalientes","nac":26893}
+,
+{"año":1993,"ent":"Baja California","nac":49425}
+,
+{"año":1993,"ent":"Baja California Sur","nac":9191}
+,
+{"año":1993,"ent":"Campeche","nac":16530}
+,
+{"año":1993,"ent":"Chiapas","nac":119823}
+,
+{"año":1993,"ent":"Chihuahua","nac":62886}
+,
+{"año":1993,"ent":"Coahuila","nac":57570}
+,
+{"año":1993,"ent":"Colima","nac":12977}
+,
+{"año":1993,"ent":"Distrito Federal","nac":176421}
+,
+{"año":1993,"ent":"Durango","nac":40456}
+,
+{"año":1993,"ent":"Guanajuato","nac":137145}
+,
+{"año":1993,"ent":"Guerrero","nac":97516}
+,
+{"año":1993,"ent":"Hidalgo","nac":62003}
+,
+{"año":1993,"ent":"Jalisco","nac":161072}
+,
+{"año":1993,"ent":"México","nac":298969}
+,
+{"año":1993,"ent":"Michoacán","nac":111740}
+,
+{"año":1993,"ent":"Morelos","nac":37448}
+,
+{"año":1993,"ent":"Nayarit","nac":22215}
+,
+{"año":1993,"ent":"Nuevo León","nac":80925}
+,
+{"año":1993,"ent":"Oaxaca","nac":99656}
+,
+{"año":1993,"ent":"Puebla","nac":142378}
+,
+{"año":1993,"ent":"Querétaro","nac":39562}
+,
+{"año":1993,"ent":"Quintana Roo","nac":18484}
+,
+{"año":1993,"ent":"San Luis Potosí","nac":63304}
+,
+{"año":1993,"ent":"Sinaloa","nac":60719}
+,
+{"año":1993,"ent":"Sonora","nac":51136}
+,
+{"año":1993,"ent":"Tabasco","nac":50256}
+,
+{"año":1993,"ent":"Tamaulipas","nac":58953}
+,
+{"año":1993,"ent":"Tlaxcala","nac":25904}
+,
+{"año":1993,"ent":"Veracruz","nac":179870}
+,
+{"año":1993,"ent":"Yucatán","nac":41396}
+,
+{"año":1993,"ent":"Zacatecas","nac":37900}
+
+]
+    }]
+}

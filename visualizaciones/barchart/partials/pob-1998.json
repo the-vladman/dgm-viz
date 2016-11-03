@@ -50,8 +50,6 @@
 ,
 {"año":1998,"ent":"Quintana Roo","pob":862418}
 ,
-{"año":1998,"ent":"República Mexicana","pob":98485424}
-,
 {"año":1998,"ent":"San Luis Potosí","pob":2367678}
 ,
 {"año":1998,"ent":"Sinaloa","pob":2481249}
@@ -70,6 +68,6 @@
 ,
 {"año":1998,"ent":"Zacatecas","pob":1425943}
 
-        ]
+]
     }]
 }

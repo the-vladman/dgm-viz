@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Esperanza de vida al nacimiento total (ambos sexos)",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2025,"ent":"Aguascalientes","e0":77.02109368}
+,
+{"año":2025,"ent":"Baja California","e0":75.50055568}
+,
+{"año":2025,"ent":"Baja California Sur","e0":77.14172696}
+,
+{"año":2025,"ent":"Campeche","e0":76.44714431}
+,
+{"año":2025,"ent":"Chiapas","e0":74.3992134}
+,
+{"año":2025,"ent":"Chihuahua","e0":75.13726867}
+,
+{"año":2025,"ent":"Coahuila","e0":77.02820812}
+,
+{"año":2025,"ent":"Colima","e0":77.07413488}
+,
+{"año":2025,"ent":"Distrito Federal","e0":77.20856753}
+,
+{"año":2025,"ent":"Durango","e0":77.18783727}
+,
+{"año":2025,"ent":"Guanajuato","e0":76.76282589}
+,
+{"año":2025,"ent":"Guerrero","e0":74.55519923}
+,
+{"año":2025,"ent":"Hidalgo","e0":75.84893535}
+,
+{"año":2025,"ent":"Jalisco","e0":76.78511987}
+,
+{"año":2025,"ent":"México","e0":76.57376432}
+,
+{"año":2025,"ent":"Michoacán","e0":76.14073525}
+,
+{"año":2025,"ent":"Morelos","e0":77.00481403}
+,
+{"año":2025,"ent":"Nayarit","e0":76.57600871}
+,
+{"año":2025,"ent":"Nuevo León","e0":77.75483922}
+,
+{"año":2025,"ent":"Oaxaca","e0":74.65618198}
+,
+{"año":2025,"ent":"Puebla","e0":76.22299928}
+,
+{"año":2025,"ent":"Querétaro","e0":76.64122621}
+,
+{"año":2025,"ent":"Quintana Roo","e0":76.86655786}
+,
+{"año":2025,"ent":"San Luis Potosí","e0":76.11055046}
+,
+{"año":2025,"ent":"Sinaloa","e0":77.03073693}
+,
+{"año":2025,"ent":"Sonora","e0":76.60618087}
+,
+{"año":2025,"ent":"Tabasco","e0":76.11770548}
+,
+{"año":2025,"ent":"Tamaulipas","e0":77.11146013}
+,
+{"año":2025,"ent":"Tlaxcala","e0":76.63934297}
+,
+{"año":2025,"ent":"Veracruz","e0":75.50152261}
+,
+{"año":2025,"ent":"Yucatán","e0":76.65008289}
+,
+{"año":2025,"ent":"Zacatecas","e0":76.6248929}
+
+]
+    }]
+}

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2018,"ent":"Aguascalientes","crect":16167.78542}
+,
+{"año":2018,"ent":"Baja California","crect":48723.00477}
+,
+{"año":2018,"ent":"Baja California Sur","crect":23003.47604}
+,
+{"año":2018,"ent":"Campeche","crect":13345.7514}
+,
+{"año":2018,"ent":"Chiapas","crect":62740.4604}
+,
+{"año":2018,"ent":"Chihuahua","crect":34149.04105}
+,
+{"año":2018,"ent":"Coahuila","crect":33613.75839}
+,
+{"año":2018,"ent":"Colima","crect":11798.36028}
+,
+{"año":2018,"ent":"Distrito Federal","crect":-23561.64604}
+,
+{"año":2018,"ent":"Durango","crect":16359.71947}
+,
+{"año":2018,"ent":"Guanajuato","crect":42468.62518}
+,
+{"año":2018,"ent":"Guerrero","crect":17350.10658}
+,
+{"año":2018,"ent":"Hidalgo","crect":32989.50019}
+,
+{"año":2018,"ent":"Jalisco","crect":85456.59114}
+,
+{"año":2018,"ent":"México","crect":239243.6463}
+,
+{"año":2018,"ent":"Michoacán","crect":28436.76679}
+,
+{"año":2018,"ent":"Morelos","crect":21890.47943}
+,
+{"año":2018,"ent":"Nayarit","crect":21940.13163}
+,
+{"año":2018,"ent":"Nuevo León","crect":70620.47042}
+,
+{"año":2018,"ent":"Oaxaca","crect":22674.66517}
+,
+{"año":2018,"ent":"Puebla","crect":56786.46277}
+,
+{"año":2018,"ent":"Querétaro","crect":28466.68312}
+,
+{"año":2018,"ent":"Quintana Roo","crect":44740.28966}
+,
+{"año":2018,"ent":"San Luis Potosí","crect":22769.49525}
+,
+{"año":2018,"ent":"Sinaloa","crect":23942.3648}
+,
+{"año":2018,"ent":"Sonora","crect":38379.66666}
+,
+{"año":2018,"ent":"Tabasco","crect":22684.71974}
+,
+{"año":2018,"ent":"Tamaulipas","crect":38119.30469}
+,
+{"año":2018,"ent":"Tlaxcala","crect":16953.48954}
+,
+{"año":2018,"ent":"Veracruz","crect":55657.1686}
+,
+{"año":2018,"ent":"Yucatán","crect":26662.15146}
+,
+{"año":2018,"ent":"Zacatecas","crect":11388.42105}
+
+]
+    }]
+}

@@ -50,8 +50,6 @@
 ,
 {"año":2019,"ent":"Quintana Roo","pob":1754144.082}
 ,
-{"año":2019,"ent":"República Mexicana","pob":125929439.2}
-,
 {"año":2019,"ent":"San Luis Potosí","pob":2847349.402}
 ,
 {"año":2019,"ent":"Sinaloa","pob":3082892.607}
@@ -70,6 +68,6 @@
 ,
 {"año":2019,"ent":"Zacatecas","pob":1623186.083}
 
-        ]
+]
     }]
 }

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Crecimiento total anual",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2009,"ent":"Aguascalientes","crect":20353.60284}
+,
+{"año":2009,"ent":"Baja California","crect":58988}
+,
+{"año":2009,"ent":"Baja California Sur","crect":21776}
+,
+{"año":2009,"ent":"Campeche","crect":14225}
+,
+{"año":2009,"ent":"Chiapas","crect":72508}
+,
+{"año":2009,"ent":"Chihuahua","crect":46802}
+,
+{"año":2009,"ent":"Coahuila","crect":38432}
+,
+{"año":2009,"ent":"Colima","crect":13706}
+,
+{"año":2009,"ent":"Distrito Federal","crect":-11938}
+,
+{"año":2009,"ent":"Durango","crect":20142}
+,
+{"año":2009,"ent":"Guanajuato","crect":56335}
+,
+{"año":2009,"ent":"Guerrero","crect":30016}
+,
+{"año":2009,"ent":"Hidalgo","crect":40618}
+,
+{"año":2009,"ent":"Jalisco","crect":109816}
+,
+{"año":2009,"ent":"México","crect":268539}
+,
+{"año":2009,"ent":"Michoacán","crect":40362}
+,
+{"año":2009,"ent":"Morelos","crect":24587}
+,
+{"año":2009,"ent":"Nayarit","crect":23983}
+,
+{"año":2009,"ent":"Nuevo León","crect":77333}
+,
+{"año":2009,"ent":"Oaxaca","crect":29873}
+,
+{"año":2009,"ent":"Puebla","crect":68493}
+,
+{"año":2009,"ent":"Querétaro","crect":32930}
+,
+{"año":2009,"ent":"Quintana Roo","crect":44201}
+,
+{"año":2009,"ent":"San Luis Potosí","crect":30026}
+,
+{"año":2009,"ent":"Sinaloa","crect":31419}
+,
+{"año":2009,"ent":"Sonora","crect":45309}
+,
+{"año":2009,"ent":"Tabasco","crect":27031}
+,
+{"año":2009,"ent":"Tamaulipas","crect":47859}
+,
+{"año":2009,"ent":"Tlaxcala","crect":18548}
+,
+{"año":2009,"ent":"Veracruz","crect":70396}
+,
+{"año":2009,"ent":"Yucatán","crect":27525}
+,
+{"año":2009,"ent":"Zacatecas","crect":15219}
+
+]
+    }]
+}

@@ -50,8 +50,6 @@
 ,
 {"año":2028,"ent":"Quintana Roo","pob":2147827.952}
 ,
-{"año":2028,"ent":"República Mexicana","pob":135599641.3}
-,
 {"año":2028,"ent":"San Luis Potosí","pob":3022390.483}
 ,
 {"año":2028,"ent":"Sinaloa","pob":3268453.947}
@@ -70,6 +68,6 @@
 ,
 {"año":2028,"ent":"Zacatecas","pob":1710047.326}
 
-        ]
+]
     }]
 }

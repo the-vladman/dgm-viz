@@ -50,8 +50,6 @@
 ,
 {"año":2022,"ent":"Quintana Roo","pob":1887085.397}
 ,
-{"año":2022,"ent":"República Mexicana","pob":129351846.1}
-,
 {"año":2022,"ent":"San Luis Potosí","pob":2910398.679}
 ,
 {"año":2022,"ent":"Sinaloa","pob":3149712.448}
@@ -70,6 +68,6 @@
 ,
 {"año":2022,"ent":"Zacatecas","pob":1654428.241}
 
-        ]
+]
     }]
 }

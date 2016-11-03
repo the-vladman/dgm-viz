@@ -50,8 +50,6 @@
 ,
 {"año":2021,"ent":"Quintana Roo","pob":1842896.238}
 ,
-{"año":2021,"ent":"República Mexicana","pob":128230519.3}
-,
 {"año":2021,"ent":"San Luis Potosí","pob":2889855.902}
 ,
 {"año":2021,"ent":"Sinaloa","pob":3127923.161}
@@ -70,6 +68,6 @@
 ,
 {"año":2021,"ent":"Zacatecas","pob":1644241.443}
 
-        ]
+]
     }]
 }

@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1990,"ent":"Aguascalientes","nac":26101}
+,
+{"año":1990,"ent":"Baja California","nac":45300}
+,
+{"año":1990,"ent":"Baja California Sur","nac":8843}
+,
+{"año":1990,"ent":"Campeche","nac":16012}
+,
+{"año":1990,"ent":"Chiapas","nac":114499}
+,
+{"año":1990,"ent":"Chihuahua","nac":61072}
+,
+{"año":1990,"ent":"Coahuila","nac":56379}
+,
+{"año":1990,"ent":"Colima","nac":13088}
+,
+{"año":1990,"ent":"Distrito Federal","nac":186142}
+,
+{"año":1990,"ent":"Durango","nac":40558}
+,
+{"año":1990,"ent":"Guanajuato","nac":137106}
+,
+{"año":1990,"ent":"Guerrero","nac":95543}
+,
+{"año":1990,"ent":"Hidalgo","nac":62553}
+,
+{"año":1990,"ent":"Jalisco","nac":162264}
+,
+{"año":1990,"ent":"México","nac":291864}
+,
+{"año":1990,"ent":"Michoacán","nac":113947}
+,
+{"año":1990,"ent":"Morelos","nac":37204}
+,
+{"año":1990,"ent":"Nayarit","nac":22389}
+,
+{"año":1990,"ent":"Nuevo León","nac":79776}
+,
+{"año":1990,"ent":"Oaxaca","nac":98740}
+,
+{"año":1990,"ent":"Puebla","nac":138891}
+,
+{"año":1990,"ent":"Querétaro","nac":39042}
+,
+{"año":1990,"ent":"Quintana Roo","nac":17761}
+,
+{"año":1990,"ent":"San Luis Potosí","nac":63082}
+,
+{"año":1990,"ent":"Sinaloa","nac":59665}
+,
+{"año":1990,"ent":"Sonora","nac":49986}
+,
+{"año":1990,"ent":"Tabasco","nac":50025}
+,
+{"año":1990,"ent":"Tamaulipas","nac":58270}
+,
+{"año":1990,"ent":"Tlaxcala","nac":25233}
+,
+{"año":1990,"ent":"Veracruz","nac":178112}
+,
+{"año":1990,"ent":"Yucatán","nac":41781}
+,
+{"año":1990,"ent":"Zacatecas","nac":38794}
+
+]
+    }]
+}

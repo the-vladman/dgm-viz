@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Esperanza de vida al nacimiento total (ambos sexos)",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2014,"ent":"Aguascalientes","e0":75.71186197}
+,
+{"año":2014,"ent":"Baja California","e0":73.79066615}
+,
+{"año":2014,"ent":"Baja California Sur","e0":75.93289207}
+,
+{"año":2014,"ent":"Campeche","e0":75.12659031}
+,
+{"año":2014,"ent":"Chiapas","e0":72.6394881}
+,
+{"año":2014,"ent":"Chihuahua","e0":72.28478453}
+,
+{"año":2014,"ent":"Coahuila","e0":75.47719992}
+,
+{"año":2014,"ent":"Colima","e0":75.76642612}
+,
+{"año":2014,"ent":"Distrito Federal","e0":75.96171128}
+,
+{"año":2014,"ent":"Durango","e0":75.24711988}
+,
+{"año":2014,"ent":"Guanajuato","e0":75.28906603}
+,
+{"año":2014,"ent":"Guerrero","e0":72.68229797}
+,
+{"año":2014,"ent":"Hidalgo","e0":74.25875682}
+,
+{"año":2014,"ent":"Jalisco","e0":75.35639911}
+,
+{"año":2014,"ent":"México","e0":75.0635086}
+,
+{"año":2014,"ent":"Michoacán","e0":74.52882681}
+,
+{"año":2014,"ent":"Morelos","e0":75.45379515}
+,
+{"año":2014,"ent":"Nayarit","e0":74.78995372}
+,
+{"año":2014,"ent":"Nuevo León","e0":76.00109592}
+,
+{"año":2014,"ent":"Oaxaca","e0":72.75122784}
+,
+{"año":2014,"ent":"Puebla","e0":74.64574588}
+,
+{"año":2014,"ent":"Querétaro","e0":75.23714298}
+,
+{"año":2014,"ent":"Quintana Roo","e0":75.4906056}
+,
+{"año":2014,"ent":"San Luis Potosí","e0":74.47560683}
+,
+{"año":2014,"ent":"Sinaloa","e0":75.06460861}
+,
+{"año":2014,"ent":"Sonora","e0":75.13834831}
+,
+{"año":2014,"ent":"Tabasco","e0":74.60216506}
+,
+{"año":2014,"ent":"Tamaulipas","e0":75.50609175}
+,
+{"año":2014,"ent":"Tlaxcala","e0":75.03965317}
+,
+{"año":2014,"ent":"Veracruz","e0":73.91479091}
+,
+{"año":2014,"ent":"Yucatán","e0":75.36938417}
+,
+{"año":2014,"ent":"Zacatecas","e0":75.04340911}
+
+]
+    }]
+}

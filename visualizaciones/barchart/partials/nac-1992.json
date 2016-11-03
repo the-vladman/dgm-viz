@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":1992,"ent":"Aguascalientes","nac":26682}
+,
+{"año":1992,"ent":"Baja California","nac":48022}
+,
+{"año":1992,"ent":"Baja California Sur","nac":9108}
+,
+{"año":1992,"ent":"Campeche","nac":16466}
+,
+{"año":1992,"ent":"Chiapas","nac":117848}
+,
+{"año":1992,"ent":"Chihuahua","nac":62225}
+,
+{"año":1992,"ent":"Coahuila","nac":57285}
+,
+{"año":1992,"ent":"Colima","nac":13060}
+,
+{"año":1992,"ent":"Distrito Federal","nac":179833}
+,
+{"año":1992,"ent":"Durango","nac":40581}
+,
+{"año":1992,"ent":"Guanajuato","nac":137035}
+,
+{"año":1992,"ent":"Guerrero","nac":97127}
+,
+{"año":1992,"ent":"Hidalgo","nac":62314}
+,
+{"año":1992,"ent":"Jalisco","nac":161855}
+,
+{"año":1992,"ent":"México","nac":296597}
+,
+{"año":1992,"ent":"Michoacán","nac":112819}
+,
+{"año":1992,"ent":"Morelos","nac":37627}
+,
+{"año":1992,"ent":"Nayarit","nac":22353}
+,
+{"año":1992,"ent":"Nuevo León","nac":80561}
+,
+{"año":1992,"ent":"Oaxaca","nac":99945}
+,
+{"año":1992,"ent":"Puebla","nac":140923}
+,
+{"año":1992,"ent":"Querétaro","nac":39465}
+,
+{"año":1992,"ent":"Quintana Roo","nac":18317}
+,
+{"año":1992,"ent":"San Luis Potosí","nac":63362}
+,
+{"año":1992,"ent":"Sinaloa","nac":60448}
+,
+{"año":1992,"ent":"Sonora","nac":50903}
+,
+{"año":1992,"ent":"Tabasco","nac":50231}
+,
+{"año":1992,"ent":"Tamaulipas","nac":58842}
+,
+{"año":1992,"ent":"Tlaxcala","nac":25714}
+,
+{"año":1992,"ent":"Veracruz","nac":179373}
+,
+{"año":1992,"ent":"Yucatán","nac":41652}
+,
+{"año":1992,"ent":"Zacatecas","nac":38261}
+
+]
+    }]
+}

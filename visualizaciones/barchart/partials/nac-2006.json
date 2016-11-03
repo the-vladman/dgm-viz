@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2006,"ent":"Aguascalientes","nac":26799}
+,
+{"año":2006,"ent":"Baja California","nac":55755}
+,
+{"año":2006,"ent":"Baja California Sur","nac":10548}
+,
+{"año":2006,"ent":"Campeche","nac":15826}
+,
+{"año":2006,"ent":"Chiapas","nac":117942}
+,
+{"año":2006,"ent":"Chihuahua","nac":70165}
+,
+{"año":2006,"ent":"Coahuila","nac":55094}
+,
+{"año":2006,"ent":"Colima","nac":12900}
+,
+{"año":2006,"ent":"Distrito Federal","nac":146569}
+,
+{"año":2006,"ent":"Durango","nac":35071}
+,
+{"año":2006,"ent":"Guanajuato","nac":118859}
+,
+{"año":2006,"ent":"Guerrero","nac":80877}
+,
+{"año":2006,"ent":"Hidalgo","nac":56433}
+,
+{"año":2006,"ent":"Jalisco","nac":149642}
+,
+{"año":2006,"ent":"México","nac":305392}
+,
+{"año":2006,"ent":"Michoacán","nac":92764}
+,
+{"año":2006,"ent":"Morelos","nac":33768}
+,
+{"año":2006,"ent":"Nayarit","nac":20493}
+,
+{"año":2006,"ent":"Nuevo León","nac":85025}
+,
+{"año":2006,"ent":"Oaxaca","nac":85244}
+,
+{"año":2006,"ent":"Puebla","nac":131900}
+,
+{"año":2006,"ent":"Querétaro","nac":38092}
+,
+{"año":2006,"ent":"Quintana Roo","nac":23949}
+,
+{"año":2006,"ent":"San Luis Potosí","nac":55226}
+,
+{"año":2006,"ent":"Sinaloa","nac":56565}
+,
+{"año":2006,"ent":"Sonora","nac":52319}
+,
+{"año":2006,"ent":"Tabasco","nac":48214}
+,
+{"año":2006,"ent":"Tamaulipas","nac":65685}
+,
+{"año":2006,"ent":"Tlaxcala","nac":25628}
+,
+{"año":2006,"ent":"Veracruz","nac":146893}
+,
+{"año":2006,"ent":"Yucatán","nac":38326}
+,
+{"año":2006,"ent":"Zacatecas","nac":32203}
+
+]
+    }]
+}

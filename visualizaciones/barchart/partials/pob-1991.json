@@ -50,8 +50,6 @@
 ,
 {"año":1991,"ent":"Quintana Roo","pob":610571}
 ,
-{"año":1991,"ent":"República Mexicana","pob":88630941}
-,
 {"año":1991,"ent":"San Luis Potosí","pob":2227649}
 ,
 {"año":1991,"ent":"Sinaloa","pob":2251748}
@@ -70,6 +68,6 @@
 ,
 {"año":1991,"ent":"Zacatecas","pob":1414769}
 
-        ]
+]
     }]
 }

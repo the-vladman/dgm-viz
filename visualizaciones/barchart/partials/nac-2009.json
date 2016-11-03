@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2009,"ent":"Aguascalientes","nac":26648}
+,
+{"año":2009,"ent":"Baja California","nac":56968}
+,
+{"año":2009,"ent":"Baja California Sur","nac":11136}
+,
+{"año":2009,"ent":"Campeche","nac":16140}
+,
+{"año":2009,"ent":"Chiapas","nac":115450}
+,
+{"año":2009,"ent":"Chihuahua","nac":69964}
+,
+{"año":2009,"ent":"Coahuila","nac":54413}
+,
+{"año":2009,"ent":"Colima","nac":13121}
+,
+{"año":2009,"ent":"Distrito Federal","nac":139975}
+,
+{"año":2009,"ent":"Durango","nac":34265}
+,
+{"año":2009,"ent":"Guanajuato","nac":116631}
+,
+{"año":2009,"ent":"Guerrero","nac":77686}
+,
+{"año":2009,"ent":"Hidalgo","nac":56115}
+,
+{"año":2009,"ent":"Jalisco","nac":149599}
+,
+{"año":2009,"ent":"México","nac":304838}
+,
+{"año":2009,"ent":"Michoacán","nac":91867}
+,
+{"año":2009,"ent":"Morelos","nac":34214}
+,
+{"año":2009,"ent":"Nayarit","nac":21158}
+,
+{"año":2009,"ent":"Nuevo León","nac":85074}
+,
+{"año":2009,"ent":"Oaxaca","nac":83438}
+,
+{"año":2009,"ent":"Puebla","nac":129919}
+,
+{"año":2009,"ent":"Querétaro","nac":37647}
+,
+{"año":2009,"ent":"Quintana Roo","nac":25848}
+,
+{"año":2009,"ent":"San Luis Potosí","nac":54536}
+,
+{"año":2009,"ent":"Sinaloa","nac":55635}
+,
+{"año":2009,"ent":"Sonora","nac":52498}
+,
+{"año":2009,"ent":"Tabasco","nac":47422}
+,
+{"año":2009,"ent":"Tamaulipas","nac":63837}
+,
+{"año":2009,"ent":"Tlaxcala","nac":25369}
+,
+{"año":2009,"ent":"Veracruz","nac":143689}
+,
+{"año":2009,"ent":"Yucatán","nac":39030}
+,
+{"año":2009,"ent":"Zacatecas","nac":31934}
+
+]
+    }]
+}

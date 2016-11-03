@@ -50,8 +50,6 @@
 ,
 {"año":2001,"ent":"Quintana Roo","pob":976468}
 ,
-{"año":2001,"ent":"República Mexicana","pob":102122295}
-,
 {"año":2001,"ent":"San Luis Potosí","pob":2407204}
 ,
 {"año":2001,"ent":"Sinaloa","pob":2571178}
@@ -70,6 +68,6 @@
 ,
 {"año":2001,"ent":"Zacatecas","pob":1421912}
 
-        ]
+]
     }]
 }

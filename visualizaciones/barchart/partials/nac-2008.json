@@ -1,0 +1,73 @@
+{
+    "ejex": "Estados",
+    "ejey": "Nacimientos anuales",
+    "valores": [{
+        "key": "Estados",
+        "values": [
+{"año":2008,"ent":"Aguascalientes","nac":26683}
+,
+{"año":2008,"ent":"Baja California","nac":56568}
+,
+{"año":2008,"ent":"Baja California Sur","nac":10928}
+,
+{"año":2008,"ent":"Campeche","nac":16032}
+,
+{"año":2008,"ent":"Chiapas","nac":116149}
+,
+{"año":2008,"ent":"Chihuahua","nac":70223}
+,
+{"año":2008,"ent":"Coahuila","nac":54592}
+,
+{"año":2008,"ent":"Colima","nac":13121}
+,
+{"año":2008,"ent":"Distrito Federal","nac":142073}
+,
+{"año":2008,"ent":"Durango","nac":34516}
+,
+{"año":2008,"ent":"Guanajuato","nac":117266}
+,
+{"año":2008,"ent":"Guerrero","nac":78596}
+,
+{"año":2008,"ent":"Hidalgo","nac":56017}
+,
+{"año":2008,"ent":"Jalisco","nac":149670}
+,
+{"año":2008,"ent":"México","nac":304855}
+,
+{"año":2008,"ent":"Michoacán","nac":92153}
+,
+{"año":2008,"ent":"Morelos","nac":33993}
+,
+{"año":2008,"ent":"Nayarit","nac":20976}
+,
+{"año":2008,"ent":"Nuevo León","nac":85137}
+,
+{"año":2008,"ent":"Oaxaca","nac":83904}
+,
+{"año":2008,"ent":"Puebla","nac":130548}
+,
+{"año":2008,"ent":"Querétaro","nac":37751}
+,
+{"año":2008,"ent":"Quintana Roo","nac":25111}
+,
+{"año":2008,"ent":"San Luis Potosí","nac":54708}
+,
+{"año":2008,"ent":"Sinaloa","nac":55972}
+,
+{"año":2008,"ent":"Sonora","nac":52551}
+,
+{"año":2008,"ent":"Tabasco","nac":47680}
+,
+{"año":2008,"ent":"Tamaulipas","nac":64890}
+,
+{"año":2008,"ent":"Tlaxcala","nac":25443}
+,
+{"año":2008,"ent":"Veracruz","nac":144434}
+,
+{"año":2008,"ent":"Yucatán","nac":38765}
+,
+{"año":2008,"ent":"Zacatecas","nac":32030}
+
+]
+    }]
+}

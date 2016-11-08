@@ -79,7 +79,7 @@ $(document).ready(function(){
     .tooltip({
       "small":350
     })
-    .height(480)
+    .height(550)
     .labels({
       "align": "middle",
       "valign": "top",

@@ -1,9 +1,9 @@
 {
   "unidad": "Especies",
-  "ancho": 480,
+  "ancho": 550,
   "valores": {
   "unidad": "Especies",
-  "ancho": 480,
+  "ancho": 550,
   "valores": [
     {"label": "zorro", "value": 81326},
     {"label": "Gato", "value": 96326},

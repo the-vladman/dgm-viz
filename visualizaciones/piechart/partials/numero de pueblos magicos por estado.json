@@ -1,5 +1,5 @@
 {
   "unidad": "Especies",
-  "ancho": 480,
+  "ancho": 550,
   "valores": [{"label":"Aguascalientes","value":3},{"label":"Baja California","value":1},{"label":"Baja California Sur","value":2},{"label":"Campeche","value":1},{"label":"Coahuila","value":6},{"label":"Colima","value":1},{"label":"Chiapas","value":4},{"label":"Chihuahua","value":3},{"label":"Durango","value":1},{"label":"Guanajuato","value":5},{"label":"Guerrero","value":1},{"label":"Hidalgo","value":5},{"label":"Jalisco","value":7},{"label":"M\u201axico","value":9},{"label":"Michoac\u00a0n","value":8},{"label":"Morelos","value":2},{"label":"Nayarit","value":2},{"label":"Nuevo Le\u00a2n","value":2},{"label":"Oaxaca","value":5},{"label":"Puebla","value":9},{"label":"Quer\u201ataro","value":5},{"label":"Quintana Roo","value":3},{"label":"San Luis Potos\u00a1","value":2},{"label":"Sinaloa","value":4},{"label":"Sonora","value":2},{"label":"Tabasco","value":1},{"label":"Tamaulipas","value":2},{"label":"Tlaxcala","value":2},{"label":"Veracruz","value":6},{"label":"Yucat\u00a0n","value":2},{"label":"Zacatecas","value":5}]
 }

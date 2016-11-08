@@ -1,5 +1,5 @@
 {
   "unidad": "Especies",
-  "ancho": 480,
+  "ancho": 550,
   "valores": [{"label":"Aguascalientes","value":1184996},{"label":"Baja California","value":3155070},{"label":"Baja California Sur","value":637026},{"label":"Campeche","value":822441},{"label":"Coahuila","value":2748391},{"label":"Colima","value":650555},{"label":"Chiapas","value":4796580},{"label":"Chihuahua","value":3406465},{"label":"Distrito Federal","value":8851080},{"label":"Durango","value":1632934},{"label":"Guanajuato","value":5486372},{"label":"Guerrero","value":3388768},{"label":"Hidalgo","value":2665018},{"label":"Jalisco","value":7350682},{"label":"M\u00e9xico","value":15175862},{"label":"Michoac\u00e1n","value":4351037},{"label":"Morelos","value":1777227},{"label":"Nayarit","value":1084979},{"label":"Nuevo Le\u00f3n","value":4653458},{"label":"Oaxaca","value":3801962},{"label":"Puebla","value":5779829},{"label":"Quer\u00e9taro","value":1827937},{"label":"Quintana Roo","value":1325578},{"label":"San Luis Potos\u00ed","value":2585518},{"label":"Sinaloa","value":2767761},{"label":"Sonora","value":2662480},{"label":"Tabasco","value":2238603},{"label":"Tamaulipas","value":3268554},{"label":"Tlaxcala","value":1169936},{"label":"Veracruz","value":7643194},{"label":"Yucat\u00e1n","value":1955577},{"label":"Zacatecas","value":1490668}]
 }

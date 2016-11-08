@@ -1,5 +1,5 @@
 {
   "unidad": "Especies",
-  "ancho": 480,
+  "ancho": 550,
   "valores": [{"label":"Aceptable","value":315},{"label":"Buena calidad","value":1164},{"label":"Fuertemente contaminada","value":67},{"label":"Excelente","value":1884},{"label":"Contaminada","value":178}]
 }

@@ -43,6 +43,7 @@
           "label": jsonScatter.ejey
       })
       .size("VIGENCIA")
+      .margin({"top":10,"bottom":10})
       .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
       .format({
           "number": function(number, params) {

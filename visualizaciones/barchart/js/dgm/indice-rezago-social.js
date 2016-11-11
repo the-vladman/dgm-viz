@@ -53,7 +53,7 @@ nv.addGraph(function() {
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())
       .axisLabelDistance(22)
-      .tickFormat(d3.format(',.0f'));
+      .tickFormat(d3.format(',.3f'));
 
     chart.xAxis
       .axisLabel(jsonBarchart.ejex.toUpperCase());

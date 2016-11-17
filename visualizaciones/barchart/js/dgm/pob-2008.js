@@ -53,7 +53,7 @@ nv.addGraph(function() {
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())
-      .margin({"left":100,"right":5,"top":10,"bottom":10})
+      .margin({"left":120,"right":5,"top":10,"bottom":10})
       .tickFormat(d3.format(',.0f'));
 
     chart.xAxis

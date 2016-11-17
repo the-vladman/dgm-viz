@@ -41,7 +41,7 @@ nv.addGraph(function() {
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
-      .margin({"left":100,"right":20,"top":5,"bottom":20})
+      .margin({"left":80,"right":20,"top":5,"bottom":20})
       .color(d3.scale.categoryDatos().range());
 
     chart.tooltip.contentGenerator(function (obj) {

@@ -36,17 +36,20 @@ nv.addGraph(function() {
   var chart = nv.models.multiBarChart()
       .x(function(d) { return d.ent })
       .y(function(d) { return d.pob })
-      .transitionDuration(350)
       .reduceXTicks(false)
       .rotateLabels(45)
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
       .margin({"left":100,"right":20,"top":5,"bottom":20})
-      .color(d3.scale.categoryDatos().range())
-      .tooltipContent( function(key, x, y){
-          return "<span>" + x +": " + y + "</span>"
-      });
+      .color(d3.scale.categoryDatos().range());
+
+    chart.tooltip.contentGenerator(function (obj) {
+        content = '<h3 style="background-color: ';
+        content += obj.color + '">';
+        content += obj.data.ent + '</h3><p>' +  obj.data.pob + '</p>';
+        return content;
+    });
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())

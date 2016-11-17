@@ -36,21 +36,24 @@ nv.addGraph(function() {
   var chart = nv.models.multiBarChart()
       .x(function(d) { return d.ent })
       .y(function(d) { return d.e0 })
-      .transitionDuration(350)
       .reduceXTicks(false)
       .rotateLabels(45)
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
-      .margin({"left":100,"right":20,"top":5,"bottom":20})
-      .color(d3.scale.categoryDatos().range())
-      .tooltipContent( function(key, x, y){
-          return "<span>" + x +": " + y + "</span>"
-      });
+      .margin({"left":60,"right":20,"top":5,"bottom":20})
+      .color(d3.scale.categoryDatos().range());
+
+    chart.tooltip.contentGenerator(function (obj) {
+        content = '<h3 style="background-color: ';
+        content += obj.color + '">';
+        content += obj.data.ent + '</h3><p>' +  obj.data.e0 + '</p>';
+        return content;
+    });
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())
-      .margin({"left":100,"right":5,"top":10,"bottom":10})
+      .margin({"left":80,"right":5,"top":10,"bottom":10})
       .tickFormat(d3.format(',.0f'));
 
     chart.xAxis

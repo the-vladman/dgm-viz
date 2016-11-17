@@ -33,22 +33,13 @@ $.ajax({
 
 nv.addGraph(function() {
   var chart = nv.models.multiBarChart()
-      .transitionDuration(350)
       .reduceXTicks(false)
       .rotateLabels(0)
       .showControls(false)
       .showLegend(false)
       .groupSpacing(0.1)
-      .color(d3.scale.categoryDatos().range())
-      .tooltipContent( function(key, x, y){
-        if (parseInt(y) >= 0) {
-          return "<span class='title-pop'>"+key+"</span><hr>" + "<span>" + jsonBarchart.ejey + ": " + y + "</span><div class='arrow-down'>▼</div>"
-        } else {
-          return "<div class='arrow-up'>▲</div><span class='title-pop'>"+key+"</span><hr>" + jsonBarchart.ejey + ": " + "<span class='textRed'>" + y + "</span>"
-        }
-
-      });
-
+      .margin({"left":80,"right":20,"top":5,"bottom":30})
+      .color(d3.scale.categoryDatos().range());
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())

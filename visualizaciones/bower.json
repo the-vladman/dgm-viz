@@ -17,7 +17,8 @@
     "font-awesome": "fontawesome#^4.6.3",
     "webcomponentsjs": "^0.7.22",
     "polymer": "^1.5.0",
-    "dgm-navbar":"mxabierto/dgm-navbar#latest",
-    "dgm-footer":"mxabierto/dgm-footer#latest"
+    "dgm-navbar": "mxabierto/dgm-navbar#latest",
+    "dgm-footer": "mxabierto/dgm-footer#latest",
+    "d3plus": "^1.9.8"
   }
 }

@@ -19,6 +19,7 @@
     "polymer": "^1.5.0",
     "dgm-navbar": "mxabierto/dgm-navbar#latest",
     "dgm-footer": "mxabierto/dgm-footer#latest",
-    "d3plus": "^1.9.8"
+    "d3plus": "^1.9.8",
+    "nvd3": "^1.8.4"
   }
 }

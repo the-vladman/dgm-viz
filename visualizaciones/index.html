@@ -477,7 +477,9 @@
     document.getElementById("btnDescargar").addEventListener("click", function () {
         var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
         document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
-            saveSvgAsPng(document.querySelector('svg'), "diagram.png");
+        var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
+        var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
+            saveSvgAsPng(document.querySelector('svg'), filename+".png");
     });
     </script>
 

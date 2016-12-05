@@ -7100,8 +7100,8 @@ dgm-footer {
     Breadcrumb Styles
 ********************************/
 .breadcrumb-container {
+  margin-top: 20px;
   margin-bottom: 20px;
-  background-color: #f6f6f6;
 }
 .breadcrumb {
   margin-bottom: 0;

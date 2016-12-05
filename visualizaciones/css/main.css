@@ -6764,6 +6764,8 @@ h2.institution-name {
 p > a,
 li > a {
   color: #0c9;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 p > a:hover,
 li > a:hover {

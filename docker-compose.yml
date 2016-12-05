@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  dgm_viz:
+    image: nginx
+    volumes:
+      - .:/usr/share/nginx/html
+    ports:
+      - "8080:80"
+    environment:
+      - nginx_port=80

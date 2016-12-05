@@ -4076,15 +4076,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  color: #545454;
+  background-color: #F3F3F3;
 }
 .nav-pills > li + li {
   margin-left: 2px;
 }
+.nav-pills > li > a:hover,
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #00D69B;
 }
 .nav-stacked > li {
   float: none;
@@ -6794,7 +6797,7 @@ li > a:hover {
 .breadcrumb > li.active > a,
 .breadcrumb > li:last-child > a,
 .breadcrumb > li > a:hover {
-  color: #0c9;
+  color: #545454;
 }
 .submenu > li {
   font-size: 12px;

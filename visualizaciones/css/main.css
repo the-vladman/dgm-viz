@@ -4076,15 +4076,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  color: #545454;
+  background-color: #F3F3F3;
 }
 .nav-pills > li + li {
   margin-left: 2px;
 }
+.nav-pills > li > a:hover,
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #337ab7;
+  background-color: #00D69B;
 }
 .nav-stacked > li {
   float: none;
@@ -6764,6 +6767,8 @@ h2.institution-name {
 p > a,
 li > a {
   color: #0c9;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 p > a:hover,
 li > a:hover {
@@ -6792,7 +6797,7 @@ li > a:hover {
 .breadcrumb > li.active > a,
 .breadcrumb > li:last-child > a,
 .breadcrumb > li > a:hover {
-  color: #0c9;
+  color: #545454;
 }
 .submenu > li {
   font-size: 12px;
@@ -7098,8 +7103,8 @@ dgm-footer {
     Breadcrumb Styles
 ********************************/
 .breadcrumb-container {
+  margin-top: 20px;
   margin-bottom: 20px;
-  background-color: #f6f6f6;
 }
 .breadcrumb {
   margin-bottom: 0;

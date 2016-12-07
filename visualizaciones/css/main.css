@@ -4077,7 +4077,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li > a {
   border-radius: 4px;
   color: #545454;
-  background-color: #F3F3F3;
+  background-color: #F3F3F3 !important;
 }
 .nav-pills > li + li {
   margin-left: 2px;

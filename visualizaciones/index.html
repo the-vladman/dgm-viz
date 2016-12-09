@@ -45,7 +45,7 @@
         <div class="row">
             <div class="col-md-12">
                 <p>
-		    En esta sección puedes consultar Datos Abiertos de forma visual. Aquí encontrarás numerosas 
+		    En esta sección puedes consultar Datos Abiertos de forma visual. Aquí encontrarás numerosas
 		    visualizaciones de las bases de datos más descargadas. Para generar una visualización, primero
 		    elige un tipo de gráfica y luego selecciona la base de datos.
 		</p>
@@ -405,9 +405,10 @@
         <div class="row">
             <div class="col-md-12">
                 <br>
-                <iframe id="marcoVisualizaciones" src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">
-                <p>Tu navegador no soporta IFRAMES</p>
-              </iframe>
+                <div id="loadImg"><div><img src="http://www.downgraf.com/wp-content/uploads/2014/09/01-progress.gif"/></div></div>
+                <iframe id="marcoVisualizaciones" border=0 name=iframe src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;" onload="document.getElementById('loadImg').style.display='none';">
+                    <p>Tu navegador no soporta IFRAMES</p>
+                </iframe>
                 <!-- AQUÍ VA LA VISUALIZACIÓN -->
             </div>
         </div>
@@ -453,23 +454,20 @@
     </div>
     <div id="output" hidden></div>
 
-    <dgm-footer></dgm-footer>    <!-- JQuery -->
+    <dgm-footer></dgm-footer>
+</body>
+    <!-- JQuery -->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <!-- BOOTSTRAP -->
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <script src="js/saveSvgAsPng.js"></script>
-</body>
 
 <script>
     var switcher$ = $('.graficas'),
         switchTarget$ = $('#marcoVisualizaciones');
-    //switcher$.on('change', switchIframeSrc);
-
-    function switchIframeSrc() {
         switchTarget$.attr('src', switcher$.val());
-    }
-    switchIframeSrc();
+
 
     $( "#btnEmbeber" ).click(function() {
       $( "#compartir" ).fadeToggle("slow", function() {

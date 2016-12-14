@@ -61,8 +61,8 @@
             <div class="col-md-12">
                 <br>
                 <!-- Nav tabs -->
-                <ul id="myTabs" class="nav nav-pills nav-justified" role="tablist">
-                    <li role="presentation" class="active" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
+                <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist">
+                    <li role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
                     <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
                     <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
                     <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
@@ -82,7 +82,7 @@
             <div class="col-md-12">
                 <div class="tab-content">
                     <div id="barras" class="tab-pane fade in active">
-                        <select id="chartBarra" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                        <select id="chartBarra" class="form-control graficas">
                         <option value="barchart/indice-rezago-social.html">Índice de rezago social</option>
                         <option value="barchart/pob-1990.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1990</option>
                         <option value="barchart/pob-1991.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991</option>
@@ -251,7 +251,7 @@
                     </select>
                     </div>
                     <div id="composicion" class="tab-pane fade">
-                        <select id="chartComposicion" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                        <select id="chartComposicion" class="form-control graficas">
                       <option value="treemap/hogares.html">Proyecciones de los hogares en México y las Entidades Federativas, 2010-2030</option>
                       <option value="treemap/hogaresIndigenas.html">Proyecciones de los hogares Indígenas de México y las Entidades Federativas, 2010-2020</option>
                       <option value="treemap/fecundidad.html">Tasa específica de fecundidad 1990/2030</option>
@@ -264,7 +264,7 @@
                       </select>
                     </div>
                     <div id="mapa" class="tab-pane fade">
-                        <select id="chartMap" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                        <select id="chartMap" class="form-control graficas">
                       <option value="mapa/Catálogo Centros de Trabajo.html">Catálogo Centros de Trabajo</option>
                       <option value="mapa/Matrícula por institución - DoctoradoParticular.html">Matrícula por Institución - DoctoradoParticular</option>
                       <option value="mapa/Matrícula por institución - DoctoradoPublica.html">Matrícula por Institución - DoctoradoPublica</option>
@@ -279,21 +279,21 @@
                       </select>
                     </div>
                     <div id="sector" class="tab-pane fade">
-                        <select id="chartSector" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
-                      <option value="piechart/calidad general del agua por estacion.html">Calidad general del agua por estación</option>
-                      <option value="piechart/escuelas por estado.html">Escuelas por Estado</option>
-                      <option value="piechart/estaciones de calidad del agua por estado.html">Estaciones de calidad del agua por estado</option>
-                      <option value="piechart/inscritos-en-RETC-por-estado-en-2013.html">Inscritos en RETC por estado en 2013</option>
-                      <option value="piechart/llegadas a hoteles 2014.html">Llegadas a hoteles 2014</option>
-                      <option value="piechart/numero de pueblos magicos por estado.html">Número de pueblos magicos por estado</option>
-                      <option value="piechart/poblacion por estado 2010.html">Población por estado 2010</option>
-                      <option value="piechart/residuos solidos manejados adecuadamente por estado 2014.html">Residuos solidos manejados adecuadamente por estado 2014</option>
-                      <option value="piechart/residuos solidos manejados adecuadamente por estado 2015.html">Residuos solidos manejados adecuadamente por estado 2015</option>
-                      <option value="piechart/tipo de sostenimiento de instituciones educativas.html">Tipo de sostenimiento de Instituciones educativas</option>
-                      </select>
+                        <select id="chartSector" class="form-control graficas">
+                          <option value="piechart/calidad general del agua por estacion.html">Calidad general del agua por estación</option>
+                          <option value="piechart/escuelas por estado.html">Escuelas por Estado</option>
+                          <option value="piechart/estaciones de calidad del agua por estado.html">Estaciones de calidad del agua por estado</option>
+                          <option value="piechart/inscritos-en-RETC-por-estado-en-2013.html">Inscritos en RETC por estado en 2013</option>
+                          <option value="piechart/llegadas a hoteles 2014.html">Llegadas a hoteles 2014</option>
+                          <option value="piechart/numero de pueblos magicos por estado.html">Número de pueblos magicos por estado</option>
+                          <option value="piechart/poblacion por estado 2010.html">Población por estado 2010</option>
+                          <option value="piechart/residuos solidos manejados adecuadamente por estado 2014.html">Residuos solidos manejados adecuadamente por estado 2014</option>
+                          <option value="piechart/residuos solidos manejados adecuadamente por estado 2015.html">Residuos solidos manejados adecuadamente por estado 2015</option>
+                          <option value="piechart/tipo de sostenimiento de instituciones educativas.html">Tipo de sostenimiento de Instituciones educativas</option>
+                        </select>
                     </div>
                     <div id="dispersion" class="tab-pane fade">
-                      <select id="chartDispersion" class="form-control graficas" onchange="document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value">
+                      <select id="chartDispersion" class="form-control graficas">
                         <option value="scatter/AGUASCALIENTES.html">Concesión minera: AGUASCALIENTES</option>
                         <option value="scatter/AGUASCALIENTES-JALISCO.html">Concesión minera: AGUASCALIENTES-JALISCO</option>
                         <option value="scatter/AGUASCALIENTES-ZACATECAS.html">Concesión minera: AGUASCALIENTES-ZACATECAS</option>
@@ -455,7 +455,6 @@
     <div id="output" hidden></div>
 
     <dgm-footer></dgm-footer>
-</body>
     <!-- JQuery -->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <!-- BOOTSTRAP -->
@@ -463,26 +462,37 @@
     <script src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <script src="js/saveSvgAsPng.js"></script>
 
-<script>
-    var switcher$ = $('.graficas'),
+
+    <script type="text/javascript">
+    $( document ).ready(function() {
+        var switcher$ = $('.graficas'),
         switchTarget$ = $('#marcoVisualizaciones');
         switchTarget$.attr('src', switcher$.val());
 
+        $('.graficas').on('change', function() {
+          $( "#compartir" ).hide();
+          document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
+        });
 
-    $( "#btnEmbeber" ).click(function() {
-      $( "#compartir" ).fadeToggle("slow", function() {
-        // Animation complete.
-        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
-        $( "#compartir" ).text('<iframe src="'+ fuente +'" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
-      });
-    });
-    document.getElementById("btnDescargar").addEventListener("click", function () {
-        var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
-        document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
-        var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
-        var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
-            saveSvgAsPng(document.querySelector('svg'), filename+".png");
+        $('#tipoGrafica').on('click', function() {
+          $( "#compartir" ).hide();
+        });
+
+        $( "#btnEmbeber" ).click(function() {
+          $( "#compartir" ).fadeToggle("slow", function() {
+            var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
+            $( "#compartir" ).text('<iframe src="'+ fuente +'" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
+          });
+        });
+        document.getElementById("btnDescargar").addEventListener("click", function () {
+            var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
+            document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
+            var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
+            var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
+                saveSvgAsPng(document.querySelector('svg'), filename+".png");
+        });
     });
     </script>
 
+</body>
 </html>

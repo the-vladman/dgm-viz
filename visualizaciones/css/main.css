@@ -7103,8 +7103,9 @@ dgm-footer {
     Breadcrumb Styles
 ********************************/
 .breadcrumb-container {
-  margin-top: 20px;
+  margin-top: 50px;
   margin-bottom: 20px;
+  padding-top: 50px;
 }
 .breadcrumb {
   margin-bottom: 0;
@@ -7576,6 +7577,5 @@ h1:after {
     border-right: 0px;
     border-top: 0px;
 }
-
 #loadImg{position:absolute;z-index:999;}
 #loadImg div{display:table-cell;width:950px;height:633px;background:#fff;text-align:center;vertical-align:middle;}

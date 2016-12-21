@@ -18,8 +18,8 @@
     map = L.map('mapMX').setView([24, -95], 5);
 
     L.tileLayer('https://api.mapbox.com/styles/v1/esaugtz/cir59as9a000xbpnip07r0nmp/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXNhdWd0eiIsImEiOiJjaWo5a3Y0b20wMDM0dHdrbjlmcjgxdjE3In0.mHs9D2ahn4a1hB5K9GChsg', {
-      //maxZoom: 5,
-      //minZoom: 5,
+      maxZoom: 5,
+      minZoom: 5,
       //id: 'mapbox.clear',
       name: 'name_es'
     }).addTo(map);
@@ -29,21 +29,19 @@
     };
 
     // Disable drag and zoom handlers.
-    //map.dragging.disable();
+    map.dragging.disable();
     map.touchZoom.disable();
-    //map.doubleClickZoom.disable();
-    //map.scrollWheelZoom.disable();
+    map.doubleClickZoom.disable();
+    map.scrollWheelZoom.disable();
     map.keyboard.disable();
 
     function getColor(d) {
-      return d > 10 ? '#008261' :
-      d > 5  ? '#049873' :
-      '#17f5bd';
+        return d > 20000 ? '#008261' : d > 10000 ? '#049873' : d > 5000 ? '#00af83' : '#17f5bd';
     }
 
     function style(feature) {
       return {
-        fillColor: getColor(feature.properties.porcentaje_pop),
+        fillColor: getColor(feature.properties.valor_info),
         weight: 1,
         opacity: 1,
         color: '#FFFFFF',
@@ -149,7 +147,7 @@
               }
             },
             legend: {
-              show: false
+              show: true
             }
           });
         };//Fin timeseries Chart
@@ -196,7 +194,7 @@
       var legend = L.control({position: 'bottomleft'});
       legend.onAdd = function (map) {
         var div = L.DomUtil.create('div', 'info legend'),
-        grades = [0, 5, 10],
+        grades = [0, 5000, 10000, 20000],
         labels = [''],
         from, to;
 

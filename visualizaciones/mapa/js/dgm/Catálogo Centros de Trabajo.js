@@ -15,7 +15,7 @@
   });
 
   function mapaMX(){
-    map = L.map('mapMX').setView([24, -95], 5);
+    map = L.map('mapMX').setView([24, -95], 10);
 
     L.tileLayer('https://api.mapbox.com/styles/v1/esaugtz/cir59as9a000xbpnip07r0nmp/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXNhdWd0eiIsImEiOiJjaWo5a3Y0b20wMDM0dHdrbjlmcjgxdjE3In0.mHs9D2ahn4a1hB5K9GChsg', {
       maxZoom: 5,
@@ -29,9 +29,9 @@
     };
 
     // Disable drag and zoom handlers.
-    map.dragging.disable();
-    map.touchZoom.disable();
-    map.doubleClickZoom.disable();
+    //map.dragging.disable();
+    //map.touchZoom.disable();
+    //map.doubleClickZoom.disable();
     map.scrollWheelZoom.disable();
     map.keyboard.disable();
 

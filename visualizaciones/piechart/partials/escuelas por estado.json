@@ -1,5 +1,13 @@
 {
   "unidad": "Escuelas",
   "ancho": 550,
-  "valores": [{"label":"Chiapas","value":161},{"label":"Ciudad de México","value":308},{"label":"Guanajuato","value":160},{"label":"Jalisco","value":210},{"label":"México","value":300},{"label":"Michoacán","value":118},{"label":"Puebla","value":283},{"label":"Veracruz","value":242},{"label":"otros","value":1657}]
+    "valores": [{"label":"Chiapas","value":161},
+                {"label":"Ciudad de Mexico","value":308},
+                {"label":"Guanajuato","value":160},
+                {"label":"Jalisco","value":210},
+                {"label":"Mexico","value":300},
+                {"label":"Michoacan","value":118},
+                {"label":"Puebla","value":283},
+                {"label":"Veracruz","value":242},
+                {"label":"otros","value":1657}]
 }

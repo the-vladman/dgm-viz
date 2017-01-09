@@ -1,5 +1,5 @@
 {
   "unidad": "Pueblos",
   "ancho": 550,
-  "valores": [{"label":"Coahuila","value":6},{"label":"Jalisco","value":7},{"label":"M\u201axico","value":9},{"label":"Michoac\u00a0n","value":8},{"label":"Puebla","value":9},{"label":"Veracruz","value":6},{"label":"Otros","value":68}]
+  "valores": [{"label":"Coahuila","value":6},{"label":"Jalisco","value":7},{"label":"Mexico","value":9},{"label":"Michoacan","value":8},{"label":"Puebla","value":9},{"label":"Veracruz","value":6},{"label":"Otros","value":68}]
 }

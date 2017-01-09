@@ -6,13 +6,11 @@
     type: "GET",
     url: "partials/escuelas por estado.json",
     async: false,
-    success: function(data){
-      if (validaJsonPieChart(data.valores)){
+      success: function(data){
           jsonPiechart = data;
           jsonPiechart.valores.forEach(function(d) {
-            total = total + d.value;
+              total = total + d.value;
           });
-      }
     }
   });
 
@@ -70,25 +68,3 @@
   .height(jsonPiechart.ancho)
   .resize(true)
   .draw()
-
-      // Validacion de Json
-      function validaJsonPieChart(json){
-          var json_fields = ['label', 'value'],
-              json_types = {'label': 'number', 'value': 'number'};
-
-          for(var elemento in json){
-              var llaves_elemento = Object.keys(json[elemento]);
-              for(var k in llaves_elemento ){
-                  if(!json_fields.some(elem => elem === llaves_elemento[k])){
-                      alert("Error en la estructura del JSON: Campo invalido: " + llaves_elemento[k]);
-                      return false;
-                  }
-
-                  if(typeof json[elemento][llaves_elemento[k]] !== json_types[llaves_elemento[k]]){
-                      alert("Error en la estructura del JSON: El campo " + llaves_elemento[k] + " debe ser de tipo " + json_types[llaves_elemento[k]]);
-                      return false;
-                  }
-              }
-          }
-          return true;
-      }

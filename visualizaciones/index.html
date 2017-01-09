@@ -481,22 +481,22 @@
             //alert(grafica);
             if (grafica == "Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991") {
                 descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.<br><i>Fuente: Conapo http://www.conapo.gob.mx/en/CONAPO/Indicadores</i>";
-                dato = ["Entidades Federativas 2010/2050", "Conapo", "JSON"];
+                datos = ["Entidades Federativas 2010/2050", "Conapo", "JSON"];
             } else if (grafica < 20) {
                 greeting = "Good day";
             } else {
                 descripcion = "No disponible";
-                datos = "No disponible";
+                datos = ["No disponible", "No disponible", ""];
             }
             $("#descripcion").html("");
             $("#descripcion").append(descripcion);
             $("#nombreDato").html("");
             $("#institucionDato").html("");
             $("#tipoDato").html("");
-            document.getElementById("nombreDato").innerHTML = dato[0];
-            document.getElementById("institucionDato").innerHTML = dato[1];
-            document.getElementById("tipoDato").innerHTML = dato[2];
-            $( "#tipoDato" ).attr( "data-format", dato[2] );
+            document.getElementById("nombreDato").innerHTML = datos[0];
+            document.getElementById("institucionDato").innerHTML = datos[1];
+            document.getElementById("tipoDato").innerHTML = datos[2];
+            $( "#tipoDato" ).attr( "data-format", datos[2] );
         }
         $('#tipoGrafica').on('click', function() {
           $( "#compartir" ).hide();

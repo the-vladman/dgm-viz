@@ -62,11 +62,11 @@
                 <br>
                 <!-- Nav tabs -->
                 <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist">
-                    <li role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
+                    <li role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getInfoChart(document.getElementById('chartBarra').options[0].text);"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getInfoChart(document.getElementById('chartComposicion').options[0].text);"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getInfoChart(document.getElementById('chartMap').options[0].text);"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getInfoChart(document.getElementById('chartSector').options[0].text);"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
+                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getInfoChart(document.getElementById('chartDispersion').options[0].text);"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
                 </ul>
             </div>
         </div>
@@ -399,7 +399,8 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-              <div></div> <!-- AQUI VA LA DESCRIPCIÓN -->
+                <br>
+                <div id="descripcion"></div> <!-- AQUI VA LA DESCRIPCIÓN -->
             </div>
         </div>
         <div class="row">
@@ -416,7 +417,6 @@
             <div class="col-md-12">
               <button id="btnDescargar" class="btn btn-default" type="submit">DESCARGAR</button>
               <button id="btnEmbeber" class="btn btn-default">EMBEBER</button>
-
             </div>
         </div>
         <div class="row">
@@ -440,10 +440,10 @@
                         </thead>
                         <tbody>
                             <tr class="hidden-xs hidden-sm">
-                                <td class="">Cuarto Informe de Gobierno</td>
-                                <td width="25%" class="">Presidencia</td>
+                                <td id="nombreDato" class="">Cuarto Informe de Gobierno</td>
+                                <td id="institucionDato" width="25%" class="">Presidencia</td>
                                 <td width="10%">
-                                    <span data-format="XLSX" class="dataset-format">XLSX</span></td>
+                                    <span id="tipoDato" data-format="XLSX" class="dataset-format">XLSX</span></td>
                             </tr>
                         </tbody>
                     </table>
@@ -462,18 +462,42 @@
     <script src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
     <script src="js/saveSvgAsPng.js"></script>
 
-
     <script type="text/javascript">
-    $( document ).ready(function() {
+
         var switcher$ = $('.graficas'),
         switchTarget$ = $('#marcoVisualizaciones');
         switchTarget$.attr('src', switcher$.val());
+        getInfoChart(document.getElementById('chartBarra').options[0].text);
+
 
         $('.graficas').on('change', function() {
-          $( "#compartir" ).hide();
-          document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
+            $( "#compartir" ).hide();
+            document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
+            getInfoChart(this.options[this.selectedIndex].text);
         });
 
+        function getInfoChart(var1) {
+            var grafica = var1;
+            //alert(grafica);
+            if (grafica == "Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991") {
+                descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.<br><i>Fuente: Conapo http://www.conapo.gob.mx/en/CONAPO/Indicadores</i>";
+                dato = ["Entidades Federativas 2010/2050", "Conapo", "JSON"];
+            } else if (grafica < 20) {
+                greeting = "Good day";
+            } else {
+                descripcion = "No disponible";
+                datos = "No disponible";
+            }
+            $("#descripcion").html("");
+            $("#descripcion").append(descripcion);
+            $("#nombreDato").html("");
+            $("#institucionDato").html("");
+            $("#tipoDato").html("");
+            document.getElementById("nombreDato").innerHTML = dato[0];
+            document.getElementById("institucionDato").innerHTML = dato[1];
+            document.getElementById("tipoDato").innerHTML = dato[2];
+            $( "#tipoDato" ).attr( "data-format", dato[2] );
+        }
         $('#tipoGrafica').on('click', function() {
           $( "#compartir" ).hide();
         });
@@ -492,7 +516,7 @@
             var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
                 saveSvgAsPng(document.querySelector('svg'), filename+".png");
         });
-    });
+
     </script>
 
 </body>

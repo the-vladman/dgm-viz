@@ -6,13 +6,15 @@
     <meta charset="utf-8" http-equiv="cache-control" content="no-cache">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-    <link rel='stylesheet' href='css/main.css' />
-    <!-- Polymer -->
+        <!-- Polymer -->
+    <script type="text/javascript" src="bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
     <link rel="import" href="bower_components/polymer/polymer.html">
     <link rel="import" href="bower_components/dgm-navbar/dgm-navbar.html">
     <link rel="import" href="bower_components/dgm-footer/dgm-footer.html">
+
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel='stylesheet' href='css/main.css' />
 </head>
 
 <body>
@@ -62,11 +64,11 @@
                 <br>
                 <!-- Nav tabs -->
                 <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist">
-                    <li role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getInfoChart(document.getElementById('chartBarra').options[0].text);"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getInfoChart(document.getElementById('chartComposicion').options[0].text);"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getInfoChart(document.getElementById('chartMap').options[0].text);"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getInfoChart(document.getElementById('chartSector').options[0].text);"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
-                    <li role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getInfoChart(document.getElementById('chartDispersion').options[0].text);"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
+                    <li id="pillBart" role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getInfoChart(document.getElementById('chartBarra').options[0].text);"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
+                    <li id="pillComposicion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getInfoChart(document.getElementById('chartComposicion').options[0].text);"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+                    <li id="pillMap" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getInfoChart(document.getElementById('chartMap').options[0].text);"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
+                    <li id="pillSector" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getInfoChart(document.getElementById('chartSector').options[0].text);"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
+                    <li id="pillDispersion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getInfoChart(document.getElementById('chartDispersion').options[0].text);"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
                 </ul>
             </div>
         </div>
@@ -458,8 +460,9 @@
     <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
     <!-- BOOTSTRAP -->
     <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
     <script type="text/javascript" src="js/saveSvgAsPng.js"></script>
+
     <script type="text/javascript" src="js/main.js"></script>
 
 </body>

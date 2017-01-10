@@ -1,11 +1,10 @@
 var switcher$ = $('.graficas'),
-switchTarget$ = $('#marcoVisualizaciones');
+    switchTarget$ = $('#marcoVisualizaciones');
 switchTarget$.attr('src', switcher$.val());
 getInfoChart(document.getElementById('chartBarra').options[0].text);
-
-
+$('#btnDescargar').prop('disabled', true);
 $('.graficas').on('change', function() {
-    $( "#compartir" ).hide();
+    $("#compartir").hide();
     document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
     getInfoChart(this.options[this.selectedIndex].text);
 });
@@ -42,23 +41,29 @@ function getInfoChart(var1) {
     document.getElementById("nombreDato").innerHTML = datos[0];
     document.getElementById("institucionDato").innerHTML = datos[1];
     document.getElementById("tipoDato").innerHTML = datos[2];
-    $( "#tipoDato" ).attr( "data-format", datos[2] );
-}
-$('#tipoGrafica').on('click', function() {
-  $( "#compartir" ).hide();
-});
-
-$( "#btnEmbeber" ).click(function() {
-    $( "#compartir" ).empty();
-    $( "#compartir" ).fadeToggle("slow", function() {
-        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
-        $( "#compartir" ).text('<iframe src="'+ fuente +'" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
+    $("#tipoDato").attr("data-format", datos[2]);
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) { // Desactiva descargar en gráficas de BARRAS
+        if ($('#pillBar').hasClass('active')) {
+            $('#btnDescargar').prop('disabled', true);
+        } else {
+            $('#btnDescargar').prop('disabled', false);
+        }
     });
-});
-document.getElementById("btnDescargar").addEventListener("click", function () {
+}
+document.getElementById("btnDescargar").addEventListener("click", function() {
     var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
     document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
     var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
     var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
-        saveSvgAsPng(document.querySelector('svg'), filename+".png");
+    saveSvgAsPng(document.querySelector('svg'), filename + ".png");
+});
+$('#tipoGrafica').on('click', function() {
+    $("#compartir").hide();
+});
+$("#btnEmbeber").click(function() {
+    $("#compartir").empty();
+    $("#compartir").fadeToggle("slow", function() {
+        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
+        $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
+    });
 });

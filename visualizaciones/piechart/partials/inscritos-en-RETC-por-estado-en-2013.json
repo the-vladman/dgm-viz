@@ -1,5 +1,1 @@
-{
-  "unidad": "Inscritos",
-  "ancho": 550,
-    "valores": [{"label":"CHIHUAHUA","value":145},{"label":"MEXICO","value":524},{"label":"DISTRITO FEDERAL","value":253},{"label":"NUEVO LEON","value":394},{"label":"VERACRUZ","value":180},{"label":"QUERETARO","value":142},{"label":"COAHUILA","value":169},{"label":"TAMAULIPAS","value":261},{"label":"JALISCO","value":171},{"label":"Otros","value":1461}]
-}
+{"unidad":"Especies","ancho":550,"valores":[{"label":"MEXICO","value":524},{"label":"NUEVO LEON","value":394},{"label":"TAMAULIPAS","value":261},{"label":"DISTRITO FEDERAL","value":253},{"label":"VERACRUZ","value":180},{"label":"JALISCO","value":171},{"label":"COAHUILA","value":169},{"label":"CHIHUAHUA","value":145},{"label":"QUERETARO","value":142},{"label":"GUANAJUATO","value":127},{"label":"BAJA CALIFORNIA","value":125},{"label":"SAN LUIS POTOSI","value":99},{"label":"SONORA","value":95},{"label":"Otros","value":844}]}

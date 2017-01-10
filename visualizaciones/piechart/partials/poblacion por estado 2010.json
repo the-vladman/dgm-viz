@@ -1,14 +1,1 @@
-{
-  "unidad": "Especies",
-  "ancho": 550,
-    "valores": [{"label":"Chiapas","value":4796580},
-                {"label":"Distrito Federal","value":8851080},
-                {"label":"Guanajuato","value":5486372},
-                {"label":"Jalisco","value":7350682},
-                {"label":"M\u00e9xico","value":15175862},
-                {"label":"Michoac\u00e1n","value":4351037},
-                {"label":"Nuevo Le\u00f3n","value":4653458},
-                {"label":"Puebla","value":5779829},
-                {"label":"Veracruz","value":7643194},
-                {"label":"Otros","value":31831161}]
-}
+{"unidad":"Especies","ancho":550,"valores":[{"label":"M\u00e9xico","value":15175862},{"label":"Distrito Federal","value":8851080},{"label":"Veracruz","value":7643194},{"label":"Jalisco","value":7350682},{"label":"Puebla","value":5779829},{"label":"Guanajuato","value":5486372},{"label":"Chiapas","value":4796580},{"label":"Nuevo Le\u00f3n","value":4653458},{"label":"Michoac\u00e1n","value":4351037},{"label":"Oaxaca","value":3801962},{"label":"Chihuahua","value":3406465},{"label":"Guerrero","value":3388768},{"label":"Tamaulipas","value":3268554},{"label":"Baja California","value":3155070},{"label":"Sinaloa","value":2767761},{"label":"Coahuila","value":2748391},{"label":"Otros","value":25711473}]}

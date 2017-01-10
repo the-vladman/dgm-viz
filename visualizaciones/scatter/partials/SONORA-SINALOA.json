@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":209764,"NOMBRE LOTE":"EL POETA 2","INICIO":"3/8/1999","FIN":"2/8/2005","VIGENCIA":71,"TITULAR":"","SUPERFICIE":477.682,"ENTIDAD":"SONORA-SINALOA","MUNICIPIO":"EL FUERTE, SINALOA-ALAMOS, SONORA","DESCRIPCION":"LA MOJONERA REGLAMENTARIA SE LOCALIZA:  A 2900 M. AL NE DEL POBLADO LAS PRADERAS Y EN EL PUERTO DEL TESAL, LOCALIZADOS EN EL MPIO. DE EL FUERTE, SINALOA","COO UTM X":711647.037,"COO UTM Y":2922605.164,"CARTA INEGI":"G12B77"}

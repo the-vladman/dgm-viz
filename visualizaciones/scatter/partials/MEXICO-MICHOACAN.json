@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":223500,"NOMBRE LOTE":"DAYANA","INICIO":"12/1/2005","FIN":"11/1/2011","VIGENCIA":71,"TITULAR":"DESARROLLOS MINEROS SAN LUIS, S.A. DE C.V.","SUPERFICIE":4.6344,"ENTIDAD":"MEXICO-MICHOACAN","MUNICIPIO":"EL ORO, MEXICO-MARAVATIO, MICHOACAN-TLALPUJAHUA, MICHOACAN","DESCRIPCION":"SOBRE LA FALDA NW DE UN CERRO SIN NOMBRE A 150 MTS AL W DE LA MINA MUSEO DOS ESTRELLAS.","COO UTM X":378729.488,"COO UTM Y":2188798.979,"CARTA INEGI":"E14A16"}

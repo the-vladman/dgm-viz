@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":67352,"NOMBRE LOTE":"CINCO ESTRELLAS","INICIO":"7/12/1926","FIN":"11/7/1976","VIGENCIA":603,"TITULAR":"","SUPERFICIE":1182.8715,"ENTIDAD":"PUEBLA","MUNICIPIO":"ACATLAN, PUEBLA-PETLALCINGO, PUEBLA-SAN PEDRO YELOIXTLAHUACA, PUEBLA","DESCRIPCION":"EN PROXIMADADES Y AL SURESTE DEL POBLADO SECCION ALLENDE (EL HUAMUCHIL)","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

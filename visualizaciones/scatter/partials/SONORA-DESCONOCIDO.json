@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":178321,"NOMBRE LOTE":"LA LIBERTAD","INICIO":"7/8/1986","FIN":"6/8/2036","VIGENCIA":599,"TITULAR":"","SUPERFICIE":14266.2246,"ENTIDAD":"SONORA-DESCONOCIDO","MUNICIPIO":"DESCONOCIDO, DESCONOCIDO-LA COLORADA, SONORA-MAZATAN, SONORA-VILLA PESQUEIRA, SONORA","DESCRIPCION":"NORTE Y 40 mts. DE LA CARRETERA MAZATAN-SAHUARIPA CORRESPONDE AL PUNTO DE CONTROL No: 4055.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

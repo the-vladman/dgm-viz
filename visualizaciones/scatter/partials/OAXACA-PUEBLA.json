@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":130591,"NOMBRE LOTE":"EL YESO","INICIO":"8/4/1961","FIN":"3/8/2061","VIGENCIA":1195,"TITULAR":"","SUPERFICIE":129,"ENTIDAD":"OAXACA-PUEBLA","MUNICIPIO":"SANTIAGO CHAZUMBA, OAXACA-TOTOLTEPEC DE GUERRERO, PUEBLA","DESCRIPCION":"SE LOCALIZA A 35 METROS DEL CAMINO QUE ENTRA A  LA POBLACION TOTOLTEPEC","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

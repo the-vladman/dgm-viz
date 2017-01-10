@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":614,"NOMBRE LOTE":"EL REFUGIO","INICIO":"1/1/1900","FIN":"1/1/1900","VIGENCIA":0,"TITULAR":"","SUPERFICIE":150,"ENTIDAD":"CHIHUAHUA","MUNICIPIO":"GALEANA, CHIHUAHUA","DESCRIPCION":"EN TERRENOS DEL EJIDO GALEANA CHIH.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

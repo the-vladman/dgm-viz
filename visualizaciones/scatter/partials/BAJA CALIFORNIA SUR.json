@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":164408,"NOMBRE LOTE":"LA ESCONDIDA","INICIO":"7/5/1979","FIN":"6/5/2004","VIGENCIA":299,"TITULAR":"COMPAÑIA MINERA PITALLA, S.A. DE C.V.","SUPERFICIE":11406.3906,"ENTIDAD":"BAJA CALIFORNIA SUR","MUNICIPIO":"LA PAZ, BAJA CALIFORNIA SUR","DESCRIPCION":"TERRENO DE AGOSTADERO, AL W Y 50 MTS. DEL CAMINO DE TERRACERIA SAN ANTONIO-SAN JUAN DE LOS PLANES","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

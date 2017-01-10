@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":7082,"NOMBRE LOTE":"D","INICIO":"8/9/1928","FIN":"8/8/1978","VIGENCIA":599,"TITULAR":"","SUPERFICIE":280,"ENTIDAD":"ZACATECAS","MUNICIPIO":"HUANUSCO, ZACATECAS-TABASCO, ZACATECAS","DESCRIPCION":"COYOQUE, TABASCO COORDENADAS, 714418,2416564,","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

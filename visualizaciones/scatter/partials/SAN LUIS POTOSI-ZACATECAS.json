@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":166401,"NOMBRE LOTE":"SAN MIGUEL","INICIO":"4/6/1980","FIN":"3/6/2030","VIGENCIA":599,"TITULAR":"MINERA MADERO, S.A. DE C.V.","SUPERFICIE":3004.8577,"ENTIDAD":"SAN LUIS POTOSI-ZACATECAS","MUNICIPIO":"GENERAL PANFILO NATERA, ZACATECAS-VILLA GONZALEZ ORTEGA, ZACATECAS-SALINAS, SAN LUIS POTOSI-VILLA DE RAMOS, SAN LUIS POTOSI","DESCRIPCION":"A 1.9 KM AL SUR DEL ENTRONQUE A EL POBLADO DE EMILIANO ZAPATA.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

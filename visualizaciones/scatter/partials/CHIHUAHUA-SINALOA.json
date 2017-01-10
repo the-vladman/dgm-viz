@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":169343,"NOMBRE LOTE":"UNIFICACION MINEROS NORTEÑOS","INICIO":"11/11/1981","FIN":"10/11/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":400,"ENTIDAD":"CHIHUAHUA-SINALOA","MUNICIPIO":"GUADALUPE Y CALVO, CHIHUAHUA-BADIRAGUATO, SINALOA","DESCRIPCION":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: EN LA FALDA PONIENTE DEL CERRO DE LA MINA, O DE LOS CANTILES, TERRENOS DE SAN LUIS GONZAGA","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

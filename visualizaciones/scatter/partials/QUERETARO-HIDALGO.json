@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":238056,"NOMBRE LOTE":"LA PROVIDENCIA","INICIO":"12/7/2011","FIN":"11/7/2061","VIGENCIA":599,"TITULAR":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","SUPERFICIE":735,"ENTIDAD":"QUERETARO-HIDALGO","MUNICIPIO":"TECOZAUTLA, HIDALGO-CADEREYTA DE MONTES, QUERETARO","DESCRIPCION":"MISMO PP DEL T-233197, DEL CUAL DERIVA.","COO UTM X":427887.038,"COO UTM Y":2274514.05,"CARTA INEGI":"F14C67"}

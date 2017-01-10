@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":125934,"NOMBRE LOTE":"EL CONDOR","INICIO":"6/4/1956","FIN":"3/6/2011","VIGENCIA":657,"TITULAR":"","SUPERFICIE":100,"ENTIDAD":"SINALOA","MUNICIPIO":"CULIACAN, SINALOA","DESCRIPCION":"LA FALDA SUR DE SAN ANTONIO, SIND. DE TEPUCHE.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
@@ -83,7 +83,7 @@
 {"TITULO":181201,"NOMBRE LOTE":"TRES DE MAYO","INICIO":"11/9/1987","FIN":"10/9/2037","VIGENCIA":599,"TITULAR":"MINERALS SUPPLY OF THE NORTH, S.A. DE C.V.","SUPERFICIE":8712.0449,"ENTIDAD":"SINALOA","MUNICIPIO":"SAN IGNACIO, SINALOA","DESCRIPCION":"ESTA EN POBLADO GUILLAPA {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [CERNA AL VERTICE DE INEGI No.25016019]
 }","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

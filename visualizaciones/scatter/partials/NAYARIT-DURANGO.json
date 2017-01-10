@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":219795,"NOMBRE LOTE":"LLANITOS 2","INICIO":"11/4/2003","FIN":"10/4/2053","VIGENCIA":599,"TITULAR":"","SUPERFICIE":13491.2178,"ENTIDAD":"NAYARIT-DURANGO","MUNICIPIO":"HUAJICORI, NAYARIT-PUEBLO NUEVO, DURANGO","DESCRIPCION":"UN PEQUEÑO CORDON CONOCIDO COMO EL GUAMUCHIL EN TERRENOS DEL COLOMO Y SNA ANDRES MILPILLAS","COO UTM X":487874.17,"COO UTM Y":2537644.61,"CARTA INEGI":"F13A59"}

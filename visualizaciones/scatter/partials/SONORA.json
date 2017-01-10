@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":32090,"NOMBRE LOTE":"VETA RICA O LA INGLESA","INICIO":"11/3/1928","FIN":"2/11/2011","VIGENCIA":987,"TITULAR":"","SUPERFICIE":27.2871,"ENTIDAD":"SONORA","MUNICIPIO":"HERMOSILLO, SONORA","DESCRIPCION":"UN PLANO COMO 150 MTS. AL N. DE UN CAMINO Y 900 MTS. AL N. DE LA MINA GUADALUPE.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

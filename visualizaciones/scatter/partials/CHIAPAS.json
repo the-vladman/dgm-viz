@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":170994,"NOMBRE LOTE":"MINAS NUEVAS NORTE TRES","INICIO":"5/8/1982","FIN":"4/8/2032","VIGENCIA":599,"TITULAR":"","SUPERFICIE":1000,"ENTIDAD":"CHIAPAS","MUNICIPIO":"LA CONCORDIA, CHIAPAS","DESCRIPCION":"EN EL ESPINAL CONSTRUIDA EN EL TRASPATIO DE UNA CASA PARTICULAR COLINDA CON UNA CANCHA DEPORTIVA,MISMO P.P. DE LA LIMA TITULO 235430","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

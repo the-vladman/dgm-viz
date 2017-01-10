@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":184933,"NOMBRE LOTE":"LA LUCHA","INICIO":"6/12/1989","FIN":"5/12/2039","VIGENCIA":599,"TITULAR":"","SUPERFICIE":340,"ENTIDAD":"MICHOACAN-DESCONOCIDO","MUNICIPIO":"TZITZIO, MICHOACAN-DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"TERRENO PROPIEDAD DE LA SOLICITANTE","COO UTM X":280139.39,"COO UTM Y":2167507.43,"CARTA INEGI":"E14A23"}

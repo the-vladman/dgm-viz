@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":182011,"NOMBRE LOTE":"CARMEN DEL ROCIO","INICIO":"8/4/1988","FIN":"7/4/2013","VIGENCIA":299,"TITULAR":"","SUPERFICIE":126,"ENTIDAD":"DESCONOCIDO-JALISCO","MUNICIPIO":"SAN CRISTOBAL DE LA BARRANCA, JALISCO-DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"TERRENOS DEL RANCHO LAS VIRGENES.","COO UTM X":639726,"COO UTM Y":2327218,"CARTA INEGI":"F13D45"}

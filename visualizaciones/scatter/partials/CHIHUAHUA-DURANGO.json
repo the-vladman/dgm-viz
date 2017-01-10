@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":239358,"NOMBRE LOTE":"SAN ALEX","INICIO":"12/13/2011","FIN":"12/12/2061","VIGENCIA":599,"TITULAR":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","SUPERFICIE":88313,"ENTIDAD":"CHIHUAHUA-DURANGO","MUNICIPIO":"GUADALUPE Y CALVO, CHIHUAHUA-GUANACEVI, DURANGO","DESCRIPCION":"LA RANCHERIA SAN JULIAN","COO UTM X":350147.304,"COO UTM Y":2879822.552,"CARTA INEGI":"G13A84"}

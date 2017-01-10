@@ -39,10 +39,10 @@
           "label": jsonScatter.ejex
       })
       .y({
-          "value": "SUPERFICIE",
+          "value": "VIGENCIA",
           "label": jsonScatter.ejey
       })
-      .size("VIGENCIA")
+      .size("SUPERFICIE")
       .margin({"top":10,"bottom":10})
       .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
       .format({

@@ -27,7 +27,7 @@ function getInfoChart(var1) {
         descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.";
         datos = ["Proyecciones de la población de México", "CONAPO", "JSON"]
     } else if (grafica.match(/Calidad general del agua.*/)) {
-        descripcion = "Contiene las principales variables para medir la calidad del agua por sitio, cuenca, estado. A su vez indica el tipo de sistema ambiental que se mide.<br>Fuetne: Conagua http://201.116.60.25/sina/index_jquery-mobile2.html?tema=calidadAgua";
+        descripcion = "Contiene las principales variables para medir la calidad del agua por sitio, cuenca, estado. A su vez indica el tipo de sistema ambiental que se mide.<br>Fuente: Conagua http://201.116.60.25/sina/index_jquery-mobile2.html?tema=calidadAgua";
         datos = ["Red Nacional de Monitoreo de la Calidad de las Aguas Nacionales", "CONAGUA", "XLS"]
     } else if (grafica.match(/Escuelas por Estado.*/)) {
         descripcion = "Contiene datos sobre escuelas a nivel estatal donde se incluye información respectiva sobre el nombre de la escuela, domicilio,  localización, tipo de sostenimiento de la escuela, así como nivel y tipo de educación.<br>Fuente: Sep  http://www.snie.sep.gob.mx/estadisticas_educativas.html ";

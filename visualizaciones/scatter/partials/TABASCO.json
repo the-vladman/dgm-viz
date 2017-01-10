@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":223226,"NOMBRE LOTE":"MONTSE","INICIO":"11/11/2004","FIN":"10/11/2010","VIGENCIA":71,"TITULAR":"","SUPERFICIE":620,"ENTIDAD":"TABASCO","MUNICIPIO":"TEAPA, TABASCO","DESCRIPCION":"LA CERCA DEL RANCHO LAS CANTERAS, A 4300 MTS. AL NORESTE DE TEAPA.","COO UTM X":507722.23,"COO UTM Y":1942683.749,"CARTA INEGI":"E15D21"}

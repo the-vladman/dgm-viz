@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":189832,"NOMBRE LOTE":"SAN RAMON","INICIO":"6/12/1990","FIN":"5/12/2040","VIGENCIA":599,"TITULAR":"","SUPERFICIE":100,"ENTIDAD":"SAN LUIS POTOSI-DESCONOCIDO","MUNICIPIO":"DESCONOCIDO, DESCONOCIDO-VILLA DE REYES, SAN LUIS POTOSI","DESCRIPCION":"AL SURESTE DE LA PRESA SANTA RITA","COO UTM X":312004.92,"COO UTM Y":2423328.12,"CARTA INEGI":"F14C14"}

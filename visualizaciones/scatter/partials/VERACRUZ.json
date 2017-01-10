@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":164425,"NOMBRE LOTE":"NUEVO LEON","INICIO":"7/5/1979","FIN":"6/5/2004","VIGENCIA":299,"TITULAR":"CANDYMIN, S.A. DE C.V.","SUPERFICIE":897.0837,"ENTIDAD":"VERACRUZ","MUNICIPIO":"ACTOPAN, VERACRUZ","DESCRIPCION":"EL LADO W DE LA ESCUELA DEL POBLADO EL PORVENIR. MISMO PP DEL LOTE CABALLO BLANCO T-218457.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}

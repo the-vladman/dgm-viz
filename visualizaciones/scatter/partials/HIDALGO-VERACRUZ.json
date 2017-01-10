@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":206189,"NOMBRE LOTE":"DON ENRIQUE","INICIO":"11/14/1997","FIN":"11/13/2047","VIGENCIA":599,"TITULAR":"","SUPERFICIE":154,"ENTIDAD":"HIDALGO-VERACRUZ","MUNICIPIO":"ZACUALTIPAN DE ANGELES, HIDALGO-HUAYACOCOTLA, VERACRUZ","DESCRIPCION":"EN EL LUGAR DENOMINADO EL PARAN POTRERO PROPIEDAD DEL SR. RUBEN VARGAS, CASI BAJO EL ARBOL DE ZAPOTE.","COO UTM X":561885.687,"COO UTM Y":2287736.806,"CARTA INEGI":"F14D62"}

@@ -1,7 +1,7 @@
 {
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
-  "ejey": "Superficie en km²",
+"ejey": "Vigencia en meses",
   "unidad": "meses de vigencia",
   "valores": [
 {"TITULO":202878,"NOMBRE LOTE":"FRACC. 11 AGUA BLANCA I","INICIO":"2/4/1996","FIN":"1/4/2046","VIGENCIA":599,"TITULAR":"","SUPERFICIE":5255.374,"ENTIDAD":"COAHUILA-ZACATECAS","MUNICIPIO":"PARRAS, COAHUILA-MELCHOR OCAMPO, ZACATECAS","DESCRIPCION":"SOBRE UNA PEQUEÑA LOMITA EN LAS INMEDIACIONES DEL RANCHITO LA CRUZ.","COO UTM X":211023.555,"COO UTM Y":2766966.587,"CARTA INEGI":"G14C51"}

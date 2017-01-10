@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":181554,"NOMBRE LOTE":"LOS TAJOS","INICIO":"9/11/1987","FIN":"8/11/2012","VIGENCIA":299,"TITULAR":"","SUPERFICIE":342,"ENTIDAD":"GUANAJUATO-DESCONOCIDO","MUNICIPIO":"SAN LUIS DE LA PAZ, GUANAJUATO-DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"EN EL FALDEO SURESTE DE LA MESA BUENAVISTA.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

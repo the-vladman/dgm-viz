@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":197432,"NOMBRE LOTE":"LA CHINCHE","INICIO":"3/9/1993","FIN":"2/9/1999","VIGENCIA":71,"TITULAR":"","SUPERFICIE":253.8452,"ENTIDAD":"COLIMA-JALISCO","MUNICIPIO":"MANZANILLO, COLIMA-CIHUATLAN, JALISCO","DESCRIPCION":"LA FALDA SUR DE UN CERRITO SIN NOMBRE. MISMO PP DEL LOTE MARGARITA T-237187.","COO UTM X":555597.665,"COO UTM Y":2128388.972,"CARTA INEGI":"E13B42"}
 ,

@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":186528,"NOMBRE LOTE":"GUADALUPANA DOS","INICIO":"3/4/1990","FIN":"2/4/2015","VIGENCIA":299,"TITULAR":"","SUPERFICIE":100,"ENTIDAD":"DESCONOCIDO-OAXACA","MUNICIPIO":"DESCONOCIDO, DESCONOCIDO-SANTO DOMINGO TEHUANTEPEC, OAXACA-SALINA CRUZ, OAXACA","DESCRIPCION":"FALDA NORESTE DEL CERRO BARRANCA LIMON, SOBRE LA BRECHA.","COO UTM X":259779.461,"COO UTM Y":1795661.88,"CARTA INEGI":"E15C83"}
 ,

@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":169540,"NOMBRE LOTE":"LA XOCHITL","INICIO":"3/12/1981","FIN":"2/12/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":42122.4414,"ENTIDAD":"SAN LUIS POTOSI-VERACRUZ","MUNICIPIO":"EBANO, SAN LUIS POTOSI-TAMUIN, SAN LUIS POTOSI-PANUCO, VERACRUZ","DESCRIPCION":"AL NOROESTE DE LA ESTCION DE FERROCARRIL TAMUIN EN DESUSO, CAMINO AL RANCHO DE TAMPACUALA EN LAS PROXIMIDADES DEL CASERIO LA ILUSION","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

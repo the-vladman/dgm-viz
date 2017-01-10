@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":181219,"NOMBRE LOTE":"LAURA","INICIO":"11/9/1987","FIN":"10/9/2037","VIGENCIA":599,"TITULAR":"","SUPERFICIE":415,"ENTIDAD":"SINALOA-DESCONOCIDO","MUNICIPIO":"DESCONOCIDO, DESCONOCIDO-BADIRAGUATO, SINALOA-CULIACAN, SINALOA","DESCRIPCION":"LA MOJONERA REGLAMENTARIA SE LOCALIZA EN UN LUGAR LLAMADO COMO CERRO LAS MINAS MISMO PP DEL T-216727.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

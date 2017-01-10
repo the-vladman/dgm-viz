@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":107636,"NOMBRE LOTE":"LOS ALFAFORES SURIADORES, ETC.","INICIO":"9/11/1961","FIN":"10/9/2061","VIGENCIA":1200,"TITULAR":"COOPERATIVA LA CRUZ AZUL, S.C.L.","SUPERFICIE":2660,"ENTIDAD":"OAXACA","MUNICIPIO":"SANTIAGO NILTEPEC, OAXACA-SAN DIONISIO DEL MAR, OAXACA","DESCRIPCION":"LA LADERA SUR DEL CERRO CHACALES, A 8000 MTS. AL NORTE DEL POBLADO GUAMUCHIL Y A 12000 MTS. AL ESTE DEL POBLADO CHICAPA DE CASTRO.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

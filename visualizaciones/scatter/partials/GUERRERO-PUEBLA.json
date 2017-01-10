@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":216709,"NOMBRE LOTE":"MAR-VEL","INICIO":"5/17/2002","FIN":"5/16/2052","VIGENCIA":599,"TITULAR":"COMPAÑIA MINERA ASTUMEX, S.A. DE C.V.","SUPERFICIE":2276.7178,"ENTIDAD":"GUERRERO-PUEBLA","MUNICIPIO":"XOCHIHUEHUETLAN, GUERRERO-ALBINO ZERTUCHE, PUEBLA-IXCAMILPA DE GUERRERO, PUEBLA","DESCRIPCION":"SOBRE LA FALDA NORESTE DEL CERRO  DE DOLORES.","COO UTM X":539741.202,"COO UTM Y":1983706.798,"CARTA INEGI":"E14D12"}
 ,

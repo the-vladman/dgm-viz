@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":169685,"NOMBRE LOTE":"CASSIOPEA","INICIO":"11/12/1981","FIN":"10/12/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":48.9446,"ENTIDAD":"MORELOS","MUNICIPIO":"PUENTE DE IXTLA, MORELOS","DESCRIPCION":"EL LUGAR CONOCIDO COMO MATA REDONDA","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

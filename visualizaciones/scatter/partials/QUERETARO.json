@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":168983,"NOMBRE LOTE":"LA ESTRELLA","INICIO":"2/9/1981","FIN":"1/9/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":548.99,"ENTIDAD":"QUERETARO","MUNICIPIO":"TOLIMAN, QUERETARO","DESCRIPCION":"PP MISMO QUE PC 6051 DE LA SUBRED. GEODESICA MINERA.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

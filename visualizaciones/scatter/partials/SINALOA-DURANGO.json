@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":178542,"NOMBRE LOTE":"LA BONANZA","INICIO":"11/8/1986","FIN":"10/8/2036","VIGENCIA":599,"TITULAR":"","SUPERFICIE":38,"ENTIDAD":"SINALOA-DURANGO","MUNICIPIO":"TAMAZULA, DURANGO-COSALA, SINALOA-SAN IGNACIO, SINALOA","DESCRIPCION":"EL POBLADO EL CHILAR.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":181224,"NOMBRE LOTE":"LA REYNA","INICIO":"11/9/1987","FIN":"10/9/2037","VIGENCIA":599,"TITULAR":"","SUPERFICIE":3089.6157,"ENTIDAD":"SINALOA-DESCONOCIDO-DURANGO","MUNICIPIO":"PUEBLO NUEVO, DURANGO-DESCONOCIDO, DESCONOCIDO-ROSARIO, SINALOA","DESCRIPCION":"LA MOJONERA O SEÑAL REGLAMENTARIA SE LOCALIZA  EN LA FALDA SE, DE UN CERRO SIN NOMBRE","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 

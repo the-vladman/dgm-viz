@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":31425,"NOMBRE LOTE":"LA CONCEPCION","INICIO":"2/2/1892","FIN":"1/2/2011","VIGENCIA":0,"TITULAR":"","SUPERFICIE":35,"ENTIDAD":"","MUNICIPIO":"","DESCRIPCION":"","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

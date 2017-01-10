@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":218659,"NOMBRE LOTE":"SAN JUAN FRACC. B","INICIO":"3/12/2002","FIN":"2/12/2052","VIGENCIA":599,"TITULAR":"","SUPERFICIE":156.0727,"ENTIDAD":"MICHOACAN-COLIMA","MUNICIPIO":"COAHUAYANA, MICHOACAN-TECOMAN, COLIMA","DESCRIPCION":"SE LOCALIZA EN LA CANCHA DE FUTBOL DE LA LOCALIDAD DE BOCA DE APIZA MPIO. DE COAHUAYANA, MICH.","COO UTM X":633610.997,"COO UTM Y":2066666.748,"CARTA INEGI":"E13B54"}
 ,

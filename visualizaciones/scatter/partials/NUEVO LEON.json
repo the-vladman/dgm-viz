@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":124290,"NOMBRE LOTE":"LA ASUNCION DE QUEBRADILLA","INICIO":"8/2/1955","FIN":"1/8/2011","VIGENCIA":665,"TITULAR":"","SUPERFICIE":300,"ENTIDAD":"NUEVO LEON","MUNICIPIO":"GALEANA, NUEVO LEON","DESCRIPCION":"MOJONERA SEÑAL REGLAMENTARIA LOCALIZADA EN LA FALDA NORTE DEL CERRO DE LOS LOBITOS EN LAS COORDENADAS GEOGRAFICAS","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

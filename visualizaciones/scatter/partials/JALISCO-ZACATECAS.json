@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":170664,"NOMBRE LOTE":"AMPL. No. 1 A SAN VICENTE","INICIO":"11/6/1982","FIN":"10/6/2032","VIGENCIA":599,"TITULAR":"","SUPERFICIE":240,"ENTIDAD":"JALISCO-ZACATECAS","MUNICIPIO":"TOTATICHE, JALISCO-MONTE ESCOBEDO, ZACATECAS","DESCRIPCION":"TERRENOS DEL RANCHO SAN PABLO.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

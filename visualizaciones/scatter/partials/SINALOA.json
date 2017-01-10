@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":125934,"NOMBRE LOTE":"EL CONDOR","INICIO":"6/4/1956","FIN":"3/6/2011","VIGENCIA":657,"TITULAR":"","SUPERFICIE":100,"ENTIDAD":"SINALOA","MUNICIPIO":"CULIACAN, SINALOA","DESCRIPCION":"LA FALDA SUR DE SAN ANTONIO, SIND. DE TEPUCHE.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,
@@ -84,7 +84,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [CERNA AL VERTICE DE INEGI No.25016019]
 }","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

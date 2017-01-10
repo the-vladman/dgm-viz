@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":7083,"NOMBRE LOTE":"E","INICIO":"8/9/1928","FIN":"8/8/1978","VIGENCIA":599,"TITULAR":"","SUPERFICIE":200,"ENTIDAD":"AGUASCALIENTES","MUNICIPIO":"JESUS MARIA, AGUASCALIENTES","DESCRIPCION":"PARTE NORTE JUNTO A LA CORTINA DE LA PRESA LOS ARQUITOS","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

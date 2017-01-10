@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":219539,"NOMBRE LOTE":"SAN JAVIER","INICIO":"12/3/2003","FIN":"11/3/2053","VIGENCIA":599,"TITULAR":"MINERA METALIN, S.A. DE C.V.","SUPERFICIE":359669.6563,"ENTIDAD":"COAHUILA-CHIHUAHUA","MUNICIPIO":"JIMENEZ, CHIHUAHUA-OCAMPO, COAHUILA-SIERRA MOJADA, COAHUILA","DESCRIPCION":"PARTE BAJA DE LA FALDA NORTE DE LA SIERRA MOJADA, MISMO P.P. SIERRA MOJADA T.-235371  Y MISMO P.P. DORMIDOS T.-229323.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

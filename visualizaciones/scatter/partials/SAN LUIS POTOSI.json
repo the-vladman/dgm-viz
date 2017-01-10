@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":165796,"NOMBRE LOTE":"NUEVA LUZ DEL NAYAL","INICIO":"11/12/1979","FIN":"10/12/2029","VIGENCIA":599,"TITULAR":"MINAS AÑO TRES MIL, S.A. DE C.V.","SUPERFICIE":500,"ENTIDAD":"SAN LUIS POTOSI","MUNICIPIO":"SAN LUIS POTOSI, SAN LUIS POTOSI-SOLEDAD DE GRACIANO SANCHEZ, SAN LUIS POTOSI","DESCRIPCION":"","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

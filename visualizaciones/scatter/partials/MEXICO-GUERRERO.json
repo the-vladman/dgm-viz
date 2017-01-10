@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":170665,"NOMBRE LOTE":"2A. AMPL. DE SAN VICENTE","INICIO":"11/6/1982","FIN":"10/6/2032","VIGENCIA":599,"TITULAR":"COMPAÑIA MINERA AUTLAN, S.A. DE C.V. AHORA: S.A.B. DE C.V.","SUPERFICIE":323,"ENTIDAD":"MEXICO-GUERRERO","MUNICIPIO":"TLATLAYA, MEXICO-TLALCHAPA, GUERRERO","DESCRIPCION":"TERRENOS DE LA COMUNIDAD DE SAN VICENTE MISMO PPO DEL LOTE ALTAMIRANO 1  T  229535","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

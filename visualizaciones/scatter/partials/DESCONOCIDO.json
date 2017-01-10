@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":236629,"NOMBRE LOTE":"LECHUZA FRACC. 1","INICIO":"7/30/2010","FIN":"7/29/2060","VIGENCIA":599,"TITULAR":"CIA. MINERA CEDROS, S.A. DE C.V.","SUPERFICIE":21.0552,"ENTIDAD":"DESCONOCIDO","MUNICIPIO":"DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"SOBRE EL CERRO DEL CONEJO Y RANCHO DEL CABO TERRENOS DE MINERAL DEL CERRO Y CORDONES","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":"F14C53"}
 ,

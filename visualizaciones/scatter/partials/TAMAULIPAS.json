@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":158272,"NOMBRE LOTE":"MINA DEL AIRE","INICIO":"5/3/1973","FIN":"4/3/2023","VIGENCIA":599,"TITULAR":"MINERA COPLAU, S.A. DE C.V.","SUPERFICIE":2153.668,"ENTIDAD":"TAMAULIPAS","MUNICIPIO":"LLERA, TAMAULIPAS","DESCRIPCION":"EL PATIO DE LA CASA DEL SR. JOSE LUIS GUZMAN CASTRO, UBICADA EN LA PARTE NORTE DEL RANCHO LAS MINAS (LA VOZ CAMPESINA).","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

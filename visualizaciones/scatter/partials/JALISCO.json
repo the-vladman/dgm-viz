@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":105127,"NOMBRE LOTE":"LA LOCOMOTORA","INICIO":"4/4/1961","FIN":"3/4/2061","VIGENCIA":1199,"TITULAR":"","SUPERFICIE":2000,"ENTIDAD":"JALISCO","MUNICIPIO":"JALOSTOTITLAN, JALISCO","DESCRIPCION":"EN TERRENOS DEL POBLADO DE SAN NICOLAS DE LAS FLORES","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

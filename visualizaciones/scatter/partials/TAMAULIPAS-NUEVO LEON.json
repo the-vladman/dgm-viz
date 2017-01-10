@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":160650,"NOMBRE LOTE":"PIPICHAGUA","INICIO":"10/10/1974","FIN":"9/10/2024","VIGENCIA":599,"TITULAR":"MINERIA Y ENERGIA DEL NORESTE, S.A.","SUPERFICIE":1021,"ENTIDAD":"TAMAULIPAS-NUEVO LEON","MUNICIPIO":"ANAHUAC, NUEVO LEON-NUEVO LAREDO, TAMAULIPAS","DESCRIPCION":"EN LA MOJONERA SEÑAL LOCALIZADA AL OESTE Y 1000 MTS. DEL RANCHO EL BONITO, CORRESPONDE AL P.P. DEL LOTE SANTA ANITA 2 T.- 224905","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

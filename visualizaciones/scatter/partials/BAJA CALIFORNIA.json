@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":7087,"NOMBRE LOTE":"I","INICIO":"8/9/1928","FIN":"8/8/1978","VIGENCIA":599,"TITULAR":"","SUPERFICIE":704,"ENTIDAD":"BAJA CALIFORNIA","MUNICIPIO":"MEXICALI, BAJA CALIFORNIA","DESCRIPCION":"EN TERRENO PLANO, AL PIE DE LA FALDA ORIENTAL DE LA SIERRA EL MAYOR EN LA ZONA DE RIO HARDY, MISMA PP DEL LOTE EL MAYOR E-002/08084.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

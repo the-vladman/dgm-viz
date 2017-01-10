@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":219699,"NOMBRE LOTE":"SAN JOSE","INICIO":"2/4/2003","FIN":"1/4/2053","VIGENCIA":599,"TITULAR":"COMPAÑIA MINERA ATOYAC, S.A. DE C.V.","SUPERFICIE":35,"ENTIDAD":"CAMPECHE","MUNICIPIO":"CALAKMUL, CAMPECHE","DESCRIPCION":"EN LAS AFUERAS DEL POBLADO DE XPUJIL Y ESTA EN UN BANCO DE YESO, EN TERRENOS EJIDALES DE EL EJIDO XPUJIL","COO UTM X":250859.466,"COO UTM Y":2046200.593,"CARTA INEGI":"E16A72"}
 ,

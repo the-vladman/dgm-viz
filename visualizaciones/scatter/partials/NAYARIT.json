@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":168507,"NOMBRE LOTE":"AMPLIACION AL TRIANGULO","INICIO":"2/6/1981","FIN":"1/6/2006","VIGENCIA":299,"TITULAR":"","SUPERFICIE":200,"ENTIDAD":"NAYARIT","MUNICIPIO":"IXTLAN DEL RIO, NAYARIT","DESCRIPCION":"TERRENO PEQUEÑA PROPIEDAD DE LA SEÑORA MARICELA GODINEZ SANDOVAL.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":168286,"NOMBRE LOTE":"LAS ANIMAS","INICIO":"2/4/1981","FIN":"1/4/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":523.0887,"ENTIDAD":"MEXICO","MUNICIPIO":"AMATEPEC, MEXICO-TLATLAYA, MEXICO","DESCRIPCION":"EN TERRENOS DEL SEÑOR SAUL PEREZ BENITEZ","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

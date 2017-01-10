@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":175672,"NOMBRE LOTE":"KLONDIKE 2","INICIO":"6/8/1985","FIN":"5/8/2010","VIGENCIA":299,"TITULAR":"MINERA SIERRA VIEJA, S.A. DE C.V.","SUPERFICIE":3738.6665,"ENTIDAD":"CHIHUAHUA-DESCONOCIDO","MUNICIPIO":"AQUILES SERDAN, CHIHUAHUA-DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"JUNTO A TANQUE DE AGUA DE SAN ANTONIO EL GRANDE, ES EL P.C. 1205.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

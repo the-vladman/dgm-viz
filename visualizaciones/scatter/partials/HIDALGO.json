@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":168179,"NOMBRE LOTE":"CRUZ SANTA","INICIO":"2/3/1981","FIN":"1/3/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":400,"ENTIDAD":"HIDALGO","MUNICIPIO":"TASQUILLO, HIDALGO","DESCRIPCION":"PARTE ALTA DE LA LOMA DENOMINADA TIERRA BLANCA","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

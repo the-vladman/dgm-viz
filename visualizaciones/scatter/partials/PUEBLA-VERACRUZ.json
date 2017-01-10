@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":168982,"NOMBRE LOTE":"LA GOLONDRINA","INICIO":"2/9/1981","FIN":"1/9/2031","VIGENCIA":599,"TITULAR":"","SUPERFICIE":40551.9141,"ENTIDAD":"PUEBLA-VERACRUZ","MUNICIPIO":"ZIHUATEUTLA, PUEBLA-COATZINTLA, VERACRUZ-COYUTLA, VERACRUZ-ESPINAL, VERACRUZ-PAPANTLA, VERACRUZ","DESCRIPCION":"RUMBO A LA COMUNIDAD DE PACHTEPEC, PUEBLA, SE RECORREN 350 METROS Y AHI SE ENCUENTRA EL P. P.","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 

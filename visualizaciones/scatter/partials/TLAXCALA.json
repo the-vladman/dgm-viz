@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":214148,"NOMBRE LOTE":"LA LOTERIA","INICIO":"10/8/2001","FIN":"9/8/2051","VIGENCIA":599,"TITULAR":"MINERA SUMEX, S.A. DE C.V.","SUPERFICIE":3918,"ENTIDAD":"TLAXCALA","MUNICIPIO":"HUAMANTLA, TLAXCALA-TERRENATE, TLAXCALA","DESCRIPCION":"A 600 M AL ESTE DEL CAMINO FRANCISCO VILLA TECOAC - EL CAPULIN.","COO UTM X":614698.77,"COO UTM Y":2146882.43,"CARTA INEGI":"E14B34"}
 ,

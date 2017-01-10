@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":179783,"NOMBRE LOTE":"ELPIMA No. 2","INICIO":"1/1/1900","FIN":"1/1/1900","VIGENCIA":0,"TITULAR":"MINERA CANASIL, S.A. DE C.V.","SUPERFICIE":733,"ENTIDAD":"DURANGO","MUNICIPIO":"GUANACEVI, DURANGO-TEPEHUANES, DURANGO","DESCRIPCION":"LA MOJONERA REGLAMENTARIA SE LOCALIZA AL SE DEL CERRO DE MICROONDAS, MISMO QUE SANDRA I T-226986","COO UTM X":0,"COO UTM Y":0,"CARTA INEGI":""}
 ,

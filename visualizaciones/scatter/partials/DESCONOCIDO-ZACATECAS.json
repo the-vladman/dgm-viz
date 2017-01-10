@@ -2,7 +2,7 @@
   "label": "Concesiones mineras por municipios",
   "ejex": "Fecha de inicio de contrato",
 "ejey": "Vigencia en meses",
-  "unidad": "meses de vigencia",
+  "unidad": "km² de superficie",
   "valores": [
 {"TITULO":186532,"NOMBRE LOTE":"LA GUADALUPANA","INICIO":"3/4/1990","FIN":"2/4/2015","VIGENCIA":299,"TITULAR":"","SUPERFICIE":356,"ENTIDAD":"DESCONOCIDO-ZACATECAS","MUNICIPIO":"FRESNILLO, ZACATECAS-DESCONOCIDO, DESCONOCIDO","DESCRIPCION":"AL ESTE DE LA CARRETERA NUMERO 49","COO UTM X":709835.563,"COO UTM Y":2608287.425,"CARTA INEGI":"F13B27"}
 ,

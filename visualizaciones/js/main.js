@@ -11,7 +11,7 @@ $('.graficas').on('change', function() {
 
 function getInfoChart(var1) {
     var grafica = var1;
-    if (grafica.match(/Población media total.*/)) {
+    if (grafica.match(/Población media Total.*/)) {
         descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.<br><i>Fuente: Conapo http://www.conapo.gob.mx/en/CONAPO/Indicadores</i>";
         datos = ["Proyecciones de la población de México", "CONAPO", "JSON"];
     } else if (grafica.match(/Nacimientos Anuales.*/)) {

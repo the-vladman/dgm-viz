@@ -71,7 +71,6 @@
             </div>
         </div>
 	<br>
-	<br>
         <div class="row">
             <div class="col-md-12">
                 <strong>2. Selecciona la base de datos</strong>
@@ -266,16 +265,16 @@
                     <div id="mapa" class="tab-pane fade">
                         <select id="chartMap" class="form-control graficas">
                       <option value="mapa/Catálogo Centros de Trabajo.html">Catálogo Centros de Trabajo</option>
-                      <option value="mapa/Matrícula por institución - DoctoradoParticular.html">Matrícula por Institución - DoctoradoParticular</option>
-                      <option value="mapa/Matrícula por institución - DoctoradoPublica.html">Matrícula por Institución - DoctoradoPublica</option>
-                      <option value="mapa/Matrícula por institución - LicenciaturaParticular.html">Matrícula por Institución - LicenciaturaParticular</option>
-                      <option value="mapa/Matrícula por institución - LicenciaturaPublica.html">Matrícula por Institución - LicenciaturaPublica</option>
-                      <option value="mapa/Matrícula por institución - MaestriaParticular.html">Matrícula por Institución - MaestriaParticular</option>
-                      <option value="mapa/Matrícula por institución - MaestriaPublica.html">Matrícula por Institución - MaestriaPublica</option>
-                      <option value="mapa/muestras-para-analisis-bacteriologico.html">Agua de consumo humano - Muestras para análisis</option>
-                      <option value="mapa/dentro-de-norma.html">Agua de consumo humano - Muestras dentro de la norma</option>
-                      <option value="mapa/debajo-de-norma.html">Agua de consumo humano - Muestras debajo de la norma</option>
-                      <option value="mapa/cobertura-de-vigilancia.html">Agua de consumo humano - Cobertura de vigilancia</option>
+                      <option value="mapa/Matrícula por institución - DoctoradoParticular.html">Matrícula por Institución - Doctorado en escuela Particular</option>
+                      <option value="mapa/Matrícula por institución - DoctoradoPublica.html">Matrícula por Institución - Doctorado en escuela Pública</option>
+                      <option value="mapa/Matrícula por institución - LicenciaturaParticular.html">Matrícula por Institución - Licenciatura en escuela Particular</option>
+                      <option value="mapa/Matrícula por institución - LicenciaturaPublica.html">Matrícula por Institución - Licenciatura en escuela Pública</option>
+                      <option value="mapa/Matrícula por institución - MaestriaParticular.html">Matrícula por Institución - Maestria en escuela Particular</option>
+                      <option value="mapa/Matrícula por institución - MaestriaPublica.html">Matrícula por Institución - Maestria en escuela Pública</option>
+                      <option value="mapa/muestras-para-analisis-bacteriologico.html">Agua de Consumo Humano - Muestras para análisis</option>
+                      <option value="mapa/dentro-de-norma.html">Agua de Consumo Humano - Muestras dentro de la norma</option>
+                      <option value="mapa/debajo-de-norma.html">Agua de Consumo Humano - Muestras debajo de la norma</option>
+                      <option value="mapa/cobertura-de-vigilancia.html">Agua de Consumo Humano - Cobertura de vigilancia</option>
                       </select>
                     </div>
                     <div id="sector" class="tab-pane fade">
@@ -456,68 +455,12 @@
 
     <dgm-footer></dgm-footer>
     <!-- JQuery -->
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
     <!-- BOOTSTRAP -->
-    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="js/saveSvgAsPng.js"></script>
-
-    <script type="text/javascript">
-
-        var switcher$ = $('.graficas'),
-        switchTarget$ = $('#marcoVisualizaciones');
-        switchTarget$.attr('src', switcher$.val());
-        getInfoChart(document.getElementById('chartBarra').options[0].text);
-
-
-        $('.graficas').on('change', function() {
-            $( "#compartir" ).hide();
-            document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
-            getInfoChart(this.options[this.selectedIndex].text);
-        });
-
-        function getInfoChart(var1) {
-            var grafica = var1;
-            //alert(grafica);
-            if (grafica == "Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991") {
-                descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.<br><i>Fuente: Conapo http://www.conapo.gob.mx/en/CONAPO/Indicadores</i>";
-                datos = ["Entidades Federativas 2010/2050", "Conapo", "JSON"];
-            } else if (grafica < 20) {
-                greeting = "Good day";
-            } else {
-                descripcion = "No disponible";
-                datos = ["No disponible", "No disponible", ""];
-            }
-            $("#descripcion").html("");
-            $("#descripcion").append(descripcion);
-            $("#nombreDato").html("");
-            $("#institucionDato").html("");
-            $("#tipoDato").html("");
-            document.getElementById("nombreDato").innerHTML = datos[0];
-            document.getElementById("institucionDato").innerHTML = datos[1];
-            document.getElementById("tipoDato").innerHTML = datos[2];
-            $( "#tipoDato" ).attr( "data-format", datos[2] );
-        }
-        $('#tipoGrafica').on('click', function() {
-          $( "#compartir" ).hide();
-        });
-
-        $( "#btnEmbeber" ).click(function() {
-            $( "#compartir" ).empty();
-            $( "#compartir" ).fadeToggle("slow", function() {
-                var fuente = $('#marcoVisualizaciones').contents().get(0).location.href;
-                $( "#compartir" ).text('<iframe src="'+ fuente +'" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;">');
-            });
-        });
-        document.getElementById("btnDescargar").addEventListener("click", function () {
-            var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
-            document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
-            var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
-            var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
-                saveSvgAsPng(document.querySelector('svg'), filename+".png");
-        });
-
-    </script>
+    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://datos.gob.mx/ckan/assets/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+    <script type="text/javascript" src="js/saveSvgAsPng.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
 
 </body>
 </html>

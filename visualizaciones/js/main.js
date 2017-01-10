@@ -30,8 +30,8 @@ function getInfoChart(var1) {
         descripcion = "";
         datos = ["Proyecciones de la población de México", "CONAPO", "JSON"]
     } else {
-        descripcion = "No disponible";
-        datos = ["No disponible", "No disponible", ""];
+        descripcion = "";
+        datos = ["", "", ""];
     }
     $("#descripcion").html("");
     $("#descripcion").append(descripcion);

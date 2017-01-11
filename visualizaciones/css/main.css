@@ -7579,3 +7579,59 @@ h1:after {
 }
 #loadImg{position:absolute;z-index:999;}
 #loadImg div{display:table-cell;width:950px;height:633px;background:#fff;text-align:center;vertical-align:middle;}
+
+.data-table table>thead>tr>th {
+    font-size: 14px
+}
+
+.data-table table>tbody>tr>td {
+    font-size: 14px
+}
+
+.data-table table>tbody>tr>td>a {
+    font-weight: 500;
+    color: #545454
+}
+
+.data-table {
+    padding: 30px 20px;
+    background-color: #efefef;
+    border-radius: 4px
+}
+
+.data-table table {
+    margin-bottom: 0
+}
+
+.data-table table>tbody>tr {
+    cursor: pointer
+}
+
+.data-table table>tbody>tr>td {
+    padding-bottom: 20px;
+    border-top-color: #d8d8d8
+}
+
+@media (max-width:992px) {
+    .data-table {
+        padding: 20px 10px
+    }
+    .data-table table>tbody>tr>td>p {
+        font-size: 11px;
+        margin-bottom: 10px
+    }
+    .data-table table>tbody>tr>td>a {
+        font-size: 11px
+    }
+    .data-table table>tbody>tr>td>p>span {
+        font-size: 10px;
+        float: right
+    }
+    .data-table table>tbody>tr>td>p:last-child {
+        margin-bottom: 0
+    }
+}
+
+.section-data .data-table .table {
+    margin-bottom: 0
+}

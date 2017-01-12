@@ -1,8 +1,9 @@
 # Pull base image.
 FROM nginx
 
-# Create the application directory
-RUN mkdir -p /usr/share/nginx/html/visualizaciones
+COPY default.conf /etc/nginx/conf.d/
+
+COPY ./visualizaciones /usr/share/nginx/html/
 
 WORKDIR /usr/share/nginx/html/visualizaciones
 
@@ -15,10 +16,6 @@ RUN apt-get update && \
 	apt-get purge -y curl apt-transport-https && \
 	apt-get autoremove -y && \
 apt-get clean all
-
-COPY . /usr/share/nginx/html/visualizaciones
-
-RUN ls -la /usr/share/nginx/html/visualizaciones
 
 RUN npm install -g bower
 RUN bower --allow-root install

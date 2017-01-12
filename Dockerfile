@@ -14,9 +14,7 @@ RUN apt-get update && \
 	apt-get install -y git-core curl
 RUN curl -sL https://deb.nodesource.com/setup_4.x | bash -
 RUN apt-get install -y nodejs
-#		RUN	apt-get purge -y curl apt-transport-https && \
-#		apt-get autoremove -y && \
-#		apt-get clean all
+
 RUN rm -rf bower_install && node -v
 RUN npm install -g bower
 RUN bower --allow-root install

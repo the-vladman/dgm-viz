@@ -42,7 +42,6 @@ nv.addGraph(function() {
       .showLegend(false)
       .groupSpacing(0.1)
       .yDomain([60,80])
-      .yDomain([60,80])
       .margin({"left":60,"right":20,"top":5,"bottom":20})
       .color(d3.scale.categoryDatos().range());
 

@@ -1,22 +1,23 @@
 # Pull base image.
 FROM nginx
 
-COPY default.conf /etc/nginx/conf.d/
+COPY default.conf /etc/nginx/conf.d
 
-COPY ./visualizaciones /usr/share/nginx/html/
+RUN mkdir -p /usr/share/nginx/html/visualizaciones/
+
+COPY ./visualizaciones/ /usr/share/nginx/html/visualizaciones/
 
 WORKDIR /usr/share/nginx/html/visualizaciones
 
 # Install Node.js
 RUN apt-get update && \
-	apt-get install -y git-all && \	
-	apt-get install -y curl && \
-	curl -sL https://deb.nodesource.com/setup_4.x | bash - && \
-	apt-get install -y nodejs && \
-	apt-get purge -y curl apt-transport-https && \
-	apt-get autoremove -y && \
-apt-get clean all
-
+	apt-get install -y git-core curl
+RUN curl -sL https://deb.nodesource.com/setup_4.x | bash -
+RUN apt-get install -y nodejs
+#		RUN	apt-get purge -y curl apt-transport-https && \
+#		apt-get autoremove -y && \
+#		apt-get clean all
+RUN rm -rf bower_install && node -v
 RUN npm install -g bower
 RUN bower --allow-root install
 

@@ -1,7 +1,7 @@
 {
     "label": "Concesiones mineras por municipios",
     "ejex": "Fecha de inicio de contrato",
-  "ejey": "Vigencia en meses",
+    "ejey": "Vigencia en meses",
     "unidad": "km² de superficie",
     "valores": [{
         "TITULO": 111733,

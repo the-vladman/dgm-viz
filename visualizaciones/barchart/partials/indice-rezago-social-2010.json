@@ -1,0 +1,104 @@
+{
+    "ejex": "Estados",
+    "ejey": "Índice de Rezago Social",
+    "valores": [{
+        "key": "Año 2010",
+        "values": [{
+            "x": "Aguascalientes",
+            "y": -1.144505
+        }, {
+            "x": "Baja California",
+            "y": -0.7107521
+        }, {
+            "x": "Baja California Sur",
+            "y": -1.028277
+        }, {
+            "x": "Campeche",
+            "y": 0.5345663
+        }, {
+            "x": "Coahuila",
+            "y": 2.548142
+        }, {
+            "x": "Colima",
+            "y": -0.7388701
+        }, {
+            "x": "Chiapas",
+            "y": -1.266207
+        }, {
+            "x": "Chihuahua",
+            "y": -0.8031844
+        }, {
+            "x": "Ciudad de México",
+            "y": -1.509716
+        }, {
+            "x": "Durango",
+            "y": -0.2412079
+        }, {
+            "x": "Guanajuato",
+            "y": 0.2133349
+        }, {
+            "x": "Guerrero",
+            "y": 2.515737
+        }, {
+            "x": "Hidalgo",
+            "y": 0.8640431
+        }, {
+            "x": "Jalisco",
+            "y": -0.7058299
+        }, {
+            "x": "México",
+            "y": -0.5434588
+        }, {
+            "x": "Michoacán",
+            "y": 0.7547382
+        }, {
+            "x": "Morelos",
+            "y": -0.2062002
+        }, {
+            "x": "Nayarit",
+            "y": -0.4158117
+        }, {
+            "x": "Nuevo León",
+            "y": -1.541669
+        }, {
+            "x": "Oaxaca",
+            "y": 2.417787
+        }, {
+            "x": "Puebla",
+            "y": 1.067469
+        }, {
+            "x": "Querétaro",
+            "y": -0.2473075
+        }, {
+            "x": "Quintana Roo",
+            "y": 0.150361
+        }, {
+            "x": "San Luis Potosí",
+            "y": 0.630159
+        }, {
+            "x": "Sinaloa",
+            "y": -0.4841604
+        }, {
+            "x": "Sonora",
+            "y": -0.8566825
+        }, {
+            "x": "Tabasco",
+            "y": 0.3370818
+        }, {
+            "x": "Tamaulipas",
+            "y": -0.6958079
+        }, {
+            "x": "Tlaxcala",
+            "y": 0.0452299
+        }, {
+            "x": "Veracruz",
+            "y": 1.1911
+        }, {
+            "x": "Yucatán",
+            "y": 0.3439496
+        }, {
+            "x": "Zacatecas",
+            "y": 0.2994982
+        }]
+    }]
+}

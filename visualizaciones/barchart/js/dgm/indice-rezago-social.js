@@ -3,7 +3,7 @@ var jsonBarchart;
 
 $.ajax({
   type: "GET",
-  url: "partials/indice-rezago-social.json",
+  url: "partials/indice-rezago-social_porEstado.json",
   async: false,
   success: function(data){
     if (validaJsonBarChart(data) ){
@@ -12,7 +12,7 @@ $.ajax({
   }
 });
 
-  var categoryDatos = ["#00cc99","#ff6666","#663399","#474747","#ff9900","#0099ff","#333399","#000000","#006666","#ff6699","#666699","#999999","#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#98df8a","#d62728","#ff9896","#9467bd","#c5b0d5","#8c564b","#c49c94","#e377c2","#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d","#17becf","#9edae5"];
+  var categoryDatos = ["#000","#ff6666","#663399"];
 
   d3.scale.categoryDatos = function() {
       return d3.scale.ordinal().range(categoryDatos);
@@ -34,20 +34,21 @@ $.ajax({
 nv.addGraph(function() {
   var chart = nv.models.multiBarChart()
       .reduceXTicks(false)
-      .rotateLabels(0)
       .showControls(false)
       .showLegend(false)
-      .groupSpacing(0.1)
-      .margin({"left":80,"right":20,"top":5,"bottom":30})
+      .groupSpacing(0.3)
+      .margin({"top":5})
       .color(d3.scale.categoryDatos().range());
 
     chart.yAxis
       .axisLabel(jsonBarchart.ejey.toUpperCase())
-      .axisLabelDistance(22)
-      .tickFormat(d3.format(',.3f'));
+      .margin({"left":60,"right":5,"top":10,"bottom":10})
+      .tickFormat(d3.format(',.1f'));
 
     chart.xAxis
-      .axisLabel(jsonBarchart.ejex.toUpperCase());
+      .axisLabel(jsonBarchart.ejex.toUpperCase())
+      .rotateLabels(45)
+      .margin({"left":100,"right":5,"top":10,"bottom":20});
 
     d3.select('#bar-chart svg')
         .datum(dataset)

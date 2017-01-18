@@ -16,21 +16,7 @@
     }
   });
 
-  //Escala de colores
-  var categoryDatos = [
-    "#00cc99",
-    "#ff6666",
-    "#663399",
-    "#474747",
-    "#ff9900",
-    "#0099ff",
-    "#333399",
-    "#000000",
-    "#006666",
-    "#ff6699",
-    "#666699",
-    "#999999"
-  ];
+
 
   d3plus.viz()
   .container("#viz")
@@ -39,9 +25,10 @@
   .id("label")
   .size("value")
   .color({
-    "scale": categoryDatos,
-    "value": "label"
+    "heatmap": [ "#1d5287" , "#158a8c" , "#00cc99", "#34dab3" ],
+    "value": "value"
   })
+  .legend(false)
   .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
   .format({
     "text": function(text, params) {

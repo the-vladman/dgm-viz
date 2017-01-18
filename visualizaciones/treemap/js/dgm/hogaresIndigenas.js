@@ -47,7 +47,8 @@ $(document).ready(function(){
     .size("valor") //sizing of blocks
     //Rango de colores según valor
     .color({
-      "scale": categoryDatos
+      "heatmap": [ "#1d5287" , "#158a8c" , "#00cc99", "#34dab3" ],
+      "value": "valor"
     })
     .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
     .format({
@@ -79,15 +80,15 @@ $(document).ready(function(){
     .tooltip({
       "small":350
     })
-    .height(550)
-    .labels({
+    .height(600)
+    /*.labels({
       "align": "middle",
       "valign": "top",
       "number": function(number, params) {
         n = parseFloat(number).toFixed(1)
         var formatted = Number(n).toLocaleString('en');
       },
-    })
+    })*/
     .resize(true)
     .draw()  //finally, draw the visualization!
   }

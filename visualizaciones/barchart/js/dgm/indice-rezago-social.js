@@ -12,7 +12,7 @@ $.ajax({
   }
 });
 
-  var categoryDatos = ["#000","#ff6666","#663399"];
+  var categoryDatos = ["#158a8c","#00cc99","#34dab3"];
 
   d3.scale.categoryDatos = function() {
       return d3.scale.ordinal().range(categoryDatos);
@@ -58,60 +58,6 @@ nv.addGraph(function() {
 
   return chart;
 });
-
-//////////////////// Horizontal Legend ////////////////
-
-var svgLegned4 = d3.select(".svgLegend4").append("svg")
-.attr("width", '100%')
-.attr("height", '100%')
-.attr("font-family","Open sans")
-
-var dataL = 0;
-var offset = 20;
-
-var legend4 = svgLegned4.selectAll('.legend4')
-.data(arrayLegends)
-.enter().append('g')
-.attr("class", "legend4")
-.style("overflow", "hidden")
-.style("text-overflow", "ellipsis")
-.attr("title", "20")
-.attr("transform", function (d, i) {
-  if (i == 0) {
-    dataL = d.length + offset
-    return "translate(0,0)"
-  } else {
-    var newdataL = dataL
-    dataL += offset + 9
-    return "translate(" + (newdataL) + ",0)"
-  }
-})
-
-legend4.append('rect')
-.attr("x", 0)
-.attr("y", 0)
-.attr("width", 20)
-.attr("height", 20)
-.attr("title", "20")
-.style("fill", color);
-
-legend4.on("mousemove", function(d){
-  divTooltip.style("left", d3.event.pageX-55+"px");
-  divTooltip.style("top", d3.event.pageY-90+"px");
-  divTooltip.style("display", "inline-block");
-  var x = d3.event.pageX, y = d3.event.pageY
-  var elements = document.querySelectorAll(':hover');
-  l = elements.length
-  l = l-1
-  elementData = elements[l].__data__
-  divTooltip.html("<span class='title-pop'>"+d+"</span>");
-});
-
-legend4.on("mouseout", function(d){
-  divTooltip.style("display", "none");
-});
-
-$('.legend4').append('<span class="legend">Leyenda</span>');
 
   // Validacion de BarChart
   function validaJsonBarChart(jsonBarchart){

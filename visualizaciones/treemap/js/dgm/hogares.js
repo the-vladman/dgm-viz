@@ -1,22 +1,5 @@
 $(document).ready(function(){
 
-	//Escala de colores
-  //var categoryDatos = ["#00CC99", "#07C896", "#0FC494", "#17C191", "#1FBD8F", "#26B98C", "#2EB68A", "#36B288", "#3EAF85", "#46AB83", "#4DA780", "#55A47E", "#5DA07C", "#659C79", "#6D9977", "#749574", "#7C9272", "#848E6F", "#8C8A6D", "#94876B", "#9B8368", "#A37F66", "#AB7C63", "#B37861", "#BB755F", "#C2715C", "#CA6D5A", "#D26A57", "#DA6655", "#E26353"];
-  var categoryDatos = [
-    "#00cc99",
-    "#ff6666",
-    "#663399",
-    "#474747",
-    "#ff9900",
-    "#0099ff",
-    "#333399",
-    "#000000",
-    "#006666",
-    "#ff6699",
-    "#666699",
-    "#999999"
-  ];
-
 	var jsonTreemap, idVal;
 
   //Valores iniciales para visualizar los NIVELES
@@ -46,10 +29,11 @@ $(document).ready(function(){
     .id(idVal) // key for which our data is unique on
     .type("tree_map") //visualization type
     .size("valor") //sizing of blocks
-    //Rango de colores según valor
     .color({
-      "scale": categoryDatos
+      "heatmap": [ "#1d5287" , "#158a8c" , "#00cc99", "#34dab3" ],
+      "value": "valor"
     })
+
     .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
     .format({
       "text": function(text, params) {
@@ -60,7 +44,6 @@ $(document).ready(function(){
         else {
           return d3plus.string.title(text, params);
         }
-
       },
       "number": function(number, params) {
         //var formattedFirst = d3plus.number.format(number, params);
@@ -81,15 +64,8 @@ $(document).ready(function(){
     .tooltip({
       "small":350
     })
-    .height(550)
-    /*.labels({
-      "align": "middle",
-      "valign": "top",
-      "number": function(number, params) {
-        n = parseFloat(number).toFixed(1);
-        var formatted = Number(n).toLocaleString('en');
-      },
-    })*/
+    //.labels({"align": "middle", "valign": "top", "text" : "valor"})
+    .height(600)
     .resize(true)
     .draw()  //finally, draw the visualization!
   }

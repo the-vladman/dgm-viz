@@ -1,6 +1,7 @@
 $(document).ready(function(){
 
 	//Escala de colores
+  //var categoryDatos = ["#00CC99", "#07C896", "#0FC494", "#17C191", "#1FBD8F", "#26B98C", "#2EB68A", "#36B288", "#3EAF85", "#46AB83", "#4DA780", "#55A47E", "#5DA07C", "#659C79", "#6D9977", "#749574", "#7C9272", "#848E6F", "#8C8A6D", "#94876B", "#9B8368", "#A37F66", "#AB7C63", "#B37861", "#BB755F", "#C2715C", "#CA6D5A", "#D26A57", "#DA6655", "#E26353"];
   var categoryDatos = [
     "#00cc99",
     "#ff6666",
@@ -18,8 +19,8 @@ $(document).ready(function(){
 
 	var jsonTreemap, idVal;
 
-  //Valores iniciales para el treemap
-  idVal = ["nivel1", "nivel2","nivel3", "nivel4"];
+  //Valores iniciales para visualizar los NIVELES
+  idVal = ["nivel2", "nivel1","nivel3", "nivel4"];
   loadJsonTreemap(); //Treemap
 
   function loadJsonTreemap(e){
@@ -62,9 +63,10 @@ $(document).ready(function(){
 
       },
       "number": function(number, params) {
-        var formattedFirst = d3plus.number.format(number, params);
+        //var formattedFirst = d3plus.number.format(number, params);
         //var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-        n = parseFloat(number).toFixed(1)
+        n = parseFloat(number).toFixed(1);
+        console.log(n);
         var formatted = Number(n).toLocaleString('en');
         if (params.key == "valor") {
           //return "$" + formatted;
@@ -80,14 +82,14 @@ $(document).ready(function(){
       "small":350
     })
     .height(550)
-    .labels({
+    /*.labels({
       "align": "middle",
       "valign": "top",
       "number": function(number, params) {
-        n = parseFloat(number).toFixed(1)
+        n = parseFloat(number).toFixed(1);
         var formatted = Number(n).toLocaleString('en');
       },
-    })
+    })*/
     .resize(true)
     .draw()  //finally, draw the visualization!
   }

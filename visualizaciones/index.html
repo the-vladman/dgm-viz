@@ -25,302 +25,302 @@
                 <div class="col-md-7">
                     <ul class="breadcrumb">
                         <li>
-			    <a href="http://datos.gob.mx/">
-		                <i class="glyphicon glyphicon-home"></i>
-				<i class="glyphicon glyphicon-chevron-right"></i>
-			    </a>
-			</li>
-			<li class="active"><a href="http://datos.gob.mx/">Home</a></li>
-                        <li class="active"><a href="http://datos.gob.mx/visualizaciones">Visualizaciones</a></li>
-                    </ul>
-                </div>
-            </div>
+                         <a href="http://datos.gob.mx/">
+                          <i class="glyphicon glyphicon-home"></i>
+                          <i class="glyphicon glyphicon-chevron-right"></i>
+                      </a>
+                  </li>
+                  <li class="active"><a href="http://datos.gob.mx/">Home</a></li>
+                  <li class="active"><a href="http://datos.gob.mx/visualizaciones">Visualizaciones</a></li>
+              </ul>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Visualizaciones</h1>
         </div>
     </div>
-    <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <p>
+              En esta sección puedes consultar Datos Abiertos de forma visual. Aquí encontrarás numerosas
+              visualizaciones de las bases de datos más descargadas. Para generar una visualización, primero
+              elige un tipo de gráfica y luego selecciona la base de datos.
+          </p>
+          <br>
+      </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+        <strong style="margin-bottom:10px;">1. Selecciona un tipo de gráfica</strong>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <br>
+        <!-- Nav tabs -->
+        <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist">
+            <li id="pillBart" role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getInfoChart(document.getElementById('chartBarra').options[0].text);"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
+            <li id="pillComposicion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getInfoChart(document.getElementById('chartComposicion').options[0].text);"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+            <li id="pillMap" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getInfoChart(document.getElementById('chartMap').options[0].text);"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
+            <li id="pillSector" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getInfoChart(document.getElementById('chartSector').options[0].text);"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
+            <li id="pillDispersion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getInfoChart(document.getElementById('chartDispersion').options[0].text);"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
+        </ul>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-12">
+        <strong>2. Selecciona la base de datos</strong>
+        <br><br>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="tab-content">
+            <div id="barras" class="tab-pane fade in active">
+                <select id="chartBarra" class="form-control graficas">
+                    <option value="barchart/indice-rezago-social.html">Índice de rezago social 2000, 2005 y 2010</option>
+                    <option value="barchart/indice-rezago-social-2000.html">Índice de rezago social 2000</option>
+                    <option value="barchart/indice-rezago-social-2005.html">Índice de rezago social 2005</option>
+                    <option value="barchart/indice-rezago-social-2010.html">Índice de rezago social 2010</option>
 
-        <div class="row">
-            <div class="col-md-12">
-                <h1>Visualizaciones</h1>
+                    <option value="barchart/pob-1990.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1990</option>
+                    <option value="barchart/pob-1991.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991</option>
+                    <option value="barchart/pob-1992.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1992</option>
+                    <option value="barchart/pob-1993.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1993</option>
+                    <option value="barchart/pob-1994.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1994</option>
+                    <option value="barchart/pob-1995.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1995</option>
+                    <option value="barchart/pob-1996.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1996</option>
+                    <option value="barchart/pob-1997.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1997</option>
+                    <option value="barchart/pob-1998.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1998</option>
+                    <option value="barchart/pob-1999.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1999</option>
+                    <option value="barchart/pob-2000.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2000</option>
+                    <option value="barchart/pob-2001.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2001</option>
+                    <option value="barchart/pob-2002.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2002</option>
+                    <option value="barchart/pob-2003.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2003</option>
+                    <option value="barchart/pob-2004.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2004</option>
+                    <option value="barchart/pob-2005.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2005</option>
+                    <option value="barchart/pob-2006.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2006</option>
+                    <option value="barchart/pob-2007.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2007</option>
+                    <option value="barchart/pob-2008.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2008</option>
+                    <option value="barchart/pob-2009.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2009</option>
+                    <option value="barchart/pob-2010.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2010</option>
+                    <option value="barchart/pob-2011.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2011</option>
+                    <option value="barchart/pob-2012.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2012</option>
+                    <option value="barchart/pob-2013.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2013</option>
+                    <option value="barchart/pob-2014.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2014</option>
+                    <option value="barchart/pob-2015.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2015</option>
+                    <option value="barchart/pob-2016.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2016</option>
+                    <option value="barchart/pob-2017.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2017</option>
+                    <option value="barchart/pob-2018.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2018</option>
+                    <option value="barchart/pob-2019.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2019</option>
+                    <option value="barchart/pob-2020.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2020</option>
+                    <option value="barchart/pob-2021.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2021</option>
+                    <option value="barchart/pob-2022.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2022</option>
+                    <option value="barchart/pob-2023.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2023</option>
+                    <option value="barchart/pob-2024.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2024</option>
+                    <option value="barchart/pob-2025.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2025</option>
+                    <option value="barchart/pob-2026.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2026</option>
+                    <option value="barchart/pob-2027.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2027</option>
+                    <option value="barchart/pob-2028.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2028</option>
+                    <option value="barchart/pob-2029.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2029</option>
+                    <option value="barchart/pob-2030.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2030</option>
+                    <option value="barchart/nac-1990.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1990</option>
+                    <option value="barchart/nac-1991.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1991</option>
+                    <option value="barchart/nac-1992.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1992</option>
+                    <option value="barchart/nac-1993.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1993</option>
+                    <option value="barchart/nac-1994.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1994</option>
+                    <option value="barchart/nac-1995.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1995</option>
+                    <option value="barchart/nac-1996.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1996</option>
+                    <option value="barchart/nac-1997.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1997</option>
+                    <option value="barchart/nac-1998.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1998</option>
+                    <option value="barchart/nac-1999.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1999</option>
+                    <option value="barchart/nac-2000.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2000</option>
+                    <option value="barchart/nac-2001.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2001</option>
+                    <option value="barchart/nac-2002.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2002</option>
+                    <option value="barchart/nac-2003.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2003</option>
+                    <option value="barchart/nac-2004.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2004</option>
+                    <option value="barchart/nac-2005.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2005</option>
+                    <option value="barchart/nac-2006.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2006</option>
+                    <option value="barchart/nac-2007.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2007</option>
+                    <option value="barchart/nac-2008.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2008</option>
+                    <option value="barchart/nac-2009.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2009</option>
+                    <option value="barchart/nac-2010.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2010</option>
+                    <option value="barchart/nac-2011.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2011</option>
+                    <option value="barchart/nac-2012.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2012</option>
+                    <option value="barchart/nac-2013.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2013</option>
+                    <option value="barchart/nac-2014.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2014</option>
+                    <option value="barchart/nac-2015.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2015</option>
+                    <option value="barchart/nac-2016.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2016</option>
+                    <option value="barchart/nac-2017.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2017</option>
+                    <option value="barchart/nac-2018.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2018</option>
+                    <option value="barchart/nac-2019.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2019</option>
+                    <option value="barchart/nac-2020.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2020</option>
+                    <option value="barchart/nac-2021.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2021</option>
+                    <option value="barchart/nac-2022.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2022</option>
+                    <option value="barchart/nac-2023.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2023</option>
+                    <option value="barchart/nac-2024.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2024</option>
+                    <option value="barchart/nac-2025.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2025</option>
+                    <option value="barchart/nac-2026.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2026</option>
+                    <option value="barchart/nac-2027.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2027</option>
+                    <option value="barchart/nac-2028.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2028</option>
+                    <option value="barchart/nac-2029.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2029</option>
+                    <option value="barchart/nac-2030.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2030</option>
+                    <option value="barchart/crect-1990.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1990</option>
+                    <option value="barchart/crect-1991.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1991</option>
+                    <option value="barchart/crect-1992.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1992</option>
+                    <option value="barchart/crect-1993.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1993</option>
+                    <option value="barchart/crect-1994.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1994</option>
+                    <option value="barchart/crect-1995.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1995</option>
+                    <option value="barchart/crect-1996.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1996</option>
+                    <option value="barchart/crect-1997.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1997</option>
+                    <option value="barchart/crect-1998.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1998</option>
+                    <option value="barchart/crect-1999.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1999</option>
+                    <option value="barchart/crect-2000.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2000</option>
+                    <option value="barchart/crect-2001.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2001</option>
+                    <option value="barchart/crect-2002.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2002</option>
+                    <option value="barchart/crect-2003.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2003</option>
+                    <option value="barchart/crect-2004.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2004</option>
+                    <option value="barchart/crect-2005.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2005</option>
+                    <option value="barchart/crect-2006.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2006</option>
+                    <option value="barchart/crect-2007.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2007</option>
+                    <option value="barchart/crect-2008.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2008</option>
+                    <option value="barchart/crect-2009.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2009</option>
+                    <option value="barchart/crect-2010.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2010</option>
+                    <option value="barchart/crect-2011.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2011</option>
+                    <option value="barchart/crect-2012.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2012</option>
+                    <option value="barchart/crect-2013.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2013</option>
+                    <option value="barchart/crect-2014.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2014</option>
+                    <option value="barchart/crect-2015.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2015</option>
+                    <option value="barchart/crect-2016.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2016</option>
+                    <option value="barchart/crect-2017.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2017</option>
+                    <option value="barchart/crect-2018.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2018</option>
+                    <option value="barchart/crect-2019.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2019</option>
+                    <option value="barchart/crect-2020.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2020</option>
+                    <option value="barchart/crect-2021.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2021</option>
+                    <option value="barchart/crect-2022.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2022</option>
+                    <option value="barchart/crect-2023.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2023</option>
+                    <option value="barchart/crect-2024.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2024</option>
+                    <option value="barchart/crect-2025.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2025</option>
+                    <option value="barchart/crect-2026.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2026</option>
+                    <option value="barchart/crect-2027.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2027</option>
+                    <option value="barchart/crect-2028.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2028</option>
+                    <option value="barchart/crect-2029.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2029</option>
+                    <option value="barchart/crect-2030.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2030</option>
+                    <option value="barchart/e0-1990.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1990</option>
+                    <option value="barchart/e0-1991.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1991</option>
+                    <option value="barchart/e0-1992.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1992</option>
+                    <option value="barchart/e0-1993.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1993</option>
+                    <option value="barchart/e0-1994.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1994</option>
+                    <option value="barchart/e0-1995.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1995</option>
+                    <option value="barchart/e0-1996.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1996</option>
+                    <option value="barchart/e0-1997.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1997</option>
+                    <option value="barchart/e0-1998.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1998</option>
+                    <option value="barchart/e0-1999.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1999</option>
+                    <option value="barchart/e0-2000.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2000</option>
+                    <option value="barchart/e0-2001.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2001</option>
+                    <option value="barchart/e0-2002.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2002</option>
+                    <option value="barchart/e0-2003.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2003</option>
+                    <option value="barchart/e0-2004.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2004</option>
+                    <option value="barchart/e0-2005.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2005</option>
+                    <option value="barchart/e0-2006.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2006</option>
+                    <option value="barchart/e0-2007.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2007</option>
+                    <option value="barchart/e0-2008.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2008</option>
+                    <option value="barchart/e0-2009.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2009</option>
+                    <option value="barchart/e0-2010.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2010</option>
+                    <option value="barchart/e0-2011.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2011</option>
+                    <option value="barchart/e0-2012.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2012</option>
+                    <option value="barchart/e0-2013.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2013</option>
+                    <option value="barchart/e0-2014.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2014</option>
+                    <option value="barchart/e0-2015.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2015</option>
+                    <option value="barchart/e0-2016.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2016</option>
+                    <option value="barchart/e0-2017.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2017</option>
+                    <option value="barchart/e0-2018.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2018</option>
+                    <option value="barchart/e0-2019.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2019</option>
+                    <option value="barchart/e0-2020.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2020</option>
+                    <option value="barchart/e0-2021.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2021</option>
+                    <option value="barchart/e0-2022.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2022</option>
+                    <option value="barchart/e0-2023.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2023</option>
+                    <option value="barchart/e0-2024.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2024</option>
+                    <option value="barchart/e0-2025.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2025</option>
+                    <option value="barchart/e0-2026.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2026</option>
+                    <option value="barchart/e0-2027.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2027</option>
+                    <option value="barchart/e0-2028.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2028</option>
+                    <option value="barchart/e0-2029.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2029</option>
+                    <option value="barchart/e0-2030.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2030</option>
+                </select>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <p>
-		    En esta sección puedes consultar Datos Abiertos de forma visual. Aquí encontrarás numerosas
-		    visualizaciones de las bases de datos más descargadas. Para generar una visualización, primero
-		    elige un tipo de gráfica y luego selecciona la base de datos.
-		</p>
-                <br>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <strong style="margin-bottom:10px;">1. Selecciona un tipo de gráfica</strong>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <br>
-                <!-- Nav tabs -->
-                <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist">
-                    <li id="pillBart" role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getInfoChart(document.getElementById('chartBarra').options[0].text);"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
-                    <li id="pillComposicion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getInfoChart(document.getElementById('chartComposicion').options[0].text);"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
-                    <li id="pillMap" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getInfoChart(document.getElementById('chartMap').options[0].text);"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab" ><strong>Mapa</strong></a></li>
-                    <li id="pillSector" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getInfoChart(document.getElementById('chartSector').options[0].text);"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
-                    <li id="pillDispersion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getInfoChart(document.getElementById('chartDispersion').options[0].text);"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
-                </ul>
-            </div>
-        </div>
-	<br>
-        <div class="row">
-            <div class="col-md-12">
-                <strong>2. Selecciona la base de datos</strong>
-                <br><br>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="tab-content">
-                    <div id="barras" class="tab-pane fade in active">
-                        <select id="chartBarra" class="form-control graficas">
-                        <option value="barchart/indice-rezago-social.html">Índice de rezago social 2000, 2005 y 2010</option>
-                        <option value="barchart/indice-rezago-social-2000.html">Índice de rezago social 2000</option>
-                        <option value="barchart/indice-rezago-social-2005.html">Índice de rezago social 2005</option>
-                        <option value="barchart/indice-rezago-social-2010.html">Índice de rezago social 2010</option>
-
-                        <option value="barchart/pob-1990.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1990</option>
-                        <option value="barchart/pob-1991.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1991</option>
-                        <option value="barchart/pob-1992.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1992</option>
-                        <option value="barchart/pob-1993.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1993</option>
-                        <option value="barchart/pob-1994.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1994</option>
-                        <option value="barchart/pob-1995.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1995</option>
-                        <option value="barchart/pob-1996.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1996</option>
-                        <option value="barchart/pob-1997.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1997</option>
-                        <option value="barchart/pob-1998.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1998</option>
-                        <option value="barchart/pob-1999.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 1999</option>
-                        <option value="barchart/pob-2000.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2000</option>
-                        <option value="barchart/pob-2001.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2001</option>
-                        <option value="barchart/pob-2002.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2002</option>
-                        <option value="barchart/pob-2003.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2003</option>
-                        <option value="barchart/pob-2004.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2004</option>
-                        <option value="barchart/pob-2005.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2005</option>
-                        <option value="barchart/pob-2006.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2006</option>
-                        <option value="barchart/pob-2007.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2007</option>
-                        <option value="barchart/pob-2008.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2008</option>
-                        <option value="barchart/pob-2009.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2009</option>
-                        <option value="barchart/pob-2010.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2010</option>
-                        <option value="barchart/pob-2011.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2011</option>
-                        <option value="barchart/pob-2012.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2012</option>
-                        <option value="barchart/pob-2013.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2013</option>
-                        <option value="barchart/pob-2014.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2014</option>
-                        <option value="barchart/pob-2015.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2015</option>
-                        <option value="barchart/pob-2016.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2016</option>
-                        <option value="barchart/pob-2017.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2017</option>
-                        <option value="barchart/pob-2018.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2018</option>
-                        <option value="barchart/pob-2019.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2019</option>
-                        <option value="barchart/pob-2020.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2020</option>
-                        <option value="barchart/pob-2021.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2021</option>
-                        <option value="barchart/pob-2022.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2022</option>
-                        <option value="barchart/pob-2023.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2023</option>
-                        <option value="barchart/pob-2024.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2024</option>
-                        <option value="barchart/pob-2025.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2025</option>
-                        <option value="barchart/pob-2026.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2026</option>
-                        <option value="barchart/pob-2027.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2027</option>
-                        <option value="barchart/pob-2028.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2028</option>
-                        <option value="barchart/pob-2029.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2029</option>
-                        <option value="barchart/pob-2030.html">Indicadores Demográficos 1990/2030 - Población media Total (ambos sexos): 2030</option>
-                        <option value="barchart/nac-1990.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1990</option>
-                        <option value="barchart/nac-1991.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1991</option>
-                        <option value="barchart/nac-1992.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1992</option>
-                        <option value="barchart/nac-1993.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1993</option>
-                        <option value="barchart/nac-1994.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1994</option>
-                        <option value="barchart/nac-1995.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1995</option>
-                        <option value="barchart/nac-1996.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1996</option>
-                        <option value="barchart/nac-1997.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1997</option>
-                        <option value="barchart/nac-1998.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1998</option>
-                        <option value="barchart/nac-1999.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1999</option>
-                        <option value="barchart/nac-2000.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2000</option>
-                        <option value="barchart/nac-2001.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2001</option>
-                        <option value="barchart/nac-2002.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2002</option>
-                        <option value="barchart/nac-2003.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2003</option>
-                        <option value="barchart/nac-2004.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2004</option>
-                        <option value="barchart/nac-2005.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2005</option>
-                        <option value="barchart/nac-2006.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2006</option>
-                        <option value="barchart/nac-2007.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2007</option>
-                        <option value="barchart/nac-2008.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2008</option>
-                        <option value="barchart/nac-2009.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2009</option>
-                        <option value="barchart/nac-2010.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2010</option>
-                        <option value="barchart/nac-2011.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2011</option>
-                        <option value="barchart/nac-2012.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2012</option>
-                        <option value="barchart/nac-2013.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2013</option>
-                        <option value="barchart/nac-2014.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2014</option>
-                        <option value="barchart/nac-2015.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2015</option>
-                        <option value="barchart/nac-2016.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2016</option>
-                        <option value="barchart/nac-2017.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2017</option>
-                        <option value="barchart/nac-2018.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2018</option>
-                        <option value="barchart/nac-2019.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2019</option>
-                        <option value="barchart/nac-2020.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2020</option>
-                        <option value="barchart/nac-2021.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2021</option>
-                        <option value="barchart/nac-2022.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2022</option>
-                        <option value="barchart/nac-2023.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2023</option>
-                        <option value="barchart/nac-2024.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2024</option>
-                        <option value="barchart/nac-2025.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2025</option>
-                        <option value="barchart/nac-2026.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2026</option>
-                        <option value="barchart/nac-2027.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2027</option>
-                        <option value="barchart/nac-2028.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2028</option>
-                        <option value="barchart/nac-2029.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2029</option>
-                        <option value="barchart/nac-2030.html">Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 2030</option>
-                        <option value="barchart/crect-1990.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1990</option>
-                        <option value="barchart/crect-1991.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1991</option>
-                        <option value="barchart/crect-1992.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1992</option>
-                        <option value="barchart/crect-1993.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1993</option>
-                        <option value="barchart/crect-1994.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1994</option>
-                        <option value="barchart/crect-1995.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1995</option>
-                        <option value="barchart/crect-1996.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1996</option>
-                        <option value="barchart/crect-1997.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1997</option>
-                        <option value="barchart/crect-1998.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1998</option>
-                        <option value="barchart/crect-1999.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  1999</option>
-                        <option value="barchart/crect-2000.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2000</option>
-                        <option value="barchart/crect-2001.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2001</option>
-                        <option value="barchart/crect-2002.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2002</option>
-                        <option value="barchart/crect-2003.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2003</option>
-                        <option value="barchart/crect-2004.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2004</option>
-                        <option value="barchart/crect-2005.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2005</option>
-                        <option value="barchart/crect-2006.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2006</option>
-                        <option value="barchart/crect-2007.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2007</option>
-                        <option value="barchart/crect-2008.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2008</option>
-                        <option value="barchart/crect-2009.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2009</option>
-                        <option value="barchart/crect-2010.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2010</option>
-                        <option value="barchart/crect-2011.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2011</option>
-                        <option value="barchart/crect-2012.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2012</option>
-                        <option value="barchart/crect-2013.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2013</option>
-                        <option value="barchart/crect-2014.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2014</option>
-                        <option value="barchart/crect-2015.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2015</option>
-                        <option value="barchart/crect-2016.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2016</option>
-                        <option value="barchart/crect-2017.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2017</option>
-                        <option value="barchart/crect-2018.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2018</option>
-                        <option value="barchart/crect-2019.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2019</option>
-                        <option value="barchart/crect-2020.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2020</option>
-                        <option value="barchart/crect-2021.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2021</option>
-                        <option value="barchart/crect-2022.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2022</option>
-                        <option value="barchart/crect-2023.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2023</option>
-                        <option value="barchart/crect-2024.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2024</option>
-                        <option value="barchart/crect-2025.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2025</option>
-                        <option value="barchart/crect-2026.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2026</option>
-                        <option value="barchart/crect-2027.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2027</option>
-                        <option value="barchart/crect-2028.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2028</option>
-                        <option value="barchart/crect-2029.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2029</option>
-                        <option value="barchart/crect-2030.html">Indicadores Demográficos 1990/2030 - Crecimiento Total Anual:  2030</option>
-                        <option value="barchart/e0-1990.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1990</option>
-                        <option value="barchart/e0-1991.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1991</option>
-                        <option value="barchart/e0-1992.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1992</option>
-                        <option value="barchart/e0-1993.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1993</option>
-                        <option value="barchart/e0-1994.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1994</option>
-                        <option value="barchart/e0-1995.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1995</option>
-                        <option value="barchart/e0-1996.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1996</option>
-                        <option value="barchart/e0-1997.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1997</option>
-                        <option value="barchart/e0-1998.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1998</option>
-                        <option value="barchart/e0-1999.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1999</option>
-                        <option value="barchart/e0-2000.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2000</option>
-                        <option value="barchart/e0-2001.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2001</option>
-                        <option value="barchart/e0-2002.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2002</option>
-                        <option value="barchart/e0-2003.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2003</option>
-                        <option value="barchart/e0-2004.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2004</option>
-                        <option value="barchart/e0-2005.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2005</option>
-                        <option value="barchart/e0-2006.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2006</option>
-                        <option value="barchart/e0-2007.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2007</option>
-                        <option value="barchart/e0-2008.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2008</option>
-                        <option value="barchart/e0-2009.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2009</option>
-                        <option value="barchart/e0-2010.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2010</option>
-                        <option value="barchart/e0-2011.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2011</option>
-                        <option value="barchart/e0-2012.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2012</option>
-                        <option value="barchart/e0-2013.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2013</option>
-                        <option value="barchart/e0-2014.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2014</option>
-                        <option value="barchart/e0-2015.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2015</option>
-                        <option value="barchart/e0-2016.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2016</option>
-                        <option value="barchart/e0-2017.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2017</option>
-                        <option value="barchart/e0-2018.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2018</option>
-                        <option value="barchart/e0-2019.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2019</option>
-                        <option value="barchart/e0-2020.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2020</option>
-                        <option value="barchart/e0-2021.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2021</option>
-                        <option value="barchart/e0-2022.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2022</option>
-                        <option value="barchart/e0-2023.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2023</option>
-                        <option value="barchart/e0-2024.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2024</option>
-                        <option value="barchart/e0-2025.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2025</option>
-                        <option value="barchart/e0-2026.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2026</option>
-                        <option value="barchart/e0-2027.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2027</option>
-                        <option value="barchart/e0-2028.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2028</option>
-                        <option value="barchart/e0-2029.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2029</option>
-                        <option value="barchart/e0-2030.html">Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 2030</option>
-                    </select>
-                    </div>
-                    <div id="composicion" class="tab-pane fade">
-                        <select id="chartComposicion" class="form-control graficas">
-                      <option value="treemap/hogares.html">Proyecciones de los hogares en México y las Entidades Federativas, 2010-2030</option>
-                      <option value="treemap/hogaresIndigenas.html">Proyecciones de los hogares Indígenas de México y las Entidades Federativas, 2010-2020</option>
-                      <option value="treemap/fecundidad.html">Tasa específica de fecundidad 1990/2030</option>
-                      <option value="treemap/emigrantes-interestatales.html">Emigrantes interestatales 1990/2030</option>
-                      <option value="treemap/inmigrantes-interestatales.html">Inmigrantes interestatales 1990/2030</option>
-                      <option value="treemap/defunciones.html">Defunciones 1990/2030</option>
-                      <option value="treemap/poblacion-localidades.html">Por localidad 2010/2030</option>
-                      <option value="treemap/poblacion-municipios.html">Municipios 2010/2030</option>
-                      <option value="treemap/inmigrantes-interestatales.html">Entidades Federativas 2010/2050</option>
-                      </select>
-                    </div>
-                    <div id="mapa" class="tab-pane fade">
-                        <select id="chartMap" class="form-control graficas">
-                      <option value="mapa/Catálogo Centros de Trabajo.html">Catálogo Centros de Trabajo</option>
-                      <option value="mapa/Matrícula por institución - DoctoradoParticular.html">Matrícula por Institución - Doctorado en escuela Particular</option>
-                      <option value="mapa/Matrícula por institución - DoctoradoPublica.html">Matrícula por Institución - Doctorado en escuela Pública</option>
-                      <option value="mapa/Matrícula por institución - LicenciaturaParticular.html">Matrícula por Institución - Licenciatura en escuela Particular</option>
-                      <option value="mapa/Matrícula por institución - LicenciaturaPublica.html">Matrícula por Institución - Licenciatura en escuela Pública</option>
-                      <option value="mapa/Matrícula por institución - MaestriaParticular.html">Matrícula por Institución - Maestria en escuela Particular</option>
-                      <option value="mapa/Matrícula por institución - MaestriaPublica.html">Matrícula por Institución - Maestria en escuela Pública</option>
-                      <option value="mapa/muestras-para-analisis-bacteriologico.html">Agua de Consumo Humano - Muestras para análisis</option>
-                      <option value="mapa/dentro-de-norma.html">Agua de Consumo Humano - Muestras dentro de la norma</option>
-                      <option value="mapa/debajo-de-norma.html">Agua de Consumo Humano - Muestras debajo de la norma</option>
-                      <option value="mapa/cobertura-de-vigilancia.html">Agua de Consumo Humano - Cobertura de vigilancia</option>
-                      </select>
-                    </div>
-                    <div id="sector" class="tab-pane fade">
-                        <select id="chartSector" class="form-control graficas">
-                          <option value="piechart/calidad general del agua por estacion.html">Calidad general del agua por estación</option>
-                          <option value="piechart/escuelas por estado.html">Escuelas por Estado</option>
-                          <!-- <option value="piechart/estaciones de calidad del agua por estado.html">Estaciones de calidad del agua por estado</option>  -->
-                          <option value="piechart/inscritos-en-RETC-por-estado-en-2013.html">Inscritos en RETC por estado en 2013</option>
-                          <option value="piechart/llegadas a hoteles 2014.html">Llegadas a hoteles 2014</option>
-                          <option value="piechart/numero de pueblos magicos por estado.html">Número de pueblos magicos por estado</option>
-                          <option value="piechart/poblacion por estado 2010.html">Población por estado 2010</option>
-                          <option value="piechart/residuos solidos manejados adecuadamente por estado 2014.html">Residuos solidos manejados adecuadamente por estado 2014</option>
-                          <!-- <option value="piechart/residuos solidos manejados adecuadamente por estado 2015.html">Residuos solidos manejados adecuadamente por estado 2015</option>  -->
-                          <option value="piechart/tipo de sostenimiento de instituciones educativas.html">Tipo de sostenimiento de Instituciones educativas</option>
-                        </select>
-                    </div>
-                    <div id="dispersion" class="tab-pane fade">
-                      <select id="chartDispersion" class="form-control graficas">
-                        <option value="scatter/AGUASCALIENTES.html">Concesión minera: AGUASCALIENTES</option>
-                        <option value="scatter/AGUASCALIENTES-JALISCO.html">Concesión minera: AGUASCALIENTES-JALISCO</option>
-                        <option value="scatter/AGUASCALIENTES-ZACATECAS.html">Concesión minera: AGUASCALIENTES-ZACATECAS</option>
-                        <option value="scatter/BAJA CALIFORNIA-DESCONOCIDO.html">Concesión minera: BAJA CALIFORNIA-DESCONOCIDO</option>
-                        <option value="scatter/BAJA CALIFORNIA.html">Concesión minera: BAJA CALIFORNIA</option>
-                        <option value="scatter/BAJA CALIFORNIA SUR.html">Concesión minera: BAJA CALIFORNIA SUR</option>
-                        <option value="scatter/CAMPECHE.html">Concesión minera: CAMPECHE</option>
-                        <option value="scatter/CHIAPAS.html">Concesión minera: CHIAPAS</option>
-                        <option value="scatter/CHIHUAHUA-DESCONOCIDO.html">Concesión minera: CHIHUAHUA-DESCONOCIDO</option>
-                        <option value="scatter/CHIHUAHUA-DURANGO.html">Concesión minera: CHIHUAHUA-DURANGO</option>
-                        <option value="scatter/CHIHUAHUA.html">Concesión minera: CHIHUAHUA</option>
-                        <option value="scatter/CHIHUAHUA-SINALOA.html">Concesión minera: CHIHUAHUA-SINALOA</option>
-                        <option value="scatter/COAHUILA-CHIHUAHUA-DESCONOCIDO.html">Concesión minera: COAHUILA-CHIHUAHUA-DESCONOCIDO</option>
-                        <option value="scatter/COAHUILA-CHIHUAHUA.html">Concesión minera: COAHUILA-CHIHUAHUA</option>
-                        <option value="scatter/COAHUILA-DESCONOCIDO.html">Concesión minera: COAHUILA-DESCONOCIDO</option>
-                        <option value="scatter/COAHUILA-DURANGO.html">Concesión minera: COAHUILA-DURANGO</option>
-                        <!-- <option value="scatter/COAHUILA.html">Concesión minera: COAHUILA</option> -->
-                        <option value="scatter/COAHUILA-NUEVO LEON.html">Concesión minera: COAHUILA-NUEVO LEON</option>
-                        <option value="scatter/COAHUILA-SAN LUIS POTOSI.html">Concesión minera: COAHUILA-SAN LUIS POTOSI</option>
-                        <option value="scatter/COAHUILA-ZACATECAS.html">Concesión minera: COAHUILA-ZACATECAS</option>
-                        <option value="scatter/COLIMA.html">Concesión minera: COLIMA</option>
-                        <option value="scatter/COLIMA-JALISCO.html">Concesión minera: COLIMA-JALISCO</option>
+            <div id="composicion" class="tab-pane fade">
+                <select id="chartComposicion" class="form-control graficas">
+                  <option value="treemap/hogares.html">Proyecciones de los hogares en México y las Entidades Federativas, 2010-2030</option>
+                  <option value="treemap/hogaresIndigenas.html">Proyecciones de los hogares Indígenas de México y las Entidades Federativas, 2010-2020</option>
+                  <option value="treemap/fecundidad.html">Tasa específica de fecundidad 1990/2030</option>
+                  <option value="treemap/emigrantes-interestatales.html">Emigrantes interestatales 1990/2030</option>
+                  <option value="treemap/inmigrantes-interestatales.html">Inmigrantes interestatales 1990/2030</option>
+                  <option value="treemap/defunciones.html">Defunciones 1990/2030</option>
+                  <option value="treemap/poblacion-localidades.html">Por localidad 2010/2030</option>
+                  <option value="treemap/poblacion-municipios.html">Municipios 2010/2030</option>
+                  <option value="treemap/inmigrantes-interestatales.html">Entidades Federativas 2010/2050</option>
+              </select>
+          </div>
+          <div id="mapa" class="tab-pane fade">
+            <select id="chartMap" class="form-control graficas">
+              <option value="mapa/Catálogo Centros de Trabajo.html">Catálogo Centros de Trabajo</option>
+              <option value="mapa/Matrícula por institución - DoctoradoParticular.html">Matrícula por Institución - Doctorado en escuela Particular</option>
+              <option value="mapa/Matrícula por institución - DoctoradoPublica.html">Matrícula por Institución - Doctorado en escuela Pública</option>
+              <option value="mapa/Matrícula por institución - LicenciaturaParticular.html">Matrícula por Institución - Licenciatura en escuela Particular</option>
+              <option value="mapa/Matrícula por institución - LicenciaturaPublica.html">Matrícula por Institución - Licenciatura en escuela Pública</option>
+              <option value="mapa/Matrícula por institución - MaestriaParticular.html">Matrícula por Institución - Maestria en escuela Particular</option>
+              <option value="mapa/Matrícula por institución - MaestriaPublica.html">Matrícula por Institución - Maestria en escuela Pública</option>
+              <option value="mapa/muestras-para-analisis-bacteriologico.html">Agua de Consumo Humano - Muestras para análisis</option>
+              <option value="mapa/dentro-de-norma.html">Agua de Consumo Humano - Muestras dentro de la norma</option>
+              <option value="mapa/debajo-de-norma.html">Agua de Consumo Humano - Muestras debajo de la norma</option>
+              <option value="mapa/cobertura-de-vigilancia.html">Agua de Consumo Humano - Cobertura de vigilancia</option>
+          </select>
+      </div>
+      <div id="sector" class="tab-pane fade">
+        <select id="chartSector" class="form-control graficas">
+          <option value="piechart/calidad general del agua por estacion.html">Calidad general del agua por estación</option>
+          <option value="piechart/escuelas por estado.html">Escuelas por Estado</option>
+          <!-- <option value="piechart/estaciones de calidad del agua por estado.html">Estaciones de calidad del agua por estado</option>  -->
+          <option value="piechart/inscritos-en-RETC-por-estado-en-2013.html">Inscritos en RETC por estado en 2013</option>
+          <option value="piechart/llegadas a hoteles 2014.html">Llegadas a hoteles 2014</option>
+          <option value="piechart/numero de pueblos magicos por estado.html">Número de pueblos magicos por estado</option>
+          <option value="piechart/poblacion por estado 2010.html">Población por estado 2010</option>
+          <option value="piechart/residuos solidos manejados adecuadamente por estado 2014.html">Residuos solidos manejados adecuadamente por estado 2014</option>
+          <!-- <option value="piechart/residuos solidos manejados adecuadamente por estado 2015.html">Residuos solidos manejados adecuadamente por estado 2015</option>  -->
+          <option value="piechart/tipo de sostenimiento de instituciones educativas.html">Tipo de sostenimiento de Instituciones educativas</option>
+      </select>
+  </div>
+  <div id="dispersion" class="tab-pane fade">
+      <select id="chartDispersion" class="form-control graficas">
+        <option value="scatter/AGUASCALIENTES.html">Concesión minera: AGUASCALIENTES</option>
+        <option value="scatter/AGUASCALIENTES-JALISCO.html">Concesión minera: AGUASCALIENTES-JALISCO</option>
+        <option value="scatter/AGUASCALIENTES-ZACATECAS.html">Concesión minera: AGUASCALIENTES-ZACATECAS</option>
+        <option value="scatter/BAJA CALIFORNIA-DESCONOCIDO.html">Concesión minera: BAJA CALIFORNIA-DESCONOCIDO</option>
+        <option value="scatter/BAJA CALIFORNIA.html">Concesión minera: BAJA CALIFORNIA</option>
+        <option value="scatter/BAJA CALIFORNIA SUR.html">Concesión minera: BAJA CALIFORNIA SUR</option>
+        <option value="scatter/CAMPECHE.html">Concesión minera: CAMPECHE</option>
+        <option value="scatter/CHIAPAS.html">Concesión minera: CHIAPAS</option>
+        <option value="scatter/CHIHUAHUA-DESCONOCIDO.html">Concesión minera: CHIHUAHUA-DESCONOCIDO</option>
+        <option value="scatter/CHIHUAHUA-DURANGO.html">Concesión minera: CHIHUAHUA-DURANGO</option>
+        <option value="scatter/CHIHUAHUA.html">Concesión minera: CHIHUAHUA</option>
+        <option value="scatter/CHIHUAHUA-SINALOA.html">Concesión minera: CHIHUAHUA-SINALOA</option>
+        <option value="scatter/COAHUILA-CHIHUAHUA-DESCONOCIDO.html">Concesión minera: COAHUILA-CHIHUAHUA-DESCONOCIDO</option>
+        <option value="scatter/COAHUILA-CHIHUAHUA.html">Concesión minera: COAHUILA-CHIHUAHUA</option>
+        <option value="scatter/COAHUILA-DESCONOCIDO.html">Concesión minera: COAHUILA-DESCONOCIDO</option>
+        <option value="scatter/COAHUILA-DURANGO.html">Concesión minera: COAHUILA-DURANGO</option>
+        <!-- <option value="scatter/COAHUILA.html">Concesión minera: COAHUILA</option> -->
+        <option value="scatter/COAHUILA-NUEVO LEON.html">Concesión minera: COAHUILA-NUEVO LEON</option>
+        <option value="scatter/COAHUILA-SAN LUIS POTOSI.html">Concesión minera: COAHUILA-SAN LUIS POTOSI</option>
+        <option value="scatter/COAHUILA-ZACATECAS.html">Concesión minera: COAHUILA-ZACATECAS</option>
+        <option value="scatter/COLIMA.html">Concesión minera: COLIMA</option>
+        <option value="scatter/COLIMA-JALISCO.html">Concesión minera: COLIMA-JALISCO</option>
                         <!-- <option value="scatter/DESCONOCIDO-AGUASCALIENTES.html">Concesión minera: DESCONOCIDO-AGUASCALIENTES</option>
                         <option value="scatter/DESCONOCIDO-DURANGO.html">Concesión minera: DESCONOCIDO-DURANGO</option>
                         <option value="scatter/DESCONOCIDO-GUERRERO.html">Concesión minera: DESCONOCIDO-GUERRERO</option>
@@ -396,78 +396,76 @@
                         <option value="scatter/VERACRUZ.html">Concesión minera: VERACRUZ</option>
                         <option value="scatter/YUCATAN.html">Concesión minera: YUCATAN</option>
                         <!-- <option value="scatter/ZACATECAS.html">Concesión minera: ZACATECAS</option> -->
-                      </select>
-                    </div>
+                    </select>
                 </div>
+            </div>
 
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <br>
-                <div id="descripcion"></div> <!-- AQUI VA LA DESCRIPCIÓN -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <br>
-                <div id="loadImg"><div><img src="http://www.downgraf.com/wp-content/uploads/2014/09/01-progress.gif"/></div></div>
-                <iframe id="marcoVisualizaciones" border=0 name=iframe src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;" onload="document.getElementById('loadImg').style.display='none';">
-                    <p>Tu navegador no soporta IFRAMES</p>
-                </iframe>
-                <!-- AQUÍ VA LA VISUALIZACIÓN -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-              <button id="btnDescargar" class="btn btn-default" type="submit">DESCARGAR</button>
-              <button id="btnEmbeber" class="btn btn-default">EMBEBER</button>
-            </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-          <br>
-            <pre id="compartir" hidden></pre>
-          </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <br>
-                <h1>Datos</h1>
-                <div class="data-table">
-                    <table class="table">
-                        <thead class="hidden-xs hidden-sm">
-                            <tr>
-                                <th>Nombre</th>
-                                <th>Institución</th>
-                                <th>Formato</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr id="dato" class="hidden-xs hidden-sm" data-href="">
-                                <td id="nombreDato" class=""></td>
-                                <td id="institucionDato" width="25%" class=""></td>
-                                <td width="10%">
-                                    <span id="tipoDato" data-format="XLSX" class="dataset-format"></span></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <br>
-            </div>
         </div>
     </div>
-    <div id="output" hidden></div>
+    <div class="row">
+        <div class="col-md-12">
+            <br>
+            <div id="descripcion"></div> <!-- AQUI VA LA DESCRIPCIÓN -->
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <br>
+            <div id="loadImg"><div><img src="http://www.downgraf.com/wp-content/uploads/2014/09/01-progress.gif"/></div></div>
+            <iframe id="marcoVisualizaciones" border=0 name=iframe src="" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 600px;" onload="document.getElementById('loadImg').style.display='none';">
+                <p>Tu navegador no soporta IFRAMES</p>
+            </iframe>
+            <!-- AQUÍ VA LA VISUALIZACIÓN -->
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+          <button id="btnDescargar" class="btn btn-default" type="submit">DESCARGAR</button>
+          <button id="btnEmbeber" class="btn btn-default">EMBEBER</button>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-12">
+          <br>
+          <pre id="compartir" hidden></pre>
+      </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+        <br>
+        <h1>Datos</h1>
+        <div class="data-table">
+            <table class="table">
+                <thead class="hidden-xs hidden-sm">
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Institución</th>
+                        <th>Formato</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="dato" class="hidden-xs hidden-sm" data-href="">
+                        <td id="nombreDato" class=""></td>
+                        <td id="institucionDato" width="25%" class=""></td>
+                        <td width="10%">
+                            <span id="tipoDato" data-format="XLSX" class="dataset-format"></span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <br>
+        </div>
+    </div>
+</div>
+<div id="output" hidden></div>
 
-    <dgm-footer></dgm-footer>
-    <!-- JQuery -->
-    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-    <!-- BOOTSTRAP -->
-    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-
-    <script type="text/javascript" src="js/saveSvgAsPng.js"></script>
-
-    <script type="text/javascript" src="js/main.js"></script>
+<dgm-footer></dgm-footer>
+<!-- JQuery -->
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+<!-- BOOTSTRAP -->
+<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/saveSvgAsPng.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
 
 </body>
 </html>

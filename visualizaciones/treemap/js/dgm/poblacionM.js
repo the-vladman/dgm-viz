@@ -19,7 +19,7 @@ $(document).ready(function(){
 	var jsonTreemap, idVal;
 
   //Valores iniciales para el treemap
-  idVal = ["nivel1", "nivel2","nivel3", "nivel4"];
+  idVal = ["nivel3", "nivel1","nivel2", "nivel4"];
   loadJsonTreemap(); //Treemap
 
   function loadJsonTreemap(e){

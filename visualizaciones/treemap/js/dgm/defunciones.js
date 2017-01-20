@@ -47,7 +47,7 @@ $(document).ready(function(){
     .size("valor") //sizing of blocks
     //Rango de colores según valor
     .color({
-      "heatmap": [ "#1d5287" , "#158a8c" , "#00cc99", "#34dab3" ],
+      "heatmap": [ "#158a8c" , "#00cc99", "#34dab3" ],
       "value": "valor"
     })
     .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })

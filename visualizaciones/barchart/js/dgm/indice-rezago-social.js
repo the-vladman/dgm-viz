@@ -12,7 +12,7 @@ $.ajax({
   }
 });
 
-  var categoryDatos = ["#158a8c","#00cc99","#34dab3"];
+  var categoryDatos = ["#158a8c","#00cc99","#53e5be"];
 
   d3.scale.categoryDatos = function() {
       return d3.scale.ordinal().range(categoryDatos);

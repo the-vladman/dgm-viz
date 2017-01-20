@@ -32,7 +32,7 @@
       .data(jsonScatter.valores)
       .type("scatter")
       .id(["MUNICIPIO", "TITULAR"])
-      .title(jsonScatter.label)
+      //.title(jsonScatter.label)
       .x({
           "value": "INICIO",
           "scale": "discrete",
@@ -43,13 +43,17 @@
           "label": jsonScatter.ejey
       })
       .size("SUPERFICIE")
+    .color({
+      "heatmap": [ "#158a8c" ,"#00cc99", "#53e5be" ],
+      "value": "SUPERFICIE"
+    })
       .margin({"top":10,"bottom":10})
       .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
       .format({
           "number": function(number, params) {
               //var formattedFirst = d3plus.number.format(number, params);
               var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-              n = parseFloat(number).toFixed(4);
+              n = parseFloat(number).toFixed(1);
               var formatted = Number(n).toLocaleString('en');
               if (params.key === "VIGENCIA") {
                   return formatted + " meses";
@@ -61,19 +65,11 @@
       })
       .labels(false)
       .tooltip({
-          "value": ["TITULAR", "TITULO", "NOMBRE LOTE", "INICIO", "FIN", "VIGENCIA", "COO UTM X", "COO UTM Y", "CARTA INEGI"],
+          "value": ["TITULAR", "TITULO", "SUPERFICIE","NOMBRE LOTE", "INICIO", "FIN", "VIGENCIA", "COO UTM X", "COO UTM Y", "CARTA INEGI"],
           "size": false,
           "small": 300
       })
-      .color({
-          "value": "MUNICIPIO",
-          "scale": categoryDatos
-      })
-      .legend({
-          "filters": true,
-          "size": 0,
-          "align": "start"
-      })
+      .legend({"align": "middle"})
       .resize(true)
   .draw()
 

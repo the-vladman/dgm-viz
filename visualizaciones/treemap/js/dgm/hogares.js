@@ -30,7 +30,7 @@ $(document).ready(function(){
     .type("tree_map") //visualization type
     .size("valor") //sizing of blocks
     .color({
-      "heatmap": [ "#1d5287" , "#158a8c" , "#00cc99", "#34dab3" ],
+      "heatmap": [ "#158a8c" , "#00cc99", "#34dab3" ],
       "value": "valor"
     })
 

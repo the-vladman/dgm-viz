@@ -1,0 +1,18 @@
+{
+  "name": "dgm-viz",
+  "version": "0.1.1",
+  "description": "Visualizaciones de los 50 datasets más descargados en datos.gob.mx",
+  "author": "Sergio Rodríguez <gufin80@gmail.com>",
+  "keywords": [
+    "webapp",
+    "gulp",
+    "javascript",
+    "dgm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxabierto/dgm-viz"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

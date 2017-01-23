@@ -115,6 +115,8 @@ function getInfoChart(var1) {
     }
     $("#descripcion").html("");
     $("#descripcion").append(descripcion);
+    $("#titulo").html("");
+    $("#titulo").html(grafica);
     $("#nombreDato").html("");
     $("#institucionDato").html("");
     $("#tipoDato").html("");

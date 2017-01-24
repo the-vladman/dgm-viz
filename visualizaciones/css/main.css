@@ -7635,3 +7635,8 @@ h1:after {
 .section-data .data-table .table {
     margin-bottom: 0
 }
+
+html *
+{
+   font-family: "Open Sans" !important;
+}

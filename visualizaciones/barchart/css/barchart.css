@@ -13,6 +13,7 @@ svg {
   height: 100%;
   position: center;
   overflow: visible !important;
+  color: #6f6f6f;
 }
 
 .nvd3 g.nv-groups path.nv-line {

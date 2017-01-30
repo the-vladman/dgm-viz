@@ -108,6 +108,10 @@ function getInfoChart(var1) {
             descripcion="Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.<br>http://www.siam.economia.gob.mx/work/models/siam/Resource/Avisos/Fund_basicos_conc_min.pdf";
             datos=["Concesiones Mineras", "SE", "CSV", "http://yahoo.com"]
         break;
+        case (grafica.match(/Cultivos de tu Municipio 2015.*/)|| {}).input:
+            descripcion="Información cierre de los cultivos con mayor rendimiento a nivel municipal en 2015.";
+            datos=["Proveedores, Comercialización y Cultivos", "SAGARPA", "XLS", "https://datos.gob.mx/busca/dataset/proveedores-comercializacion-y-cultivos"]
+        break;
         default:
             descripcion="";
             datos=["", "", "", ""];

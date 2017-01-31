@@ -52,8 +52,7 @@ $(document).ready(function(){
         n = parseFloat(number).toFixed(1)
         var formatted = Number(n).toLocaleString('en');
         if (params.key == "valor") {
-          //return "$" + formatted;
-          return formatted;
+          return "$" + formatted;
         }
         else {
           return formatted + '%';

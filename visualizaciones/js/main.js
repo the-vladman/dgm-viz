@@ -111,7 +111,7 @@ function getInfoChart(var1) {
             datos=["Concesiones Mineras", "SE", "CSV", "https://datos.gob.mx/busca/dataset/concesiones-mineras"]
         break;
         case (grafica.match(/Cultivos de tu Municipio 2015.*/)|| {}).input:
-            descripcion="Información cierre de los cultivos con mayor rendimiento a nivel municipal en 2015.";
+            descripcion="La gráfica de composición muestra el valor de la producción en pesos de los cultivos cosechados a nivel estado y municipio en el año 2015.";
             datos=["Proveedores, Comercialización y Cultivos", "SAGARPA", "XLS", "https://datos.gob.mx/busca/dataset/proveedores-comercializacion-y-cultivos"]
         break;
         default:

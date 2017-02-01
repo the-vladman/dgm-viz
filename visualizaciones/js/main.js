@@ -133,21 +133,21 @@ function getInfoChart(var1) {
     $("#tipoDato").attr("data-format", datos[2]);
 
     $("#dato").attr("data-href", datos[3]);
-    $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
-        // Desactiva descargar en gráficas de BARRAS
-        if ($('#pillBar').hasClass('active')) {
-            $('#btnDescargar').prop('disabled', true);
-        }
-        else {
-            $('#btnDescargar').prop('disabled', false);
-        }
-    }
-    );
+    // $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+    //     // Desactiva descargar en gráficas de BARRAS
+    //     if ($('#pillBar').hasClass('active')) {
+    //         $('#btnDescargar').prop('disabled', true);
+    //     }
+    //     else {
+    //         $('#btnDescargar').prop('disabled', false);
+    //     }
+    // }
+    // );
 }
 
 $('#dato').click(function() {
-    window.open($(this).data('href'), '_blank');
-    return false;
+    var liga = $(this).attr( "data-href" );
+    window.open(liga, '_blank');
 }
 
 );

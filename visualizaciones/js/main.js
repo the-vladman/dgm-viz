@@ -1,7 +1,7 @@
 var switcher$=$('.graficas'), switchTarget$=$('#marcoVisualizaciones');
 switchTarget$.attr('src', switcher$.val());
 getInfoChart(document.getElementById('chartBarra').options[0].text);
-$('#btnDescargar').prop('disabled', true);
+//$('#btnDescargar').prop('disabled', true);
 $('.graficas').on('change', function() {
     $("#compartir").hide();
     document.getElementById('marcoVisualizaciones').src=this.options[this.selectedIndex].value;

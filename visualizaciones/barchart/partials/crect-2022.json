@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Crecimiento total anual",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":2022,"ent":"Aguascalientes","crect":14843.43609}
 ,
 {"año":2022,"ent":"Baja California","crect":46089.83035}
@@ -69,5 +64,3 @@
 {"año":2022,"ent":"Zacatecas","crect":10064.33635}
 
 ]
-    }]
-}

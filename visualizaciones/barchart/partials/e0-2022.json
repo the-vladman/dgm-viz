@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Esperanza de vida al nacimiento total (ambos sexos)",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":2022,"ent":"Aguascalientes","e0":76.68871396}
 ,
 {"año":2022,"ent":"Baja California","e0":75.09590116}
@@ -69,5 +64,3 @@
 {"año":2022,"ent":"Zacatecas","e0":76.27245056}
 
 ]
-    }]
-}

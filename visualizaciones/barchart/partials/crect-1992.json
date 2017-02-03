@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Crecimiento total anual",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":1992,"ent":"Aguascalientes","crect":19309}
 ,
 {"año":1992,"ent":"Baja California","crect":80434}
@@ -69,5 +64,3 @@
 {"año":1992,"ent":"Zacatecas","crect":3895}
 
 ]
-    }]
-}

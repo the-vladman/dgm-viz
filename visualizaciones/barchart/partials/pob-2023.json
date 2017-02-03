@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Población",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":2023,"ent":"Aguascalientes","pob":1414224.571}
 ,
 {"año":2023,"ent":"Baja California","pob":3868001.262}
@@ -69,5 +64,3 @@
 {"año":2023,"ent":"Zacatecas","pob":1664360.1}
 
 ]
-    }]
-}

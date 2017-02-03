@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Nacimientos anuales",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":2008,"ent":"Aguascalientes","nac":26683}
 ,
 {"año":2008,"ent":"Baja California","nac":56568}
@@ -69,5 +64,3 @@
 {"año":2008,"ent":"Zacatecas","nac":32030}
 
 ]
-    }]
-}

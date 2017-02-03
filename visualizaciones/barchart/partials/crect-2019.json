@@ -1,9 +1,4 @@
-{
-    "ejex": "Estados",
-    "ejey": "Crecimiento total anual",
-    "valores": [{
-        "key": "Estados",
-        "values": [
+[
 {"año":2019,"ent":"Aguascalientes","crect":15796.12786}
 ,
 {"año":2019,"ent":"Baja California","crect":47888.13071}
@@ -69,5 +64,3 @@
 {"año":2019,"ent":"Zacatecas","crect":10985.08014}
 
 ]
-    }]
-}

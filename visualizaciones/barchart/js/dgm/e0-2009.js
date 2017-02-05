@@ -9,7 +9,7 @@ var visualization = d3plus.viz()
   "value": "e0"
 })
 .x("ent")
-.y("e0")
+.y({"value":"e0", "range": [60,80]})
 .font({ "family": "'Open Sans', sans-serif" })
 .format({
   "text": function(text, params) {
@@ -26,15 +26,9 @@ var visualization = d3plus.viz()
   },
   "number": function(number, params) {
     var formattedFirst = d3plus.number.format(number, params);
-    var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-    n = parseFloat(number).toFixed(1)
+        n = parseFloat(number).toFixed(1);
     formatted = Number(n).toLocaleString('en');
-    if (params.key == "crect") {
-      return formatted;
-    }
-    else {
-      return formatted;
-    }
+    return formatted;
   },
   "locale":"es_ES"
 })

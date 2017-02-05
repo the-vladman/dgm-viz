@@ -1,11 +1,11 @@
 var visualization = d3plus.viz()
 .container("#viz") // container DIV to hold the visualization
 .data("partials/indice-rezago-social_porEstado.json")
-.id("x") // key for which our data is unique on
+.id("año") // key for which our data is unique on
 .type("bar") //visualization type
 //Rango de colores según valor
 .color({
-  "heatmap": [ "#34dab3" , "#00cc99", "#158a8c" ],
+  "range": [ "#34dab3" , "#00cc99", "#158a8c" ],
   "value": "y"
 })
 .x("x")
@@ -16,7 +16,7 @@ var visualization = d3plus.viz()
     if (text === "y") {
       return "Índice de rezago social";
     }
-    if (text === "ent") {
+    if (text === "x") {
       return "Estados";
     }
     else {
@@ -26,15 +26,9 @@ var visualization = d3plus.viz()
   },
   "number": function(number, params) {
     var formattedFirst = d3plus.number.format(number, params);
-    var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-    n = parseFloat(number).toFixed(1)
+        n = parseFloat(number).toFixed(1);
     formatted = Number(n).toLocaleString('en');
-    if (params.key == "y") {
-      return formatted;
-    }
-    else {
-      return formatted;
-    }
+    return formatted;
   },
   "locale":"es_ES"
 })

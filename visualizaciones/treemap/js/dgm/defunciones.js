@@ -50,7 +50,7 @@ $(document).ready(function(){
       "heatmap": [ "#34dab3" , "#00cc99", "#158a8c" ],
       "value": "valor"
     })
-    .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
+    .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif", "size": 12 })
     .format({
       "text": function(text, params) {
 

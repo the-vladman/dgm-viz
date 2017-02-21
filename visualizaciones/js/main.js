@@ -130,7 +130,7 @@ function getInfoChart(var1) {
     document.getElementById("nombreDato").innerHTML=datos[0];
     document.getElementById("institucionDato").innerHTML=datos[1];
     document.getElementById("tipoDato").innerHTML=datos[2];
-    document.getElementById("fuente").innerHTML= "<i>FUENTE: " + datos[3] + "</i>";
+    document.getElementById("fuente").innerHTML= "<i>FUENTE: <a target='blank_' href='" + datos[3] + "'>"+ datos[3] +"</i>";
     $("#tipoDato").attr("data-format", datos[2]);
     $("#dato").attr("data-href", datos[3]);
 }

@@ -26,7 +26,10 @@ $(document).ready(function(){
     var visualization = d3plus.viz()
     .container("#treemapd3") // container DIV to hold the visualization
     .data(jsonTreemap.valores)
-    .id(idVal) // key for which our data is unique on
+    .id({
+      "value": ["nivel2", "nivel1","nivel3", "nivel4"],
+      "grouping": false            // grouping set to false ungroups parent nesting
+    })
     .type("tree_map") //visualization type
     .size("valor") //sizing of blocks
     .color({
@@ -49,7 +52,6 @@ $(document).ready(function(){
         //var formattedFirst = d3plus.number.format(number, params);
         //var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         n = parseFloat(number).toFixed(1);
-        console.log(n);
         var formatted = Number(n).toLocaleString('en');
         if (params.key == "valor") {
           //return "$" + formatted;

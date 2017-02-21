@@ -10,7 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("x")
 .y("y")
-.font({ "family": "'Open Sans', sans-serif" })
+.font({ "family": "'Open Sans', sans-serif", "size": 12 })
 .format({
   "text": function(text, params) {
     if (text === "y") {
@@ -32,6 +32,6 @@ var visualization = d3plus.viz()
   },
   "locale":"es_ES"
 })
-.legend(false)
+.legend(true)
 .resize(true)
 .draw()  //finally, draw the visualization!

@@ -10,7 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("ent")
 .y("crect")
-.font({ "family": "'Open Sans', sans-serif" })
+.font({ "family": "'Open Sans', sans-serif", "size": 12 })
 .format({
   "text": function(text, params) {
     if (text === "crect") {
@@ -32,6 +32,6 @@ var visualization = d3plus.viz()
   },
   "locale":"es_ES"
 })
-.legend(false)
+.legend(true)
 .resize(true)
 .draw()  //finally, draw the visualization!

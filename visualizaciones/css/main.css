@@ -7641,3 +7641,8 @@ h1:after {
    font-family: "Open Sans" !important;
    color: #6f6f6f !important;
 }
+
+.fuente2 a:hover, a:visited, a:link, a:active {
+  color: #6f6f6f !important;
+  text-decoration: none;
+}

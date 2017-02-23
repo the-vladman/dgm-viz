@@ -81,15 +81,8 @@ $(document).ready(function(){
       "small":350
     })
     .height(600)
-    /*.labels({
-      "align": "middle",
-      "valign": "top",
-      "number": function(number, params) {
-        n = parseFloat(number).toFixed(1)
-        var formatted = Number(n).toLocaleString('en');
-      },
-    })*/
     .resize(true)
+    .ui({"padding":15})
     .draw()  //finally, draw the visualization!
   }
 

@@ -69,6 +69,7 @@ $(document).ready(function(){
     //.labels({"align": "middle", "valign": "top", "text" : "valor"})
     .height(600)
     .resize(true)
+		.ui({"padding":15})
     .draw()  //finally, draw the visualization!
   }
 

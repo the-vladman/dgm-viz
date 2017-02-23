@@ -7643,6 +7643,6 @@ h1:after {
 }
 
 .fuente2 a:hover, a:visited, a:link, a:active {
-  color: #6f6f6f !important;
+  color: #6f6f6f;
   text-decoration: none;
 }

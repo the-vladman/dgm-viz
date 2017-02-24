@@ -32,7 +32,6 @@
       .data(jsonScatter.valores)
       .type("scatter")
       .id(["MUNICIPIO", "TITULAR"])
-      .title(jsonScatter.label)
       .x({
           "value": "INICIO",
           "scale": "discrete",
@@ -64,11 +63,7 @@
           "value": "MUNICIPIO",
           "scale": categoryDatos
       })
-      .legend({
-          "filters": true,
-          "size": 0,
-          "align": "start"
-      })
+      .legend(false)
       .resize(true)
   .draw()
 

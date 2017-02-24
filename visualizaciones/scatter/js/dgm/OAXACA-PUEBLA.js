@@ -49,11 +49,7 @@
               var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
               n = parseFloat(number).toFixed(4);
               var formatted = Number(n).toLocaleString('en');
-              if (params.key === "VIGENCIA") {
-                  return formatted + " meses";
-              } else {
-                  return formatted;
-              }
+              return formatted;
           },
           "locale": "es_ES"
       })

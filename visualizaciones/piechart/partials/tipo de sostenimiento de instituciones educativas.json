@@ -1,5 +1,5 @@
 {
-  "unidad": "Especies",
+  "unidad": "Tipo de sostenimiento",
   "ancho": 550,
   "valores": [{"label":"PARTICULAR","value":2565},{"label":"P\u00daBLICO","value":1021}]
 }

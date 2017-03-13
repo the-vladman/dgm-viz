@@ -1,0 +1,12 @@
+[
+{"entidad":16,"tipo":"Educación Básica","ambito":"Urbano","valor":3734},
+{"entidad":16,"tipo":"Educación Básica","ambito":"Rural","valor":7387},
+{"entidad":16,"tipo":"Educación Especial","ambito":"Urbano","valor":114},
+{"entidad":16,"tipo":"Educación Especial","ambito":"Rural","valor":1},
+{"entidad":16,"tipo":"Educación Inicial","ambito":"Urbano","valor":188},
+{"entidad":16,"tipo":"Educación Inicial","ambito":"Rural","valor":115},
+{"entidad":16,"tipo":"Educación Media Superior","ambito":"Urbano","valor":419},
+{"entidad":16,"tipo":"Educación Media Superior","ambito":"Rural","valor":241},
+{"entidad":16,"tipo":"Educación Superior","ambito":"Urbano","valor":196},
+{"entidad":16,"tipo":"Educación Superior","ambito":"Rural","valor":7}
+]

@@ -1,38 +1,24 @@
 
-  var jsonPiechart;
-  var total = 0;
-
-  $.ajax({
-    type: "GET",
-    url: "partials/numero de pueblos magicos por estado.json",
-    async: false,
-      success: function(data){
-          jsonPiechart = data;
-          jsonPiechart.valores.forEach(function(d) {
-              total = total + d.value;
-          });
-    }
-  });
-
-
-
   d3plus.viz()
   .container("#viz")
-  .data(jsonPiechart.valores)
+  .data("partials/pueblosmagicos.json")
   .type("pie")
-  .id("label")
-  .size("value")
+  .id("estado")
+  .size("valor")
   .color({
     "heatmap": ["#34DAB3","#30D1AE","#2DC8AA","#29BFA6","#26B6A1","#22AD9D","#1FA499","#1B9B94","#189290","#158A8C"],
-    "value": "value"
+    "value": "valor"
   })
   .legend(false)
-  .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif" })
+  .font({
+      "family": "'Open Sans', Helvetica, Arial, sans-serif",
+      "size": 12
+  })
   .format({
     "text": function(text, params) {
 
-      if (text === "value") {
-        return jsonPiechart.unidad;
+      if (text === "valor") {
+        return "Pueblos mágicos";
       }
       else {
         return d3plus.string.title(text, params);
@@ -40,18 +26,20 @@
 
     },
     "number": function(number, params) {
-      n = parseFloat(number).toFixed(2)
-      var formatted = Number(n).toLocaleString('en');
-      if (params.key == "value") {
-        //return "$" + formatted;
-        return formatted;
-      }
-      else {
-        return formatted + '%';
-      }
+        n = parseFloat(number).toFixed(1)
+        var formatted = Number(n).toLocaleString('en');
+        if (params.key == "valor") {
+            //return "$" + formatted;
+            return formatted;
+        } else {
+            return formatted + '%';
+        }
     },
     "locale":"es_ES"
   })
-  .height(jsonPiechart.ancho)
+  .tooltip({
+      "value": ["valor", "municipio"],
+      "small": 400
+  })
   .resize(true)
   .draw()

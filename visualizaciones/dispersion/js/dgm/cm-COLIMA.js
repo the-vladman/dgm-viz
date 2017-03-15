@@ -11,7 +11,6 @@
       })
       .y({
           "value": "vigencia",
-          "stacked": "true",
           "label": "Vigencia en meses"
       })
       .size("superficie")

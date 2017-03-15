@@ -1,14 +1,40 @@
 var switcher$ = $('.graficas'),
-    switchTarget$ = $('#marcoVisualizaciones');
+switchTarget$ = $('#marcoVisualizaciones');
 switchTarget$.attr('src', switcher$.val());
 getInfoChart(document.getElementById('chartBarra').options[0].text);
+var padreOption=$('#chartBarra :selected').parent().attr('label');
+if (padreOption == null){
+  getInfoChart(document.getElementById('chartBarra').options[0].text);
+} else {
+  var a = "";
+  a = padreOption + ": " + document.getElementById('chartBarra').options[0].text;
+  getInfoChart(a);
+}
+
 $('.graficas').on('change', function() {
         $("#compartir").hide();
         document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;
-        getInfoChart(this.options[this.selectedIndex].text);
+        var padreOption = $(this.options[this.selectedIndex]).closest('optgroup').prop('label');
+        if (padreOption == null){
+          getInfoChart(this.options[this.selectedIndex].text);
+        } else {
+          var a = "";
+          a = padreOption + ": " + this.options[this.selectedIndex].text;
+          getInfoChart(a);
+        }
     }
-
 );
+
+function getParent(s){
+  var padreOption = $("#"+s+" option:first").parent().attr('label');
+  if (padreOption == null){
+    getInfoChart(document.getElementById(s).options[0].text);
+  } else {
+    var a = "";
+    a = padreOption + ": " + document.getElementById(s).options[0].text;
+    getInfoChart(a);
+  }
+}
 
 function getInfoChart(var1) {
     var grafica = var1;
@@ -107,7 +133,7 @@ function getInfoChart(var1) {
             descripcion = "Tabla con total de puntos muestreados, porcentaje de eficiencia de cloración, porcentaje de cobertura de vigilancia, porcentaje de población con cobertura de vigilancia, porcentaje de muestras aptas para consumo, porcentaje dentro y arriba de NOM. Por cada Entidad Federativa.";
             datos = ["Calidad del agua de uso y consumo humano.", "COFEPRIS", "XLS", "https://datos.gob.mx/busca/dataset/calidad-del-agua-de-uso-y-consumo-humano", "http://www.cofepris.gob.mx/Paginas/Inicio.aspx"]
             break;
-        case (grafica.match(/Concesión minera.*/) || {}).input:
+        case (grafica.match(/Concesiones mineras.*/) || {}).input:
             descripcion = "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.";
             datos = ["Concesiones Mineras", "SE", "CSV", "https://datos.gob.mx/busca/dataset/concesiones-mineras", "http://www.siam.economia.gob.mx/work/models/siam/Resource/Avisos/Fund_basicos_conc_min.pdf"]
             break;
@@ -119,7 +145,7 @@ function getInfoChart(var1) {
             descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020  Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
-        case (grafica.match(/CCT - .*/) || {}).input:
+        case (grafica.match(/Catálogo de Centros de Trabajo por Entidad - .*/) || {}).input:
             descripcion = "En esta sección se presenta la información sobre los Centros escolares de Educación Básica, Media Superior, Superior, Especial, Inicial y Formación para el Trabajo con sus características básicas relativas a su situación geográfica y administrativa.";
             datos = ["Catálogo de Centros de Trabajo", "SEP", "XLSX", "https://datos.gob.mx/busca/dataset/catalogo-de-centros-de-trabajo", "http://www.sep.gob.mx/es/sep1/directorio_de_escuelas"]
             break;

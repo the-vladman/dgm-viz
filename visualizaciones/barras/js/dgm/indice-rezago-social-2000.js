@@ -14,7 +14,7 @@ var visualization = d3plus.viz()
 .format({
   "text": function(text, params) {
     if (text === "y") {
-      return "Índice de rezago social 2000";
+      return "Índice de rezago social";
     }
     if (text === "x") {
       return "Estados";

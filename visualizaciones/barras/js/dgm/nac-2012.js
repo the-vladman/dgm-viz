@@ -14,7 +14,7 @@ var visualization = d3plus.viz()
 .format({
   "text": function(text, params) {
     if (text === "nac") {
-      return "Nacimientos anuales";
+      return "Nacimientos";
     }
     if (text === "ent") {
       return "Estados";

@@ -14,7 +14,7 @@ var visualization = d3plus.viz()
 .format({
   "text": function(text, params) {
     if (text === "pob") {
-      return "Población";
+      return "Población media Total";
     }
     if (text === "ent") {
       return "Estados";

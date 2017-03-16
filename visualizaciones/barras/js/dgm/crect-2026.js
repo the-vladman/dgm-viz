@@ -14,7 +14,7 @@ var visualization = d3plus.viz()
 .format({
   "text": function(text, params) {
     if (text === "crect") {
-      return "Crecimiento total anual";
+      return "Crecimiento total";
     }
     if (text === "ent") {
       return "Estados";

@@ -37,7 +37,7 @@ $(document).ready(function(){
       "value": "valor"
     })
 
-    .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif", "size": 12 })
+    .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif", "size": 14 })
     .format({
       "text": function(text, params) {
 

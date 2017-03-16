@@ -10,9 +10,7 @@ d3plus.viz()
         "value": "valor"
     })
     .legend(false)
-    .font({
-        "family": "'Open Sans', Helvetica, Arial, sans-serif"
-    })
+    .font({ "family": "'Open Sans', Helvetica, Arial, sans-serif", "size": 14 })
     .format({
         "text": function(text, params) {
             if (text === "valor") {

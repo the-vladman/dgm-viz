@@ -10,7 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("ent")
 .y({"value":"e0", "range": [60,80]})
-.font({ "family": "'Open Sans', sans-serif", "size": 12 })
+.font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {
     if (text === "e0") {

@@ -20,9 +20,20 @@
       })
       .font({
           "family": "'Open Sans', Helvetica, Arial, sans-serif",
-          "size": 11
+          "size": 14
       })
       .format({
+          "text": function(text, params) {
+            if (text === "superficie") {
+              return "Superficie en km²";
+            }
+            if (text === "vigencia") {
+              return "Vigencia en meses";
+            }
+            else {
+              return d3plus.string.title(text, params);
+            }
+          },
           "number": function(number, params) {
               //var formattedFirst = d3plus.number.format(number, params);
               var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");

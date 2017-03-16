@@ -138,7 +138,7 @@ function getInfoChart(var1) {
             datos = ["Concesiones Mineras", "SE", "CSV", "https://datos.gob.mx/busca/dataset/concesiones-mineras", "http://www.siam.economia.gob.mx/work/models/siam/Resource/Avisos/Fund_basicos_conc_min.pdf"]
             break;
         case (grafica.match(/Cultivos de tu Municipio 2015.*/) || {}).input:
-            descripcion = "La gráfica de composición muestra el valor de la producción en pesos de los cultivos cosechados a nivel estado y municipio en el año 2015.";
+            descripcion = "La gráfica de composición muestra la información cierre de los cultivos con mayor rendimiento a nivel estatal y municipal en 2015.";
             datos = ["Proveedores, Comercialización y Cultivos", "SAGARPA", "XLS", "https://datos.gob.mx/busca/dataset/proveedores-comercializacion-y-cultivos", "http://www.gob.mx/siap/acciones-y-programas/produccion-agricola-33119"]
             break;
         case (grafica.match(/Entidades Federativas.*/) || {}).input:

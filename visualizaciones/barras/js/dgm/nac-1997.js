@@ -10,7 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("ent")
 .y("nac")
-.font({ "family": "'Open Sans', sans-serif", "size": 12 })
+.font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {
     if (text === "nac") {

@@ -10,11 +10,12 @@ var visualization = d3plus.viz()
 })
 .x("x")
 .y("y")
+.order({"agg":"max","sort":"desc","value":"y"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {
     if (text === "y") {
-      return "Índice de rezago social 2010";
+      return "Índice de rezago social";
     }
     if (text === "x") {
       return "Estados";

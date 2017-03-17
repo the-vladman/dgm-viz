@@ -10,11 +10,12 @@ var visualization = d3plus.viz()
 })
 .x("ent")
 .y("crect")
+.order({"agg":"max","sort":"desc","value":"crect"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {
     if (text === "crect") {
-      return "Crecimiento total anual";
+      return "Crecimiento total";
     }
     if (text === "ent") {
       return "Estados";

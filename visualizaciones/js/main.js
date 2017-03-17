@@ -34,6 +34,7 @@ function getParent(s){
     a = padreOption + ": " + document.getElementById(s).options[0].text;
     getInfoChart(a);
   }
+  $('.graficas').prop('selectedIndex',0);
 }
 
 function getInfoChart(var1) {

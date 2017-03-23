@@ -157,6 +157,10 @@ function getInfoChart(var1) {
             descripcion = "En esta sección se presenta la información sobre los Centros escolares de Educación Básica, Media Superior, Superior, Especial, Inicial y Formación para el Trabajo con sus características básicas relativas a su situación geográfica y administrativa.";
             datos = ["Catálogo de Centros de Trabajo", "SEP", "XLSX", "https://datos.gob.mx/busca/dataset/catalogo-de-centros-de-trabajo", "http://www.sep.gob.mx/es/sep1/directorio_de_escuelas"]
             break;
+        case (grafica.match(/Transferencias a Entidades Federativas.*/) || {}).input:
+            descripcion = "";
+            datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

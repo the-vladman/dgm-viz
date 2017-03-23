@@ -1,5 +1,5 @@
 # dgm-viz
-Visualizaciones de los 50 datasets más descargados en [datos.gob.mx](http://datos.gob.mx/).
+Visualizaciones de algunos de los datasets más descargados en [datos.gob.mx](http://datos.gob.mx/).
 
 ## Instalación
 0. `git clone https://github.com/mxabierto/dgm-viz.git`

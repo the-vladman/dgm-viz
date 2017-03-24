@@ -8,6 +8,7 @@ var visualization = d3plus.viz()
 //Rango de colores según valor
 .color({
     "heatmap": ["#34dab3", "#00cc99", "#158a8c"],
+    "range": ["#34dab3", "#00cc99", "#158a8c"],
     "value": "MONTO"
 })
 .font({

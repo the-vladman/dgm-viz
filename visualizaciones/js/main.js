@@ -161,6 +161,10 @@ function getInfoChart(var1) {
             descripcion = "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.";
             datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
             break;
+        case (grafica.match(/Ingreso, Gasto y Financiamiento.*/) || {}).input:
+            descripcion = "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.";
+            datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

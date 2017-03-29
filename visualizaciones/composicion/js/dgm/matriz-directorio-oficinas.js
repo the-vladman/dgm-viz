@@ -2,13 +2,13 @@
 var visualization = d3plus.viz()
 .container("#treemapd3") // container DIV to hold the visualization
 .data("partials/dgm/matriz-directorio-oficinas.json")
-.id(["entidad", "municipio","dependencia", "nombre"]) // key for which our data is unique on
+.id(["entidad", "municipio", "nombre"]) // key for which our data is unique on
 .type("tree_map") //visualization type
 .size("valor") //sizing of blocks
 //Rango de colores según valor
 .color({
-    "heatmap": ["#34dab3", "#00cc99", "#158a8c"],
     "range": ["#34dab3", "#00cc99", "#158a8c"],
+    "heatmap": ["#34dab3", "#00cc99", "#158a8c"],
     "value": "valor"
 })
 .font({
@@ -21,8 +21,8 @@ var visualization = d3plus.viz()
         if (text === "valor") {
             return "Oficinas";
         }
-        if (text === "dependencia") {
-            return text;
+        if (text === "telefono") {
+            return "Teléfono";
         }
         else {
             return d3plus.string.title(text, params);
@@ -43,7 +43,7 @@ var visualization = d3plus.viz()
     "locale": "es_ES"
 })
 .tooltip({
-    "value": ["nombre", "telefono", "domicilio"],
+    "value": ["nombre", "dependencia", "telefono", "domicilio"],
     "small": 350
 })
 .resize(true)

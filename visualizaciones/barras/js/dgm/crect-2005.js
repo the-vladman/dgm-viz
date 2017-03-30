@@ -5,11 +5,12 @@ var visualization = d3plus.viz()
 .type("bar") //visualization type
 //Rango de colores según valor
 .color({
-  "heatmap": [ "#34dab3" , "#00cc99", "#158a8c" ],
+  "range": [ "#34dab3" , "#00cc99", "#158a8c" ],
   "value": "crect"
 })
 .x("ent")
 .y("crect")
+.order({"agg":"max","sort":"desc","value":"crect"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {

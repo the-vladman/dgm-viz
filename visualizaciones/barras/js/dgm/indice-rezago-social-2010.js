@@ -10,6 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("x")
 .y("y")
+.order({"agg":"max","sort":"desc","value":"y"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {

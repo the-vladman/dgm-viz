@@ -9,7 +9,8 @@ var visualization = d3plus.viz()
   "value": "e0"
 })
 .x("ent")
-.y({"value":"e0", "range": [60,80]})
+.y({"value":"e0", "heatmap": [60,80]})
+.order({"agg":"max","sort":"desc","value":"e0"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {

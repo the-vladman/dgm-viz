@@ -1,6 +1,4 @@
-{
-  "unidad": "Personas",
-  "valores": [
+[
     {
       "nivel1": "Aguascalientes",
       "nivel2": 1990,
@@ -15746,4 +15744,3 @@
       "valor": 1007.776306
     }
   ]
-}

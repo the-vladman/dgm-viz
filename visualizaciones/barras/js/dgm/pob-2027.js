@@ -10,6 +10,7 @@ var visualization = d3plus.viz()
 })
 .x("ent")
 .y("pob")
+.order({"agg":"max","sort":"desc","value":"pob"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {
@@ -22,7 +23,6 @@ var visualization = d3plus.viz()
     else {
       return d3plus.string.title(text, params);
     }
-
   },
   "number": function(number, params) {
     var formattedFirst = d3plus.number.format(number, params);

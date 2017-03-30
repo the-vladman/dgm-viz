@@ -1,6 +1,13 @@
 var switcher$ = $('.graficas'),
 switchTarget$ = $('#marcoVisualizaciones');
 switchTarget$.attr('src', switcher$.val());
+// Get IE or Edge browser version
+var version = detectIE();
+if (version === false) {
+  $("#btnDescargar").show();
+} else {
+  $("#btnDescargar").hide();
+}
 getInfoChart(document.getElementById('chartBarra').options[0].text);
 var padreOption=$('#chartBarra :selected').parent().attr('label');
 if (padreOption == null){
@@ -34,6 +41,7 @@ function getParent(s){
     a = padreOption + ": " + document.getElementById(s).options[0].text;
     getInfoChart(a);
   }
+  $('.graficas').prop('selectedIndex',0);
 }
 
 function getInfoChart(var1) {
@@ -141,13 +149,21 @@ function getInfoChart(var1) {
             descripcion = "La gráfica de composición muestra la información cierre de los cultivos con mayor rendimiento a nivel estatal y municipal en 2015.";
             datos = ["Proveedores, Comercialización y Cultivos", "SAGARPA", "XLS", "https://datos.gob.mx/busca/dataset/proveedores-comercializacion-y-cultivos", "http://www.gob.mx/siap/acciones-y-programas/produccion-agricola-33119"]
             break;
-        case (grafica.match(/Entidades Federativas.*/) || {}).input:
+        case (grafica.match(/Proyecciones de los hogares Indígenas de México.*/) || {}).input:
             descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020  Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Catálogo de Centros de Trabajo por Entidad - .*/) || {}).input:
             descripcion = "En esta sección se presenta la información sobre los Centros escolares de Educación Básica, Media Superior, Superior, Especial, Inicial y Formación para el Trabajo con sus características básicas relativas a su situación geográfica y administrativa.";
             datos = ["Catálogo de Centros de Trabajo", "SEP", "XLSX", "https://datos.gob.mx/busca/dataset/catalogo-de-centros-de-trabajo", "http://www.sep.gob.mx/es/sep1/directorio_de_escuelas"]
+            break;
+        case (grafica.match(/Transferencias a Entidades Federativas.*/) || {}).input:
+            descripcion = "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.";
+            datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
+            break;
+        case (grafica.match(/Ingreso, Gasto y Financiamiento.*/) || {}).input:
+            descripcion = "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.";
+            datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
             break;
         default:
             descripcion = "";
@@ -200,3 +216,28 @@ $("#btnEmbeber").click(function() {
     }
 
 );
+
+function detectIE() {
+  var ua = window.navigator.userAgent;
+
+  var msie = ua.indexOf('MSIE ');
+  if (msie > 0) {
+    // IE 10 or older => return version number
+    return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+  }
+
+  var trident = ua.indexOf('Trident/');
+  if (trident > 0) {
+    // IE 11 => return version number
+    var rv = ua.indexOf('rv:');
+    return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+  }
+
+  var edge = ua.indexOf('Edge/');
+  if (edge > 0) {
+    // Edge (IE 12+) => return version number
+    return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+  }
+  // other browser
+  return false;
+}

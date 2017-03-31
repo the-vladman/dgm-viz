@@ -86,7 +86,7 @@ function getInfoChart(var1) {
             datos = ["Actividad Hotelera por Entidad Federativa", "SECTUR", "CSV", "https://datos.gob.mx/busca/dataset/actividad-hotelera-por-entidad-federativa", "http://www.datatur.sectur.gob.mx/SitePages/CompendioEstadistico.aspx"]
             break;
         case (grafica.match(/pueblos magicos.*/) || {}).input:
-            descripcion = "Tabla de las localidades que cuentan con el nombramiento de Pueblo Mágico por Estado y año de incorporación al Programa";
+            descripcion = "Gráfica de las localidades que cuentan con el nombramiento de Pueblo Mágico por entidad federativa.";
             datos = ["Localidades que cuentan con el nombramiento de Pueblo Mágico", "SECTUR", "XLS", "https://datos.gob.mx/busca/dataset/localidades-que-cuentan-con-el-nombramiento-de-pueblo-magico", "http://www.gob.mx/sectur/acciones-y-programas/programa-pueblos-magicos"]
             break;
         case (grafica.match(/Población por estado.*/) || {}).input:

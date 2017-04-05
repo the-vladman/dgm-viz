@@ -50,11 +50,11 @@ function getInfoChart(var1) {
     var datos = ["", "", "", "", ""];
     switch (grafica) {
         case (grafica.match(/Población media Total.*/) || {}).input:
-            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.";
+            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/en/CONAPO/Indicadores"];
             break;
         case (grafica.match(/Nacimientos Anuales.*/) || {}).input:
-            descripcion = "El más reciente ejercicio de prospectiva realizado por el Conapo ofrece insumos valiosos para describir la situación actual de la dinámica demográfica. El conocimiento de los cambios en la esperanza de vida, la estructura demográfica de la mortalidad, el potencial que ofrece el bono demográfico, el envejecimiento, los niveles y calendario de la fecundidad, son insumos para afrontar los diversos retos que en este campo se imponen a la sociedad y el Estado mexicano.";
+            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/work/models/CONAPO/Resource/1720/1/images/1_La_Situacion_Demografica_En_Mexico.pdf"];
             break;
         case (grafica.match(/rezago.*/) || {}).input:
@@ -62,11 +62,11 @@ function getInfoChart(var1) {
             datos = ["Índice de Rezago Social,2000-2010 (nacional,estatal,municipal, localidad y ageb)", "CONEVAL", "CSV", "https://datos.gob.mx/busca/dataset/indice-de-rezago-social20002005-y-2010-nacionalestatalmunicipal-y-localidad", "http://www.coneval.org.mx/Medicion/IRS/Paginas/Que-es-el-indice-de-rezago-social.aspx"];
             break;
         case (grafica.match(/Crecimiento.*/) || {}).input:
-            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.";
+            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Esperanza de vida.*/) || {}).input:
-            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida, tasas demográficas, entre varios.";
+            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Calidad general del agua.*/) || {}).input:
@@ -98,19 +98,19 @@ function getInfoChart(var1) {
             datos = ["Calidad del agua de uso y consumo humano", "COFEPRIS", "XLS", "https://datos.gob.mx/busca/dataset/indicadores-urbanos"]
             break;
         case (grafica.match(/Proyecciones de los hogares.*/) || {}).input:
-            descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas para el periodo 1990-2010 y las proyecciones de población para el horizonte 2010-2030. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
+            descripcion = "En esta sección se presenta la información sobre los resultados de las estimaciones demográficas para el 2010-2030 en cuanto a los hogares. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Proyecciones de los hogares índigenas.*/) || {}).input:
-            descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020  Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
+            descripcion = "En esta sección se presenta la información sobre los resultados de las estimaciones demográficas para el 2010-2030 en cuanto a los hogares indígenas. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/en/CONAPO/Proyecciones_de_Hogares_Indigenas_de_Mexico_y_las_Entidades_Federativas_2010-2020"]
             break;
         case (grafica.match(/Tasa específica de fecundidad.*/) || {}).input:
-            descripcion = "El más reciente ejercicio de prospectiva realizado por el Conapo ofrece insumos valiosos para describir la situación actual de la dinámica demográfica. El conocimiento de los cambios en la esperanza de vida, la estructura demográfica de la mortalidad, el potencial que ofrece el bono demográfico, el envejecimiento, los niveles y calendario de la fecundidad, son insumos para afrontar los diversos retos que en este campo se imponen a la sociedad y el Estado mexicano.";
+            descripcion = "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.gob.mx/conapo/documentos/dinamica-demografica-1990-2010-y-proyecciones-de-poblacion-2010-2030"]
             break;
         case (grafica.match(/Emigrantes.*/) || {}).input:
-            descripcion = "El ejercicio representa una estimación de personas que se van de la entidad, con un  horizonte de proyección para la República Mexicana  hasta 2050 y para las Entidades Federativas hasta 2030.";
+            descripcion = "El ejercicio representa una estimación de personas que se van de la entidad, con un horizonte de proyección para la República Mexicana hasta 2050 y para las Entidades Federativas hasta 2030.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones_de_la_migracion_interestatal_por_entidad_federativa"]
             break;
         case (grafica.match(/Inmigrantes.*/) || {}).input:
@@ -126,7 +126,7 @@ function getInfoChart(var1) {
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/work/models/CONAPO/Proyecciones/Datos/Bases_de_Datos/Proyecciones_Localidades/Descriptor/Diccionario_Proyecciones_por_Localidad.csv", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Municipios 2010.*/) || {}).input:
-            descripcion = "Representa proyecciones de crecimiento de la  Población a nivel Municipal del año  2010 - 2030.";
+            descripcion = "Representa proyecciones de crecimiento de la población por municipio de 2010 a 2030.";
             datos = ["Proyecciones de la población de México", "CONAPO", "JSON", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/work/models/CONAPO/Proyecciones/Datos/Bases_de_Datos/Proyecciones_Municipios/Descriptor/Diccionario_Proyecciones_por_Municipios.csv", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/Centros de Trabajo.*/) || {}).input:

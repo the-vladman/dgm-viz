@@ -1,97 +1,34 @@
-[{
-    "x": "Aguascalientes",
-    "y": -1.135999
-}, {
-    "x": "Baja California",
-    "y": -0.4819943
-}, {
-    "x": "Baja California Sur",
-    "y": -0.8551109
-}, {
-    "x": "Campeche",
-    "y": 0.3249348
-}, {
-    "x": "Coahuila",
-    "y": 2.27118
-}, {
-    "x": "Colima",
-    "y": -0.6064494
-}, {
-    "x": "Chiapas",
-    "y": -1.250579
-}, {
-    "x": "Chihuahua",
-    "y": -0.7569511
-}, {
-    "x": "Ciudad de México",
-    "y": -1.396498
-}, {
-    "x": "Durango",
-    "y": -0.1429958
-}, {
-    "x": "Guanajuato",
-    "y": 0.1622082
-}, {
-    "x": "Guerrero",
-    "y": 2.436138
-}, {
-    "x": "Hidalgo",
-    "y": 0.6076962
-}, {
-    "x": "Jalisco",
-    "y": -0.6573023
-}, {
-    "x": "México",
-    "y": -0.3651292
-}, {
-    "x": "Michoacán",
-    "y": 0.6675908
-}, {
-    "x": "Morelos",
-    "y": -0.1754854
-}, {
-    "x": "Nayarit",
-    "y": -0.2467324
-}, {
-    "x": "Nuevo León",
-    "y": -1.438426
-}, {
-    "x": "Oaxaca",
-    "y": 2.203928
-}, {
-    "x": "Puebla",
-    "y": 0.9749269
-}, {
-    "x": "Querétaro",
-    "y": -0.0442939
-}, {
-    "x": "Quintana Roo",
-    "y": -0.3987675
-}, {
-    "x": "San Luis Potosí",
-    "y": 0.4852383
-}, {
-    "x": "Sinaloa",
-    "y": -0.4535882
-}, {
-    "x": "Sonora",
-    "y": -0.8080306
-}, {
-    "x": "Tabasco",
-    "y": -0.0735109
-}, {
-    "x": "Tamaulipas",
-    "y": -0.6521795
-}, {
-    "x": "Tlaxcala",
-    "y": 0.0191598
-}, {
-    "x": "Veracruz",
-    "y": 1.13549
-}, {
-    "x": "Yucatán",
-    "y": 0.2381478
-}, {
-    "x": "Zacatecas",
-    "y": -0.1284057
-}]
+[
+{"x":"Aguascalientes","y":-1.1},
+{"x":"Baja California","y":-0.7},
+{"x":"Baja California Sur","y":-0.5},
+{"x":"Campeche","y":0.3},
+{"x":"Coahuila","y":-1.3},
+{"x":"Colima","y":-0.8},
+{"x":"Chiapas","y":2.5},
+{"x":"Chihuahua","y":-0.6},
+{"x":"Ciudad de México","y":-1.4},
+{"x":"Durango","y":-0.2},
+{"x":"Guanajuato","y":0.2},
+{"x":"Guerrero","y":2.4},
+{"x":"Hidalgo","y":0.6},
+{"x":"Jalisco","y":-0.6},
+{"x":"México","y":-0.4},
+{"x":"Michoacán","y":0.7},
+{"x":"Morelos","y":-0.2},
+{"x":"Nayarit","y":-0.4},
+{"x":"Nuevo León","y":-1.4},
+{"x":"Oaxaca","y":2.2},
+{"x":"Puebla","y":1},
+{"x":"Querétaro","y":0},
+{"x":"Quintana Roo","y":0.2},
+{"x":"San Luis Potosí","y":0.3},
+{"x":"Sinaloa","y":-0.5},
+{"x":"Sonora","y":-0.9},
+{"x":"Tabasco","y":0},
+{"x":"Tamaulipas","y":-0.7},
+{"x":"Tlaxcala","y":0},
+{"x":"Veracruz","y":1},
+{"x":"Yucatán","y":0.3},
+{"x":"Zacatecas","y":-0.1}
+]

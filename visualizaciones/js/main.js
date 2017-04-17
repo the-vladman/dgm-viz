@@ -98,7 +98,7 @@ function getInfoChart(var1) {
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/^Proyecciones de los hogares Indígenas de México/) || {}).input:
-            descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020  Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
+            descripcion = "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.";
             datos = ["Proyecciones de la población de México", "CONAPO", "CSV", "https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico", "http://www.conapo.gob.mx/es/CONAPO/Proyecciones"]
             break;
         case (grafica.match(/^Tasa específica de fecundidad.*/) || {}).input:

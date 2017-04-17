@@ -18,6 +18,27 @@ if (padreOption == null){
   getInfoChart(a);
 }
 
+var valor = obtenerValorParametro('oculta');
+  if (valor == "hf"){
+    //alert("ocultando header and footer");
+    $('#header-viz').remove();
+    $('#breadcrumb-viz').remove();
+    $('#footer-viz').remove();
+  }
+
+//función para leer los parametros pasados por medio de la url
+function obtenerValorParametro(sParametroNombre) {
+var sPaginaURL = window.location.search.substring(1);
+ var sURLVariables = sPaginaURL.split('&');
+  for (var i = 0; i < sURLVariables.length; i++) {
+    var sParametro = sURLVariables[i].split('=');
+    if (sParametro[0] == sParametroNombre) {
+      return sParametro[1];
+    }
+  }
+ return null;
+}
+
 $('.graficas').on('change', function() {
         $("#compartir").hide();
         document.getElementById('marcoVisualizaciones').src = this.options[this.selectedIndex].value;

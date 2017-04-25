@@ -5,12 +5,12 @@ var visualization = d3plus.viz()
 .type("bar") //visualization type
 //Rango de colores según valor
 .color({
-  "heatmap": [ "#34dab3" , "#00cc99", "#158a8c" ],
+  "heatmap": [ "#d4d481" , "#ffaf65", "#ec6d65" ],
   "value": "pob"
 })
 .x("ent")
 .y("pob")
-.order({"agg":"max","sort":"desc","value":"pob"})
+.order({"agg":"max","sort":"asc","value":"pob"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {

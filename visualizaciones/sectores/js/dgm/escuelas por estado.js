@@ -21,7 +21,7 @@
   .id("label")
   .size("value")
   .color({
-    "heatmap": [ "#34dab3" , "#00cc99", "#158a8c" ],
+    "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
     "value": "value"
   })
   .legend(false)

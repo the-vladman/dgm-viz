@@ -6,7 +6,7 @@ d3plus.viz()
 .id("estado")
 .size("valor")
 .color({
-  "heatmap": ["#34DAB3","#158A8C"],
+  "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
   "value": "valor"
 })
 .legend(false)

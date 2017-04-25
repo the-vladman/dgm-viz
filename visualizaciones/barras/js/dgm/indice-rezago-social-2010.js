@@ -5,12 +5,12 @@ var visualization = d3plus.viz()
 .type("bar") //visualization type
 //Rango de colores según valor
 .color({
-  "range": [ "#34dab3" , "#00cc99", "#158a8c" ],
+  "range": [ "#d4d481" , "#ffaf65", "#ec6d65" ],
   "value": "y"
 })
 .x("x")
 .y("y")
-.order({"agg":"max","sort":"desc","value":"y"})
+.order({"agg":"max","sort":"asc","value":"y"})
 .font({ "family": "'Open Sans', sans-serif", "size": 14 })
 .format({
   "text": function(text, params) {

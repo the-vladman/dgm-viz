@@ -15,7 +15,7 @@
       })
       .size("superficie")
       .color({
-          "heatmap": ["#34DAB3", "#30D1AE", "#2DC8AA", "#29BFA6", "#26B6A1", "#22AD9D", "#1FA499", "#1B9B94", "#189290", "#158A8C"],
+          "heatmap": ["#d4d481", "#ffaf65", "#ec6d65"],
           "value": "superficie"
       })
       .font({

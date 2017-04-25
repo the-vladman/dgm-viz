@@ -7,7 +7,8 @@ var visualization = d3plus.viz()
 .size("valor") //sizing of blocks
 //Rango de colores según valor
 .color({
-    "heatmap": ["#34dab3", "#00cc99", "#158a8c"],
+    "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
+    "scale": ["#6985d0", "#f7d360", "#ec6d65"],
     "value": "valor"
 })
 .font({

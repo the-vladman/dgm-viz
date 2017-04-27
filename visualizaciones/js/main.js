@@ -148,7 +148,7 @@ function getInfoChart(var1) {
             break;
         case (grafica.match(/Centros de Trabajo.*/) || {}).input:
             descripcion = "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.";
-            datos = ["Catálogo de Centros de Trabajo", "SEP", "XLS", "catalogo", "https://datos.gob.mx/busca/dataset/catalogo-de-centros-de-trabajo", "http://www.rname.sep.gob.mx/SIGED/glosario/index.html"]
+            datos = ["Catálogo de Centros de Trabajo", "SEP", "XLS", "https://datos.gob.mx/busca/dataset/catalogo-de-centros-de-trabajo", "http://www.rname.sep.gob.mx/SIGED/glosario/index.html"]
             break;
         case (grafica.match(/Matrícula por Institución.*/) || {}).input:
             descripcion = "Muestra información por institución educativa respecto al nivel de educación superior, la cual se se imparte después del bachillerato o de sus equivalentes. Está compuesta por la licenciatura, la especialidad, la maestría y el doctorado, así como por opciones terminales públicas o privadas.";

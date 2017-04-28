@@ -7,6 +7,7 @@ d3plus.viz()
     .size("valor")
     .color({
         "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
+        "scale": ["#6985d0", "#f7d360", "#ec6d65"],
         "value": "valor"
     })
     .legend(false)

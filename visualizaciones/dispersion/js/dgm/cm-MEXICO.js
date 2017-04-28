@@ -16,6 +16,7 @@
       .size("superficie")
       .color({
           "heatmap": ["#d4d481", "#ffaf65", "#ec6d65"],
+          "scale": ["#d4d481", "#ffaf65", "#ec6d65"],
           "value": "superficie"
       })
       .font({

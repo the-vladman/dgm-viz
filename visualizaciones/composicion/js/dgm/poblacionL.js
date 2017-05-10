@@ -1,7 +1,55 @@
 //instantiate d3plus Treemap
+var jsonChart;
+  //Llamada ajax Json
+  $.ajax({
+      async: false,
+      type: "GET",
+      contentType: "application/json; charset=utf-8",
+      dataType: "json",
+      url: "partials/dgm/poblacionLocalidades.json",
+      success: function(data) {
+          jsonChart = data;
+      }
+  });
+  var dimension = window.innerHeight;
+  var valor = obtenerValorParametro("muestra");
+    if (valor == "td"){
+      $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
+      $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
+      dimension = dimension -150;
+    }
+    else if (valor == "t"){
+      $('#descripcion').remove();
+      $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
+      dimension = dimension -150;
+    }
+    else if (valor == "d"){
+      $('#titulo').remove();
+      $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
+      dimension = dimension -150;
+    }
+    else{
+      $('#titulo').remove();
+      $('#descripcion').remove();
+      dimension = dimension -20;
+    }
+
+//función para leer los parametros pasados por medio de la url
+function obtenerValorParametro(sParametroNombre) {
+  var sPaginaURL = window.location.search.substring(1);
+   var sURLVariables = sPaginaURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) {
+      var sParametro = sURLVariables[i].split('=');
+      if (sParametro[0] == sParametroNombre) {
+        return sParametro[1];
+      }
+    }
+   return null;
+}
+
 var visualization = d3plus.viz()
 .container("#treemapd3") // container DIV to hold the visualization
-.data("partials/dgm/poblacionLocalidades.json")
+.data(jsonChart.datos)
 .id(["nivel2", "nivel1","nivel3"]) // key for which our data is unique on
 .type("tree_map") //visualization type
 .size("valor") //sizing of blocks

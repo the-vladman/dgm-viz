@@ -1,5 +1,12 @@
-[
-    {
+{
+  "titulo": "Proyecciones de los hogares en México y las Entidades Federativas, 2010-2030",
+  "descripcion": "En esta sección se presenta la información sobre los resultados de las estimaciones demográficas para el 2010-2030 en cuanto a los hogares. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
       "nivel1": "Aguascalientes",
       "nivel2": 2010,
       "nivel3": "Ampliados",
@@ -47038,5 +47045,6 @@
       "nivel3": "Unipersonales",
       "nivel4": "Femenina",
       "valor": 44.15187577
-    }
-  ]
+          }
+    ]
+}

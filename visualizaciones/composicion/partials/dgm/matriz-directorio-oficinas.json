@@ -1,5 +1,12 @@
-[
-{"dependencia":"ISSSTE","nombre":"ISSSTE - Clínica de Medicina Familiar - Aguascalientes","entidad":"Aguascalientes","municipio":"Aguascalientes","valor":1,"telefono":"(449) 9142155","domicilio":"San Cosme  410, San Cayetano, C.P. 20010"},
+{
+  "titulo": "Catálogo de Centros de Trabajo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"dependencia":"ISSSTE","nombre":"ISSSTE - Clínica de Medicina Familiar - Aguascalientes","entidad":"Aguascalientes","municipio":"Aguascalientes","valor":1,"telefono":"(449) 9142155","domicilio":"San Cosme  410, San Cayetano, C.P. 20010"},
 {"dependencia":"ISSSTE","nombre":"ISSSTE - Clínica de Medicina Familiar - Ojocaliente","entidad":"Aguascalientes","municipio":"Aguascalientes","valor":1,"telefono":"(449) 9703210","domicilio":"Siglo XXI 6102, Solidaridad I, C.P. 20196"},
 {"dependencia":"ISSSTE","nombre":"ISSSTE - Unidad de Medicina Familiar - Mesa de Otay","entidad":"Baja California","municipio":"Tijuana","valor":1,"telefono":"(664) 6235962","domicilio":"Ricardo Castro 247, Nueva Tijuana, C.P. 22000"},
 {"dependencia":"ISSSTE","nombre":"ISSSTE - Unidad de Medicina Familiar - La Paz","entidad":"Baja California Sur","municipio":"La Paz","valor":1,"telefono":"(612) 1225435","domicilio":"México 1970, Centro, C.P. 23040"},
@@ -581,5 +588,6 @@
 {"dependencia":"ISSSTE","nombre":"ISSSTE - MOAD/OV- C. M. F. Guadalupe","entidad":"Zacatecas","municipio":"Guadalupe","valor":1,"telefono":"(55) 51409617","domicilio":"Real de Sacramento 7, Camino Real, C.P. 98615"},
 {"dependencia":"ISSSTE","nombre":"ISSSTE - MOAD/OV- C. H. Fresnillo","entidad":"Zacatecas","municipio":"Fresnillo","valor":1,"telefono":"(55) 51409617","domicilio":"sonora 501, Tecnológica, C.P. 99020"},
 {"dependencia":"ISSSTE","nombre":"ISSSTE - MOAD/OV-Delegación Estatal Zacatecas","entidad":"Zacatecas","municipio":"Guadalupe","valor":1,"telefono":"(55) 51409617","domicilio":"CD. Cuauhtémoc km 0.5 SN, Parque Insdustrial, C.P. 98604"},
-{"dependencia":"ISSSTE","nombre":"ISSSTE - MOAD/OV-HG Zacatecas","entidad":"Zacatecas","municipio":"Zacatecas","valor":1,"telefono":"(55) 51409617","domicilio":"Adolfo Lopez Mateos SN, Centro, C.P. 98000"}
-]
+{"dependencia":"ISSSTE","nombre":"ISSSTE - MOAD/OV-HG Zacatecas","entidad":"Zacatecas","municipio":"Zacatecas","valor":1,"telefono":"(55) 51409617","domicilio":"Adolfo Lopez Mateos SN, Centro, C.P. 98000"      }
+    ]
+}

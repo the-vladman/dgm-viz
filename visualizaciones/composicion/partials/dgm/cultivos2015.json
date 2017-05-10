@@ -1,4 +1,12 @@
-[{
+{
+  "titulo": "Cultivos de tu Municipio 2015",
+  "descripcion": "La gráfica de composición muestra la información cierre de los cultivos con mayor rendimiento a nivel estatal y municipal en 2015.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
         "nivel1": "Durango",
         "nivel2": "Cuencamé",
         "nivel3": "Nuez",
@@ -75429,5 +75437,6 @@
         "nivel2": "Zapotlán el Grande",
         "nivel3": "Fresa (planta)",
         "valor": 36750000
-    }
-]
+          }
+    ]
+}

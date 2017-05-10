@@ -1,5 +1,12 @@
-[
-{"estado":"Aguascalientes","municipio":"Real de Asientos","ingreso":2006,"valor":1},
+{
+  "titulo": "Catálogo de Centros de Trabajo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"estado":"Aguascalientes","municipio":"Real de Asientos","ingreso":2006,"valor":1},
 {"estado":"Aguascalientes","municipio":"Calvillo","ingreso":2012,"valor":1},
 {"estado":"Aguascalientes","municipio":"San José de Gracia","ingreso":2015,"valor":1},
 {"estado":"Baja California","municipio":"Tecate","ingreso":2012,"valor":1},
@@ -109,5 +116,6 @@
 {"estado":"Zacatecas","municipio":"Teúl de González Ortega","ingreso":2011,"valor":1},
 {"estado":"Zacatecas","municipio":"Sombrerete","ingreso":2012,"valor":1},
 {"estado":"Zacatecas","municipio":"Pinos","ingreso":2012,"valor":1},
-{"estado":"Zacatecas","municipio":"Nochistlán","ingreso":2012,"valor":1}
-]
+{"estado":"Zacatecas","municipio":"Nochistlán","ingreso":2012,"valor":1      }
+    ]
+}

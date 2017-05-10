@@ -1,5 +1,12 @@
-[
-    {
+{
+  "titulo": "Catálogo de Centros de Trabajo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
       "nivel1": "Aguascalientes",
       "nivel2": 1990,
       "nivel3": "Hombres",
@@ -15742,5 +15749,6 @@
       "nivel2": 2030,
       "nivel3": "Mujeres",
       "valor": 1007.776306
-    }
-  ]
+          }
+    ]
+}

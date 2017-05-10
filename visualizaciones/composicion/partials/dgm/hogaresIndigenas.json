@@ -1,5 +1,12 @@
-[
-    {
+{
+  "titulo": "Proyecciones de los hogares Indígenas de México y las Entidades Federativas, 2010-2020",
+  "descripcion": "En esta sección se presenta la información sobre los datos, metodología y análisis de los resultados de las estimaciones demográficas de los hogares indígenas en México para el periodo 2010-2020. Dicha información es necesaria y relevante para llevar a cabo la planeación demográfica, económica y social del país, al mismo tiempo que presenta una herramienta de conocimiento valiosa para estimar múltiples requerimientos futuros en servicios e infraestructura, así como otras necesidades sociales.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
       "nivel1": "Aguascalientes",
       "nivel2": 2010,
       "nivel3": "Masculina",
@@ -4222,5 +4229,6 @@
       "nivel2": 2020,
       "nivel3": "Femenina",
       "valor": 379.0868317
-    }
-  ]
+          }
+    ]
+}

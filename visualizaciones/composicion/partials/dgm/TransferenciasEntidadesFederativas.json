@@ -1,5 +1,12 @@
-[
-{"CICLO":2011,"CLAVE":"XAC33F19","NOMBRE":"Nuevo León: Fondo de Aportaciones Múltiples (FAM)","SUBTEMA":"Aportaciones Federales","INICIO":"1998-01","FINAL":"2014-12","MONTO":474360.06},
+{
+  "titulo": "Transferencias a Entidades Federativas ( 2011 - 2016 )",
+  "descripcion": "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"CICLO":2011,"CLAVE":"XAC33F19","NOMBRE":"Nuevo León: Fondo de Aportaciones Múltiples (FAM)","SUBTEMA":"Aportaciones Federales","INICIO":"1998-01","FINAL":"2014-12","MONTO":474360.06},
 {"CICLO":2011,"CLAVE":"XAC33F21","NOMBRE":"Puebla: Fondo de Aportaciones Múltiples (FAM)","SUBTEMA":"Aportaciones Federales","INICIO":"1998-01","FINAL":"2014-12","MONTO":821122.303},
 {"CICLO":2011,"CLAVE":"XAC33F22","NOMBRE":"Querétaro: Fondo de Aportaciones Múltiples (FAM)","SUBTEMA":"Aportaciones Federales","INICIO":"1998-01","FINAL":"2014-12","MONTO":338890.277},
 {"CICLO":2011,"CLAVE":"XAC33F24","NOMBRE":"San Luis Potosí: Fondo de Aportaciones Múltiples (FAM)","SUBTEMA":"Aportaciones Federales","INICIO":"1998-01","FINAL":"2014-12","MONTO":363551.838},
@@ -7920,5 +7927,6 @@
 {"CICLO":2016,"CLAVE":"XAC28M04","NOMBRE":"Campeche: Fondo ISR","SUBTEMA":"Participaciones","INICIO":"1990-01","FINAL":"2016-05","MONTO":388140.8216},
 {"CICLO":2016,"CLAVE":"XAC28M06","NOMBRE":"Colima: Fondo ISR","SUBTEMA":"Participaciones","INICIO":"1990-01","FINAL":"2016-05","MONTO":317942.5194},
 {"CICLO":2016,"CLAVE":"XAC28L21","NOMBRE":"Puebla: Fondo de Compensación de Repecos Intermedios","SUBTEMA":"Participaciones","INICIO":"1990-01","FINAL":"2016-05","MONTO":62875.84},
-{"CICLO":2016,"CLAVE":"XAC28L28","NOMBRE":"Tamaulipas: Fondo de Compensación de Repecos Intermedios","SUBTEMA":"Participaciones","INICIO":"1990-01","FINAL":"2016-05","MONTO":51013.092}
-]
+{"CICLO":2016,"CLAVE":"XAC28L28","NOMBRE":"Tamaulipas: Fondo de Compensación de Repecos Intermedios","SUBTEMA":"Participaciones","INICIO":"1990-01","FINAL":"2016-05","MONTO":51013.092      }
+    ]
+}

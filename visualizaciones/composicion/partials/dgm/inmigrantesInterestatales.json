@@ -1,5 +1,12 @@
-[
-    {
+{
+  "titulo": "Inmigrantes interestatales 1990/2030",
+  "descripcion": "Estimación de personas que llegan a la entidad donde el horizonte de proyección para la República Mexicana es hasta 2050 y para las Entidades Federativas hasta 2030.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
       "nivel1": "Aguascalientes",
       "nivel2": 1990,
       "nivel3": "Hombres",
@@ -15742,5 +15749,6 @@
       "nivel2": 2030,
       "nivel3": "Mujeres",
       "valor": 5453.22821
-    }
-  ]
+          }
+    ]
+}

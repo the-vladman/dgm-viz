@@ -1,4 +1,12 @@
-[{
+{
+  "titulo": "Defunciones 1990/2030",
+  "descripcion": "Estimación de fallecimientos en la República Mexicana (1990-2050) y Entidades Federativas (1990-2030).",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{
         "nivel2": 1990,
         "nivel1": "Aguascalientes",
         "nivel3": "Hombres",
@@ -15741,5 +15749,6 @@
         "nivel1": "Zacatecas",
         "nivel3": "Mujeres",
         "valor": 5528
-    }
-]
+          }
+    ]
+}

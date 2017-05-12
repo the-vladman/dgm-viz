@@ -53,6 +53,7 @@ var visualization = d3plus.viz()
 //Rango de colores según valor
 .color({
   "heatmap": [ "#d4d481" , "#ffaf65", "#ec6d65" ],
+  "range": [ "#d4d481" , "#ffaf65", "#ec6d65" ],
   "value": "crect"
 })
 .x("ent")

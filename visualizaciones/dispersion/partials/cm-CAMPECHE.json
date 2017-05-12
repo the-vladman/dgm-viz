@@ -1,5 +1,12 @@
-[
-{"titulo":236560,"lote":"LA BLANCA FRACCION II","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"BLANMIN, S. DE R.L. DE C.V.","superficie":1.9514,"entidad":"CAMPECHE","municipio":"CALAKMUL","descripcion":"A 20 METROS AL NORTE APROXIMADAMENTE DEL KILOMETRO 133+630 DE LA CARRETERA ESCARCEGA CHETUMAL Y AL OESTE COMO A 1.5 KILOMETROS DEL POBLADO PLAN DE SAN LUIS"},
+{
+  "titulo": "Concesiones mineras por estado: Campeche",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":236560,"lote":"LA BLANCA FRACCION II","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"BLANMIN, S. DE R.L. DE C.V.","superficie":1.9514,"entidad":"CAMPECHE","municipio":"CALAKMUL","descripcion":"A 20 METROS AL NORTE APROXIMADAMENTE DEL KILOMETRO 133+630 DE LA CARRETERA ESCARCEGA CHETUMAL Y AL OESTE COMO A 1.5 KILOMETROS DEL POBLADO PLAN DE SAN LUIS"},
 {"titulo":107636,"lote":"LOS ALFAFORES SURIADORES, ETC.","inicio":"9/11/1961","fin":"9/10/2061","vigencia":1200,"titular":"n/a","superficie":2.556,"entidad":"CAMPECHE","municipio":"CALKINI","descripcion":"TERRENO DE LABOR"},
 {"titulo":109069,"lote":"CAUTIVO","inicio":"6/25/1961","fin":"6/24/2061","vigencia":1200,"titular":"n/a","superficie":4.1536,"entidad":"CAMPECHE","municipio":"CALKINI","descripcion":"EL ANGULO NOROESTE DEL CHARCO MERIDIANO. MISMO PP DEL LOTE CAUTIVO T-109069."},
 {"titulo":212115,"lote":"XCHUMUL","inicio":"8/31/2000","fin":"8/30/2050","vigencia":600,"titular":"n/a","superficie":15,"entidad":"CAMPECHE","municipio":"HOPELCHEN","descripcion":"LA FALDA SUR DEL CERRO XCHUMUL. MISMO P.P. DEL LOTE XCHUMUL T-198914"},
@@ -14,4 +21,4 @@
 {"titulo":212820,"lote":"P I","inicio":"1/31/2001","fin":"1/30/2007","vigencia":72,"titular":"n/a","superficie":392,"entidad":"CAMPECHE","municipio":"CHAMPOTON","descripcion":"AL NORTE DEL KM. 136.5 DE LA CARRETERA FEDRAL DE ESCARCEGA - CHETUMAL. MISMO P.P. DE LOS LOTES BRUMARIO T-211267, PI T-197411 Y ALTA T-204012."},
 {"titulo":212120,"lote":"BRUMARIO 2","inicio":"8/31/2000","fin":"8/30/2050","vigencia":600,"titular":"CEMENTOS APASCO, S.A. DE C.V.","superficie":453,"entidad":"CAMPECHE","municipio":"CHAMPOTON","descripcion":"LA FALDA SUROESTE DE LA LOMA DE LAS PALMAS, TERRENOS DEL EJIDO CHICHONAL. MISMO P.P. DEL LOTE BRUMARIO 2 T-199183."},
 {"titulo":236559,"lote":"LA BLANCA FRACCION I","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"BLANMIN, S. DE R.L. DE C.V.","superficie":4724.5459,"entidad":"CAMPECHE","municipio":"CALAKMUL","descripcion":"A 20 METROS AL NORTE APROXIMADAMENTE DEL KILOMETRO 133+630 DE LA CARRETERA ESCARCEGA CHETUMAL Y AL OESTE COMO A 1.5 KILOMETROS DEL POBLADO PLAN DE SAN LUIS"}
-]
+]}

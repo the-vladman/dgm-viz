@@ -1,5 +1,12 @@
-[
-{"entidad":1,"tipo":"Educación Básica","ambito":"Rural","valor":764},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Aguascalientes",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":1,"tipo":"Educación Básica","ambito":"Rural","valor":764},
 {"entidad":1,"tipo":"Educación Básica","ambito":"Urbano","valor":954},
 {"entidad":1,"tipo":"Educación Especial","ambito":"Urbano","valor":67},
 {"entidad":1,"tipo":"Educación Inicial","ambito":"Rural","valor":197},
@@ -8,4 +15,4 @@
 {"entidad":1,"tipo":"Educación Media Superior","ambito":"Rural","valor":34},
 {"entidad":1,"tipo":"Educación Superior","ambito":"Urbano","valor":45},
 {"entidad":1,"tipo":"Educación Superior","ambito":"Rural","valor":1}
-]
+]}

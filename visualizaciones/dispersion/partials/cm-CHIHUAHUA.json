@@ -1,5 +1,12 @@
-[
-{"titulo":180380,"lote":"DEMASIAS B DEL GRAN TESORO","inicio":"3/25/1987","fin":"3/24/2037","vigencia":600,"titular":"MINERA SAN FRANCISCO DEL ORO, S.A. DE C.V.","superficie":0.0011,"entidad":"CHIHUAHUA","municipio":"SANTA BARBARA","descripcion":"AL SUROESTE Y 650 MTS. DE LA MINA DENOMINADA LA CATORCE, TERRENOS DEL EJIDO DE SANTA BARBARA, AL NOROESTE EL CERRO EL PEÑOL. MISMO PP DEL LOTE DEMASIAS DEL GRAN TESORO T-20250."},
+{
+  "titulo": "Concesiones mineras por estado: Chihuahua",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":180380,"lote":"DEMASIAS B DEL GRAN TESORO","inicio":"3/25/1987","fin":"3/24/2037","vigencia":600,"titular":"MINERA SAN FRANCISCO DEL ORO, S.A. DE C.V.","superficie":0.0011,"entidad":"CHIHUAHUA","municipio":"SANTA BARBARA","descripcion":"AL SUROESTE Y 650 MTS. DE LA MINA DENOMINADA LA CATORCE, TERRENOS DEL EJIDO DE SANTA BARBARA, AL NOROESTE EL CERRO EL PEÑOL. MISMO PP DEL LOTE DEMASIAS DEL GRAN TESORO T-20250."},
 {"titulo":230908,"lote":"CORRALITOS FRACC. 3","inicio":"11/6/2007","fin":"11/5/2057","vigencia":600,"titular":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","superficie":0.0016,"entidad":"CHIHUAHUA","municipio":"NUEVO CASAS GRANDES","descripcion":"AL NORESTE Y 400 MTS. DEL CAMINO QUE CONDUCE A LA MINA CORDEROS DE LEON."},
 {"titulo":218226,"lote":"PINOS FRACC. 5","inicio":"10/17/2002","fin":"10/16/2052","vigencia":600,"titular":"COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.","superficie":0.0051,"entidad":"CHIHUAHUA","municipio":"OCAMPO","descripcion":"EL RANCHO LOS JALEROS. MISMO PP DEL LOE PINOS FRACC. 5 T-203430."},
 {"titulo":236043,"lote":"DIEGO FRACCION 2","inicio":"5/4/2010","fin":"5/3/2060","vigencia":600,"titular":"n/a","superficie":0.0108,"entidad":"CHIHUAHUA","municipio":"MADERA","descripcion":"TERRENOS DEL RANCHO LA HACIENDITA ES EL MISMO PP DEL LOTE GIBRAN V TIT 227115"},
@@ -3382,4 +3389,4 @@
 {"titulo":229228,"lote":"KENYA","inicio":"3/27/2007","fin":"3/26/2057","vigencia":600,"titular":"n/a","superficie":84104.3984,"entidad":"CHIHUAHUA","municipio":"GUADALUPE Y CALVO","descripcion":"EL PUERTO DEL ALAMO AL SW Y 1100 M DEL CERRO MIPILLAS MISMO PP LA BELLA 33712"},
 {"titulo":231075,"lote":"ANDREA","inicio":"1/16/2008","fin":"1/15/2058","vigencia":600,"titular":"PARAMOUNT GOLD DE MEXICO, S.A. DE C.V.","superficie":84112.6172,"entidad":"CHIHUAHUA","municipio":"GUAZAPARES","descripcion":"TERRENOS DE AGOSTADERO DE GUAZAPARES."},
 {"titulo":231570,"lote":"HACIENDA 2","inicio":"3/13/2008","fin":"3/12/2058","vigencia":600,"titular":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","superficie":88313,"entidad":"CHIHUAHUA","municipio":"GUADALUPE Y CALVO","descripcion":"LA RANCHERIA SAN JULIAN"}
-]
+]}

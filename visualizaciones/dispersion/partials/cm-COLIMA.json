@@ -1,5 +1,12 @@
-[
-{"titulo":240749,"lote":"LA PROVIDENCIA 2 FRACCION VII","inicio":"6/28/2012","fin":"6/27/2062","vigencia":600,"titular":"MINERA RIO MURGA, S.A. DE C.V.","superficie":0.4212,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: DEL PUERTO DE MANZANILLO SE TOMA LA CARRETERA FEDERAL 200 HACIA CUYUTLAN APROX. 10 KMS EN EL MARGEN DERECHA SE LOCALIZA EL P.P"},
+{
+  "titulo": "Concesiones mineras por estado: Colima",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":240749,"lote":"LA PROVIDENCIA 2 FRACCION VII","inicio":"6/28/2012","fin":"6/27/2062","vigencia":600,"titular":"MINERA RIO MURGA, S.A. DE C.V.","superficie":0.4212,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: DEL PUERTO DE MANZANILLO SE TOMA LA CARRETERA FEDERAL 200 HACIA CUYUTLAN APROX. 10 KMS EN EL MARGEN DERECHA SE LOCALIZA EL P.P"},
 {"titulo":238766,"lote":"LOS ANGUIANO FRACC. 2","inicio":"10/25/2011","fin":"10/24/2061","vigencia":600,"titular":"n/a","superficie":0.5645,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA EN: EL PATIO DEL RANCHO LOS MORROS, EN EL CAMINO DEL RANCHO EL BONETE AL POBLADO PEÑITAS, MINICIPIO DE CIHUATLAN, JAL."},
 {"titulo":240750,"lote":"LA PROVIDENCIA 2 FRACCION VIII","inicio":"6/28/2012","fin":"6/27/2062","vigencia":600,"titular":"MINERA RIO MURGA, S.A. DE C.V.","superficie":0.9198,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: DEL PUERTO DE MANZANILLO SE TOMA LA CARRETERA FEDERAL 200 HACIA CUYUTLAN APROX. 10 KMS EN EL MARGEN DERECHA SE LOCALIZA EL P.P"},
 {"titulo":240478,"lote":"LA PROVIDENCIA 2  FRACCION IX","inicio":"6/12/2012","fin":"6/11/2062","vigencia":600,"titular":"MINERA RIO MURGA, S.A. DE C.V.","superficie":1.266,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: DEL PUERTO DE MANZANILLO SE TOMA LA CARRETERA FEDERAL 200 HACIA CUYUTLAN APROX. 10 KMS EN EL MARGEN DERECHA SE LOCALIZA EL P.P"},
@@ -295,4 +302,4 @@
 {"titulo":240532,"lote":"ANGELO","inicio":"6/12/2012","fin":"6/11/2062","vigencia":600,"titular":"n/a","superficie":13053.665,"entidad":"COLIMA","municipio":"MANZANILLO","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA A 100M. AL OESTE DE LA CARRETERA QUE VA DE MANZANILLO A CAMOTLAN DE MIRAFLORES"},
 {"titulo":232656,"lote":"EL CAYACAL","inicio":"10/2/2008","fin":"10/1/2058","vigencia":600,"titular":"LAS ENCINAS, S.A. DE C.V.","superficie":26137.707,"entidad":"COLIMA","municipio":"ARMERIA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN LA CIMA DE CERRO DEL NAHUATL SITUADO ENTRE LA ESPERANZA COQUIMATLAN Y PUEBLO JUAREZ."},
 {"titulo":238218,"lote":"PISCILA","inicio":"8/19/2011","fin":"8/18/2061","vigencia":600,"titular":"LAS ENCINAS, S.A. DE C.V.","superficie":26901.7129,"entidad":"COLIMA","municipio":"COLIMA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA AL NE DE LA CIMA DEL CERRO DE LOS ASMOLITOS ENTRE ARROYO VERDE Y AGUA CERCADA."}
-]
+]}

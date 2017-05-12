@@ -16,7 +16,7 @@ body {
 }
 
 div#titulo {
-  padding-bottom: 3px;
+  margin-bottom: 3px;
   line-height: 1.8em;
   text-align: center;
   text-transform: uppercase;
@@ -24,7 +24,7 @@ div#titulo {
 }
 
 div#descripcion {
-  padding-bottom: 3px;
+  margin-bottom: 3px;
   line-height: 1.6em;
   font-size: 14px;
 }

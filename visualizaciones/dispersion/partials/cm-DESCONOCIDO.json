@@ -1,5 +1,12 @@
-[
-{"titulo":14954,"lote":"LA CONCORDIA","inicio":"7/9/1961","fin":"7/8/2061","vigencia":1200,"titular":"n/a","superficie":0.2021,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"EL CERRO DE LA PALMILLA"},
+{
+  "titulo": "Concesiones mineras por estado: Aguascalientes",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":14954,"lote":"LA CONCORDIA","inicio":"7/9/1961","fin":"7/8/2061","vigencia":1200,"titular":"n/a","superficie":0.2021,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"EL CERRO DE LA PALMILLA"},
 {"titulo":24304,"lote":"DEMASIAS DE LA MAZAPIL IV","inicio":"6/11/1961","fin":"6/10/2061","vigencia":1200,"titular":"n/a","superficie":0.52,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"n/a"},
 {"titulo":63138,"lote":"LA LUZ","inicio":"8/1/1961","fin":"7/31/2061","vigencia":1200,"titular":"n/a","superficie":0.56,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"EL MINERAL DE VELARDEÑA."},
 {"titulo":22262,"lote":"MARIA LUISA","inicio":"8/25/1961","fin":"8/24/2061","vigencia":1200,"titular":"n/a","superficie":0.56,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"EL MINERAL DE SANTA EULALIA"},
@@ -408,4 +415,4 @@
 {"titulo":209,"lote":"2a REDUCCION HIDALGO","inicio":"6/4/2010","fin":"12/3/2013","vigencia":42,"titular":"n/a","superficie":51915404,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"AL NE Y 2500 M. DEL HOSPITAL QUE SE ENCUENTRA EL EL POBLADO DE ZONGOZOTLA"},
 {"titulo":195,"lote":"2a REDUCCION HIDALGO","inicio":"12/17/2008","fin":"12/3/2013","vigencia":60,"titular":"n/a","superficie":53891404,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"AL NE Y 2500 MTS. DEL HOSPITAL QUE SE ENCUENTRA EN EL POBLADO ZNGOZOTLA"},
 {"titulo":189,"lote":"REDUCCION HIDALGO","inicio":"10/2/2008","fin":"12/3/2013","vigencia":63,"titular":"n/a","superficie":95431416,"entidad":"DESCONOCIDO","municipio":"DESCONOCIDO","descripcion":"AL NORESTE Y 2,500 MTS. DEL HOSPITAL QUE SE ENCUENTRA EN EL POBLADO DE ZONGOZOTLA, PUE. MISMO PP DE LOS LOTES REDUCCION HIDALGO T-175, LA UNION T-225397 Y LOS ANGELES T-225398."}
-]
+]}

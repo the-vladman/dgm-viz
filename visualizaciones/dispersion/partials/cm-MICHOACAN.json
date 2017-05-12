@@ -1,5 +1,12 @@
-[
-{"titulo":220505,"lote":"SOLIDARIDAD II FRACCION B","inicio":"8/14/2003","fin":"8/13/2053","vigencia":600,"titular":"U.S. PRECIOUS METALS DE MEXICO, S.A. DE C.V.","superficie":0.0072,"entidad":"MICHOACAN","municipio":"CARACUARO","descripcion":"EL CERRO LA MINA FALDA PONIENTE, A 800 MTS. AL ESTE DEL POBLADO LA SABILA. MISMO PP DE LOS LOTES SOLIDARIDAD T-202378, SOLIDARIDAD II T-204684, LA CEIBA T-203703, EL VENADO T-203210, JABALIN T-203758 Y SOLIDARIDAD III T-207935."},
+{
+  "titulo": "Concesiones mineras por estado: Michoacán",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":220505,"lote":"SOLIDARIDAD II FRACCION B","inicio":"8/14/2003","fin":"8/13/2053","vigencia":600,"titular":"U.S. PRECIOUS METALS DE MEXICO, S.A. DE C.V.","superficie":0.0072,"entidad":"MICHOACAN","municipio":"CARACUARO","descripcion":"EL CERRO LA MINA FALDA PONIENTE, A 800 MTS. AL ESTE DEL POBLADO LA SABILA. MISMO PP DE LOS LOTES SOLIDARIDAD T-202378, SOLIDARIDAD II T-204684, LA CEIBA T-203703, EL VENADO T-203210, JABALIN T-203758 Y SOLIDARIDAD III T-207935."},
 {"titulo":221536,"lote":"VARGAS 3a. FRACCION","inicio":"2/24/2004","fin":"2/23/2054","vigencia":600,"titular":"n/a","superficie":0.218,"entidad":"MICHOACAN","municipio":"COALCOMAN DE VAZQUEZ PALLARES","descripcion":"EN EL RANCHO DE VARGAS A 50 MTS AL NORTE"},
 {"titulo":225368,"lote":"LA ZAMORANA III F-1","inicio":"8/26/2005","fin":"8/25/2055","vigencia":600,"titular":"n/a","superficie":0.2202,"entidad":"MICHOACAN","municipio":"TURICATO","descripcion":"LA FALDA  NW. DEL CERRO EL PLATEADO."},
 {"titulo":238073,"lote":"MAHAKALA FRACC. 6","inicio":"7/12/2011","fin":"7/11/2061","vigencia":600,"titular":"n/a","superficie":0.2248,"entidad":"MICHOACAN","municipio":"AQUILA","descripcion":"EN LA PARTE ALTA DEL CERRO EL TANQUE DEL RANCHO LAS CALANDRIAS. MISMO PP QUE GUAGUA T-215350, GUAGUA E T-221541, GUAGUA A T-223860 Y GUAGUA I T-219289."},
@@ -891,4 +898,4 @@
 {"titulo":227909,"lote":"EL FARAON  IV","inicio":"9/13/2006","fin":"9/12/2056","vigencia":600,"titular":"n/a","superficie":51993.6172,"entidad":"MICHOACAN","municipio":"ARTEAGA","descripcion":"LA ENTRADA DEL RANCHO"},
 {"titulo":240347,"lote":"JAMBHALA FRACC. 1","inicio":"5/23/2012","fin":"5/22/2062","vigencia":600,"titular":"n/a","superficie":54508.543,"entidad":"MICHOACAN","municipio":"AGUILILLA","descripcion":"LAS COMUNIDADES DE EL SALITRE DE MARUATA Y PIEDRAS DE LUMBRE, A UN COSTADO DE LA CARRETERA FEDERAL COALCOMAN-TEPALCATEPEC, A 1100 MTS. DE EL SALITRE DE MARUATA CON DIRECCION A TEPALCATEPEC. MISMO PP DEL LOTE REDUCCION EL MADROÑO FRACC.I T-233981."},
 {"titulo":226754,"lote":"SAN MARTIN","inicio":"2/21/2006","fin":"4/7/2055","vigencia":590,"titular":"LAS ENCINAS, S.A. DE C.V.","superficie":121525.4375,"entidad":"MICHOACAN","municipio":"AGUILILLA","descripcion":"SE ENCUENTRA DENTRO DEL PERIMETRO DEL LOTE Y REUNE LAS CARACTERISTICAS REGLAMENTARIA UBICADA EN EL CERRO DE LAS VACAS MISMO PP. DE LOS T-212394, T-217538, T-210061 Y T-222949."}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"entidad":29,"tipo":"Educación Básica","ambito":"Urbano","valor":1388},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Tlaxcala",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":29,"tipo":"Educación Básica","ambito":"Urbano","valor":1388},
 {"entidad":29,"tipo":"Educación Básica","ambito":"Rural","valor":640},
 {"entidad":29,"tipo":"Educación Especial","ambito":"Urbano","valor":103},
 {"entidad":29,"tipo":"Educación Especial","ambito":"Rural","valor":4},
@@ -9,4 +16,4 @@
 {"entidad":29,"tipo":"Educación Media Superior","ambito":"Rural","valor":16},
 {"entidad":29,"tipo":"Educación Superior","ambito":"Urbano","valor":57},
 {"entidad":29,"tipo":"Educación Superior","ambito":"Rural","valor":4}
-]
+]}

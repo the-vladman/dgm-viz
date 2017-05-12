@@ -1,5 +1,12 @@
-[
-{"titulo":232329,"lote":"BOHEMIA CUATRO","inicio":"7/29/2008","fin":"7/28/2058","vigencia":600,"titular":"COMPAÑIA MINERA CUZCATLAN, S.A. DE C.V.","superficie":0.0373,"entidad":"OAXACA","municipio":"SAN JERONIMO TAVICHE","descripcion":"MARGEN DERECHA DEL ARROYO QUE CRUZA EL PUEBLO SAN JERONIMO TAVICHE SE LICALIZA EL PP"},
+{
+  "titulo": "Concesiones mineras por estado: Oaxaca",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":232329,"lote":"BOHEMIA CUATRO","inicio":"7/29/2008","fin":"7/28/2058","vigencia":600,"titular":"COMPAÑIA MINERA CUZCATLAN, S.A. DE C.V.","superficie":0.0373,"entidad":"OAXACA","municipio":"SAN JERONIMO TAVICHE","descripcion":"MARGEN DERECHA DEL ARROYO QUE CRUZA EL PUEBLO SAN JERONIMO TAVICHE SE LICALIZA EL PP"},
 {"titulo":242605,"lote":"PINOTEPA FRACC. 6","inicio":"11/15/2013","fin":"11/14/2063","vigencia":600,"titular":"SALINEROS DE PINOTEPA, S. DE P.R. DE R.L.","superficie":0.0598,"entidad":"OAXACA","municipio":"SANTIAGO PINOTEPA NACIONAL","descripcion":"EN LA PARTE NORTE CENTRAL DE LA LAGUNA MINITAN"},
 {"titulo":216818,"lote":"SAN PEDRO FRACCION I","inicio":"5/28/2002","fin":"5/27/2052","vigencia":600,"titular":"n/a","superficie":0.1455,"entidad":"OAXACA","municipio":"SAN FRANCISCO TELIXTLAHUACA","descripcion":"EL CERRO EL RESCATE"},
 {"titulo":243621,"lote":"PINOTEPA FRACC. 3","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"SALINEROS DE PINOTEPA, S. DE P.R. DE R.L.","superficie":0.9751,"entidad":"OAXACA","municipio":"SANTIAGO PINOTEPA NACIONAL","descripcion":"EN LA PARTE NORTE CENTRAL DE LA LAGUNA MINITAN"},
@@ -336,4 +343,4 @@
 {"titulo":230986,"lote":"ALMA DELIA","inicio":"11/22/2007","fin":"11/21/2057","vigencia":600,"titular":"INTREPID MINES MEXICO, S.A. DE C.V.","superficie":86184.8906,"entidad":"OAXACA","municipio":"SAN JUAN LACHIGALLA","descripcion":"A 5 MTS. AL NOROESTE DEL TIRO ABANDONADO CONOCIDO COMO EL PIRUL, LOCALIZADO EN EL FALDEO NORTE DEL CERRO DE LA MINA."},
 {"titulo":234014,"lote":"REDUCCION JAUJA","inicio":"5/15/2009","fin":"11/3/2055","vigencia":558,"titular":"n/a","superficie":113197,"entidad":"OAXACA","municipio":"SAN LORENZO TEXMELUCAN","descripcion":"LA FALDA ESTE DEL CERRO EL GAVILAN A 400 METROS AL OESTE DEL LUGAR DENOMINADO LA GASOLINERA EL TLACUACHE, MISMO PP DE DELTA 1 T.- 223315 Y DELTA 2 T.- 223314"},
 {"titulo":225902,"lote":"JAUJA","inicio":"11/4/2005","fin":"11/3/2011","vigencia":72,"titular":"MINERA DEL NORTE, S.A. DE C.V. SE EXTINGUIO AL FUSIONARSE EN MINERALES MONCLOVA, S.A. DE C.V.","superficie":257560,"entidad":"OAXACA","municipio":"SAN JUAN QUIAHIJE","descripcion":"LA FALDA ESTE DEL CERRO EL GAVILAN  A 400 METROS AL OESTE DEL LUGAR DENOMINADO LA GASOLINERA EL TLACUACHE, MISMO P.P. DE DELTA 1 T-223315 Y DELTA 2 T-223314"}
-]
+]}

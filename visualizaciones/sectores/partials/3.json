@@ -1,5 +1,12 @@
-[
-{"entidad":3,"tipo":"Educación Básica","ambito":"Urbano","valor":610},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Baja California Sur",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":3,"tipo":"Educación Básica","ambito":"Urbano","valor":610},
 {"entidad":3,"tipo":"Educación Básica","ambito":"Rural","valor":400},
 {"entidad":3,"tipo":"Educación Especial","ambito":"Urbano","valor":69},
 {"entidad":3,"tipo":"Educación Especial","ambito":"Rural","valor":6},
@@ -8,4 +15,4 @@
 {"entidad":3,"tipo":"Educación Media Superior","ambito":"Urbano","valor":75},
 {"entidad":3,"tipo":"Educación Media Superior","ambito":"Rural","valor":12},
 {"entidad":3,"tipo":"Educación Superior","ambito":"Urbano","valor":35}
-]
+]}

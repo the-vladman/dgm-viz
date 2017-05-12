@@ -1,5 +1,12 @@
-[
-{"entidad":13,"tipo":"Educación Básica","ambito":"Rural","valor":5740},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Hidalgo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":13,"tipo":"Educación Básica","ambito":"Rural","valor":5740},
 {"entidad":13,"tipo":"Educación Básica","ambito":"Urbano","valor":2066},
 {"entidad":13,"tipo":"Educación Especial","ambito":"Urbano","valor":70},
 {"entidad":13,"tipo":"Educación Inicial","ambito":"Rural","valor":106},
@@ -8,4 +15,4 @@
 {"entidad":13,"tipo":"Educación Media Superior","ambito":"Rural","valor":89},
 {"entidad":13,"tipo":"Educación Superior","ambito":"Rural","valor":29},
 {"entidad":13,"tipo":"Educación Superior","ambito":"Urbano","valor":89}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"titulo":233555,"lote":"TAPACHULA","inicio":"3/11/2009","fin":"3/10/2059","vigencia":600,"titular":"n/a","superficie":6,"entidad":"CHIAPAS","municipio":"TAPACHULA","descripcion":"EL PARAJE CONOCIDO COMO RANCHO MARAVILLAS"},
+{
+  "titulo": "Concesiones mineras por estado: Chiapas",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":233555,"lote":"TAPACHULA","inicio":"3/11/2009","fin":"3/10/2059","vigencia":600,"titular":"n/a","superficie":6,"entidad":"CHIAPAS","municipio":"TAPACHULA","descripcion":"EL PARAJE CONOCIDO COMO RANCHO MARAVILLAS"},
 {"titulo":241080,"lote":"LA RODILLA","inicio":"11/21/2012","fin":"11/20/2062","vigencia":600,"titular":"n/a","superficie":20.2154,"entidad":"CHIAPAS","municipio":"ESCUINTLA","descripcion":"APROXIMADAMENTE A 80 METROS AL ORIENTE DEL RIO CACALUTA."},
 {"titulo":223252,"lote":"EL LEÑADERO","inicio":"11/17/2004","fin":"11/16/2010","vigencia":72,"titular":"n/a","superficie":35,"entidad":"CHIAPAS","municipio":"CHICOMUSELO","descripcion":"COMO A 400 MTS AL NORTE DEL POBLADO NUEVA MORELIA MUNICIPIO DE CHICOMUCELO, CHIS."},
 {"titulo":220237,"lote":"MINA CRISTINA","inicio":"6/25/2003","fin":"6/24/2053","vigencia":600,"titular":"n/a","superficie":35,"entidad":"CHIAPAS","municipio":"ACACOYAGUA","descripcion":"SE LOCALIZA EN TERRENOS DEL EJIDO NUEVA LIBERTAD, MPIO., DE ACACOYAGUA, CHIS."},
@@ -90,4 +97,4 @@
 {"titulo":239450,"lote":"HIERRO REINA F-3","inicio":"12/15/2011","fin":"12/14/2061","vigencia":600,"titular":"n/a","superficie":60614.2578,"entidad":"CHIAPAS","municipio":"MAZATAN","descripcion":"LA PLAYA, EN LA ESQUINA NOROESTE DE UNA PALAPA, EN EL CENTRO TURISTICO DE SAN JOSE EL HUEYATE."},
 {"titulo":239080,"lote":"HIERRO REINA F-7","inicio":"11/25/2011","fin":"11/24/2061","vigencia":600,"titular":"n/a","superficie":144216.3594,"entidad":"CHIAPAS","municipio":"PIJIJIAPAN","descripcion":"A 2 KILOMETROS AL SURESTE DEL POBLADO EL FORTIN MUNICIPIO DE PIJIJIAPAN, CHIAPAS, ES EL MISMO P.P. DE ARENA NEGRA EXP.- 109/00049, AMPLIACION ARENA NEGRA EXP.- 109/00219 Y AGELINA EXP.- 109/00230"},
 {"titulo":239350,"lote":"HIERRO REINA F-6","inicio":"12/13/2011","fin":"12/12/2061","vigencia":600,"titular":"n/a","superficie":158341,"entidad":"CHIAPAS","municipio":"ACAPETAHUA","descripcion":"EL SOLAR EL QUINCE, AL LADO IZQUIERDO DEL CAMINO VECINAL."}
-]
+]}

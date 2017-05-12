@@ -1,5 +1,12 @@
-[
-{"titulo":189494,"lote":"n/a","inicio":"12/5/1990","fin":"12/4/2040","vigencia":600,"titular":"MINAS ARGENTA, S.A. DE C.V.","superficie":0,"entidad":"DURANGO","municipio":"PANUCO DE CORONADO","descripcion":"n/a"},
+{
+  "titulo": "Concesiones mineras por estado: Durango",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":189494,"lote":"n/a","inicio":"12/5/1990","fin":"12/4/2040","vigencia":600,"titular":"MINAS ARGENTA, S.A. DE C.V.","superficie":0,"entidad":"DURANGO","municipio":"PANUCO DE CORONADO","descripcion":"n/a"},
 {"titulo":210965,"lote":"EL POETA 4 FRACC. 4","inicio":"2/29/2000","fin":"2/28/2006","vigencia":72,"titular":"MINERA EXCELLON DE MEXICO, S.A. DE C.V.","superficie":0.0004,"entidad":"DURANGO","municipio":"MAPIMI","descripcion":"EL LADO OESTE Y A 750 MTS. DE LA CARRETERA LIBRE BERMEJILLO-CHIHUAHUA."},
 {"titulo":210964,"lote":"EL POETA 4 FRACC. 3","inicio":"2/29/2000","fin":"2/28/2006","vigencia":72,"titular":"MINERA EXCELLON DE MEXICO, S.A. DE C.V.","superficie":0.0018,"entidad":"DURANGO","municipio":"MAPIMI","descripcion":"EL LADO OESTE Y A 750 MTS. DE LA CARRETERA LIBRE BERMEJILLO-CHIHUAHUA."},
 {"titulo":219857,"lote":"TESORO 2 FRACCION 3","inicio":"4/24/2003","fin":"4/23/2009","vigencia":72,"titular":"GRUPO NORTHAIR DE MEXICO, S.A. DE C.V.","superficie":0.0018,"entidad":"DURANGO","municipio":"PUEBLO NUEVO","descripcion":"LA FALDA ESTE DEL CERRO LA LAJITA, MISMO P.P. DEL TESORO I E- 25/30843."},
@@ -3694,4 +3701,4 @@
 {"titulo":221817,"lote":"EL TITANIC","inicio":"4/2/2004","fin":"4/1/2010","vigencia":72,"titular":"COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.","superficie":84880.4219,"entidad":"DURANGO","municipio":"GUADALUPE VICTORIA","descripcion":"10 MTS. AL S DE LA CASA DE LA CASA ANTIGUA DEL RANCHO MAGALLANES"},
 {"titulo":232189,"lote":"VICTORIA","inicio":"7/4/2008","fin":"7/3/2058","vigencia":600,"titular":"MINERA CANASIL, S.A. DE C.V.","superficie":95155.9453,"entidad":"DURANGO","municipio":"CUENCAME","descripcion":"LA FALDA W DEL CERRO EL PIOJO"},
 {"titulo":231034,"lote":"PITARRILLA 5","inicio":"11/30/2007","fin":"11/29/2057","vigencia":600,"titular":"SILVER STANDARD DURANGO, S.A. DE C.V.","superficie":98796.3594,"entidad":"DURANGO","municipio":"EL ORO","descripcion":"LA PARTE PLANA DE UNA LOMITA SIN NOMBRE, 50 MTS. AL LADO IZQUIERDO DEL CAMINO QUE VA DE CASAS BLANCAS A MOJITOME."}
-]
+]}

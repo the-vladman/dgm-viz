@@ -1,5 +1,12 @@
-[
-{"titulo":236536,"lote":"AMPLIACION LA ESPERANZA FRACCION III","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"n/a","superficie":0.4686,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"LA FALDA NORTE PARTE MEDIA DE LA SIERRA LAS JARCIAS, TERRENOS DEL RANCHO EL PALMITO"},
+{
+  "titulo": "Concesiones mineras por estado: Nuevo León",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":236536,"lote":"AMPLIACION LA ESPERANZA FRACCION III","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"n/a","superficie":0.4686,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"LA FALDA NORTE PARTE MEDIA DE LA SIERRA LAS JARCIAS, TERRENOS DEL RANCHO EL PALMITO"},
 {"titulo":198579,"lote":"LAS FLORES","inicio":"11/30/1993","fin":"11/29/2043","vigencia":600,"titular":"BARAMIN, S.A. DE C.V.","superficie":0.7262,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"LA MARGEN OESTE DEL ARROYO LA HUICHE."},
 {"titulo":233346,"lote":"PALACIO FRACCION 1","inicio":"2/13/2009","fin":"2/12/2059","vigencia":600,"titular":"n/a","superficie":1.9307,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"PARAJE"},
 {"titulo":240835,"lote":"EL REGIO FRACCION 1","inicio":"7/27/2012","fin":"7/26/2062","vigencia":600,"titular":"n/a","superficie":1.9524,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"EL LUGAR CONOCIDO COMO LA ESCONDIDA DEL RANCHO TOMATES, PEQUEÑA PROPIEDAD DEL SR. FRANCISCO LOPEZ SANCHEZ Y EL EJIDO PABLILLO."},
@@ -455,4 +462,4 @@
 {"titulo":240503,"lote":"GRECIA 4","inicio":"6/12/2012","fin":"6/11/2062","vigencia":600,"titular":"COMPAÑIA MEXICANA DE SUMINISTROS Y MINERALES, S.A. DE C.V.","superficie":5644.9966,"entidad":"NUEVO LEON","municipio":"ARAMBERRI","descripcion":"EN LA PARTE NORTE DEL CERRO DE GUADALUPE A 80 MTS. AL SUR DE LA CARRETERA LA ESCONDIDA A ARAMBERRI, N.L."},
 {"titulo":241688,"lote":"LA HUICHE 5 FRACCION I","inicio":"2/28/2013","fin":"2/27/2063","vigencia":600,"titular":"BARAMIN, S.A. DE C.V.","superficie":6129.2119,"entidad":"NUEVO LEON","municipio":"GALEANA","descripcion":"MINA LA HUICHE, GALEANA, N.L. QUE ES EL P.C. # 7073"},
 {"titulo":236537,"lote":"GEVI 2","inicio":"7/9/2010","fin":"7/8/2060","vigencia":600,"titular":"n/a","superficie":10051,"entidad":"NUEVO LEON","municipio":"GARCIA","descripcion":"EN LA FALDA NORTE DE SIERRA EL CEDRAL A 200 MTS AL SUR DE LA CARRETERA QUE VA DE ICAMOLE AL  MILAGRO"}
-]
+]}

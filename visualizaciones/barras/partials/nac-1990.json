@@ -1,5 +1,11 @@
-[
-{"año":1990,"ent":"Aguascalientes","nac":26101}
+{
+  "titulo": "Indicadores Demográficos 1990/2030 - Nacimientos Anuales: 1990",
+  "descripcion": "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{"año":1990,"ent":"Aguascalientes","nac":26101}
 ,
 {"año":1990,"ent":"Baja California","nac":45300}
 ,
@@ -63,4 +69,4 @@
 ,
 {"año":1990,"ent":"Zacatecas","nac":38794}
 
-]
+]}

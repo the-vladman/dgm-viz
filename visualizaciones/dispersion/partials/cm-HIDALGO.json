@@ -1,5 +1,12 @@
-[
-{"titulo":217459,"lote":"PURISIMA FRACCION 2","inicio":"7/16/2002","fin":"12/28/2043","vigencia":498,"titular":"COMPAÑIA DE REAL DEL MONTE Y PACHUCA, S.A. DE C.V.","superficie":0.0406,"entidad":"HIDALGO","municipio":"MINERAL DEL MONTE","descripcion":"LA LADERA ESTE DEL CERRO EL HILOCHE Y SE UBICA EN EL PATIO DE LA MINA DENOMINADA PURISIMA. MISMO PP DEL LOTE PURISIMA T-198888."},
+{
+  "titulo": "Concesiones mineras por estado: Hidalgo",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":217459,"lote":"PURISIMA FRACCION 2","inicio":"7/16/2002","fin":"12/28/2043","vigencia":498,"titular":"COMPAÑIA DE REAL DEL MONTE Y PACHUCA, S.A. DE C.V.","superficie":0.0406,"entidad":"HIDALGO","municipio":"MINERAL DEL MONTE","descripcion":"LA LADERA ESTE DEL CERRO EL HILOCHE Y SE UBICA EN EL PATIO DE LA MINA DENOMINADA PURISIMA. MISMO PP DEL LOTE PURISIMA T-198888."},
 {"titulo":231620,"lote":"STA. ELEONORA FRACCION 6","inicio":"3/25/2008","fin":"3/24/2058","vigencia":600,"titular":"COVAMIN, S.A. DE C.V.","superficie":0.0575,"entidad":"HIDALGO","municipio":"NICOLAS FLORES","descripcion":"SE UBICA FRENTE A LA IGLESIA DE SAN JOSE DEL ORO, COINCIDE CON EL PUNTO DE CONTROL DE INEGI N° 5201."},
 {"titulo":218646,"lote":"SAN JOSE SUR FRACC. No. 1","inicio":"12/3/2002","fin":"12/2/2008","vigencia":72,"titular":"n/a","superficie":0.1929,"entidad":"HIDALGO","municipio":"NICOLAS FLORES","descripcion":"SE UBICA FRENTE A LA CAPILLA DEL PANTEON DE LA RANCHERIA DE SAN JOSE DEL ORO Y ES EL P.C. 5201."},
 {"titulo":231615,"lote":"STA. ELEONORA FRACCION 1","inicio":"3/25/2008","fin":"3/24/2058","vigencia":600,"titular":"COVAMIN, S.A. DE C.V.","superficie":0.3271,"entidad":"HIDALGO","municipio":"NICOLAS FLORES","descripcion":"SE UBICA FRENTE A LA IGLESIA DE SAN JOSE DEL ORO, COINCIDE CON EL PUNTO DE CONTROL DE INEGI N° 5201."},
@@ -388,4 +395,4 @@
 {"titulo":241235,"lote":"HIDALGO 1","inicio":"11/22/2012","fin":"5/16/2056","vigencia":522,"titular":"SOLITARIO MEXICO, S.A. DE C.V.","superficie":9238.1357,"entidad":"HIDALGO","municipio":"ATOTONILCO DE TULA","descripcion":"EL PATIO DE LA MINA PARICUTIN, EN LA LADERA SURESTE DEL CERRO EL SAUCILLO, MISMO P.P. DE LOS LOTES HIDALGO 1 T-227191, PARICUTIN T-212397 Y PARICUTIN T-198883"},
 {"titulo":234219,"lote":"HIDALGO 1","inicio":"6/5/2009","fin":"5/16/2056","vigencia":564,"titular":"SOLITARIO MEXICO, S.A. DE C.V.","superficie":13405.1357,"entidad":"HIDALGO","municipio":"ATOTONILCO DE TULA","descripcion":"EN EL PATIO DE LA MINA PARICUTIN EN LA LADERA SURESTE DEL CERRO DEL SAUCILLO, MISMO P.P. DE PARICUTIN T.-212397 y PARICUTIN T.-198883"},
 {"titulo":239209,"lote":"PACHUCA FRACCION 1","inicio":"12/8/2011","fin":"12/7/2061","vigencia":600,"titular":"MINERA DEL NORTE, S.A. DE C.V.","superficie":17863.6602,"entidad":"HIDALGO","municipio":"EPAZOYUCAN","descripcion":"EL PATIO DE LA MINA SAN JUAN, COL. NVA. ESTRELLA, PACHUCA, ESTADO DE HIDALGO"}
-]
+]}

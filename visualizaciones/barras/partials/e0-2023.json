@@ -1,5 +1,11 @@
-[
-{"año":2023,"ent":"Aguascalientes","e0":76.79949478}
+{
+  "titulo": "Indicadores Demográficos 1990/2030 - Esperanza de vida al nacimiento total (ambos sexos): 1990",
+  "descripcion": "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{"año":2023,"ent":"Aguascalientes","e0":76.79949478}
 ,
 {"año":2023,"ent":"Baja California","e0":75.23070678}
 ,
@@ -63,4 +69,4 @@
 ,
 {"año":2023,"ent":"Zacatecas","e0":76.39007909}
 
-]
+]}

@@ -1,5 +1,11 @@
-[
-{"año":2017,"ent":"Aguascalientes","pob":1321452.933}
+{
+  "titulo": "Indicadores Demográficos 1990/2030 - Población media Total: 1990",
+  "descripcion": "Conjunto de indicadores que muestran un panorama general del cambio en la estructura y dinámica de la población así como en las tendencias y niveles de los fenómenos demográficos en México y las entidades federativas, entre los que encontramos esperanzas de vida al nacer, tasas específicas de fecundidad, crecimiento total, nacimientos, entre otros.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{"año":2017,"ent":"Aguascalientes","pob":1321452.933}
 ,
 {"año":2017,"ent":"Baja California","pob":3584604.897}
 ,
@@ -63,4 +69,4 @@
 ,
 {"año":2017,"ent":"Zacatecas","pob":1600411.664}
 
-]
+]}

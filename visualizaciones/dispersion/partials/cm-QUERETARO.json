@@ -1,5 +1,12 @@
-[
-{"titulo":171071,"lote":"EL HUECO","inicio":"8/9/1982","fin":"8/8/2007","vigencia":300,"titular":"MINERA EURO-MEX, S.A. DE C.V.","superficie":0.2209,"entidad":"QUERETARO","municipio":"CADEREYTA DE MONTES","descripcion":"C.D. DE SAN NICOLAS DELEGACION DE MACONI"},
+{
+  "titulo": "Concesiones mineras por estado: Querétaro",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":171071,"lote":"EL HUECO","inicio":"8/9/1982","fin":"8/8/2007","vigencia":300,"titular":"MINERA EURO-MEX, S.A. DE C.V.","superficie":0.2209,"entidad":"QUERETARO","municipio":"CADEREYTA DE MONTES","descripcion":"C.D. DE SAN NICOLAS DELEGACION DE MACONI"},
 {"titulo":225993,"lote":"LA GUADALUPANA FRACCION B","inicio":"11/15/2005","fin":"11/14/2011","vigencia":72,"titular":"n/a","superficie":0.5547,"entidad":"QUERETARO","municipio":"PEÑAMILLER","descripcion":"EN EL RINCON DEL PICACHO EN LA PARTE NORTE."},
 {"titulo":203319,"lote":"MARIANA","inicio":"6/28/1996","fin":"6/27/2046","vigencia":600,"titular":"MINERA CAPELA, S.A. DE C.V.","superficie":0.6509,"entidad":"QUERETARO","municipio":"CADEREYTA DE MONTES","descripcion":"LA FALDA SUR DEL CERRO DE SAN NICOLAS, AL SUROESTE DEL CERRO DEL GALLO. MISMO P.P. DEL LOTE MARIANA T-202158."},
 {"titulo":238738,"lote":"LA DIANA FRACCION B","inicio":"10/18/2011","fin":"10/17/2061","vigencia":600,"titular":"n/a","superficie":0.7644,"entidad":"QUERETARO","municipio":"PEÑAMILLER","descripcion":"PARTE MEDIA DEL CERRO DEL POTRERITO."},
@@ -385,4 +392,4 @@
 {"titulo":240737,"lote":"AURCANA II","inicio":"6/28/2012","fin":"6/27/2062","vigencia":600,"titular":"MINERA LA NEGRA, S.A. DE C.V.","superficie":19055.9824,"entidad":"QUERETARO","municipio":"CADEREYTA DE MONTES","descripcion":"A 1100 MTS. AL NOROESTE DEL CERRO DEL GALLO."},
 {"titulo":212305,"lote":"LA VEREDA","inicio":"9/29/2000","fin":"9/28/2050","vigencia":600,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":24400,"entidad":"QUERETARO","municipio":"PEÑAMILLER","descripcion":"LA FALDA NORTE DE LA LOMA DEL RANCHO PLOMOSA."},
 {"titulo":212515,"lote":"YONTHE FRACCION A","inicio":"10/31/2000","fin":"10/30/2050","vigencia":600,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":30127.623,"entidad":"QUERETARO","municipio":"CADEREYTA DE MONTES","descripcion":"EL PUERTO DEL CERRO LAS PASTILLA. MISMO P.P. DE LOS  LOTES LA PASTILLA T-203360 Y PASTILLA II T-203359"}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"titulo":227935,"lote":"NEVADA FRACC. II","inicio":"9/15/2006","fin":"9/14/2056","vigencia":600,"titular":"COMPAÑIA MINERA PANGEA, S.A. DE C.V.","superficie":0.0466,"entidad":"NAYARIT","municipio":"ROSAMORADA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN  TERRENOS PERTENECIENTES AL POBLADO MINITAS, FALDA NORTE DEL CERRO LAS MINITAS"},
+{
+  "titulo": "Concesiones mineras por estado: Nayarit",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":227935,"lote":"NEVADA FRACC. II","inicio":"9/15/2006","fin":"9/14/2056","vigencia":600,"titular":"COMPAÑIA MINERA PANGEA, S.A. DE C.V.","superficie":0.0466,"entidad":"NAYARIT","municipio":"ROSAMORADA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN  TERRENOS PERTENECIENTES AL POBLADO MINITAS, FALDA NORTE DEL CERRO LAS MINITAS"},
 {"titulo":227938,"lote":"NEVADA FRACC. V","inicio":"9/15/2006","fin":"9/14/2056","vigencia":600,"titular":"COMPAÑIA MINERA PANGEA, S.A. DE C.V.","superficie":0.1308,"entidad":"NAYARIT","municipio":"ROSAMORADA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN  TERRENOS PERTENECIENTES AL POBLADO MINITAS, FALDA NORTE DEL CERRO LAS MINITAS"},
 {"titulo":230183,"lote":"HUECO DIABLITO","inicio":"7/27/2007","fin":"7/26/2057","vigencia":600,"titular":"MINERALES VANE, S.A. DE C.V.","superficie":0.1678,"entidad":"NAYARIT","municipio":"TECUALA","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN LAS LUMBRES O EL DIABLITO, EN LA FALDA OESTE DEL CERRO COLORADO, EN LA ORILLA IZQ. DEL CAMINO AL REPRESO DE GALDINO."},
 {"titulo":214398,"lote":"LA TIGRA 1 FRACC. II","inicio":"9/6/2001","fin":"9/5/2007","vigencia":72,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":0.2681,"entidad":"NAYARIT","municipio":"HUAJICORI","descripcion":"LA FALDA ESTE DEL CERRO DE LA MINA DEL TIGRE. MISMO P.P. DEL LOTE LA TIGRA E-6421."},
@@ -403,4 +410,4 @@
 {"titulo":236801,"lote":"EL SALTO SUR","inicio":"8/31/2010","fin":"8/30/2060","vigencia":600,"titular":"ORO GOLD DE MEXICO, S.A. DE C.V.","superficie":14994.0449,"entidad":"NAYARIT","municipio":"HUAJICORI","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA EN TERRENOS DEL AGOSTADERO. AL SUR Y COMO A 200 M. DEL PARAJE DE EL SALTO, DENTRO DEL MUNICIPIO DE EL ROSARIO, SIN."},
 {"titulo":234460,"lote":"EL SALTO","inicio":"6/30/2009","fin":"6/29/2059","vigencia":600,"titular":"ORO GOLD DE MEXICO, S.A. DE C.V.","superficie":41911.9219,"entidad":"NAYARIT","municipio":"HUAJICORI","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN TERRENOS DEL AGOSTADERO  AL SUR Y COMO 200 M DEL PARAJE  DE EL SALTO DENTRO DEL MUNICIPIO DEL ROSARIO."},
 {"titulo":228826,"lote":"GROSS FRACC. I","inicio":"2/7/2007","fin":"2/6/2057","vigencia":600,"titular":"NAYARIT GOLD DE MEXICO, S.A. DE C.V.","superficie":67148.7656,"entidad":"NAYARIT","municipio":"ACAPONETA","descripcion":"LA MERGEN IZQUIERDA DEL ARROYO SAN DIONISIO, ES LA MISMA MOJONERA DE LOS LOTES: REESE E. 59/06980 Y BONAQNZA I E.59/6923."}
-]
+]}

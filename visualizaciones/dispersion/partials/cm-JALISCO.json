@@ -1,5 +1,12 @@
-[
-{"titulo":208784,"lote":"LA JOYA FRACC. I","inicio":"12/11/1998","fin":"12/10/2004","vigencia":72,"titular":"n/a","superficie":0,"entidad":"JALISCO","municipio":"AYUTLA","descripcion":"n/a"},
+{
+  "titulo": "Concesiones mineras por estado: Jalisco",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":208784,"lote":"LA JOYA FRACC. I","inicio":"12/11/1998","fin":"12/10/2004","vigencia":72,"titular":"n/a","superficie":0,"entidad":"JALISCO","municipio":"AYUTLA","descripcion":"n/a"},
 {"titulo":220402,"lote":"BOLAÑOS 11 FRACCION F","inicio":"7/24/2003","fin":"7/23/2053","vigencia":600,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":0.0004,"entidad":"JALISCO","municipio":"VILLA GUERRERO","descripcion":"LA MARGEN OESTE DEL ARROYO LAS GUASIMAS. MISMO PP DE BOLAÑOS 11 FRACC. F T.204646 DEL CUAL DERIVA; DE BOLAÑOS FRACCS. I,H,J EXP. 3/1631,630,628 Y DE BOLAÑOS 3 Y 4 T.212215 Y T.212213 RESPECTIVAMENTE."},
 {"titulo":228461,"lote":"EL PILAR 2 FRACC. V","inicio":"11/22/2006","fin":"11/21/2056","vigencia":600,"titular":"n/a","superficie":0.0016,"entidad":"JALISCO","municipio":"AUTLAN DE NAVARRO","descripcion":"MOJONERA REGLAMENTARIA QUE SE UBICA EN LA PARTE SW DEL CERRO DE LA TROZADA DEL EJIDO DE SAN FRANCISCO."},
 {"titulo":228456,"lote":"HORCON 4 FRACC. V","inicio":"11/22/2006","fin":"11/21/2056","vigencia":600,"titular":"MINERA HOCHSCHILD MEXICO, S.A. DE C.V.","superficie":0.0205,"entidad":"JALISCO","municipio":"LAGOS DE MORENO","descripcion":"LAS INMEDIACIONES DE LA MINA EL HORCON MISMO PP DEL LOTE LA PERLITA 1 T 215054"},
@@ -1468,4 +1475,4 @@
 {"titulo":235513,"lote":"JALICAL 2","inicio":"12/11/2009","fin":"12/10/2059","vigencia":600,"titular":"n/a","superficie":77669.6094,"entidad":"JALISCO","municipio":"TECOLOTLAN","descripcion":"EL POBLADO DEL RODEO. MISMO PP DE LOS LOTES AL- KONEITRA T-230823 Y BONANZA T-231713."},
 {"titulo":204267,"lote":"ASTRO REY","inicio":"12/18/1996","fin":"12/17/2002","vigencia":72,"titular":"n/a","superficie":82163.9453,"entidad":"JALISCO","municipio":"AUTLAN DE NAVARRO","descripcion":"A 30MTS DEL RANCHO LAS MORAS"},
 {"titulo":233541,"lote":"LA LUZ 3 FRACC. I","inicio":"3/11/2009","fin":"3/10/2059","vigencia":600,"titular":"n/a","superficie":231556.1563,"entidad":"JALISCO","municipio":"TECOLOTLAN","descripcion":"MOJONERA REGLAMENTARIA QUE SE LOCALIZA EN EL TERRENO DENOMINADO CERRO DEL MORAN, EN TENAMAXTLAN, MISMO P.P. DEL LOTE LA PROVIDENCIA 045/15371"}
-]
+]}

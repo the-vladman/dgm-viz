@@ -1,5 +1,12 @@
-[
-{"entidad":24,"tipo":"Educación Básica","ambito":"Urbano","valor":2083},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: San Luis Potosí",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":24,"tipo":"Educación Básica","ambito":"Urbano","valor":2083},
 {"entidad":24,"tipo":"Educación Básica","ambito":"Rural","valor":6143},
 {"entidad":24,"tipo":"Educación Especial","ambito":"Urbano","valor":109},
 {"entidad":24,"tipo":"Educación Especial","ambito":"Rural","valor":4},
@@ -9,4 +16,4 @@
 {"entidad":24,"tipo":"Educación Media Superior","ambito":"Urbano","valor":293},
 {"entidad":24,"tipo":"Educación Superior","ambito":"Urbano","valor":87},
 {"entidad":24,"tipo":"Educación Superior","ambito":"Rural","valor":5}
-]
+]}

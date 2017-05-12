@@ -1,5 +1,12 @@
-[
-{"titulo":242703,"lote":"TESORO DE BAJA FRACCION 3","inicio":"12/19/2013","fin":"12/18/2063","vigencia":600,"titular":"n/a","superficie":0.3723,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"EN TERRENO INCLINADO AL N DEL VALLE EL VELADERO SOBRE EL CAMINO DE SERVICIO DE LAS TORRES DE ALTA TENSION QUE SE ENCUENTRE AL ESTE DE MANEADERO MISMO PP DEL LOTE T-238661 Y E-002/7738."},
+{
+  "titulo": "Concesiones mineras por estado: Baja California",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":242703,"lote":"TESORO DE BAJA FRACCION 3","inicio":"12/19/2013","fin":"12/18/2063","vigencia":600,"titular":"n/a","superficie":0.3723,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"EN TERRENO INCLINADO AL N DEL VALLE EL VELADERO SOBRE EL CAMINO DE SERVICIO DE LAS TORRES DE ALTA TENSION QUE SE ENCUENTRE AL ESTE DE MANEADERO MISMO PP DEL LOTE T-238661 Y E-002/7738."},
 {"titulo":232260,"lote":"SAN MARCIAL FRACC. 3","inicio":"7/16/2008","fin":"7/15/2058","vigencia":600,"titular":"n/a","superficie":1.4747,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"UNAS DUNAS UBICADAS EN LA ZONA DE PLAYA . MISMO PP DEL LOTE MARIA REYNA T-227881."},
 {"titulo":224336,"lote":"ADELAIDA","inicio":"4/26/2005","fin":"4/25/2055","vigencia":600,"titular":"n/a","superficie":1.6948,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"LA MARGEN ESTE  DE LA ISLA ADELAIDA. MISMO PP DEL LOTE ADELAIDA T-209472."},
 {"titulo":240643,"lote":"MIRAMAR FRACC. 2","inicio":"6/19/2012","fin":"6/18/2062","vigencia":600,"titular":"n/a","superficie":1.7124,"entidad":"BAJA CALIFORNIA","municipio":"TECATE","descripcion":"TERRENO PLANO Y A 5000 M. AL NW DEL POBLADO VALLE DE LAS PALMAS."},
@@ -629,4 +636,4 @@
 {"titulo":233566,"lote":"ENSENADA II FRACCION I","inicio":"3/24/2009","fin":"3/23/2059","vigencia":600,"titular":"n/a","superficie":88000.9297,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"TERRENOS DEL RANCHO LA ENVIDIA, A LA ALTURA DEL KM. 7 DEL CAMINO A ERENDIRA. MISMO PP DEL LOTE ENSENADA E-002/07010."},
 {"titulo":233475,"lote":"ENSENADA IV","inicio":"3/10/2009","fin":"3/9/2059","vigencia":600,"titular":"n/a","superficie":95166.6484,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"EN TERRENO PLANO JUNTO Y AL LADO ESTE DE LA CARRET. MEX. 1 EN LA ZONA DE SAN VICENTE."},
 {"titulo":238951,"lote":"GOMM VII","inicio":"11/11/2011","fin":"11/10/2061","vigencia":600,"titular":"GRUPO ONTIVEROS DE MINERALES DE MEXICO, S. DE R.L. DE C.V.","superficie":164788.5781,"entidad":"BAJA CALIFORNIA","municipio":"ENSENADA","descripcion":"ENTRE LA BRECHA AL POBLADO SAN PABLO Y LA CAÑADA EL RINCON, MISMO PP DEL LOTE EL SOCORRO E-02/7431 Y JACKDEMOLEY E-02/7429."}
-]
+]}

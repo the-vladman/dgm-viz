@@ -1,5 +1,12 @@
-[
-{"titulo":230532,"lote":"AMISTAD FRACCION No. 2","inicio":"9/14/2007","fin":"9/13/2057","vigencia":600,"titular":"n/a","superficie":0.3183,"entidad":"TAMAULIPAS","municipio":"GUERRERO","descripcion":"LA MOJONERA SE LOCALIZA A 32 KMS. DE NUEVO LAREDO EN EL TRAMO DE LA CARRETERA DE NUEVO LAREDO A MONTERREY SIGUIENDO POR LA AUTOPISTA."},
+{
+  "titulo": "Concesiones mineras por estado: Tamaulipas",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":230532,"lote":"AMISTAD FRACCION No. 2","inicio":"9/14/2007","fin":"9/13/2057","vigencia":600,"titular":"n/a","superficie":0.3183,"entidad":"TAMAULIPAS","municipio":"GUERRERO","descripcion":"LA MOJONERA SE LOCALIZA A 32 KMS. DE NUEVO LAREDO EN EL TRAMO DE LA CARRETERA DE NUEVO LAREDO A MONTERREY SIGUIENDO POR LA AUTOPISTA."},
 {"titulo":232807,"lote":"RIO BRAVO 1 FRACCION V","inicio":"10/23/2008","fin":"10/22/2058","vigencia":600,"titular":"n/a","superficie":1.1742,"entidad":"TAMAULIPAS","municipio":"ANAHUAC","descripcion":"SE LOCALIZA A 50 MTS ALADO IZQUIERDO DE LA CARRETERA NUEVO LAREDO-MTY A 11.2 KM DE LA ESTACION DE MICROONDAS GUERRERO II"},
 {"titulo":167245,"lote":"CAROLINA","inicio":"10/22/1980","fin":"10/21/2005","vigencia":300,"titular":"CIA. MINERA MOCTEZUMA Y ANEXAS, S.A.","superficie":3.7233,"entidad":"TAMAULIPAS","municipio":"SAN NICOLAS","descripcion":"RANCHO LAS MORITAS"},
 {"titulo":235432,"lote":"LA HOMOGENEA","inicio":"11/25/2009","fin":"11/24/2059","vigencia":600,"titular":"n/a","superficie":4,"entidad":"TAMAULIPAS","municipio":"SAN CARLOS","descripcion":"UNA CATA DENOMINADA SOCAVON DE LA HOMOGENEA, AL NORESTE EL CERRO SANTANA, AL NOROESTE LA CRESTA BEGONIA. MISMO PP DEL LOTE LA HOMOGENEA T-88678."},
@@ -146,4 +153,4 @@
 {"titulo":243195,"lote":"G-NOR SR","inicio":"7/30/2014","fin":"7/29/2064","vigencia":600,"titular":"n/a","superficie":48822.5898,"entidad":"TAMAULIPAS","municipio":"ANAHUAC","descripcion":"MOJONERA SEÑAL REGLAMENTARIA LOCALIZADA A 50 MTS. DE LA CARRETERA NUEVO LAREDO-MONTERREY A 11.2 KM. DE LA ESTACION DE MICROONDAS  GUERRERO II"},
 {"titulo":232803,"lote":"RIO BRAVO 1 FRACCION I","inicio":"10/23/2008","fin":"10/22/2058","vigencia":600,"titular":"n/a","superficie":64654.3555,"entidad":"TAMAULIPAS","municipio":"ANAHUAC","descripcion":"SE LOCALIZA A 50 MTS ALADO IZQUIERDO DE LA CARRETERA NUEVO LAREDO-MTY A 11.2 KM DE LA ESTACION DE MICROONDAS GUERRERO II"},
 {"titulo":224156,"lote":"PILARES","inicio":"4/15/2005","fin":"6/4/2052","vigencia":566,"titular":"n/a","superficie":87392,"entidad":"TAMAULIPAS","municipio":"ANAHUAC","descripcion":"LA DIVISION DE LOS RANCHOS LAS ENCINAS Y LAS CUATAS, MISMO PP DEL LOTE EL BORREGO T.- 201775."}
-]
+]}

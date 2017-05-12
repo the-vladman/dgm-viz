@@ -1,5 +1,12 @@
-[
-{"entidad":22,"tipo":"Educación Básica","ambito":"Urbano","valor":1459},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Querétaro",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":22,"tipo":"Educación Básica","ambito":"Urbano","valor":1459},
 {"entidad":22,"tipo":"Educación Básica","ambito":"Rural","valor":2147},
 {"entidad":22,"tipo":"Educación Especial","ambito":"Urbano","valor":56},
 {"entidad":22,"tipo":"Educación Especial","ambito":"Rural","valor":1},
@@ -9,4 +16,4 @@
 {"entidad":22,"tipo":"Educación Media Superior","ambito":"Rural","valor":50},
 {"entidad":22,"tipo":"Educación Superior","ambito":"Urbano","valor":78},
 {"entidad":22,"tipo":"Educación Superior","ambito":"Rural","valor":8}
-]
+]}

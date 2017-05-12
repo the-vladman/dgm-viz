@@ -1,5 +1,12 @@
-[
-{"titulo":166875,"lote":"LA CRUZ","inicio":"7/25/1980","fin":"7/24/1983","vigencia":36,"titular":"n/a","superficie":0,"entidad":"SONORA","municipio":"SAHUARIPA","descripcion":"n/a"},
+{
+  "titulo": "Concesiones mineras por estado: Sonora",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":166875,"lote":"LA CRUZ","inicio":"7/25/1980","fin":"7/24/1983","vigencia":36,"titular":"n/a","superficie":0,"entidad":"SONORA","municipio":"SAHUARIPA","descripcion":"n/a"},
 {"titulo":205028,"lote":"EL BURO","inicio":"6/17/1997","fin":"6/16/2003","vigencia":72,"titular":"n/a","superficie":0,"entidad":"SONORA","municipio":"HERMOSILLO","descripcion":"n/a"},
 {"titulo":229984,"lote":"MEZTLI 6","inicio":"7/4/2007","fin":"7/3/2057","vigencia":600,"titular":"EXPLORACIONES GLOBAL, S.A. DE C.V.","superficie":0.0032,"entidad":"SONORA","municipio":"OPODEPE","descripcion":"TERRENO PLANO A 3100 M. AL NW DE LA PARTE ALTA DEL CERRO EL CALLEJON Y A 3500 M. AL SW DEL RANCHO SAN LUCIANO"},
 {"titulo":222597,"lote":"HSBW2 FRACC. II","inicio":"7/28/2004","fin":"7/27/2054","vigencia":600,"titular":"n/a","superficie":0.0041,"entidad":"SONORA","municipio":"YECORA","descripcion":"AL NOROESTE Y 500 MTS. DE LA PISTA AEREA EL TRIGO."},
@@ -4472,4 +4479,4 @@
 {"titulo":241390,"lote":"LA DURAZNILLA","inicio":"12/19/2012","fin":"12/18/2062","vigencia":600,"titular":"n/a","superficie":78880.7969,"entidad":"SONORA","municipio":"CARBO","descripcion":"ENLA PARTE BAJA NORTE DE UN CERRO SIN NOMBRE A 20 m. AL SUR DE LA CARRETERA CARBO-RAYON."},
 {"titulo":235488,"lote":"LA HIGUERITA FRACC. 1","inicio":"12/4/2009","fin":"12/3/2059","vigencia":600,"titular":"MINERA TECK, S.A. DE C.V.","superficie":78913.6641,"entidad":"SONORA","municipio":"ARIZPE","descripcion":"APROX. A 50 MTS. AL NORTE DEL CAMINO QUE CONDUCE AL RANCHO LA SAUCEDA, ES EL MISMO PP DEL LOTE PAPALOTE T-208858"},
 {"titulo":235518,"lote":"LA HIGUERITA 1","inicio":"12/11/2009","fin":"12/10/2059","vigencia":600,"titular":"MINERA TECK, S.A. DE C.V.","superficie":139526.7969,"entidad":"SONORA","municipio":"ACONCHI","descripcion":"APROX. A 2800 M. AL SW DEL CERRO LA NARIZ MISMO PP. DE LOS LOTES EL APURO T-221513 Y T -225625"}
-]
+]}

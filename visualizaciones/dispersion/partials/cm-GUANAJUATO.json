@@ -1,5 +1,12 @@
-[
-{"titulo":217961,"lote":"LA UNICA","inicio":"9/27/2002","fin":"9/26/2052","vigencia":600,"titular":"n/a","superficie":0,"entidad":"GUANAJUATO","municipio":"PENJAMO","descripcion":"EL LOMILLO DE LA LOMA DEL AGUA ZARCA."},
+{
+  "titulo": "Concesiones mineras por estado: Guanajuato",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":217961,"lote":"LA UNICA","inicio":"9/27/2002","fin":"9/26/2052","vigencia":600,"titular":"n/a","superficie":0,"entidad":"GUANAJUATO","municipio":"PENJAMO","descripcion":"EL LOMILLO DE LA LOMA DEL AGUA ZARCA."},
 {"titulo":243357,"lote":"ORITO FRANCCION 2","inicio":"9/12/2014","fin":"9/11/2064","vigencia":600,"titular":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","superficie":0.0058,"entidad":"GUANAJUATO","municipio":"GUANAJUATO","descripcion":"LUGAR CONOCIDO COMO EL ORITO"},
 {"titulo":243261,"lote":"PUERTECITO","inicio":"8/29/2014","fin":"8/28/2064","vigencia":600,"titular":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","superficie":0.0324,"entidad":"GUANAJUATO","municipio":"GUANAJUATO","descripcion":"EL LADO IZQUIERDO DEL CAMINO QUE CONDUCE DEL OBSERVATORIO ASTRONOMICO AL POBLADO EL PUERTECITO, MISMO PP DE OPULENCIA EXP 031/9997"},
 {"titulo":214583,"lote":"SANTA URSULA FRACCION II","inicio":"10/2/2001","fin":"10/1/2051","vigencia":600,"titular":"MINERA GUATIMAPE, S.A. DE C.V.","superficie":0.0683,"entidad":"GUANAJUATO","municipio":"GUANAJUATO","descripcion":"UBICADA EN LA FALDA SUROESTE DEL CERRO LA LUCITA. ESTE P.P. CORRESPONDE AL P.C. 6131."},
@@ -635,4 +642,4 @@
 {"titulo":223859,"lote":"REDUCCION LEON GUANAJUATO FRACCION I","inicio":"2/25/2005","fin":"2/24/2055","vigencia":600,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":15888.3564,"entidad":"GUANAJUATO","municipio":"LEON","descripcion":"LA FALDA ESTE DE LA LOMA LOS PEDERNALES. MISMO PP DE LOS LOTES LAS VIBORAS T-219858 Y LAS VIBORAS 2 T-220186."},
 {"titulo":241995,"lote":"LA SIBILA III","inicio":"4/10/2013","fin":"4/9/2063","vigencia":600,"titular":"PLAMINCO, S.A. DE C.V.","superficie":18058.5039,"entidad":"GUANAJUATO","municipio":"SANTA CRUZ DE JUVENTINO ROSAS","descripcion":"EL CERRO DEL TAJO DEL CAOLIN, MARGEN NORTE DEL ARROYO ROMEROS, TERRENOS EJIDALES. MISMO PP DE LOS LOTES LA SIBILA T-237603 Y LA SIBILA II T-238282."},
 {"titulo":234122,"lote":"EL REALITO","inicio":"5/29/2009","fin":"5/28/2059","vigencia":600,"titular":"MEXICHEM FLUOR, S.A. DE C.V.","superficie":24704.6035,"entidad":"GUANAJUATO","municipio":"VICTORIA","descripcion":"UBICADA EN LA LADERA DEL CERRO DE DOÑA PANCHA MISMO P.P. LOTE SANTA APOLONIA."}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"entidad":5,"tipo":"Educación Básica","ambito":"Urbano","valor":2984},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Coahuila",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":5,"tipo":"Educación Básica","ambito":"Urbano","valor":2984},
 {"entidad":5,"tipo":"Educación Básica","ambito":"Rural","valor":1241},
 {"entidad":5,"tipo":"Educación Especial","ambito":"Urbano","valor":277},
 {"entidad":5,"tipo":"Educación Especial","ambito":"Rural","valor":4},
@@ -9,4 +16,4 @@
 {"entidad":5,"tipo":"Educación Media Superior","ambito":"Rural","valor":26},
 {"entidad":5,"tipo":"Educación Superior","ambito":"Urbano","valor":139},
 {"entidad":5,"tipo":"Educación Superior","ambito":"Rural","valor":1}
-]
+]}

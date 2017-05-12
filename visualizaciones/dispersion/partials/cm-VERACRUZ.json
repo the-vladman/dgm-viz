@@ -1,5 +1,12 @@
-[
-{"titulo":229977,"lote":"LA MIQUETA DOS","inicio":"7/4/2007","fin":"7/3/2057","vigencia":600,"titular":"MINERALES EL PRADO, S.A. DE C.V.","superficie":2.5,"entidad":"VERACRUZ","municipio":"LAS MINAS","descripcion":"AL ESTE Y 650 MTS. DE LA CALLE PRINCIPAL DE TATATILA, VER."},
+{
+  "titulo": "Concesiones mineras por estado: Veracruz",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":229977,"lote":"LA MIQUETA DOS","inicio":"7/4/2007","fin":"7/3/2057","vigencia":600,"titular":"MINERALES EL PRADO, S.A. DE C.V.","superficie":2.5,"entidad":"VERACRUZ","municipio":"LAS MINAS","descripcion":"AL ESTE Y 650 MTS. DE LA CALLE PRINCIPAL DE TATATILA, VER."},
 {"titulo":234279,"lote":"REY NEGRO","inicio":"6/10/2009","fin":"6/9/2059","vigencia":600,"titular":"MINERA CARDEL, S.A. DE C.V.","superficie":3.6294,"entidad":"VERACRUZ","municipio":"ACTOPAN","descripcion":"AL LADO OESTE DE LA CERCA DE ALAMBRE DE LA ESCUELA DEL POBLADO EL PORVENIR ."},
 {"titulo":224416,"lote":"REDUCCION REYNA NEGRA F. 4","inicio":"5/4/2005","fin":"12/2/2053","vigencia":583,"titular":"MINERA GAVILAN, S.A. DE C.V.","superficie":5.16,"entidad":"VERACRUZ","municipio":"ACTOPAN","descripcion":"AL OESTE DE LA ESCUELA ENTRE LOS RANCHOS MOZORONGO Y EL PORVENIR, AL NOROESTE  Y 2.5 Km.  DE LA POBLACION DE TINAJITAS."},
 {"titulo":229978,"lote":"LAS MINAS DOS FRACCION UNO","inicio":"7/4/2007","fin":"7/3/2057","vigencia":600,"titular":"MINERALES EL PRADO, S.A. DE C.V.","superficie":5.8247,"entidad":"VERACRUZ","municipio":"LAS MINAS","descripcion":"AL ESTE Y 650 MTS. DE LA CALLE PRINCIPAL DE TATATILA, VER."},
@@ -79,4 +86,4 @@
 {"titulo":243743,"lote":"JALISCO","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"n/a","superficie":32682.166,"entidad":"VERACRUZ","municipio":"CHONTLA","descripcion":"LOCALIZADO AL SUROESTE Y 950 METROS DE TEHUATLAN, HIDALGO, SE ENCUENTRA EL PP QUE ES IGUAL AL PC.5209."},
 {"titulo":243742,"lote":"CAÑAVERAL","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"n/a","superficie":32780.1641,"entidad":"VERACRUZ","municipio":"CHONTLA","descripcion":"SW Y 950 M DE TEHUATLAN, HIDALGO, AHI ESTA EL PP QUE ES IGUAL AL PC 5209."},
 {"titulo":243745,"lote":"COSTEÑO","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"n/a","superficie":32878.1602,"entidad":"VERACRUZ","municipio":"CHONTLA","descripcion":"LOCALIZADO AL SUROESTE  Y 950 METROS  DE TEHUATLÁN, HIDALGO,AHI ESTA EL P.P. QUE ES IGUAL P.C.5209"}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"titulo":197212,"lote":"PASO DE DOLORES","inicio":"8/27/1993","fin":"12/18/2041","vigencia":580,"titular":"SALINAS DE CELESTUN, S.A.","superficie":0.7421,"entidad":"YUCATAN","municipio":"CELESTUN","descripcion":"EL CENTRO DE LA PUERTA DE LA IGLESIA DE CELESTUM. MISMO P.P. DEL LOTE PASO DE DOLORES T-194009."},
+{
+  "titulo": "Concesiones mineras por estado: Yucatán",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":197212,"lote":"PASO DE DOLORES","inicio":"8/27/1993","fin":"12/18/2041","vigencia":580,"titular":"SALINAS DE CELESTUN, S.A.","superficie":0.7421,"entidad":"YUCATAN","municipio":"CELESTUN","descripcion":"EL CENTRO DE LA PUERTA DE LA IGLESIA DE CELESTUM. MISMO P.P. DEL LOTE PASO DE DOLORES T-194009."},
 {"titulo":213419,"lote":"ISYSA 15","inicio":"5/11/2001","fin":"5/10/2051","vigencia":600,"titular":"INDUSTRIA SALINERA DE YUCATAN, S.A. DE C.V.","superficie":6.7918,"entidad":"YUCATAN","municipio":"RIO LAGARTOS","descripcion":"LA CARRETERA QUE VA DE LA POBLACION LAS COLORADAS A EL CUYO, A 5 MTS. AL NORTE DE UN TANQUE DE ALMACENAMIENTO."},
 {"titulo":196717,"lote":"ESMERALDA","inicio":"8/6/1993","fin":"9/20/2033","vigencia":482,"titular":"n/a","superficie":40,"entidad":"YUCATAN","municipio":"TIZIMIN","descripcion":"EN EL BORDE NOROESTE DE LA  CIENEGA DE EL CUYO  MISMO PP DEL LOTE LA ESMERALDA"},
 {"titulo":185750,"lote":"SAN FERNANDO NUM 48","inicio":"12/14/1989","fin":"12/13/2039","vigencia":600,"titular":"SALINAS DE CELESTUN, S.A.","superficie":74,"entidad":"YUCATAN","municipio":"CELESTUN","descripcion":"EN LA PARTE MAS ALTA DEL CERRO DE LA CRUZ O DE LAS CRUCES EN EL PUNTO DENOMINADO LA MINA VIEJA."},
@@ -21,4 +28,4 @@
 {"titulo":213420,"lote":"ISYSA 15 FRACC. I","inicio":"5/11/2001","fin":"5/10/2051","vigencia":600,"titular":"INDUSTRIA SALINERA DE YUCATAN, S.A. DE C.V.","superficie":1987.1561,"entidad":"YUCATAN","municipio":"RIO LAGARTOS","descripcion":"LA CARRETERA QUE VA DE LA POBLACION LAS COLORADAS A EL CUYO, A 5 MTS. AL NORTE DE UN TANQUE DE ALMACENAMIENTO."},
 {"titulo":243802,"lote":"REDUCCION VALLADOLID","inicio":"12/5/2014","fin":"10/29/2058","vigencia":527,"titular":"CEMENTOS APASCO, S.A. DE C.V.","superficie":13670,"entidad":"YUCATAN","municipio":"CUNCUNUL","descripcion":"A UN COSTADO DEL CAMINO PAVIMENTADO QUE CONDUCE A LA POBLACION DE SACYABIL Y CHICHIMILA, EN UNA ESQUINA DE UN TERRENO PARTICULAR. MISMO PP DEL LOTE VALLADOLID T-232871."},
 {"titulo":232871,"lote":"VALLADOLID","inicio":"10/30/2008","fin":"10/29/2058","vigencia":600,"titular":"CEMENTOS APASCO, S.A. DE C.V.","superficie":49522,"entidad":"YUCATAN","municipio":"CUNCUNUL","descripcion":"A UN COSTADO DEL CAMINO PAVIMENTADO QUE CONDUCE A  SACYABIL Y CHICHIMILA, AL SURESTE DE VALLADOLID EN ESQUINA DE TERRENO PARTICULAR"}
-]
+]}

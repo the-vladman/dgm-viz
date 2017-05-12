@@ -1,5 +1,12 @@
-[
-{"titulo":219819,"lote":"BIARRITZ B","inicio":"4/16/2003","fin":"4/15/2053","vigencia":600,"titular":"MINERA Y METALURGICA DEL BOLEO, S.A. DE C.V. AHORA: S.A.P.I. DE C.V.","superficie":0.0055,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"AL OESTE Y 1000 MTS. APROXIMADAMENTE DEL MAR DE CORTES."},
+{
+  "titulo": "Concesiones mineras por estado: Baja California Sur",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":219819,"lote":"BIARRITZ B","inicio":"4/16/2003","fin":"4/15/2053","vigencia":600,"titular":"MINERA Y METALURGICA DEL BOLEO, S.A. DE C.V. AHORA: S.A.P.I. DE C.V.","superficie":0.0055,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"AL OESTE Y 1000 MTS. APROXIMADAMENTE DEL MAR DE CORTES."},
 {"titulo":211066,"lote":"BOLEO X FRACC. 16","inicio":"3/24/2000","fin":"3/23/2050","vigencia":600,"titular":"MINERA CURATOR, S.A. DE C.V.","superficie":0.0068,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"LA MARGEN DERECHA DEL ARROYO DE LA SOLEDAD, ZONA DE LA MINA MERCURIO."},
 {"titulo":219820,"lote":"BIARRITZ A","inicio":"4/16/2003","fin":"4/15/2053","vigencia":600,"titular":"MINERA TERRA GAIA, S.A. DE C.V.","superficie":0.0096,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"AL OESTE Y 100 MTS. APROXIMADAMENTE DEL MAR DE CORTES"},
 {"titulo":227892,"lote":"TRIUNFO ESTE FRACC. III","inicio":"9/8/2006","fin":"9/7/2056","vigencia":600,"titular":"CORTEZ RESOURCES, S. DE R.L. DE C.V.","superficie":0.3023,"entidad":"BAJA CALIFORNIA SUR","municipio":"LA PAZ","descripcion":"EL TRIUNFO, B.C. SUR ES EL P.C. No. 4133 COORD U.T.M. 53688.7702Y 2633941.0920"},
@@ -165,4 +172,4 @@
 {"titulo":236713,"lote":"SAN GUILLERMO FRACC. I REDUCCION","inicio":"8/25/2010","fin":"9/7/2059","vigencia":589,"titular":"COMPAÑIA MINERA ZAPALINAME, S.A. DE C.V.","superficie":58127.3594,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"AL  NORTE Y 2000 MTS. DE LA LOMA PUNTA CUEVEGEL, AL ESTE Y 4000 MTS. DEL VOLCAN EL AZUFRE, MISMO PP DE LA CONDICION ANTERIOR SAN GUILLERMO FRACC. I T-234882."},
 {"titulo":234882,"lote":"SAN GUILLERMO FRACC. I","inicio":"9/8/2009","fin":"9/7/2059","vigencia":600,"titular":"COMPAÑIA MINERA ZAPALINAME, S.A. DE C.V.","superficie":85888.3438,"entidad":"BAJA CALIFORNIA SUR","municipio":"MULEGE","descripcion":"MISMO PP. DEL LOTE SANTA ROSALIA 2 T-219147"},
 {"titulo":240744,"lote":"DON DIEGO","inicio":"6/28/2012","fin":"6/27/2062","vigencia":600,"titular":"EXPLORACIONES OCEANICAS, S. DE R.L. DE C.V.","superficie":268238.625,"entidad":"BAJA CALIFORNIA SUR","municipio":"COMONDU","descripcion":"EL MUNICIPIO DE COMONDU, EN LAS INMEDIACIONES DEL CAMPO PESQUERO SAN ANDRESITO, B.C.S. COMO A 70 m AL NE DEL FARO BOCA DE PABELLON."}
-]
+]}

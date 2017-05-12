@@ -1,5 +1,12 @@
-[
-{"entidad":10,"tipo":"Educación Básica","ambito":"Urbano","valor":1453},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Durango",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":10,"tipo":"Educación Básica","ambito":"Urbano","valor":1453},
 {"entidad":10,"tipo":"Educación Básica","ambito":"Rural","valor":3980},
 {"entidad":10,"tipo":"Educación Especial","ambito":"Urbano","valor":96},
 {"entidad":10,"tipo":"Educación Inicial","ambito":"Rural","valor":72},
@@ -8,4 +15,4 @@
 {"entidad":10,"tipo":"Educación Media Superior","ambito":"Rural","valor":50},
 {"entidad":10,"tipo":"Educación Superior","ambito":"Rural","valor":5},
 {"entidad":10,"tipo":"Educación Superior","ambito":"Urbano","valor":78}
-]
+]}

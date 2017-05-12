@@ -1,5 +1,12 @@
-[
-{"titulo":217550,"lote":"ZACATECAS III FRACC. II","inicio":"7/19/2002","fin":"7/18/2052","vigencia":600,"titular":"MINERA TAYAHUA, S.A. DE C.V.","superficie":0.0008,"entidad":"ZACATECAS","municipio":"MELCHOR OCAMPO","descripcion":"LA PARTE ALTA DE LA FALDA NORESTE DEL CERRO DE ORO"},
+{
+  "titulo": "Concesiones mineras por estado: Zacatecas",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":217550,"lote":"ZACATECAS III FRACC. II","inicio":"7/19/2002","fin":"7/18/2052","vigencia":600,"titular":"MINERA TAYAHUA, S.A. DE C.V.","superficie":0.0008,"entidad":"ZACATECAS","municipio":"MELCHOR OCAMPO","descripcion":"LA PARTE ALTA DE LA FALDA NORESTE DEL CERRO DE ORO"},
 {"titulo":217289,"lote":"LA BALLENA 12 FRACC. 5","inicio":"7/2/2002","fin":"7/1/2008","vigencia":72,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":0.002,"entidad":"ZACATECAS","municipio":"VILLA HIDALGO","descripcion":"MEDIACION DE LA FALDA SUR DEL CERRO DEL BUEN SUCESO, CORRD. UTM Y (N)=2489270.991; X (E)=226337.106"},
 {"titulo":217288,"lote":"LA BALLENA 12 FRACC. 4","inicio":"7/2/2002","fin":"7/1/2008","vigencia":72,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":0.0058,"entidad":"ZACATECAS","municipio":"VILLA HIDALGO","descripcion":"MEDIACION DE LA FALDA SUR DEL CERRO DEL BUEN SUCESO, CORRD. UTM Y (N)=2489270.991; X (E)=226337.106"},
 {"titulo":238677,"lote":"LA ESPERANZA 3  FRACCION 1","inicio":"10/11/2011","fin":"10/10/2061","vigencia":600,"titular":"MINERA LARGO, S. DE R.L. DE C.V.","superficie":0.0097,"entidad":"ZACATECAS","municipio":"ZACATECAS","descripcion":"SOBRE ARROYO QUE BAJA DE LA PRESA DE REYES Y ES LA ML DEL LOTE LA ESPERANZA. T.- 173680"},
@@ -2330,4 +2337,4 @@
 {"titulo":231922,"lote":"CAMINO ROJO 1","inicio":"5/16/2008","fin":"5/15/2058","vigencia":600,"titular":"CANPLATS DE MEXICO, S.A. DE C.V. AHORA: CAMINO ROJO, S.A. DE C.V.","superficie":88897.3281,"entidad":"ZACATECAS","municipio":"MAZAPIL","descripcion":"LA PARTE PLANA DE UNOS TERRENOS CONOCIDOS COMO AREA SAN TIBURCIO."},
 {"titulo":234144,"lote":"PIRELLI","inicio":"6/3/2009","fin":"6/2/2059","vigencia":600,"titular":"OREMIN GOLD, S.A. DE C.V. AHORA: FORTUNATE SUN, S.A. DE C.V.","superficie":112081.2266,"entidad":"ZACATECAS","municipio":"MAZAPIL","descripcion":"SE LOCALIZA AL SUR DE LA LADERA DEL C. CADAZOS EN TERRENOS DE LA COMUNIDAD DE LA ESTACION CAMACHO."},
 {"titulo":232647,"lote":"CAMINO ROJO 5","inicio":"10/2/2008","fin":"10/1/2058","vigencia":600,"titular":"CANPLATS DE MEXICO, S.A. DE C.V. AHORA: CAMINO ROJO, S.A. DE C.V.","superficie":154055.0156,"entidad":"ZACATECAS","municipio":"MAZAPIL","descripcion":"A 5,300 M DEL POBLADO SAN BENITO EN EL KM. 153.500 DE LA CARR. 54 ZAC-SALTILLO MISMO PP DEL LOTE CAMINO ROJO 4 93/28465"}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"titulo":214642,"lote":"MYNU 4 FRACC. 2","inicio":"10/26/2001","fin":"10/25/2007","vigencia":72,"titular":"MINERA REAL DE ANGELES, S.A. DE C.V.","superficie":0.2137,"entidad":"AGUASCALIENTES","municipio":"ASIENTOS","descripcion":"LA FALDA NORTE DEL CERRO LAS CUCHILLAS, AL NORTE DE UNAS CONSTRUCCIONE"},
+{
+  "titulo": "Concesiones mineras por estado: Aguascalientes",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":214642,"lote":"MYNU 4 FRACC. 2","inicio":"10/26/2001","fin":"10/25/2007","vigencia":72,"titular":"MINERA REAL DE ANGELES, S.A. DE C.V.","superficie":0.2137,"entidad":"AGUASCALIENTES","municipio":"ASIENTOS","descripcion":"LA FALDA NORTE DEL CERRO LAS CUCHILLAS, AL NORTE DE UNAS CONSTRUCCIONE"},
 {"titulo":201935,"lote":"EL CARMEN","inicio":"10/11/1995","fin":"10/10/2045","vigencia":600,"titular":"MINERA REAL DE ANGELES, S.A. DE C.V.","superficie":0.761,"entidad":"AGUASCALIENTES","municipio":"TEPEZALA","descripcion":"A 20MTS AL SUR DEL ARROYO DE SAN JUAN. MISMO P.P. DEL LOTE EL CARMEN T-199831"},
 {"titulo":217109,"lote":"EL PORVENIR UNO","inicio":"6/14/2002","fin":"6/13/2052","vigencia":600,"titular":"CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.","superficie":1.0366,"entidad":"AGUASCALIENTES","municipio":"ASIENTOS","descripcion":"LA FALDA SURESTE DEL CERRO DE ALTAMIRA. MISMO PP DEL LOTE PORVENIR UNO T-202968."},
 {"titulo":218101,"lote":"MYNU DOS","inicio":"10/11/2002","fin":"10/10/2052","vigencia":600,"titular":"CIA. MINERA REAL DE ASIENTOS Y ANEXOS S.A. DE C.V.","superficie":1.0374,"entidad":"AGUASCALIENTES","municipio":"TEPEZALA","descripcion":"LA FALDA SUROESTE DEL CERRO LOS CUATES, MISMO P.P. DEL LOTE LOS ASIENTOS NORTE T-202123."},
@@ -134,4 +141,4 @@
 {"titulo":218121,"lote":"COLORINES 3","inicio":"10/11/2002","fin":"10/10/2008","vigencia":72,"titular":"COMPAÑIA MINERA LA PARREÑA, S.A. DE C.V.","superficie":7200,"entidad":"AGUASCALIENTES","municipio":"JESUS MARIA","descripcion":"A25 MTS. A LA DERECHA DEL CAMINO QUE VA DEL POBLADO GRAL. I. ZARAGOZA A EL POBLADO  LOS CAÑOS."},
 {"titulo":236286,"lote":"POLI","inicio":"6/11/2010","fin":"6/10/2060","vigencia":600,"titular":"n/a","superficie":8508.9121,"entidad":"AGUASCALIENTES","municipio":"TEPEZALA","descripcion":"A 50 M. AL W DE LA CONSTRUCCION ABANDONADA DEL HORNO DE CAL, MISMO P.P DE LOTE HORNOS TITULO-222175"},
 {"titulo":241641,"lote":"2DA. RED. TEMOC 3 RED. FR. 1","inicio":"1/30/2013","fin":"6/26/2058","vigencia":545,"titular":"MINERA DE CORDILLERAS, S. DE R.L. DE C.V.","superficie":29681.1094,"entidad":"AGUASCALIENTES","municipio":"COSIO","descripcion":"LA LADERA OESTE DEL CERRO DE LA CAL, 2700 MTS. AL NOROESTE  DEL CERRO DEL CUERVO Y A 5000 MTS. AL NOROESTE DE CUIDAD CUAUHTEMOC. MISMO PP DEL LOTE -3 T-232140"}
-]
+]}

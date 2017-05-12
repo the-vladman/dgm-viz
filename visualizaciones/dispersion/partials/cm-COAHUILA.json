@@ -1,5 +1,12 @@
-[
-{"titulo":237303,"lote":"EXACTO 2 FRACCION 6","inicio":"12/9/2010","fin":"12/8/2060","vigencia":600,"titular":"MINERA DEL NORTE, S.A. DE C.V.","superficie":0.0001,"entidad":"COAHUILA","municipio":"SABINAS","descripcion":"AL NOROESTE Y 250 MTS DEL RIO SABINAS Y ES MISMO PP DEL LOTE CHARROTE E-16139 Y CHARROTE E-16142"},
+{
+  "titulo": "Concesiones mineras por estado: Coahuila",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":237303,"lote":"EXACTO 2 FRACCION 6","inicio":"12/9/2010","fin":"12/8/2060","vigencia":600,"titular":"MINERA DEL NORTE, S.A. DE C.V.","superficie":0.0001,"entidad":"COAHUILA","municipio":"SABINAS","descripcion":"AL NOROESTE Y 250 MTS DEL RIO SABINAS Y ES MISMO PP DEL LOTE CHARROTE E-16139 Y CHARROTE E-16142"},
 {"titulo":237305,"lote":"EXACTO 2 FRACCION 8","inicio":"12/9/2010","fin":"12/8/2060","vigencia":600,"titular":"MINERA DEL NORTE, S.A. DE C.V.","superficie":0.0001,"entidad":"COAHUILA","municipio":"SABINAS","descripcion":"AL NOROESTE Y 250 MTS DEL RIO SABINAS Y ES MISMO PP DEL LOTE CHARROTE E-16139 Y CHARROTE E-16142"},
 {"titulo":236996,"lote":"SAN PEDRO FRACCION III","inicio":"10/14/2010","fin":"10/13/2060","vigencia":600,"titular":"COMPAÑIA MEXICANA DE SUMINISTROS Y MINERALES, S.A. DE C.V.","superficie":0.0061,"entidad":"COAHUILA","municipio":"ACUÑA","descripcion":"AL ESTE DEL CAMINO DE AGUACHILE A CUATRO PALMAS EN TERRENOS DEL RANCHO EL JARDIN."},
 {"titulo":227202,"lote":"REAL DE SACRAMENTO FRACCION No. 2","inicio":"5/26/2006","fin":"5/25/2056","vigencia":600,"titular":"n/a","superficie":0.0074,"entidad":"COAHUILA","municipio":"OCAMPO","descripcion":"LA FALDA SUR PONIENTE DE LA SIERRA PADILLA Y AL ORIENTE DE LA SIERRA EL PALOMINO, EN LO QUE ES EL VALLE DEL BERRENDO."},
@@ -1969,4 +1976,4 @@
 {"titulo":223892,"lote":"REDUCCION PRIMAVERA","inicio":"3/4/2005","fin":"6/4/2052","vigencia":568,"titular":"n/a","superficie":266689,"entidad":"COAHUILA","municipio":"ANAHUAC","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA AL SUR Y 20 MTS. DEL KM. 96 DE LA CARRETERA  MONCLOVA-CANDELA, MISMO PP DEL LOTE NIPON UNO T.- 204361."},
 {"titulo":224155,"lote":"REDUCCION SANTA ROSA FRACC. I","inicio":"4/15/2005","fin":"6/4/2052","vigencia":566,"titular":"n/a","superficie":275530.5938,"entidad":"COAHUILA","municipio":"ABASOLO","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA EN LA MARGEN DERECHA DE LA CARRETERA MONCLOVA-SAN BUENAVENTURA KM. 11."},
 {"titulo":240072,"lote":"BICENTENARIO","inicio":"4/13/2012","fin":"4/12/2062","vigencia":600,"titular":"MINERA METALIN, S.A. DE C.V.","superficie":359669.6563,"entidad":"COAHUILA","municipio":"JIMENEZ","descripcion":"PARTE BAJA DE LA FALDA NORTE DE LA SIERRA MOJADA, MISMO P.P. SIERRA MOJADA T.-235371  Y MISMO P.P. DORMIDOS T.-229323."}
-]
+]}

@@ -1,5 +1,12 @@
-[
-{"titulo":232079,"lote":"SAN JOSE FRACCION 1","inicio":"6/10/2008","fin":"6/9/2058","vigencia":600,"titular":"n/a","superficie":0.067,"entidad":"MORELOS","municipio":"TLAQUILTENANGO","descripcion":"MISMO P.P. DEL LOTE SAN JUAN T-225403 AL NOROESTE 50 MTS. APROX. DEL TIRO AMERICA."},
+{
+  "titulo": "Concesiones mineras por estado: Morelos",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":232079,"lote":"SAN JOSE FRACCION 1","inicio":"6/10/2008","fin":"6/9/2058","vigencia":600,"titular":"n/a","superficie":0.067,"entidad":"MORELOS","municipio":"TLAQUILTENANGO","descripcion":"MISMO P.P. DEL LOTE SAN JUAN T-225403 AL NOROESTE 50 MTS. APROX. DEL TIRO AMERICA."},
 {"titulo":243540,"lote":"QUCO-I FRACCION 2","inicio":"10/17/2014","fin":"10/16/2064","vigencia":600,"titular":"n/a","superficie":7.457,"entidad":"MORELOS","municipio":"AMACUZAC","descripcion":"A LADO DERECHO DE LA CARRETERA QUE CONDUCE AL POBLADO DE COAXITLAN, MISMO PP DEL LOTE COAXITLAN DOS T-227033."},
 {"titulo":165316,"lote":"CERRO DE LOS GUAJES","inicio":"9/19/1979","fin":"9/18/2029","vigencia":600,"titular":"EJIDO TILZAPOTLA, MOR.","superficie":16,"entidad":"MORELOS","municipio":"PUENTE DE IXTLA","descripcion":"LA MEDIA LADERA NOROESTE DEL CERRO DE LOS GUAJES (POZO DE 1.50 X 1.50 MTS. DE SECCION Y 5.00 MTS. DE PROFUNDIDAD)."},
 {"titulo":224306,"lote":"LA PROVIDENCIA","inicio":"4/22/2005","fin":"4/21/2055","vigencia":600,"titular":"n/a","superficie":23.8141,"entidad":"MORELOS","municipio":"AMACUZAC","descripcion":"LA PARTE SURESTE DE LA FALDA DEL CERRO EL MUÑECO."},
@@ -43,4 +50,4 @@
 {"titulo":231968,"lote":"SAN FRANCISCO","inicio":"5/23/2008","fin":"5/22/2058","vigencia":600,"titular":"n/a","superficie":4365.583,"entidad":"MORELOS","municipio":"TLAQUILTENANGO","descripcion":"MISMO P.P. DEL LOTE SAN IGNACIO T-227721 AL OESTE 800 MTS. APROX . DEL POBLADO DE HUAUTLA, MOR."},
 {"titulo":234755,"lote":"ESPERANZA VI","inicio":"8/11/2009","fin":"8/10/2059","vigencia":600,"titular":"ESPERANZA SILVER DE MEXICO, S.A. DE C.V.","superficie":9703.9326,"entidad":"MORELOS","municipio":"MIACATLAN","descripcion":"APROXIMADAMENTE A 5000 METROS AL NOROESTE DEL POBLADO DE XOCHITEPEC, MISMO P.P. DE ESPERANZA IV T.- 231734 Y ESPERANZA V  EXP.- 106/00107"},
 {"titulo":243538,"lote":"QUCO-I","inicio":"10/17/2014","fin":"10/16/2064","vigencia":600,"titular":"n/a","superficie":87187.4531,"entidad":"MORELOS","municipio":"AMACUZAC","descripcion":"A LADO DERECHO DE LA CARRETERA QUE CONDUCE AL POBLADO DE COAXITLAN, MISMO PP DEL LOTE COAXITLAN DOS T-227033."}
-]
+]}

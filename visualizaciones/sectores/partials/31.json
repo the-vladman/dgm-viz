@@ -1,5 +1,12 @@
-[
-{"entidad":31,"tipo":"Educación Básica","ambito":"Urbano","valor":2017},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Yucatán",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":31,"tipo":"Educación Básica","ambito":"Urbano","valor":2017},
 {"entidad":31,"tipo":"Educación Básica","ambito":"Rural","valor":1314},
 {"entidad":31,"tipo":"Educación Especial","ambito":"Urbano","valor":105},
 {"entidad":31,"tipo":"Educación Especial","ambito":"Rural","valor":3},
@@ -9,4 +16,4 @@
 {"entidad":31,"tipo":"Educación Media Superior","ambito":"Rural","valor":7},
 {"entidad":31,"tipo":"Educación Superior","ambito":"Urbano","valor":120},
 {"entidad":31,"tipo":"Educación Superior","ambito":"Rural","valor":2}
-]
+]}

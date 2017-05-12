@@ -1,5 +1,12 @@
-[
-{"entidad":28,"tipo":"Educación Básica","ambito":"Urbano","valor":3370},
+{
+  "titulo": "Catálogo de Centros de Trabajo por Entidad: Tamaulipas",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"entidad":28,"tipo":"Educación Básica","ambito":"Urbano","valor":3370},
 {"entidad":28,"tipo":"Educación Básica","ambito":"Rural","valor":2281},
 {"entidad":28,"tipo":"Educación Especial","ambito":"Rural","valor":6},
 {"entidad":28,"tipo":"Educación Especial","ambito":"Urbano","valor":184},
@@ -8,4 +15,4 @@
 {"entidad":28,"tipo":"Educación Media Superior","ambito":"Urbano","valor":339},
 {"entidad":28,"tipo":"Educación Superior","ambito":"Urbano","valor":185},
 {"entidad":28,"tipo":"Educación Superior","ambito":"Rural","valor":2}
-]
+]}

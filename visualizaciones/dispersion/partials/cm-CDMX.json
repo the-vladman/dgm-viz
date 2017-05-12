@@ -1,3 +1,10 @@
-[
-{"titulo":187004,"lote":"ZIMAPAN DOS","inicio":"5/29/1990","fin":"5/28/2040","vigencia":600,"titular":"CIA. MRA. MONSSERRAT, S.A.","superficie":30,"entidad":"CIUDAD DE M�XICO","municipio":"DESCONOCIDO","descripcion":"LAS FALDAS NORTE  SUR   Y CUMBRE DE UN CERRO  SIN NOMBRE QUE SE  LOCALIZA AL NE"}
-]
+{
+  "titulo": "Concesiones mineras por estado: Ciudad de México",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":187004,"lote":"ZIMAPAN DOS","inicio":"5/29/1990","fin":"5/28/2040","vigencia":600,"titular":"CIA. MRA. MONSSERRAT, S.A.","superficie":30,"entidad":"CIUDAD DE M�XICO","municipio":"DESCONOCIDO","descripcion":"LAS FALDAS NORTE  SUR   Y CUMBRE DE UN CERRO  SIN NOMBRE QUE SE  LOCALIZA AL NE"}
+]}

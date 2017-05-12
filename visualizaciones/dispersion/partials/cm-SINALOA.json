@@ -1,5 +1,12 @@
-[
-{"titulo":236393,"lote":"DOÑA ESTELA FRACCION","inicio":"6/18/2010","fin":"6/17/2060","vigencia":600,"titular":"n/a","superficie":0.0351,"entidad":"SINALOA","municipio":"SINALOA","descripcion":"EL LADO ESTE DEL CAMINO DE LAS CHINAS HACIA LAS BURRAS Y AL NORTE DEL RANCHO EL CEDRO. MISMO PP DEL LOTE DIANA T-230752."},
+{
+  "titulo": "Concesiones mineras por estado: Sinaloa",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":236393,"lote":"DOÑA ESTELA FRACCION","inicio":"6/18/2010","fin":"6/17/2060","vigencia":600,"titular":"n/a","superficie":0.0351,"entidad":"SINALOA","municipio":"SINALOA","descripcion":"EL LADO ESTE DEL CAMINO DE LAS CHINAS HACIA LAS BURRAS Y AL NORTE DEL RANCHO EL CEDRO. MISMO PP DEL LOTE DIANA T-230752."},
 {"titulo":223602,"lote":"NUEVO REMEDIOS FRACC. 3","inicio":"1/21/2005","fin":"1/20/2055","vigencia":600,"titular":"n/a","superficie":0.0667,"entidad":"SINALOA","municipio":"CONCORDIA","descripcion":"LA FALDA ESTE DE LA LOMA LOS LARA. MISMO PP DE LOS LOTES LOS REMEDIOS II T-207940 Y NUEVO REMEDIOS FRACC. 3 T-207980."},
 {"titulo":225151,"lote":"3 EN 1 FRACC. 2","inicio":"7/26/2005","fin":"7/25/2055","vigencia":600,"titular":"GRUPO MINERO BACIS, S.A. DE C.V.","superficie":0.0786,"entidad":"SINALOA","municipio":"CONCORDIA","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA SOBRE LA PARTE BAJA DE LA LADERA N DEL CERRO DE LA MESA COLORADA COMO A 25 M DE LA MARGEN IZQ. AGUA ABAJO DEL ARROYO DE CHIRIMOYOS"},
 {"titulo":216239,"lote":"LA ESTRELLA FRACCION A","inicio":"4/23/2002","fin":"4/22/2008","vigencia":72,"titular":"REAL DE MINAS EL TAMBOR, S.A. DE C.V.","superficie":0.1187,"entidad":"SINALOA","municipio":"SAN IGNACIO","descripcion":"LA FALDA OESTE DEL CERRO LA TAMBORA. MISMO PP DEL LOTE LA TAMBORA T-210701."},
@@ -1382,7 +1389,7 @@
 {"titulo":222214,"lote":"LA SECA FRACC. 1","inicio":"6/3/2004","fin":"6/2/2054","vigencia":600,"titular":"n/a","superficie":7514.5894,"entidad":"SINALOA","municipio":"COSALA","descripcion":"LUGAR CONOCIDO COMO MINA DE NUESTRA SENORA DE LA CANDELARIA"},
 {"titulo":234557,"lote":"CORE","inicio":"7/10/2009","fin":"7/9/2059","vigencia":600,"titular":"EXPLORACIONES MOJAVE, S.A. DE C.V.","superficie":8322.082,"entidad":"SINALOA","municipio":"BADIRAGUATO","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA A 200 M. AL ESTE DEL CAMINO QUE LLEVA DE TAMEAPA A SANTIAGO DE LOS CABALLEROS AL PIE Y LADO SW DEL CERRO PICO EL PRIETO."},
 {"titulo":241515,"lote":"LA CALIZA","inicio":"12/19/2012","fin":"12/18/2062","vigencia":600,"titular":"MINERALES EL PRADO, S.A. DE C.V.","superficie":8612.4805,"entidad":"SINALOA","municipio":"COSALA","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA A UN COSTADO DE UN ARROYITO SIN NOMBRE.MISM DEL E-12328"},
-{"titulo":243256,"lote":"ANAHI 2","inicio":"8/29/2014","fin":"8/28/2064","vigencia":600,"titular":"MINERALS SUPPLY OF THE NORTH, S.A. DE C.V.","superficie":8712.0449,"entidad":"SINALOA","municipio":"SAN IGNACIO","descripcion":"ESTA EN POBLADO GUILLAPA [CERNA AL VERTICE DE INEGI No.25016019]"},
+{"titulo":243256,"lote":"ANAHI 2","inicio":"8/29/2014","fin":"8/28/2064","vigencia":600,"titular":"MINERALS SUPPLY OF THE NORTH, S.A. DE C.V.","superficie":8712.0449,"entidad":"SINALOA","municipio":"SAN IGNACIO","descripcion":"ESTA EN POBLADO GUILLAPA [CERNA AL VERTICE DE INEGI No.25016019]}"},
 {"titulo":243274,"lote":"EUROPAS","inicio":"8/29/2014","fin":"8/28/2064","vigencia":600,"titular":"COMPAÑIA MINERA LA CHISPA DE ORO, S.A. DE C.V.","superficie":9037.6953,"entidad":"SINALOA","municipio":"PUEBLO NUEVO","descripcion":"LO ALTO DE UN CERRO SIN NOMBRE"},
 {"titulo":240208,"lote":"JAZZY","inicio":"4/27/2012","fin":"4/26/2062","vigencia":600,"titular":"MINERALES JAZZ, S.A. DE C.V.","superficie":9048.082,"entidad":"SINALOA","municipio":"EL FUERTE","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA: EN EL LUGAR CONOCIDO COMO LA MINA DEL PADRE MISMO P.P. DEL LOTE CHARAY"},
 {"titulo":243187,"lote":"KAREN","inicio":"7/30/2014","fin":"7/29/2064","vigencia":600,"titular":"n/a","superficie":9242.1436,"entidad":"SINALOA","municipio":"SAN DIMAS","descripcion":"LA MOJONERA REGLAMENTARIA SE LOCALIZA EN LA FALDA ESTE DEL CERRO TENAMAXTLES. MISMO P.P.D. DE  LOS LOTES EL CORPO T-227824 Y LUPITA II T-238701."},
@@ -1411,4 +1418,4 @@
 {"titulo":228468,"lote":"LA NUEVA TRINIDAD","inicio":"11/22/2006","fin":"11/21/2056","vigencia":600,"titular":"MINERA CAMARGO, S.A. DE C.V.","superficie":60958.6836,"entidad":"SINALOA","municipio":"ROSARIO","descripcion":"LA FALDA SURESTE DE LA LOMA DE LA CALERA, TERRENOS DEL RANCHO LOS OTATES, MISMOS P.P. DEL LOTE LA PATILLA, TIT-223147"},
 {"titulo":230494,"lote":"FRANCISCO ARTURO","inicio":"9/6/2007","fin":"3/27/2057","vigencia":595,"titular":"n/a","superficie":62481.3828,"entidad":"SINALOA","municipio":"BADIRAGUATO","descripcion":"FRENTE AL PATIO DE LA MINA GRANDE. MISMO PP DEL LOTE SURUTATO T-809531."},
 {"titulo":223496,"lote":"SHAKIRA FRACCION A","inicio":"1/11/2005","fin":"1/10/2055","vigencia":600,"titular":"COMPAÑIA MINERA PANGEA, S.A. DE C.V.","superficie":87897.8594,"entidad":"SINALOA","municipio":"SINALOA","descripcion":"MOJONERA REGLAMENTARIA LOCALIZADA EN TERRENOS PERTENECIENTES A LA RANCHERIA SAN JOAQUIN"}
-]
+]}

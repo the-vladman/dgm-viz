@@ -1,5 +1,12 @@
-[
-{"titulo":223183,"lote":"EJIDO AHUEHUETZINGO 2 FRACC. 2","inicio":"10/29/2004","fin":"10/28/2054","vigencia":600,"titular":"EJIDO DE AHUEHUETZINGO, PUEBLA","superficie":0.3723,"entidad":"PUEBLA","municipio":"CHIETLA","descripcion":"LA CIMA DEL CERRO DE LA CEBOLLA"},
+{
+  "titulo": "Concesiones mineras por estado: Puebla",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":223183,"lote":"EJIDO AHUEHUETZINGO 2 FRACC. 2","inicio":"10/29/2004","fin":"10/28/2054","vigencia":600,"titular":"EJIDO DE AHUEHUETZINGO, PUEBLA","superficie":0.3723,"entidad":"PUEBLA","municipio":"CHIETLA","descripcion":"LA CIMA DEL CERRO DE LA CEBOLLA"},
 {"titulo":239769,"lote":"LA RUSTICA 3 FRACCION 1","inicio":"2/28/2012","fin":"2/27/2062","vigencia":600,"titular":"n/a","superficie":0.5793,"entidad":"PUEBLA","municipio":"TECOMATLAN","descripcion":"EN LA CIMA DE LA LOMA DENOMINADA REMUDADERO EN TERRENOS PARCELARIOS PERTENECIENTES A  OLOMATLAN"},
 {"titulo":186689,"lote":"YOLANDA DOS","inicio":"5/11/1990","fin":"5/10/2040","vigencia":600,"titular":"MINERA METEORO, S.A. DE C.V.","superficie":0.8877,"entidad":"PUEBLA","municipio":"TETELA DE OCAMPO","descripcion":"LA FALDA ESTE DEL CERRO DEL ZIMACO"},
 {"titulo":223198,"lote":"EJIDO AHUEHUETZINGO 2 FRACC. 1","inicio":"10/29/2004","fin":"10/28/2054","vigencia":600,"titular":"EJIDO DE AHUEHUETZINGO, PUEBLA","superficie":1.0661,"entidad":"PUEBLA","municipio":"CHIETLA","descripcion":"LA CIMA DEL CERRO DE LA CEBOLLA. MISMO PP DEL LOTE EJIDO AHUEHUETZINGO 2 FRACC. 1 T-205565."},
@@ -293,4 +300,4 @@
 {"titulo":241909,"lote":"MIXTECA SUPREMA","inicio":"4/10/2013","fin":"4/9/2063","vigencia":600,"titular":"n/a","superficie":20085.9004,"entidad":"PUEBLA","municipio":"PIAXTLA","descripcion":"AL SUROESTE Y 250 METROS DEL POBLADO CONOCIDO COMO SAN JOSE TETLA EN TERRENOS DE PROPIEDAD PARTICULAR. MISMO PP DEL T-240100 LAS GUITARRAS 1"},
 {"titulo":243617,"lote":"ARCANGEL MIGUEL","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"CONSTRUCCIONES SANTINO, S.A. DE C.V.","superficie":29168.3184,"entidad":"PUEBLA","municipio":"ALBINO ZERTUCHE","descripcion":"LA PARTE BAJA DEL CERRO DEL COYUL EN EL MISMO PUNTO P.P. DEL LOTE ARCANGEL EXP.- 107/00518"},
 {"titulo":243747,"lote":"MAZAL","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"n/a","superficie":40551.9141,"entidad":"PUEBLA","municipio":"ZIHUATEUTLA","descripcion":"RUMBO A LA COMUNIDAD DE PACHTEPEC, PUEBLA, SE RECORREN 350 METROS Y AHI SE ENCUENTRA EL P. P."}
-]
+]}

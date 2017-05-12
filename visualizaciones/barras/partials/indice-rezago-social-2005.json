@@ -1,5 +1,11 @@
-[
-{"x":"Aguascalientes","y":-1.1},
+{
+  "titulo": "Índice de rezago social: 2005",
+  "descripcion": "El Índice de Rezago Social (IRS) permite ordenar las entidades federativas y municipios de mayor a menor grado de rezago social en un momento del tiempo. Es una medida en la que un solo índice agrega variables de educación, de acceso a servicios de salud, de servicios básicos en la vivienda, de calidad y espacios en la misma, y de activos en el hogar. Es decir, proporciona el resumen de cuatro carencias sociales de la medición de pobreza del CONEVAL: rezago educativo, acceso a los servicios de salud, acceso a los servicios básicos en la vivienda y la calidad y espacios en la vivienda.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{"x":"Aguascalientes","y":-1.1},
 {"x":"Baja California","y":-0.7},
 {"x":"Baja California Sur","y":-0.5},
 {"x":"Campeche","y":0.3},
@@ -31,4 +37,4 @@
 {"x":"Veracruz","y":1},
 {"x":"Yucatán","y":0.3},
 {"x":"Zacatecas","y":-0.1}
-]
+]}

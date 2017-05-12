@@ -1,5 +1,12 @@
-[
-{"titulo":224305,"lote":"LA MOSCA I","inicio":"4/22/2005","fin":"4/21/2055","vigencia":600,"titular":"MINERA CAPELA, S.A. DE C.V.","superficie":0.0457,"entidad":"MEXICO","municipio":"ZACUALPAN","descripcion":"LAS INMEDIACIONES DEL PARAJE DENOMINADO SAN JERONIMO, EN LA BARRANCA LAS TINAJAS."},
+{
+  "titulo": "Concesiones mineras por estado: México",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":224305,"lote":"LA MOSCA I","inicio":"4/22/2005","fin":"4/21/2055","vigencia":600,"titular":"MINERA CAPELA, S.A. DE C.V.","superficie":0.0457,"entidad":"MEXICO","municipio":"ZACUALPAN","descripcion":"LAS INMEDIACIONES DEL PARAJE DENOMINADO SAN JERONIMO, EN LA BARRANCA LAS TINAJAS."},
 {"titulo":231346,"lote":"ZACUALPAN NW FRACCION 6","inicio":"2/7/2008","fin":"2/6/2058","vigencia":600,"titular":"MINERA AGUILA PLATEADA, S.A. DE C.V.","superficie":0.3007,"entidad":"MEXICO","municipio":"ZACUALPAN","descripcion":"LA CRESTA DE LA FALDA OESTE DEL CERRO EL ZAPOTE, MISMO P.P. DEL LOTE EL ZAPOTE E-104/00126"},
 {"titulo":193970,"lote":"AMPLIACION DEL REY","inicio":"12/20/1991","fin":"12/19/2041","vigencia":600,"titular":"COMPAÑIA MINERA LAS TORRES, S.A. DE C.V.","superficie":0.3533,"entidad":"MEXICO","municipio":"TEMASCALTEPEC","descripcion":"LA CIMA DEL CERRO DEL REY (TIRO EL REY DE 6.00 M. DE DIAMETRO Y 30.00 M. DE PROFUNDIDAD), TERRENOS PERTENECIENTES A LA RANCHERIA DE LA ALBARRADA. MISMO PP DEL LOTE AMPLIACION DEL REY T-184949."},
 {"titulo":228443,"lote":"ZACUALPAN FRACCION 16","inicio":"11/22/2006","fin":"11/21/2056","vigencia":600,"titular":"n/a","superficie":0.3727,"entidad":"MEXICO","municipio":"ZACUALPAN","descripcion":"AL SUR Y 40 MTS. DEL CAMINO DE TERRACERIA ZACUALPAN-COLOXTITLAN."},
@@ -256,4 +263,4 @@
 {"titulo":229960,"lote":"MAMATLA","inicio":"7/4/2007","fin":"7/3/2057","vigencia":600,"titular":"MINERA AGUILA PLATEADA, S.A. DE C.V.","superficie":20199.0039,"entidad":"MEXICO","municipio":"SULTEPEC","descripcion":"A 950 MTS. AL SUROESTE DE LA IGLESIA DEL POBLADO DE MAMATLA."},
 {"titulo":229918,"lote":"RENACIMIENTO","inicio":"6/28/2007","fin":"6/27/2057","vigencia":600,"titular":"LA GUITARRA COMPAÑIA MINERA, S.A. DE C.V.","superficie":31700.2969,"entidad":"MEXICO","municipio":"SAN SIMON DE GUERRERO","descripcion":"LA PARTE MAS ALTA DEL CERRO DEL TIRO SANTA ANA Y EL TIRO CASCARAS, AHI SE ENCUENTRA EL P.P."},
 {"titulo":241411,"lote":"AMPLIACION MINERALES TERAN II","inicio":"12/19/2012","fin":"12/18/2062","vigencia":600,"titular":"n/a","superficie":33570.5508,"entidad":"MEXICO","municipio":"AMATEPEC","descripcion":"POR EL POBLADO IXCAPANECA GUERRERO AHI ESTA EL P. P."}
-]
+]}

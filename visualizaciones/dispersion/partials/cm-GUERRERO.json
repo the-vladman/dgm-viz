@@ -1,5 +1,12 @@
-[
-{"titulo":235727,"lote":"TANIA II FRACCION 4","inicio":"2/19/2010","fin":"2/18/2060","vigencia":600,"titular":"n/a","superficie":0.0289,"entidad":"GUERRERO","municipio":"COYUCA DE CATALAN","descripcion":"LA MARGEN DERECHA DEL RIO EN LA PARTE SUROESTE DE LA RANCHERIA PINZAN MORADO, ES EL PUNTO DE CONTROL 5001, MISMO P.P DE SAN RAFAEL TITULO 224303"},
+{
+  "titulo": "Concesiones mineras por estado: Guerrero",
+  "descripcion": "Las concesiones mineras otorgan a sus titulares el derecho a explotar, explotar y beneficiar todas las sustancias concesibles que se localicen dentro del lote minero que amparen.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos":
+    [{"titulo":235727,"lote":"TANIA II FRACCION 4","inicio":"2/19/2010","fin":"2/18/2060","vigencia":600,"titular":"n/a","superficie":0.0289,"entidad":"GUERRERO","municipio":"COYUCA DE CATALAN","descripcion":"LA MARGEN DERECHA DEL RIO EN LA PARTE SUROESTE DE LA RANCHERIA PINZAN MORADO, ES EL PUNTO DE CONTROL 5001, MISMO P.P DE SAN RAFAEL TITULO 224303"},
 {"titulo":243681,"lote":"MAZATLAN 2 FRACC. VIII","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"MINERA EL PATRON, S.A. DE C.V.","superficie":0.0454,"entidad":"GUERRERO","municipio":"CHILPANCINGO DE LOS BRAVO","descripcion":"A 10 METROS DE LA MARGEN DERECHA DEL CAMINO DE ACCESO A LA COMUNIDAD EL TEJOCOTE AL PIE DE LA FALDA"},
 {"titulo":236729,"lote":"LA ODISEA 6 FRACCION 2","inicio":"8/26/2010","fin":"8/25/2060","vigencia":600,"titular":"INDUSTRIAL MINERA MEXICO, S.A. DE C.V.","superficie":0.0687,"entidad":"GUERRERO","municipio":"CHILPANCINGO DE LOS BRAVO","descripcion":"SOBRE EL CAMINO QUE VA DE LA COMUNIDAD DE INTZCUINATOYAC A LA COMUNIDAD DE AGUA HERNANDEZ EN EL LUGAR CONOCIDO COMO BARRANCA DE LA PASTORA, EN LAS COORDENADAS 1921043.6632N Y 422935.600E"},
 {"titulo":243680,"lote":"MAZATLAN 2 FRACC. VII","inicio":"11/4/2014","fin":"11/3/2064","vigencia":600,"titular":"MINERA EL PATRON, S.A. DE C.V.","superficie":0.0843,"entidad":"GUERRERO","municipio":"CHILPANCINGO DE LOS BRAVO","descripcion":"A 10 METROS DE LA MARGEN DERECHA DEL CAMINO DE ACCESO A LA COMUNIDAD EL TEJOCOTE AL PIE DE LA FALDA"},
@@ -689,4 +696,4 @@
 {"titulo":240316,"lote":"DAVID 3","inicio":"5/17/2012","fin":"5/16/2062","vigencia":600,"titular":"EXPLORACIONES MINERAS PARREÑA, S.A. DE C.V.","superficie":27053.3555,"entidad":"GUERRERO","municipio":"GENERAL HELIODORO CASTILLO","descripcion":"LA BARRANCA DE JUCHINTLA A 700 METROS APROXIMADAMENTE AL SUROESTE DE LA RANCHERIA DEL QUERENGUE, MISMO P.P. DE XOCHITL EXP.- 033/09349 TITULO 214714 Y VALERIA EXP.- 033/09391"},
 {"titulo":243844,"lote":"REDUCCION CENTENARIO","inicio":"12/17/2014","fin":"2/27/2063","vigencia":579,"titular":"MINERA EL PATRON, S.A. DE C.V.","superficie":32114.791,"entidad":"GUERRERO","municipio":"CHILPANCINGO DE LOS BRAVO","descripcion":"MARGEN IZQUIERDA DEL CAMINO DE TERRACERIA CHILPANCINGO - XOCOMANATLAN, LLEGAR A ESTA  RANCHERIA Y CONTINUAR POR EL CAMINO 2000 ADELATE ESTA EL P.P."},
 {"titulo":241687,"lote":"CENTENARIO","inicio":"2/28/2013","fin":"2/27/2063","vigencia":600,"titular":"MINERA EL PATRON, S.A. DE C.V.","superficie":130154.8359,"entidad":"GUERRERO","municipio":"CHILPANCINGO DE LOS BRAVO","descripcion":"MARGEN IZQUIERDA DEL CAMINO DE TERRACERIA CHILPANCING-XOCOMANATLAN, LLEGAR A ESTA RANCHERIA Y CONTINUAR POR EL CAMINO 2000 METROS ADELANTE ESTA EL P.P."}
-]
+]}

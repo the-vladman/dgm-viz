@@ -178,6 +178,10 @@ function getInfoChart(var1) {
             descripcion = "La Secretaría de Hacienda y Crédito Público pone a disposición del público un conjunto de datos sobre indicadores fiscales como balances, ingresos, gastos, financiamiento y deuda pública del Gobierno Federal, entidades paraestatales no financieras, entidades paraestatales financieras, sector público presupuestario y sector público federal, así como transferencias federales a Estados y Municipios.";
             datos = ["Estadísticas Oportunas de Finanzas Públicas", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/estadisticas-oportunas-de-finanzas-publicas", "http://www.shcp.gob.mx/POLITICAFINANCIERA/FINANZASPUBLICAS/Estadisticas_Oportunas_Finanzas_Publicas/Paginas/unica2.aspx"]
             break;
+        case (grafica.match(/^Presupuesto de Egresos de la Federación 2017.*/) || {}).input:
+            descripcion = "El Presupuesto de Egresos de la Federación es uno de los documentos de política pública más importantes de nuestro país. En él se describen la cantidad, la forma de distribución y el destino de los recursos públicos de los tres poderes (Ejecutivo, Legislativo y Judicial), de los organismos autónomos, como el Instituto Federal Electoral y la Comisión Nacional de los Derechos Humanos, así como las transferencias a los gobiernos estatales y municipales.";
+            datos = ["Presupuesto de Egresos de la Federación", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/presupuesto-de-egresos-de-la-federacion", "http://transparenciapresupuestaria.gob.mx/es/PTP/Glosario"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

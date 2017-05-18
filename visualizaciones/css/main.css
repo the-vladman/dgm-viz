@@ -7650,3 +7650,7 @@ h1:after {
 .text-higlight {
     color: #0c9;
 }
+
+.style-scope .dgm-navbar a:focus{
+  color:#FFF !important;
+}

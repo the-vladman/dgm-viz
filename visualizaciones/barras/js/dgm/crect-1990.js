@@ -10,27 +10,25 @@ var jsonChart;
           jsonChart = data;
       }
   });
-  var dimension = window.innerHeight;
+  var dimension = (window.innerHeight*0.80);
   var valor = obtenerValorParametro("muestra");
     if (valor == "td"){
       $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
       $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
-      dimension = dimension - 135;
     }
     else if (valor == "t"){
       $('#descripcion').remove();
       $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
-      dimension = dimension - 135;
     }
     else if (valor == "d"){
       $('#titulo').remove();
       $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
-      dimension = dimension - 135;
     }
     else{
+      $('#vermas').remove();
       $('#titulo').remove();
       $('#descripcion').remove();
-      dimension = dimension -20;
+      dimension = window.innerHeight;
     }
 
 //función para leer los parametros pasados por medio de la url

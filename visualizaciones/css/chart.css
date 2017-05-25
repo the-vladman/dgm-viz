@@ -28,3 +28,11 @@ div#descripcion {
   line-height: 1.6em;
   font-size: 14px;
 }
+
+div#vermas>a {
+  text-decoration: none;
+}
+
+div#vermas {
+  text-align: right;
+}

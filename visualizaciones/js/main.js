@@ -228,7 +228,7 @@ $("#btnEmbeber").click(function() {
         $("#compartir").empty();
         $("#compartir").fadeToggle("slow", function() {
             var fuente = $('#marcoVisualizaciones').contents().get(0).location.href+"?muestra=td";
-            $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 800px;"></iframe>');
+            $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 700px;"></iframe>');
         });
     }
 

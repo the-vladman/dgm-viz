@@ -34,5 +34,6 @@ div#vermas>a {
 }
 
 div#vermas {
+  margin-top: 5px;
   text-align: right;
 }

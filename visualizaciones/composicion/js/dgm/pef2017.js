@@ -14,16 +14,19 @@ var jsonChart;
   var dimension;
   var valor = obtenerValorParametro("muestra");
     if (valor == "td"){
+      $('#vermas').show();
       $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
       $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
       dimension = window.innerHeight - $("#titulo").outerHeight(true) - $("#descripcion").outerHeight(true) - $("#vermas").outerHeight(true) - 50;
     }
     else if (valor == "t"){
+      $('#vermas').show();
       $('#descripcion').remove();
       $("#titulo").html("<strong><p>"+jsonChart.titulo+"</p></strong>");
       dimension = window.innerHeight - $("#titulo").outerHeight(true) - $("#vermas").outerHeight(true) - 40;
     }
     else if (valor == "d"){
+      $('#vermas').show();
       $('#titulo').remove();
       $("#descripcion").html("<p>"+jsonChart.descripcion+"</p>");
       dimension = window.innerHeight - $("#descripcion").outerHeight(true) - $("#vermas").outerHeight(true) - 40;

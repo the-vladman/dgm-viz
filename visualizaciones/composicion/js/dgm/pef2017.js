@@ -54,7 +54,7 @@ function obtenerValorParametro(sParametroNombre) {
 var visualization = d3plus.viz()
 .container("#treemapd3") // container DIV to hold the visualization
 .data(jsonChart.datos)
-.id(["entidad", "ramo","concepto"]) // key for which our data is unique on
+.id(["ramo","ur"]) // key for which our data is unique on
 .type("tree_map") //visualization type
 .size("monto") //sizing of blocks
 //Rango de colores según valor

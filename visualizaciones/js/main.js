@@ -182,6 +182,10 @@ function getInfoChart(var1) {
             descripcion = "El Presupuesto de Egresos de la Federación es uno de los documentos de política pública más importantes de nuestro país. En él se describen la cantidad, la forma de distribución y el destino de los recursos públicos de los tres poderes (Ejecutivo, Legislativo y Judicial), de los organismos autónomos, como el Instituto Federal Electoral y la Comisión Nacional de los Derechos Humanos, así como las transferencias a los gobiernos estatales y municipales.";
             datos = ["Presupuesto de Egresos de la Federación", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/presupuesto-de-egresos-de-la-federacion", "http://transparenciapresupuestaria.gob.mx/es/PTP/Glosario"]
             break;
+        case (grafica.match(/^Censo de Personas con Discapacidad 2016.*/) || {}).input:
+            descripcion = "Listado de Personas con Discapacidad";
+            datos = ["Censo de Personas con Discapacidad 2016", "ISSSTE", "CSV", "https://datos.gob.mx/busca/dataset/personas-con-discapacidad", "http://www.issste.gob.mx/datosabiertos/censodiscapacidad.csv"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

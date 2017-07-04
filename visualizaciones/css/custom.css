@@ -11,3 +11,7 @@ p#titulo{
 pre#compartir{
   margin-top: 15px;
 }
+
+p.fuente2{
+  display: inline;
+}

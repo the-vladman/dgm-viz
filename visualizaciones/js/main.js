@@ -183,8 +183,8 @@ function getInfoChart(var1) {
             datos = ["Presupuesto de Egresos de la Federación", "SHCP", "CSV", "https://datos.gob.mx/busca/dataset/presupuesto-de-egresos-de-la-federacion", "http://transparenciapresupuestaria.gob.mx/es/PTP/Glosario"]
             break;
         case (grafica.match(/^Censo de Personas con Discapacidad 2016.*/) || {}).input:
-            descripcion = "Listado de Personas con Discapacidad";
-            datos = ["Censo de Personas con Discapacidad 2016", "ISSSTE", "CSV", "https://datos.gob.mx/busca/dataset/personas-con-discapacidad", "http://www.issste.gob.mx/datosabiertos/censodiscapacidad.csv"]
+            descripcion = "Representa la información registrada en el Sistema Médico de Pacientes con Enfermedades Discapacitantes (SIMEDIS), referente a aquellos derechohabientes que fueron evaluados por las distintas unidades médicas del Instituto, integrados por delegación estatal o regional, agrupados por grupo de edad y género, así mismo mostrando las 39 principales enfermedades que ocasionan la discapacidad de los pacientes agrupados por sexo.";
+            datos = ["Censo de Personas con Discapacidad 2016", "ISSSTE", "CSV", "https://datos.gob.mx/busca/dataset/personas-con-discapacidad", "Plan Nacional de Desarrollo, en la Meta II “Un México Incluyente”"]
             break;
         default:
             descripcion = "";
@@ -203,7 +203,13 @@ function getInfoChart(var1) {
     document.getElementById("nombreDato").innerHTML = datos[0];
     document.getElementById("institucionDato").innerHTML = datos[1];
     document.getElementById("tipoDato").innerHTML = datos[2];
-    document.getElementById("fuente").innerHTML = "<i>FUENTE: <a class='fuente2' target='blank_' href='" + datos[4] + "'>" + datos[4] + "</i>";
+    var validaURL = isUrlValid(datos[4]);
+    if (validaURL === false) {
+      document.getElementById("fuente").innerHTML = "<i>FUENTE: <p class='fuente2'>" + datos[4] + "</p></i>";
+    } else {
+      document.getElementById("fuente").innerHTML = "<i>FUENTE: <a class='fuente2' target='blank_' href='" + datos[4] + "'>" + datos[4] + "</i>";
+    }
+    //document.getElementById("fuente").innerHTML = "<i>FUENTE: <a class='fuente2' target='blank_' href='" + datos[4] + "'>" + datos[4] + "</i>";
     $("#tipoDato").attr("data-format", datos[2]);
     $("#dato").attr("data-href", datos[3]);
 }
@@ -237,6 +243,14 @@ $("#btnEmbeber").click(function() {
     }
 
 );
+
+function isUrlValid(userInput) {
+    var res = userInput.match(/(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g);
+    if(res == null)
+        return false;
+    else
+        return true;
+}
 
 function detectIE() {
   var ua = window.navigator.userAgent;

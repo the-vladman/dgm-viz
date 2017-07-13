@@ -1,0 +1,87 @@
+{
+  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Producto",
+  "descripcion": "Inconformidades que presentan los usuarios sobre los productos o servicios financieros (ofrecidos por las Instituciones Financieras).",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "TARJETA DE CRÉDITO",
+      "reclamaciones": 3154092
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "TARJETA DE DÉBITO",
+      "reclamaciones": 1979850
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CUENTAS DE DEPÓSITOS A LA VISTA",
+      "reclamaciones": 98986
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CUENTAS DE NÓMINA",
+      "reclamaciones": 57824
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CRÉDITO PERSONAL",
+      "reclamaciones": 1643
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "TARJETA PREPAGADA",
+      "reclamaciones": 1495
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CRÉDITO DE NÓMINA",
+      "reclamaciones": 1483
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "VALORES E INSTRUMENTOS DE INVERSIÓN",
+      "reclamaciones": 1220
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CRÉDITO AL CONSUMO",
+      "reclamaciones": 483
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CRÉDITO AUTOMOTRIZ",
+      "reclamaciones": 408
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "producto": "CRÉDITO HIPOTECARIO",
+      "reclamaciones": 25
+    }
+
+  ]
+}

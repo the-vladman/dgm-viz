@@ -1,0 +1,185 @@
+{
+  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Causa",
+  "descripcion": "Inconformidades que presentan los usuarios sobre los motivos o causas por las cuales los usuarios de servicios financieros presentaron una inconformidad.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "CARGO NO RECONOCIDO POR CONSUMOS NO EFECTUADOS",
+      "reclamaciones": 4859055
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "PAGO AUTOMÁTICO MAL APLICADO TOTAL O PARCIALMENTE (DOMICILIACIONES)",
+      "reclamaciones": 359931
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "NO ENTREGA CANTIDAD SOLICITADA",
+      "reclamaciones": 358391
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "COBRO NO RECONOCIDO DE COMISIÓN POR MANEJO DE CUENTA",
+      "reclamaciones": 298049
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "RETIRO NO RECONOCIDO",
+      "reclamaciones": 291765
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "COBRO NO RECONOCIDO POR OTRAS COMISIONES",
+      "reclamaciones": 257866
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "COBRO NO RECONOCIDO DE INTERESES ORDINARIOS Y/O MORATORIOS",
+      "reclamaciones": 150478
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "PAGO NO ACREDITADO",
+      "reclamaciones": 101966
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "DEVOLUCIÓN NO APLICADA",
+      "reclamaciones": 64411
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "ERROR OPERATIVO DEL CLIENTE",
+      "reclamaciones": 58664
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "DEPÓSITO NO ACREDITADO",
+      "reclamaciones": 58040
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "ERROR OPERATIVO DEL BANCO",
+      "reclamaciones": 57947
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "ABONOS POR SERVICIOS DE ADQUIRENCIA",
+      "reclamaciones": 44251
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "PRODUCTO NO RECONOCIDO",
+      "reclamaciones": 42010
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "INCONFORMIDAD POR ALTERACIÓN DE PAGARES",
+      "reclamaciones": 36200
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "TRANSFERENCIA NO RECONOCIDA",
+      "reclamaciones": 35987
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "CARGOS POR SERVICIOS DE ADQUIRENCIA",
+      "reclamaciones": 32003
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "COBRO NO RECONOCIDO POR COMISIONES DE DISPOSICIONES DE EFECTIVO",
+      "reclamaciones": 30645
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "CHEQUES MAL NEGOCIADOS",
+      "reclamaciones": 27194
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "COBRO NO RECONOCIDO DE IMPUESTOS Y OTROS CARGOS",
+      "reclamaciones": 7125
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "SUPLANTACIÓN DE IDENTIDAD",
+      "reclamaciones": 5298
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "INCONFORMIDAD DE RENDIMIENTOS O CAPITAL PAGADOS",
+      "reclamaciones": 5259
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "PAGO DUPLICADO",
+      "reclamaciones": 1439
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "TRANSFERENCIA NO ACREDITADA",
+      "reclamaciones": 960
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "causa": "POR DEFINIR",
+      "reclamaciones": 53157
+    }
+
+  ]
+}

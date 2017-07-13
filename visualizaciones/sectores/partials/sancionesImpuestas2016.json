@@ -1,0 +1,66 @@
+{
+  "titulo": "Sanciones Impuestas Por Sector Financiero (Número Y Monto)",
+  "descripcion": "Sanciones impuestas derivadas al incumplimiento de las siguientes Leyes: Ley de Protección y Defensa al Usuario de Servicios Financieros (LPDUSF), Ley para la Transparencia y Ordenamiento de los Servicios Financieros (LTOSF) y Ley de Instituciones de Crédito (LIC).",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "multas": 1545,
+      "monto": 51776743.4
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE SEGUROS",
+      "clase": "INSTITUCIONES DE SEGUROS",
+      "multas": 155,
+      "monto": 4001950.5
+    },
+    {
+      "año": 2016,
+      "sector": "SOCIEDADES FINANCIERAS DE OBJETO MÚLTIPLE",
+      "clase": "SOCIEDADES FINANCIERAS DE OBJETO MÚLTIPLE ENTIDADES NO REGULADAS",
+      "multas": 3137,
+      "monto": 77214544.4
+    },
+    {
+      "año": 2016,
+      "sector": "SOCIEDADES FINANCIERAS DE OBJETO MÚLTIPLE",
+      "clase": "SOCIEDADES FINANCIERAS DE OBJETO MÚLTIPLE ENTIDADES REGULADAS",
+      "multas": 104,
+      "monto": 2169739.6
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DEL SISTEMA DE AHORRO PARA EL RETIRO (SAR)",
+      "clase": "ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORES)",
+      "multas": 90,
+      "monto": 2516508.4
+    },
+    {
+      "año": 2016,
+      "sector": "ENTIDADES DE AHORRO Y CRÉDITO",
+      "clase": "SOCIEDADES COOPERATIVAS DE AHORRO Y PRESTAMO",
+      "multas": 240,
+      "monto": 18990387
+    },
+    {
+      "año": 2016,
+      "sector": "ENTIDADES DE AHORRO Y CRÉDITO",
+      "clase": "SOCIEDADES FINANCIERAS POPULARES",
+      "multas": 168,
+      "monto": 10567284
+    },
+    {
+      "año": 2016,
+      "sector": "OTROS",
+      "clase": "OTROS",
+      "multas": 179,
+      "monto": 3395685
+    }
+
+  ]
+}

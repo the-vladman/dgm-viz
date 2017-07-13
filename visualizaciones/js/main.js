@@ -186,6 +186,22 @@ function getInfoChart(var1) {
             descripcion = "Representa la información registrada en el Sistema Médico de Pacientes con Enfermedades Discapacitantes (SIMEDIS), referente a aquellos derechohabientes que fueron evaluados por las distintas unidades médicas del Instituto, integrados por delegación estatal o regional, agrupados por grupo de edad y género, así mismo mostrando las 39 principales enfermedades que ocasionan la discapacidad de los pacientes agrupados por sexo.";
             datos = ["Censo de Personas con Discapacidad 2016", "ISSSTE", "CSV", "https://datos.gob.mx/busca/dataset/personas-con-discapacidad", "Plan Nacional de Desarrollo, en la Meta II “Un México Incluyente”"]
             break;
+        case (grafica.match(/Sanciones Impuestas Por Sector Financiero.*/) || {}).input:
+            descripcion = "Sanciones impuestas derivadas al incumplimiento de las siguientes Leyes: Ley de Protección y Defensa al Usuario de Servicios Financieros (LPDUSF), Ley para la Transparencia y Ordenamiento de los Servicios Financieros (LTOSF) y Ley de Instituciones de Crédito (LIC).";
+            datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
+            break;
+        case (grafica.match(/Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal.*/) || {}).input:
+            descripcion = "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como; Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.";
+            datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
+            break;
+        case (grafica.match(/Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Producto.*/) || {}).input:
+            descripcion = "Inconformidades que presentan los usuarios sobre los productos o servicios financieros (ofrecidos por las Instituciones Financieras).";
+            datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
+            break;
+        case (grafica.match(/Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Causa.*/) || {}).input:
+            descripcion = "Inconformidades que presentan los usuarios sobre los motivos o causas por las cuales los usuarios de servicios financieros presentaron una inconformidad.";
+            datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

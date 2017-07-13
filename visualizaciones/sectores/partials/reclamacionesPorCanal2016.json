@@ -1,0 +1,115 @@
+{
+  "titulo": ">Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal",
+  "descripcion": "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como; Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "TERMINAL PUNTO DE VENTA",
+      "reclamaciones": 2696520
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "COMERCIO POR INTERNET",
+      "reclamaciones": 1650777
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "MOVIMIENTO GENERADO POR EL BANCO",
+      "reclamaciones": 1130692
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "CAJEROS AUTOMÁTICOS",
+      "reclamaciones": 725571
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "COMERCIO POR TELÉFONO",
+      "reclamaciones": 544420
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "SUCURSALES",
+      "reclamaciones": 156250
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "OPERACIONES POR INTERNET PERSONAS FÍSICAS",
+      "reclamaciones": 135209
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "SERVICIO DE ADQUIRENCIA",
+      "reclamaciones": 67987
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "BANCA MÓVIL",
+      "reclamaciones": 29227
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "CORRESPONSALES",
+      "reclamaciones": 20329
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "OPERACIONES POR INTERNET PERSONAS MORALES",
+      "reclamaciones": 12601
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "PAGO POR CELULAR",
+      "reclamaciones": 6536
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "OTROS BANCOS",
+      "reclamaciones": 5870
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "BANCA POR TELEFINO",
+      "reclamaciones": 732
+    },
+    {
+      "año": 2016,
+      "sector": "INSTITUCIONES DE CRÉDITO",
+      "clase": "INSTITUCIONES BANCA MÚLTIPLE",
+      "canales": "POR DEFINIR",
+      "reclamaciones": 55370
+    }
+
+  ]
+}

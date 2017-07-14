@@ -54,7 +54,7 @@ d3plus.viz()
   .container("#viz")
   .data(jsonChart.datos)
   .type("pie")
-  .id("clase")
+  .id(["sector","clase"])
   .size("multas")
   .color({
     "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],

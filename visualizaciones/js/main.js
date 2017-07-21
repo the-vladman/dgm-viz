@@ -191,7 +191,7 @@ function getInfoChart(var1) {
             datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
             break;
         case (grafica.match(/Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal.*/) || {}).input:
-            descripcion = "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como; Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.";
+            descripcion = "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como: Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.";
             datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
             break;
         case (grafica.match(/Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Producto.*/) || {}).input:

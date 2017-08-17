@@ -1,0 +1,44 @@
+{
+  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal",
+  "descripcion": "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como: Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "id": "asesorias",
+      "monto": 1415027,
+      "nombre": "Asesorías"
+    },
+    {
+      "id": "reclamaciones-gestion-ordinaria",
+      "monto": 157158,
+      "nombre": "Reclamaciones (Gestión Ordinaria / Gestión Electrónica)"
+    },
+    {
+      "id": "reclamaciones-despacho-cobranza",
+      "monto": 28220,
+      "nombre": "Reclamaciones Registro De Despachos De Cobranza (Redeco)"
+    },
+    {
+      "id": "reclamaciones-conciliacion",
+      "monto": 42046,
+      "nombre": "Reclamaciones (Conciliación)"
+    },
+    {
+      "id": "reclamaciones-dictamen",
+      "monto": 11909,
+      "nombre": "Reclamaciones (Dictámen)"
+    },
+    {
+      "id": "reclamaciones-solicitud-defensa",
+      "monto": 2262,
+      "nombre": "Reclamaciones (Solicitud Para La Defensa Legal Gratuita)"
+    },
+    {
+      "id": "otros",
+      "monto": 2172,
+      "nombre": "Otros"
+    }
+  ]
+}

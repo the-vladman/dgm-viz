@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "titulo": "Acciones de Defensa",
   "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
+=======
+  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal",
+  "descripcion": "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como: Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.",
+>>>>>>> acciones en defensa 2016
   "nombreDataset": "",
   "institucionDataset": "",
   "formatoDataset": "",

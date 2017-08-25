@@ -202,6 +202,10 @@ function getInfoChart(var1) {
             descripcion = "Inconformidades que presentan los usuarios sobre los motivos o causas por las cuales los usuarios de servicios financieros presentaron una inconformidad.";
             datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
             break;
+        case (grafica.match(/Acciones de Defensa.*/) || {}).input:
+            descripcion = "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).";
+            datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
+            break;
         default:
             descripcion = "";
             datos = ["", "", "", "", ""];

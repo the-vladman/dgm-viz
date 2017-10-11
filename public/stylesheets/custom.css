@@ -1,0 +1,17 @@
+ul#tipoGrafica >li > a{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+p#titulo{
+  color: #6f6f6f;
+  font-weight: bold;
+}
+
+pre#compartir{
+  margin-top: 15px;
+}
+
+p.fuente2{
+  display: inline;
+}

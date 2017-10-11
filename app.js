@@ -2,8 +2,7 @@
 
 // se agregan las bibliotecas requeridas
 var express = require('express');
-var bodyParser = require('body-parser');
-
+//var bodyParser = require('body-parser');
 // instancia de express
 var app = express();
 
@@ -20,6 +19,7 @@ app.get('/', function(req, res) {
 
 //rutas base
 app.use('/viz', viz_routes);
-
+// contenido estatico
+app.use(express.static('public'));
 // se define app como nombre a instanciar en otros archivos
 module.exports = app;

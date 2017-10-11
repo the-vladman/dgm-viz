@@ -1,0 +1,21 @@
+{
+  "name": "visualizaciones",
+  "authors": [
+    "Sergio Rodríguez <sergio.rdzsg@gmail.com>"
+  ],
+  "description": "Visualizaciones de los datasets de DGM",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.3",
+    "d3plus": "^1.9.8",
+    "leaflet": "^1.0.2"
+  }
+}

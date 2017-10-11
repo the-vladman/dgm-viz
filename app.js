@@ -1,5 +1,7 @@
 'use strict'
 
+/* URL para del cdn de datos.gob.mx usado para cargar navbar y footer */
+process.env.CDN_URL = 'https://cdn.datos.gob.mx';
 // se agregan las bibliotecas requeridas
 var express = require('express');
 //var bodyParser = require('body-parser');

@@ -36,7 +36,7 @@ $('.graficas').on('change', function() {
 });
 //getSubChart("3, #chartSubBarra");
 
-// genera las subgráficas de las gráficas padre
+// genera las subgráficas de las gráficas principales
 function getSubChart(idChart) {
   var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/full?alt=json";
   var array = idChart.split(",");

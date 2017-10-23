@@ -48,4 +48,8 @@ strong { font-weight: bold; }
   padding: 0;
   background-color: #fff;
 }
+<<<<<<< HEAD
 .form-control { font-size: 14px; }
+=======
+.form-control { font-size: 14px; }
+>>>>>>> 8c7d4f2... Eliminación de padding lateral en tab-content

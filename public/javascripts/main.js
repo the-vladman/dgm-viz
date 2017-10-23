@@ -43,12 +43,16 @@ function getSubChart(idChart) {
     $(datosVizidChart).each(function(i) {
       if (datosVizidChart[i].gsx$pkchart.$t == array[0]) {
         var tituloSubChart = datosVizidChart[i].gsx$titulo.$t;
-        var idSubChart = datosVizidChart[i].gsx$idsubchart.$t;
+        var urlIframe = datosVizidChart[i].gsx$url.$t;
         $(array[1]).removeAttr('disabled');
         $(array[1]).append($('<option>', {
-          value: idSubChart,
+          value: urlIframe,
           text: tituloSubChart
         }));
+        if (i == 0){
+          console.log(datosVizidChart[0].gsx$url.$t);
+          document.getElementById('marcoVisualizaciones').src = datosVizidChart[0].gsx$url.$t;
+        }
       }
     }); // termina EACH
   });
@@ -58,10 +62,13 @@ $(document).ready(function() {
   $('.graficas').on('change', function() {
     getSubChart(this.options[this.selectedIndex].value);
   });
-
+  $('.subGraficas').change(function() {
+    document.getElementById('marcoVisualizaciones').src = $(this).val();
+  });
   $("ul#tipoGrafica li a").click(function() {
     var idDivChart = $(this).attr('aria-controls');
     var primerChart = $('#chart' + idDivChart).find("option:first-child").val();
     getSubChart(primerChart);
+
   });
 });

@@ -23,5 +23,6 @@ app.get('/', function(req, res) {
 app.use('/viz', viz_routes);
 // contenido estatico
 app.use(express.static('public'));
+app.use(express.static('v1'));
 // se define app como nombre a instanciar en otros archivos
 module.exports = app;

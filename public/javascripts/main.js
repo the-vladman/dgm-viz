@@ -31,14 +31,11 @@ $.getJSON(url, function(data) {
   }); // termina EACH
 });
 
-$('.graficas').on('change', function() {
-  getSubChart(this.options[this.selectedIndex].value);
-});
-//getSubChart("3, #chartSubBarra");
+
 
 // genera las subgráficas de las gráficas principales
 function getSubChart(idChart) {
-  var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/full?alt=json";
+  var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/values?alt=json";
   var array = idChart.split(",");
   $.getJSON(url, function(data) {
     var datosVizidChart = data.feed.entry;
@@ -56,3 +53,15 @@ function getSubChart(idChart) {
     }); // termina EACH
   });
 }
+$(document).ready(function() {
+  getSubChart("1, #chartSubBarra"); // carga la primera gráfica al carga la página
+  $('.graficas').on('change', function() {
+    getSubChart(this.options[this.selectedIndex].value);
+  });
+
+  $("ul#tipoGrafica li a").click(function() {
+    var idDivChart = $(this).attr('aria-controls');
+    var primerChart = $('#chart' + idDivChart).find("option:first-child").val();
+    getSubChart(primerChart);
+  });
+});

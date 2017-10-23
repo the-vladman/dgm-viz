@@ -44,5 +44,8 @@ strong { font-weight: bold; }
 .nav-pills > li > a:hover { color: #fff; background-color: #0c9; }
 .nav-pills > li.active > a { background-color: #0c9; }
 
-.tab-content { background-color: #fff; }
+.tab-content {
+  padding: 0;
+  background-color: #fff;
+}
 .form-control { font-size: 14px; }

@@ -112,7 +112,51 @@ function getSubChart(idChart) {
     }); // termina EACH
   });
 }
+
+function detectIE() {
+  var ua = window.navigator.userAgent;
+  var msie = ua.indexOf('MSIE ');
+  if (msie > 0) {
+    // IE 10 or older => return version number
+    return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+  }
+  var trident = ua.indexOf('Trident/');
+  if (trident > 0) {
+    // IE 11 => return version number
+    var rv = ua.indexOf('rv:');
+    return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+  }
+  var edge = ua.indexOf('Edge/');
+  if (edge > 0) {
+    // Edge (IE 12+) => return version number
+    return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+  }
+  // other browser
+  return false;
+}
 $(document).ready(function() {
+  var version = detectIE();
+  if (version === false) {
+    $("#btnDescargar").show();
+  } else {
+    $("#btnDescargar").hide();
+  }
+  $("#btnEmbeber").click(function() {
+      $("#compartir").empty();
+      $("#compartir").fadeToggle("slow", function() {
+        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href + "?muestra=td";
+        $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 700px;"></iframe>');
+      });
+    }
+
+  );
+  $("#btnDescargar").click(function() {
+    var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
+    document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);
+    var url = document.getElementById("marcoVisualizaciones").contentWindow.location.href;
+    var filename = url.match(/([^\/]+)(?=\.\w+$)/)[0];
+    saveSvgAsPng(document.querySelector('svg'), filename + ".png");
+  });
   getSubChart("1, #chartSubBarra"); // carga la primera gráfica al carga la página
   $('.graficas').on('change', function() {
     getSubChart(this.options[this.selectedIndex].value);

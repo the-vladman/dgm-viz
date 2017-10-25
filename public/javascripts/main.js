@@ -7,31 +7,85 @@ $.getJSON(url, function(data) {
     var tituloChart = this.gsx$titulo.$t;
     var tipoChart = this.gsx$tipo.$t;
     var idChart = this.gsx$id.$t;
-    if (tipoChart == 'barra') {
-      $('#chartBarra').append($('<option>', {
-        value: idChart + ", #chartSubBarra",
-        text: tituloChart
-      }));
-    } else if (tipoChart == 'sector') {
-      $('#chartSector').append($('<option>', {
-        value: idChart + ", #chartSubSector",
-        text: tituloChart
-      }));
-    } else if (tipoChart == 'composicion') {
-      $('#chartComposicion').append($('<option>', {
-        value: idChart + ", #chartSubComposicion",
-        text: tituloChart
-      }));
-    } else if (tipoChart == 'dispersion') {
-      $('#chartDispersion').append($('<option>', {
-        value: idChart + ", #chartSubDispersion",
-        text: tituloChart
-      }));
-    }
+    var urlChart = this.gsx$url.$t;
+    var visibleChart = this.gsx$visible.$t;
+    if (visibleChart == 'si') {
+      if (urlChart != '') {
+        $(".subGraficas").empty();
+        //$(".subGraficas").prop("disabled", true);
+        switch (tipoChart) {
+          case 'barra':
+            $('#chartBarra').append($('<option>', {
+              value: urlChart,
+              text: tituloChart
+            }));
+            break;
+          case 'sector':
+            $('#chartSector').append($('<option>', {
+              value: urlChart,
+              text: tituloChart
+            }));
+            break;
+          case 'composicion':
+            $('#chartComposicion').append($('<option>', {
+              value: urlChart,
+              text: tituloChart
+            }));
+            break;
+          case 'dispersion':
+            $('#chartDispersion').append($('<option>', {
+              value: urlChart,
+              text: tituloChart
+            }));
+            break;
+          case 'mapa':
+            $('#chartMapa').append($('<option>', {
+              value: urlChart,
+              text: tituloChart
+            }));
+            break;
+          default:
+            console.log("Opción desconocida: " + idChart)
+        }
+      } else {
+        switch (tipoChart) {
+          case 'barra':
+            $('#chartBarra').append($('<option>', {
+              value: idChart + ", #chartSubBarra",
+              text: tituloChart
+            }));
+            break;
+          case 'sector':
+            $('#chartSector').append($('<option>', {
+              value: idChart + ", #chartSubSector",
+              text: tituloChart
+            }));
+            break;
+          case 'composion':
+            $('#chartComposicion').append($('<option>', {
+              value: idChart + ", #chartSubComposicion",
+              text: tituloChart
+            }));
+            break;
+          case 'dispersion':
+            $('#chartDispersion').append($('<option>', {
+              value: idChart + ", #chartSubDispersion",
+              text: tituloChart
+            }));
+            break;
+          case 'mapa':
+            $('#chartMapa').append($('<option>', {
+              value: idChart + ", #chartSubMapa",
+              text: tituloChart
+            }));
+            break;
+          default:
+            console.log("Opción desconocida: " + idChart)
+        }
+      }
+    } // IF que valida si es visible
   }); // termina EACH
 });
-
-
 
 // genera las subgráficas de las gráficas principales
 function getSubChart(idChart) {
@@ -40,19 +94,20 @@ function getSubChart(idChart) {
   $.getJSON(url, function(data) {
     var datosVizidChart = data.feed.entry;
     $(array[1]).empty(); // borra todas las opciones en el select
+    var j = 0;
     $(datosVizidChart).each(function(i) {
       if (datosVizidChart[i].gsx$pkchart.$t == array[0]) {
         var tituloSubChart = datosVizidChart[i].gsx$titulo.$t;
         var urlIframe = datosVizidChart[i].gsx$url.$t;
-        $(array[1]).removeAttr('disabled');
+        $(array[1]).prop("disabled", false);
         $(array[1]).append($('<option>', {
           value: urlIframe,
           text: tituloSubChart
         }));
-        if (i == 0){
-          console.log(datosVizidChart[0].gsx$url.$t);
-          document.getElementById('marcoVisualizaciones').src = datosVizidChart[0].gsx$url.$t;
+        if (j === 0) {
+          document.getElementById('marcoVisualizaciones').src = urlIframe;
         }
+        j++;
       }
     }); // termina EACH
   });
@@ -67,8 +122,8 @@ $(document).ready(function() {
   });
   $("ul#tipoGrafica li a").click(function() {
     var idDivChart = $(this).attr('aria-controls');
+    $('#' + idDivChart).prop('selectedIndex', 0);
     var primerChart = $('#chart' + idDivChart).find("option:first-child").val();
     getSubChart(primerChart);
-
   });
 });

@@ -53,3 +53,7 @@ strong { font-weight: bold; }
 dgm-footer {
     position: relative;
 }
+
+select.subGraficas{
+  margin-top: 5px;
+}

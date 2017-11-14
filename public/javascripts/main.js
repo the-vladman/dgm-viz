@@ -90,27 +90,36 @@ $.getJSON(url, function(data) {
 // genera las subgráficas de las gráficas principales
 function getSubChart(idChart) {
   var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/values?alt=json";
-  var array = idChart.split(",");
-  $.getJSON(url, function(data) {
-    var datosVizidChart = data.feed.entry;
-    $(array[1]).empty(); // borra todas las opciones en el select
-    var j = 0;
-    $(datosVizidChart).each(function(i) {
-      if (datosVizidChart[i].gsx$pkchart.$t == array[0]) {
-        var tituloSubChart = datosVizidChart[i].gsx$titulo.$t;
-        var urlIframe = datosVizidChart[i].gsx$url.$t;
-        $(array[1]).prop("disabled", false);
-        $(array[1]).append($('<option>', {
-          value: urlIframe,
-          text: tituloSubChart
-        }));
-        if (j === 0) {
-          document.getElementById('marcoVisualizaciones').src = urlIframe;
+  $(".subGraficas").empty();
+  $(".subGraficas").prop("disabled", true);
+  if (idChart.indexOf(',') > -1) {
+    var array = idChart.split(",");
+    $.getJSON(url, function(data) {
+      var datosVizidChart = data.feed.entry;
+      $(array[1]).empty(); // borra todas las opciones en el select
+      var j = 0;
+      $(datosVizidChart).each(function(i) {
+        if (datosVizidChart[i].gsx$pkchart.$t === array[0]) {
+          var tituloSubChart = datosVizidChart[i].gsx$titulo.$t;
+          var urlIframe = datosVizidChart[i].gsx$url.$t;
+          $(array[1]).prop("disabled", false);
+          $(array[1]).append($('<option>', {
+            value: urlIframe,
+            text: tituloSubChart
+          }));
+          $("#descripcion").empty();
+          $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          if (j === 0) {
+            document.getElementById('marcoVisualizaciones').src = urlIframe;
+          }
+          j++;
         }
-        j++;
-      }
-    }); // termina EACH
-  });
+      }); // termina EACH
+    });
+  } else {
+    $("#descripcion").empty();
+    document.getElementById('marcoVisualizaciones').src = idChart;
+  }
 }
 
 function detectIE() {
@@ -142,14 +151,12 @@ $(document).ready(function() {
     $("#btnDescargar").hide();
   }
   $("#btnEmbeber").click(function() {
-      $("#compartir").empty();
-      $("#compartir").fadeToggle("slow", function() {
-        var fuente = $('#marcoVisualizaciones').contents().get(0).location.href + "?muestra=td";
-        $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 700px;"></iframe>');
-      });
-    }
-
-  );
+    $("#compartir").empty();
+    $("#compartir").fadeToggle("slow", function() {
+      var fuente = $('#marcoVisualizaciones').contents().get(0).location.href + "?muestra=td";
+      $("#compartir").text('<iframe src="' + fuente + '" frameborder="0" scrolling="no" style="overflow: hidden; width: 100%; height: 700px;"></iframe>');
+    });
+  });
   $("#btnDescargar").click(function() {
     var baseElement = document.getElementById('marcoVisualizaciones').contentWindow.document.querySelector('body');
     document.getElementById("output").innerHTML = (baseElement.querySelector("div").innerHTML);

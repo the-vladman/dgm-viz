@@ -88,12 +88,12 @@ $.getJSON(url, function(data) {
 });
 
 // genera las subgráficas de las gráficas principales
-function getSubChart(idChart) {
-  var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/values?alt=json";
+function getSubChart(valueOption, idChart) {
   $(".subGraficas").empty();
   $(".subGraficas").prop("disabled", true);
-  if (idChart.indexOf(',') > -1) {
-    var array = idChart.split(",");
+  if (valueOption.indexOf(',') > -1) {
+    var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/values?alt=json";
+    var array = valueOption.split(",");
     $.getJSON(url, function(data) {
       var datosVizidChart = data.feed.entry;
       $(array[1]).empty(); // borra todas las opciones en el select
@@ -117,10 +117,45 @@ function getSubChart(idChart) {
       }); // termina EACH
     });
   } else {
-    $("#descripcion").empty();
-    document.getElementById('marcoVisualizaciones').src = idChart;
+    if (idChart != undefined) {
+      getInfoChart(idChart);
+      document.getElementById('marcoVisualizaciones').src = valueOption;
+    }
   }
 }
+
+function getInfoChart(idChart) {
+  if (Math.floor(idChart) == idChart && $.isNumeric(idChart)) {
+    var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/od6/public/values?alt=json";
+    $.getJSON(url, function(data) {
+      var datosVizidChart = data.feed.entry;
+      $(datosVizidChart).each(function(i) {
+        if (datosVizidChart[i].gsx$id.$t === idChart) {
+          $("#descripcion").empty();
+          $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          $("#fuente").empty();
+          $("#fuente").append(datosVizidChart[i].gsx$fuente.$t);
+        }
+      }); // termina EACH
+    });
+  }
+}
+
+function getInfoRecurso(idRecurso) {
+  if (idRecurso != '' && idRecurso != undefined) {
+    //var url = "https://datos.gob.mx/busca/api/3/action/package_show?id=" + idRecurso;
+    var url = "https://api.myjson.com/bins/16o7iz";
+    $.getJSON(url, function(data) {
+      $(data).each(function(i) {
+        if (data.result.name === idRecurso) {
+          alert(data.result.title);
+        }
+      }); // termina EACH
+    });
+  }
+}
+
+getInfoRecurso("sistema-nacional-de-info-de-calidad-del-aire");
 
 function detectIE() {
   var ua = window.navigator.userAgent;

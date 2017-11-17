@@ -89,8 +89,8 @@ $.getJSON(url, function(data) {
 
 // genera las subgráficas de las gráficas principales
 function getSubChart(valueOption, idChart) {
-  $(".subGraficas").empty();
-  $(".subGraficas").prop("disabled", true);
+  //$(".subGraficas").empty();
+  //$(".subGraficas").prop("disabled", true);
   if (valueOption.indexOf(',') > -1) {
     var url = "https://spreadsheets.google.com/feeds/list/137F7EI84Q1dd8MK3Ao9IBpRHcf-9fVBRiMp-dEu9PXE/2/public/values?alt=json";
     var array = valueOption.split(",");
@@ -99,7 +99,7 @@ function getSubChart(valueOption, idChart) {
       $(array[1]).empty(); // borra todas las opciones en el select
       var j = 0;
       $(datosVizidChart).each(function(i) {
-        if (datosVizidChart[i].gsx$pkchart.$t === array[0]) {
+        if (datosVizidChart[i].gsx$pkchart.$t == array[0]) {
           var tituloSubChart = datosVizidChart[i].gsx$titulo.$t;
           var urlIframe = datosVizidChart[i].gsx$url.$t;
           $(array[1]).prop("disabled", false);
@@ -107,8 +107,12 @@ function getSubChart(valueOption, idChart) {
             value: urlIframe,
             text: tituloSubChart
           }));
-          $("#descripcion").empty();
-          $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          // $("#descripcion").empty();
+          // $("#titulo").empty();
+          // $("#fuente").empty();
+          // $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          // $("#titulo").append(datosVizidChart[i].gsx$titulo.$t);
+          // $("#fuente").append(datosVizidChart[i].gsx$fuente.$t);
           if (j === 0) {
             document.getElementById('marcoVisualizaciones').src = urlIframe;
           }
@@ -116,11 +120,9 @@ function getSubChart(valueOption, idChart) {
         }
       }); // termina EACH
     });
-  } else {
-    if (idChart != undefined) {
+  } else if ((idChart != undefined || idChart != '' )){
       getInfoChart(idChart);
       document.getElementById('marcoVisualizaciones').src = valueOption;
-    }
   }
 }
 
@@ -132,8 +134,10 @@ function getInfoChart(idChart) {
       $(datosVizidChart).each(function(i) {
         if (datosVizidChart[i].gsx$id.$t === idChart) {
           $("#descripcion").empty();
-          $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          $("#titulo").empty();
           $("#fuente").empty();
+          $("#descripcion").append(datosVizidChart[i].gsx$descripcion.$t);
+          $("#titulo").append(datosVizidChart[i].gsx$titulo.$t);
           $("#fuente").append(datosVizidChart[i].gsx$fuente.$t);
         }
       }); // termina EACH
@@ -142,7 +146,7 @@ function getInfoChart(idChart) {
 }
 
 function getInfoRecurso(idRecurso) {
-  if (idRecurso != '' && idRecurso != undefined) {
+  if (idRecurso != '' || idRecurso != undefined) {
     //var url = "https://datos.gob.mx/busca/api/3/action/package_show?id=" + idRecurso;
     var url = "https://api.myjson.com/bins/16o7iz";
     $.getJSON(url, function(data) {
@@ -155,7 +159,7 @@ function getInfoRecurso(idRecurso) {
   }
 }
 
-getInfoRecurso("sistema-nacional-de-info-de-calidad-del-aire");
+//getInfoRecurso("sistema-nacional-de-info-de-calidad-del-aire");
 
 function detectIE() {
   var ua = window.navigator.userAgent;
@@ -204,7 +208,8 @@ $(document).ready(function() {
     getSubChart(this.options[this.selectedIndex].value);
   });
   $('.subGraficas').change(function() {
-    document.getElementById('marcoVisualizaciones').src = $(this).val();
+    //document.getElementById('marcoVisualizaciones').src = $(this).val();
+    getSubChart(this.options[this.selectedIndex].value);
   });
   $("ul#tipoGrafica li a").click(function() {
     var idDivChart = $(this).attr('aria-controls');

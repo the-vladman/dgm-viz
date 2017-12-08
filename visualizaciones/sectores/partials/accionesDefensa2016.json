@@ -1,19 +1,6 @@
 {
-  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal",
-  "descripcion": "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como: Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.",
-=======
-=======
-  "titulo": "Reclamaciones con Impacto Monetario Presentadas por Clientes de la Banca Múltiple En México por Canal",
-  "descripcion": "Inconformidades que presentan los usuarios sobre los medios por los cuales se realizó la operación origen de la reclamación reportada como: Terminal punto de venta, cajeros automáticos, comercio por internet, sucursales, corresponsales, entre otros.",
-=======
   "titulo": "Acciones de Defensa",
   "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
->>>>>>> acc79d6... terminando gráfica acciones en defensa condusef
-=======
-  "titulo": "Acciones de Defensa",
-  "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
->>>>>>> 65f5e9a46a8ab182c3150ba8f01e39dd22f3579d
->>>>>>> 360fb5ebf2473c12fa0c8e193d7490832f0d0911
   "nombreDataset": "",
   "institucionDataset": "",
   "formatoDataset": "",

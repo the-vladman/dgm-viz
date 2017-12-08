@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "titulo": "Acciones de Defensa",
   "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
 =======
@@ -11,6 +12,10 @@
   "titulo": "Acciones de Defensa",
   "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
 >>>>>>> terminando gráfica acciones en defensa condusef
+=======
+  "titulo": "Acciones de Defensa",
+  "descripcion": "Acciones de Defensa anuales ante CONDUSEF por proceso, Asesorías y Reclamaciones ( Gestión Electrónica, Gestión Ordinaria, Conciliación, Registro de Despachos de Cobranza, Dictamen, Solicitud para la Defensa Legal Gratuita, entre otros).",
+>>>>>>> 65f5e9a46a8ab182c3150ba8f01e39dd22f3579d
   "nombreDataset": "",
   "institucionDataset": "",
   "formatoDataset": "",

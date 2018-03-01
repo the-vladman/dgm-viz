@@ -147,19 +147,24 @@ function getInfoChart(idChart) {
 
 function getInfoRecurso(idRecurso) {
   if (idRecurso != '' || idRecurso != undefined) {
-    //var url = "https://datos.gob.mx/busca/api/3/action/package_show?id=" + idRecurso;
-    var url = "https://api.myjson.com/bins/16o7iz";
+    // var url = "https://datos.gob.mx/busca/api/3/action/package_show?id=" + idRecurso;
+    var url = "https://api.jsonbin.io/b/5a9878dca121bc097fe76b80";
     $.getJSON(url, function(data) {
-      $(data).each(function(i) {
-        if (data.result.name === idRecurso) {
-          alert(data.result.title);
-        }
+      var resources = data.result.resources;
+      var resultado = {
+        nombre: data.result.name,
+        formatos: []
+      }
+      var formatos = []
+      $(resources).each(function(i) {
+        formatos.push(resources[i].format)
       }); // termina EACH
+      var formatosUnicos = Array.from(new Set(formatos))
+      resultado.formatos.push(formatosUnicos);
+      return resultado
     });
   }
 }
-
-//getInfoRecurso("sistema-nacional-de-info-de-calidad-del-aire");
 
 function detectIE() {
   var ua = window.navigator.userAgent;
@@ -215,6 +220,7 @@ $(document).ready(function() {
     var idDivChart = $(this).attr('aria-controls');
     $('#' + idDivChart).prop('selectedIndex', 0);
     var primerChart = $('#chart' + idDivChart).find("option:first-child").val();
+    console.log(primerChart);
     getSubChart(primerChart);
   });
 });

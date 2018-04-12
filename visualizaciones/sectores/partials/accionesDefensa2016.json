@@ -7,37 +7,37 @@
   "enlaceDataset": "",
   "datos": [{
       "id": "asesorias",
-      "monto": 1415027,
+      "monto": 1492092,
       "nombre": "Asesorías"
     },
     {
       "id": "reclamaciones-gestion-ordinaria",
-      "monto": 157158,
+      "monto": 163161,
       "nombre": "Reclamaciones (Gestión Ordinaria / Gestión Electrónica)"
     },
     {
       "id": "reclamaciones-despacho-cobranza",
-      "monto": 28220,
+      "monto": 28652,
       "nombre": "Reclamaciones Registro De Despachos De Cobranza (Redeco)"
     },
     {
       "id": "reclamaciones-conciliacion",
-      "monto": 42046,
+      "monto": 48275,
       "nombre": "Reclamaciones (Conciliación)"
     },
     {
       "id": "reclamaciones-dictamen",
-      "monto": 11909,
+      "monto": 15037,
       "nombre": "Reclamaciones (Dictámen)"
     },
     {
       "id": "reclamaciones-solicitud-defensa",
-      "monto": 2262,
+      "monto": 2589,
       "nombre": "Reclamaciones (Solicitud Para La Defensa Legal Gratuita)"
     },
     {
       "id": "otros",
-      "monto": 2172,
+      "monto": 2653,
       "nombre": "Otros"
     }
   ]

@@ -20,7 +20,7 @@
     "express": "^4.15.4"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.17.5"
   },
   "bugs": {
     "url": "https://github.com/mxabierto/dgm-viz/issues"

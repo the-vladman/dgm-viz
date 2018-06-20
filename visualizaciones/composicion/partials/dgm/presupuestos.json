@@ -1,0 +1,1249 @@
+{
+  "titulo": "Catálogo de Centros de Trabajo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "ejercicio": 2012,
+      "institucion": "ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICIENCIA PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 61978519,
+      "modificado": 35604925,
+      "ejercido": 35604925
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, S.N.C.",
+      "partida": 48301,
+      "presupuesto": 38030000,
+      "modificado": 35748200,
+      "ejercido": 3209697
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C.",
+      "partida": 48101,
+      "presupuesto": 250000,
+      "modificado": 250000,
+      "ejercido": 250000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48101,
+      "presupuesto": 43300000,
+      "modificado": 86600000,
+      "ejercido": 43300000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48201,
+      "presupuesto": 220456970,
+      "modificado": 143835874,
+      "ejercido": 143835874
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "COMISIÓN NACIONAL DEL AGUA",
+      "partida": 48101,
+      "presupuesto": 1165071,
+      "modificado": 1165071,
+      "ejercido": 1165071
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 20000000,
+      "modificado": 21300000,
+      "ejercido": 19800000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48201,
+      "presupuesto": 1600000,
+      "modificado": 1600000,
+      "ejercido": 1600000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 17050000,
+      "modificado": 17050000,
+      "ejercido": 17050000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 4991971,
+      "modificado": 4991971,
+      "ejercido": 4961753
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48201,
+      "presupuesto": 2484100,
+      "modificado": 1027280,
+      "ejercido": 200000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 12948000,
+      "modificado": 12021777,
+      "ejercido": 12021777
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 331200,
+      "modificado": 325120,
+      "ejercido": 325120
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 42247081,
+      "modificado": 42247081,
+      "ejercido": 35247081
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 444752919,
+      "modificado": 444752919,
+      "ejercido": 414752919
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1488503802,
+      "modificado": 892816498,
+      "ejercido": 885783041
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 2340421704,
+      "modificado": 733111818,
+      "ejercido": 727611818
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 14796764,
+      "modificado": 16796764,
+      "ejercido": 13500000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 0,
+      "modificado": 25095000,
+      "ejercido": 25095000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 22777366,
+      "modificado": 6558421,
+      "ejercido": 6558421
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 115681098,
+      "modificado": 39489410,
+      "ejercido": 35489410
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 25000000,
+      "modificado": 6480000,
+      "ejercido": 6480000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 15000000,
+      "modificado": 6000000,
+      "ejercido": 6000000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 4400000,
+      "modificado": 4800000,
+      "ejercido": 4800000
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48301,
+      "presupuesto": 4770000,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2012,
+      "institucion": "SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 5000000,
+      "modificado": 5000000,
+      "ejercido": 5000000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICIENCIA PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 2000000,
+      "modificado": 2000000,
+      "ejercido": 1999998
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, S.N.C.",
+      "partida": 48301,
+      "presupuesto": 2200000,
+      "modificado": 3000000,
+      "ejercido": 2200000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48101,
+      "presupuesto": 0,
+      "modificado": 31057378,
+      "ejercido": 31057378
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48201,
+      "presupuesto": 105066237,
+      "modificado": 45973485,
+      "ejercido": 45973485
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48401,
+      "presupuesto": 0,
+      "modificado": 2000000,
+      "ejercido": 2000000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "COMISIÓN NACIONAL DEL AGUA",
+      "partida": 48101,
+      "presupuesto": 2660575,
+      "modificado": 2660575,
+      "ejercido": 2660575
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "EXPORTADORA DE SAL, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 4700000,
+      "modificado": 4700000,
+      "ejercido": 4700000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL  ESTADO",
+      "partida": 48101,
+      "presupuesto": 17828500,
+      "modificado": 7750000,
+      "ejercido": 7750000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 9000000,
+      "modificado": 18750000,
+      "ejercido": 17750000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48201,
+      "presupuesto": 350000,
+      "modificado": 350000,
+      "ejercido": 350000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 17050000,
+      "modificado": 12315700,
+      "ejercido": 12275700
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 4991971,
+      "modificado": 5654362,
+      "ejercido": 5654362
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48201,
+      "presupuesto": 2484100,
+      "modificado": 1435690,
+      "ejercido": 1435690
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 0,
+      "modificado": 13005000,
+      "ejercido": 13005000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 0,
+      "modificado": 525000,
+      "ejercido": 525000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 66395066,
+      "modificado": 66395066,
+      "ejercido": 35243300
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 897235077,
+      "modificado": 897235077,
+      "ejercido": 476263172
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1387801004,
+      "modificado": 927930595,
+      "ejercido": 922349715
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 255299814,
+      "modificado": 104769275,
+      "ejercido": 103700000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 20796764,
+      "modificado": 8500000,
+      "ejercido": 8500000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 10851000,
+      "modificado": 23201000,
+      "ejercido": 23201000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 8277366,
+      "modificado": 2000000,
+      "ejercido": 2000000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 115681098,
+      "modificado": 1656356,
+      "ejercido": 1656356
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 27350000,
+      "modificado": 3039913,
+      "ejercido": 3039913
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 13500000,
+      "modificado": 6000000,
+      "ejercido": 6000000
+    },
+    {
+      "ejercicio": 2013,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 2624425,
+      "modificado": 2624425,
+      "ejercido": 2624425
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICIENCIA PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 14027890,
+      "modificado": 13817890,
+      "ejercido": 13817890
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "ADMINISTRACION PORTUARIA INTEGRAL DE  PUERTO MADERO, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 10000,
+      "modificado": 10000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, S.N.C.",
+      "partida": 48301,
+      "presupuesto": 2300000,
+      "modificado": 2300000,
+      "ejercido": 2300000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C.",
+      "partida": 48101,
+      "presupuesto": 300000,
+      "modificado": 300000,
+      "ejercido": 200000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C.",
+      "partida": 48101,
+      "presupuesto": 200000,
+      "modificado": 200000,
+      "ejercido": 200000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48101,
+      "presupuesto": 21721500,
+      "modificado": 23571500,
+      "ejercido": 23571500
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48201,
+      "presupuesto": 220000000,
+      "modificado": 164588461,
+      "ejercido": 164588461
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48401,
+      "presupuesto": 3000000,
+      "modificado": 19400000,
+      "ejercido": 19400000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "COMISIÓN NACIONAL DEL AGUA",
+      "partida": 48101,
+      "presupuesto": 2478600,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "EXPORTADORA DE SAL, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 4700000,
+      "modificado": 4700000,
+      "ejercido": 4700000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL  ESTADO",
+      "partida": 48101,
+      "presupuesto": 22258500,
+      "modificado": 22258500,
+      "ejercido": 21500000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 9000000,
+      "modificado": 20000000,
+      "ejercido": 19100000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 17050000,
+      "modificado": 17050000,
+      "ejercido": 16850000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 6449431,
+      "modificado": 7800932,
+      "ejercido": 7348515
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48201,
+      "presupuesto": 1026640,
+      "modificado": 1133076,
+      "ejercido": 1082565
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 47000000,
+      "modificado": 47000000,
+      "ejercido": 47000000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 1350000,
+      "modificado": 1350000,
+      "ejercido": 1347800
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 90135073,
+      "modificado": 90135073,
+      "ejercido": 59299127
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 911365735,
+      "modificado": 861290695,
+      "ejercido": 180700873
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48301,
+      "presupuesto": 50075040,
+      "modificado": 50075040,
+      "ejercido": 10000000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1622599116,
+      "modificado": 848323507,
+      "ejercido": 1206177579
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 255299814,
+      "modificado": 489696485,
+      "ejercido": 10500000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 22796764,
+      "modificado": 21317087,
+      "ejercido": 5000000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 16000000,
+      "modificado": 14900000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 8277366,
+      "modificado": 7449630,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 250000000,
+      "modificado": 30830513,
+      "ejercido": 9963771
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 11500000,
+      "modificado": 1280000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 18500000,
+      "modificado": 10231643,
+      "ejercido": 6000000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 5600000,
+      "modificado": 5600000,
+      "ejercido": 5600000
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "TELEVISIÓN METROPOLITANA, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 10000000,
+      "modificado": 10555000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2014,
+      "institucion": "TELEVISIÓN METROPOLITANA, S.A. DE C.V.",
+      "partida": 48201,
+      "presupuesto": 1500000,
+      "modificado": 1600000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICIENCIA PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 7643824,
+      "modificado": 7523824,
+      "ejercido": 7523824
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "ADMINISTRACION PORTUARIA INTEGRAL DE  PUERTO MADERO, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 10000,
+      "modificado": 10000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, S.N.C.",
+      "partida": 48301,
+      "presupuesto": 2500000,
+      "modificado": 2500000,
+      "ejercido": 1990076
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48101,
+      "presupuesto": 40000000,
+      "modificado": 59255000,
+      "ejercido": 59255000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48201,
+      "presupuesto": 16977040,
+      "modificado": 180000000,
+      "ejercido": 115391623
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "COMISIÓN NACIONAL DEL AGUA",
+      "partida": 48101,
+      "presupuesto": 2478600,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "EXPORTADORA DE SAL, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 1000000,
+      "modificado": 650000,
+      "ejercido": 650000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL  ESTADO",
+      "partida": 48101,
+      "presupuesto": 22500000,
+      "modificado": 17500000,
+      "ejercido": 17500000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 8100000,
+      "modificado": 9350000,
+      "ejercido": 9350000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48201,
+      "presupuesto": 0,
+      "modificado": 100000,
+      "ejercido": 100000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 17050000,
+      "modificado": 17050000,
+      "ejercido": 16800000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 5821420,
+      "modificado": 2431877,
+      "ejercido": 2403148
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48201,
+      "presupuesto": 907044,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 60000000,
+      "modificado": 60000000,
+      "ejercido": 60000000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 1359000,
+      "modificado": 1359000,
+      "ejercido": 1348314
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "INSTITUTO NACIONAL DE MIGRACIÓN",
+      "partida": 48101,
+      "presupuesto": 5000000,
+      "modificado": 2200000,
+      "ejercido": 2200000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 66000000,
+      "modificado": 232313800,
+      "ejercido": 217313800
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 300000000,
+      "modificado": 133686200,
+      "ejercido": 133686200
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1622599116,
+      "modificado": 1341100830,
+      "ejercido": 1341100830
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 255299814,
+      "modificado": 74600000,
+      "ejercido": 74600000
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 22796764,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 16000000,
+      "modificado": 15631500,
+      "ejercido": 15631500
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 8277366,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 100000000,
+      "modificado": 26758460,
+      "ejercido": 26758460
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 10000000,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 18500000,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2015,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 6515600,
+      "modificado": 6500000,
+      "ejercido": 6500000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICIENCIA PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 15518014,
+      "modificado": 15518014,
+      "ejercido": 15155814
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "ADMINISTRACION PORTUARIA INTEGRAL DE  PUERTO MADERO, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 100000,
+      "modificado": 100000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "ADMINISTRACION PORTUARIA INTEGRAL DE  PUERTO MADERO, S.A. DE C.V.",
+      "partida": 48201,
+      "presupuesto": 120000,
+      "modificado": 120000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, S.N.C.",
+      "partida": 48301,
+      "presupuesto": 2090000,
+      "modificado": 2090000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48101,
+      "presupuesto": 4500000,
+      "modificado": 4500000,
+      "ejercido": 95650000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "COMISION FEDERAL DE ELECTRICIDAD.",
+      "partida": 48201,
+      "presupuesto": 8800000,
+      "modificado": 8800000,
+      "ejercido": 51518720
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "COMISIÓN NACIONAL DEL AGUA",
+      "partida": 48101,
+      "presupuesto": 1735020,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "EXPORTADORA DE SAL, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 2350000,
+      "modificado": 2350000,
+      "ejercido": 1675000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL  ESTADO",
+      "partida": 48101,
+      "presupuesto": 15750000,
+      "modificado": 15750000,
+      "ejercido": 15750000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 10000000,
+      "modificado": 7810000,
+      "ejercido": 7810000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48201,
+      "presupuesto": 515000,
+      "modificado": 765000,
+      "ejercido": 765000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 32050000,
+      "modificado": 35550000,
+      "ejercido": 18500000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 6001884,
+      "modificado": 1373148,
+      "ejercido": 1373148
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48201,
+      "presupuesto": 935162,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 82483202,
+      "modificado": 82483202,
+      "ejercido": 82483200
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 4746429,
+      "modificado": 4746429,
+      "ejercido": 1687313
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 80000000,
+      "modificado": 80000000,
+      "ejercido": 31000000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 240000000,
+      "modificado": 240000000,
+      "ejercido": 32500000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1443280724,
+      "modificado": 1252510393,
+      "ejercido": 1459557964
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 507818425,
+      "modificado": 56027157,
+      "ejercido": 31313578
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 15255464,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 11341000,
+      "modificado": 6000000,
+      "ejercido": 6000000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 8533964,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 94000000,
+      "modificado": 74675540,
+      "ejercido": 74675540
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 7000000,
+      "modificado": 6818888,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 6950000,
+      "modificado": 5680750,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 4560920,
+      "modificado": 12230960,
+      "ejercido": 7700000
+    },
+    {
+      "ejercicio": 2016,
+      "institucion": "SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 23540784,
+      "modificado": 23540784,
+      "ejercido": 23540784
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "EXPORTADORA DE SAL, S.A. DE C.V.",
+      "partida": 48101,
+      "presupuesto": 2400000,
+      "modificado": 2400000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "INSTITUTO MEXICANO DE CINEMATOGRAFÍA",
+      "partida": 48101,
+      "presupuesto": 8000000,
+      "modificado": 8000000,
+      "ejercido": 1675000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "INSTITUTO MEXICANO DEL SEGURO SOCIAL",
+      "partida": 48101,
+      "presupuesto": 32050000,
+      "modificado": 32050000,
+      "ejercido": 11000000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA.",
+      "partida": 48101,
+      "presupuesto": 3030000,
+      "modificado": 2403148,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48101,
+      "presupuesto": 80452759,
+      "modificado": 80452759,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "INSTITUTO NACIONAL DE LAS MUJERES",
+      "partida": 48501,
+      "presupuesto": 1350000,
+      "modificado": 0,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48101,
+      "presupuesto": 45000000,
+      "modificado": 45000000,
+      "ejercido": 3000000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "PETROLEOS MEXICANOS.",
+      "partida": 48201,
+      "presupuesto": 105000000,
+      "modificado": 105000000,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48101,
+      "presupuesto": 1158133154,
+      "modificado": 1146056302,
+      "ejercido": 473200150
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48201,
+      "presupuesto": 247914108,
+      "modificado": 79834108,
+      "ejercido": 766000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48301,
+      "presupuesto": 15255464,
+      "modificado": 15255464,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48401,
+      "presupuesto": 11341000,
+      "modificado": 11341000,
+      "ejercido": 6000000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE CULTURA",
+      "partida": 48501,
+      "presupuesto": 8533964,
+      "modificado": 8533964,
+      "ejercido": 2500000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "partida": 48101,
+      "presupuesto": 70241402,
+      "modificado": 70241402,
+      "ejercido": 10000000
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48101,
+      "presupuesto": 7000000,
+      "modificado": 1136669,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO",
+      "partida": 48301,
+      "presupuesto": 6950000,
+      "modificado": 694804,
+      "ejercido": 0
+    },
+    {
+      "ejercicio": 2017,
+      "institucion": "SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES",
+      "partida": 48101,
+      "presupuesto": 4473880,
+      "modificado": 4473880,
+      "ejercido": 0
+    }
+  ]
+}

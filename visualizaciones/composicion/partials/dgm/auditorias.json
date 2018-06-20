@@ -1,0 +1,2866 @@
+{
+  "titulo": "Catálogo de Centros de Trabajo",
+  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Aguascalientes",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Reasignación de Recursos de la SCT",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 6,
+    "numero_observaciones": 34
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 30
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Baja California",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 23
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 6,
+    "numero_observaciones": 29
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Baja California Sur",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Fideicomiso 2211 Para la implementación del Sistema de Justicia Penal en las Entidades Federativas",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Campeche",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Reasignación de Recursos de la SCT",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Chiapas",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 24
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 24
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 26
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Chihuahua",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 23
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Reasignación de Recursos de la SCT",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 22
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Ciudad de México",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 23
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Coahuila de Zaragoza",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 17
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Colima",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Reasignación de Recursos de la SCT",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Durango",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimeinto de la Infraestructura Estatal y Municipal",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 28
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "5 al Millar",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social (componente salud)",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Estado de México",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 14
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Guanajuato",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 17
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Coordinación de la Secretaría de Turismo",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional (FONREGION)",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos (INEA)",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos para la Vigilancia, Inspección y Control de la Obra Pública, 5 al Millar (VICOP)",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud (SEGURO POPULAR)",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura (INFRAESTRUCTURA)",
+    "entidad": "Guerrero",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 27
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 20
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": "2013, 2014, 2016",
+    "fondo": "Fondo de Apoyo para la Micro, Pequeña y Mediana Empresa (Fondo PyME) y Fondo Nacional Emprendedor (FNE)",
+    "entidad": "Hidalgo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 31
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": "2014/2016",
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 30
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Jalisco",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2013,
+    "fondo": "Programas Regionales",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Contingencias Económicas",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 14
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 25
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 14
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Michoacán de Ocampo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal (FORTALECE)",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 32
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas (PROCONEF)",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social (componente salud)",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al Millar para la Vigilancia, Inspección y Control  de la Obra Pública (VICOP 2017)",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud (SEGURO POPULAR 2017)",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Morelos",
+    "acto": "Auditoría",
+    "numero_revisados": 7,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 23
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Nayarit",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 34
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 14
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": "2013, 2015, 2017",
+    "fondo": "Proyecto para la construcción de la línea 3 y el proyecto de la línea 4 del metro, así como el apoyo otorgado a los proyectos de Ecovía",
+    "entidad": "Nuevo León",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 22
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Oaxaca",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Puebla",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 14
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Quéretaro",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 21
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Seguro Médico Siglo XXI",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Quinta Roo",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas a Cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 9,
+    "numero_observaciones": 84
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "San Luis Potosí",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 33
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 19
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Sinaloa",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenios de Reasignación de Recursos de la SCT",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 40
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 26
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 33
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Sonora",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad (FORTASEG)",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Concurrencia con las Entidades Federativas",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Educación para Adultos",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": "2015/2016",
+    "fondo": "Fondo de Apoyo en Infraestructura y Productividad",
+    "entidad": "Tabasco",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Tratamiento de Aguas Residuales",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Tamaulipas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Metropolitano",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 29
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 28
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Proyectos de Desarrollo Regional",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Tlaxcala",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 18
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 6,
+    "numero_observaciones": 43
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 6,
+    "numero_observaciones": 29
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa  Escuela de Tiempo Completo",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Agua Potable, Alcantarillado y Saneamiento",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Veracruz",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Fondo de Infraestructura Deportiva",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 4,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 11
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento Financiero",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 5,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": "2014/2015",
+    "fondo": "Fondo de Cultura",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 7,
+    "numero_observaciones": 29
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programa de Infraestructura",
+    "entidad": "Yucatán",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo para el Fortalecimiento de la Infraestructura Estatal y Municipal",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 15
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Regional",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 16
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondos y Programas de Educación Media Superior",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 13
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Apoyo a la Infraestructura Hidroagrícola",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Desarrollo Comunitario \"Comunidad DIFerente",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa Escuelas de Tiempo Completo",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 3,
+    "numero_observaciones": 12
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "PROSPERA Programa de Inclusión Social\n (componente salud)  (PROSPERA)",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Recursos del 5 al millar, para la vigilancia, inspección y control de las obras públicas (VICOP)",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Zacatecas",
+    "acto": "Auditoría",
+    "numero_revisados": 2,
+    "numero_observaciones": 9
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Convenio para el Otorgamiento de Subsidios para Apoyar a los Municipios en su Fortalecimiento Financiero",
+    "entidad": "Aguascalientes",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 0
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fondo Archivo Histórico",
+    "entidad": "Baja California",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Fortalecimiento para la Seguridad (FORTASEG)",
+    "entidad": "Baja California",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales",
+    "entidad": "Baja California",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programas Regionales; Proyectos de Desarrollo Regional; Fortalecimiento para la Seguridad; Fondo de Cultura; Hábitat; Contingencias Económicas.",
+    "entidad": "Baja California",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2013,
+    "fondo": "Programas Regionales",
+    "entidad": "Ciudad de México",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": "2016/2017",
+    "fondo": "Programas Regionales y Fortalecimiento Financiero",
+    "entidad": "Ciudad de México",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 8
+  },
+  {
+    "ejercicio": 2010,
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Colima",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Fondo Nacional Emprendedor",
+    "entidad": "Estado de México",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2015/2016",
+    "fondo": "Socavón San Juan, Municipio de el Oro de Hidalgo, Estado de México.",
+    "entidad": "Estado de México",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 3,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": "2007, 2009",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Guanajuato",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": "2015/ 2016",
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Guanajuato",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Pavimentacion con concreto hidráulico en varias calles de la cabecera municipal primera etapa",
+    "entidad": "Hidalgo",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": 2016,
+    "fondo": "Programa de Techumbre en Municipios con menor IDH de la Zona Centro de la Entidad Federativa, de acuerdo a la Publicación del Indice de Desarrollo Municipal en México del PNUD",
+    "entidad": "Hidalgo",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2006/2007",
+    "fondo": "Fondo de Fortalecimiento de Infraestructura Física en Salud",
+    "entidad": "Hidalgo",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Consejo Nacional para la Cultura y las Artes (Secretaría de Cultura)",
+    "entidad": "Jalisco",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Consejo Nacional para la Cultura y las Artes (Secretaría de Cultura)",
+    "entidad": "Jalisco",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2006/2010",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Jalisco",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2008/2010",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Michoacán",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Convenio de Ejecución para el Programa Vivienda Rural",
+    "entidad": "Nayarit",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 7
+  },
+  {
+    "ejercicio": "2008, 2010",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Nayarit",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Programa 3X1 para Migrantes",
+    "entidad": "Oaxaca",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Programa de Vivienda Digna",
+    "entidad": "Oaxaca",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2005, 2009",
+    "fondo": "Convenios Específicos en Materia de Transferencias de Recursos para el fortalecimiento de los servicios de salud  de los Estados",
+    "entidad": "Oaxaca",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 6
+  },
+  {
+    "ejercicio": "2006/2008",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Quintana Roo",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 0
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Hábitat",
+    "entidad": "Sonora",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 10
+  },
+  {
+    "ejercicio": "2011/2017",
+    "fondo": "HABITAT, Espacios Públicos, Infraestructura Deportiva y Cultural, Programas Regionales, Contingencias Economicas,  Proyectos de Desarrollo Regional, Fortalece, Apaur, Fortaleciemiento Financiero, Fortaseg, Apazu,",
+    "entidad": "Sonora",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Fortalecimiento para la Seguridad (FORTASEG)",
+    "entidad": "Tabasco",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 3
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Sistema de Protección Social en Salud",
+    "entidad": "Tamaulipas",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 3,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2009,
+    "fondo": "Convenios Específicos en Materia de Transferencias de Recursos para el fortalecimiento de los servicios de salud  de los Estados",
+    "entidad": "Tlaxcala",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": 2011,
+    "fondo": "Instituto Veracruzano de la Vivienda",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2014,
+    "fondo": "Fortalecimiento de la Calidad en Instituciones Educativas",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Convenio Especifico en Materia de Transferencia de Recursos para las Acciones de Reducción en el Uso de Sustancias Adictivas",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": 2015,
+    "fondo": "Programa para la Sostenibilidad de los Servicios de Agua Potable y Saneamiento en Comunidades Rurales",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 2
+  },
+  {
+    "ejercicio": "2011/2014",
+    "fondo": "Acuerdo para el Fortalecimiento de las Acciones de Salud Pública en los Estados",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2012/2013",
+    "fondo": "Programa de Ahorro y Subsidio para la Vivienda Tu Casa",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 1,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2015/2016",
+    "fondo": "Programas de Salud",
+    "entidad": "Veracruz",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 4
+  },
+  {
+    "ejercicio": 2008,
+    "fondo": "Ramo General 23 Provisiones Salariales y Económicas",
+    "entidad": "Yucatán",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 3,
+    "numero_observaciones": 5
+  },
+  {
+    "ejercicio": 2017,
+    "fondo": "Fortalecimiento para la Seguridad (FORTASEG)",
+    "entidad": "Yucatán",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 1
+  },
+  {
+    "ejercicio": "2008/2009",
+    "fondo": "Convenio Específico en Materia de Transferencia de Recursos",
+    "entidad": "Yucatán",
+    "acto": "Visita de inspeción",
+    "numero_revisados": 2,
+    "numero_observaciones": 2
+  }
+]
+}

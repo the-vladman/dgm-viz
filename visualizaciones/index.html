@@ -75,6 +75,7 @@
         <ul id="tipoGrafica" class="nav nav-pills nav-justified" role="tablist" style="padding-top: 15px; padding-bottom: 30px;">
           <li id="pillBart" role="presentation" class="active " onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartBarra').options[0].value; getParent('chartBarra');"><a href="#barras" aria-controls="barras" role="tab" data-toggle="tab"><strong>Gráfica de barras</strong></a></li>
           <li id="pillComposicion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartComposicion').options[0].value; getParent('chartComposicion');"><a href="#composicion" aria-controls="composicion" role="tab" data-toggle="tab"><strong>Gráfica de composición</strong></a></li>
+          <!-- <li id="pillMapa" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartMap').options[0].value; getParent('chartMap');"><a href="#mapa" aria-controls="mapa" role="tab" data-toggle="tab"><strong>Mapas</strong></a></li> -->
           <li id="pillSector" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartSector').options[0].value; getParent('chartSector');"><a href="#sector" aria-controls="sector" role="tab" data-toggle="tab"><strong>Gráfica de sectores</strong></a></li>
           <li id="pillDispersion" role="presentation" onclick="document.getElementById('marcoVisualizaciones').src = document.getElementById('chartDispersion').options[0].value; getParent('chartDispersion');"><a href="#dispersion" aria-controls="dispersion" role="tab" data-toggle="tab"><strong>Gráfica de dispersión</strong></a></li>
         </ul>
@@ -273,7 +274,7 @@
           <div id="composicion" class="tab-pane fade">
             <select id="chartComposicion" class="form-control graficas">
               <option value="composicion/presupuestos.html">Presupuesto asignado a Donativos</option>
-              <option value="composicion/auditorias.html">Resultados de Auditoría y Acciones de Fiscalización UORCS 2014 a la fecha</option>
+              <option value="composicion/auditorias.html">Resultados de Auditoría y Acciones de Fiscalización, 2014 al 2017</option>
               <option value="composicion/proyectos.html">Reporte de proyectos de mejora concluidos</option>
               <option value="composicion/donatarias2016.html">Reporte de donatarias autorizadas del ejercicio 2016</option>
               <option value="composicion/incidencia_delictiva.html">Incidencia delictiva del fuero federal, 2012-2018</option>
@@ -293,6 +294,7 @@
           </div>
           <div id="mapa" class="tab-pane fade">
             <select id="chartMap" class="form-control graficas">
+              <option value="#">Mapa de Datos Abiertos</option>
             </select>
           </div>
           <div id="sector" class="tab-pane fade">

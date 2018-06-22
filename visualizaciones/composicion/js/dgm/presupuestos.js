@@ -53,7 +53,7 @@ function obtenerValorParametro(sParametroNombre) {
 var visualization = d3plus.viz()
     .container("#treemapd3") // container DIV to hold the visualization
     .data(jsonChart.datos)
-    .id(["ejercicio", "institucion"]) // key for which our data is unique on
+    .id(["institucion", "ejercicio"]) // key for which our data is unique on
     .type("tree_map") //visualization type
     .size("presupuesto") //sizing of blocks
     //Rango de colores según valor
@@ -71,7 +71,7 @@ var visualization = d3plus.viz()
         "text": function(text, params) {
 
             if (text === "presupuesto") {
-                return "presupuesto";
+                return "Presupuesto";
             } else {
                 return d3plus.string.title(text, params);
             }
@@ -83,7 +83,7 @@ var visualization = d3plus.viz()
             n = parseFloat(number).toFixed(1)
             var formatted = Number(n).toLocaleString('en');
             if (params.key == "presupuesto") {
-                return formatted;
+                return "$ " + formatted;
             } else {
                 return formatted + '%';
             }

@@ -68,7 +68,16 @@ var visualization = d3plus.viz()
         "size": 14
     })
     .format({
-        "locale": "es_ES"
+        "text": function(text, params) {
+
+            if (text === "numero_revisados") {
+                return "Auditorías y visitas de inspección";
+            } else {
+                return d3plus.string.title(text, params);
+            }
+
+        },
+        "locale": "us_EN"
     })
     .tooltip({
         "small": 350

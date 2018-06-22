@@ -1,359 +1,91 @@
 {
-  "titulo": "Catálogo de Centros de Trabajo por Entidad: Aguascalientes",
-  "descripcion": "Unidad mínima de responsabilidad que tiene como propósito general ordenar y sistematizar la información que servirá a las autoridades para tomar decisiones acerca de los recursos humanos, financieros y materiales y para llevar el control escolar de los servicios que se van a proporcionar.",
+  "titulo": "Registro Federal de Trámites y Servicios (RFTS)",
+  "descripcion": "El Registro Federal de Trámites y Servicios (RFTS) es un inventario en línea que incrementa la transparencia y certeza jurídica a los particulares. En esta gŕafica se visualizan las veinte principales instituciones con el mayor número de tŕamites.",
   "nombreDataset": "",
   "institucionDataset": "",
   "formatoDataset": "",
   "enlaceDataset": "",
   "datos":
   [
-    {
-      "dependencia": "Administración Federal de Servicios Educativos en el Distrito Federal",
-      "count": 62
-    },
-    {
-      "dependencia": "Aeropuertos y Servicios Auxiliares",
-      "count": 7
-    },
-    {
-      "dependencia": "Agencia de Seguridad, Energía y Ambiente",
-      "count": 93
-    },
-    {
-      "dependencia": "Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios",
-      "count": 2
-    },
-    {
-      "dependencia": "Archivo General de la Nación",
-      "count": 8
-    },
-    {
-      "dependencia": "Caminos y Puentes Federales de Ingresos y Servicios Conexos",
-      "count": 5
-    },
-    {
-      "dependencia": "Centro Nacional de Control de Energía",
-      "count": 7
-    },
-    {
-      "dependencia": "Centro Nacional de Metrología",
-      "count": 11
-    },
-    {
-      "dependencia": "Centro Nacional de Transfusión Sanguinea",
-      "count": 5
-    },
-    {
-      "dependencia": "Centro Nacional de Trasplantes",
-      "count": 6
-    },
-    {
-      "dependencia": "Comisión Calificadora de Publicaciónes y Revistas Ilustradas",
-      "count": 3
-    },
-    {
-      "dependencia": "Comisión de Apelación y Arbitraje del Deporte",
-      "count": 3
-    },
-    {
-      "dependencia": "Comisión Ejecutiva de Atención a Víctimas",
-      "count": 7
-    },
-    {
-      "dependencia": "Comisión Federal de Electricidad",
-      "count": 5
-    },
-    {
-      "dependencia": "Comisión Federal para la Protección contra Riesgos Sanitarios",
-      "count": 321
-    },
-    {
-      "dependencia": "Comisión Intersecretarial de Cambio Climático",
-      "count": 4
-    },
-    {
-      "dependencia": "Comisión Nacional Bancaria y de Valores",
-      "count": 504
-    },
-    {
-      "dependencia": "Comisión Nacional de Acuacultura y Pesca",
-      "count": 54
-    },
-    {
-      "dependencia": "Comisión Nacional de Arbitraje Médico",
-      "count": 3
-    },
-    {
-      "dependencia": "Comisión Nacional de Áreas Naturales Protegidas",
-      "count": 21
-    },
-    {
-      "dependencia": "Comisión Nacional de Bioética",
-      "count": 1
-    },
-    {
-      "dependencia": "Comisión Nacional de Cultura Física y Deporte",
-      "count": 19
-    },
-    {
-      "dependencia": "Comisión Nacional de Hidrocarburos",
-      "count": 109
-    },
-    {
-      "dependencia": "Comisión Nacional del Agua",
-      "count": 32
-    },
-    {
-      "dependencia": "Comisión Nacional del Sistema de Ahorro para el Retiro",
-      "count": 101
-    },
-    {
-      "dependencia": "Comisión Nacional de Seguridad Nuclear y Salvaguardias",
-      "count": 25
-    },
-    {
-      "dependencia": "Comisión Nacional de Seguros y Fianzas",
-      "count": 253
-    },
-    {
-      "dependencia": "Comisión Nacional Forestal",
-      "count": 7
-    },
-    {
-      "dependencia": "Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
-      "count": 23
-    },
-    {
-      "dependencia": "Comisión Nacional para el Uso Eficiente de la Energía",
-      "count": 5
-    },
-    {
-      "dependencia": "Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros",
-      "count": 25
-    },
-    {
-      "dependencia": "Comisión para la Regularización de la Tenencia de la Tierra",
-      "count": 7
-    },
-    {
-      "dependencia": "Comisión Reguladora de Energía",
-      "count": 109
-    },
-    {
-      "dependencia": "Consejo Nacional de Ciencia y Tecnología",
-      "count": 10
-    },
-    {
-      "dependencia": "Consejo Nacional de Fomento Educativo",
-      "count": 18
-    },
-    {
-      "dependencia": "Consejo Nacional para la Cultura y las Artes",
-      "count": 10
-    },
-    {
-      "dependencia": "Coordinación Nacional de PROSPERA Programa de Inclusión Social",
-      "count": 14
-    },
-    {
-      "dependencia": "Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero",
-      "count": 2
-    },
-    {
-      "dependencia": "Instituto de Administración y Avalúos de Bienes Nacionales",
-      "count": 34
-    },
-    {
-      "dependencia": "Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "count": 15
-    },
-    {
-      "dependencia": "Instituto del Fondo Nacional para el Consumo de los Trabajadores",
-      "count": 1
-    },
-    {
-      "dependencia": "Instituto de Protección al Ahorro Bancario",
-      "count": 1
-    },
-    {
-      "dependencia": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "count": 131
-    },
-    {
-      "dependencia": "Instituto Mexicano de Cinematografía",
-      "count": 6
-    },
-    {
-      "dependencia": "Instituto Mexicano de la Propiedad Industrial",
-      "count": 40
-    },
-    {
-      "dependencia": "Instituto Mexicano del Seguro Social",
-      "count": 113
-    },
-    {
-      "dependencia": "Instituto Nacional de Antropología e Historia",
-      "count": 20
-    },
-    {
-      "dependencia": "Instituto Nacional de Bellas Artes y Literatura",
-      "count": 13
-    },
-    {
-      "dependencia": "Instituto Nacional de Desarrollo Social",
-      "count": 1
-    },
-    {
-      "dependencia": "Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias",
-      "count": 9
-    },
-    {
-      "dependencia": "Instituto Nacional del Derecho de Autor",
-      "count": 36
-    },
-    {
-      "dependencia": "Instituto Nacional del Emprendedor",
-      "count": 14
-    },
-    {
-      "dependencia": "Instituto Nacional de Migración",
-      "count": 39
-    },
-    {
-      "dependencia": "Instituto Nacional para la Educación de los Adultos",
-      "count": 3
-    },
-    {
-      "dependencia": "Pemex Gas y Petroquímica Básica",
-      "count": 13
-    },
-    {
-      "dependencia": "Pemex Refinación",
-      "count": 1
-    },
-    {
-      "dependencia": "Prevención y Readaptación Social",
-      "count": 10
-    },
-    {
-      "dependencia": "Procuraduría de la Defensa del Contribuyente",
-      "count": 6
-    },
-    {
-      "dependencia": "Procuraduría Federal del Consumidor",
-      "count": 30
-    },
-    {
-      "dependencia": "Procuraduría Federal de Protección al Ambiente",
-      "count": 22
-    },
-    {
-      "dependencia": "Pronósticos para la Asistencia Pública",
-      "count": 12
-    },
-    {
-      "dependencia": "Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",
-      "count": 69
-    },
-    {
-      "dependencia": "Secretaría de Comunicaciones y Transportes",
-      "count": 533
-    },
-    {
-      "dependencia": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
-      "count": 68
-    },
-    {
-      "dependencia": "Secretaría de Desarrollo Social",
-      "count": 66
-    },
-    {
-      "dependencia": "Secretaría de Economía",
-      "count": 303
-    },
-    {
-      "dependencia": "Secretaría de Educación Pública",
-      "count": 166
-    },
-    {
-      "dependencia": "Secretaría de Energía",
-      "count": 26
-    },
-    {
-      "dependencia": "Secretaría de Gobernación",
-      "count": 86
-    },
-    {
-      "dependencia": "Secretaría de Hacienda y Crédito Público",
-      "count": 125
-    },
-    {
-      "dependencia": "Secretaría de la Función Pública",
-      "count": 12
-    },
-    {
-      "dependencia": "Secretaría del Trabajo y Previsión Social",
-      "count": 25
-    },
-    {
-      "dependencia": "Secretaría de Medio Ambiente y Recursos Naturales",
-      "count": 161
-    },
-    {
-      "dependencia": "Secretaría de Relaciones Exteriores",
-      "count": 106
-    },
-    {
-      "dependencia": "Secretaría de Salud",
-      "count": 6
-    },
-    {
-      "dependencia": "Secretaría de Turismo",
-      "count": 10
-    },
-    {
-      "dependencia": "Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública",
-      "count": 53
-    },
-    {
-      "dependencia": "Servicio de Administración y Enajenación de Bienes",
-      "count": 4
-    },
-    {
-      "dependencia": "Servicio de Información Agroalimentaria y Pesquera",
-      "count": 1
-    },
-    {
-      "dependencia": "Servicio de Protección Federal",
-      "count": 2
-    },
-    {
-      "dependencia": "Servicio Geológico Mexicano",
-      "count": 6
-    },
-    {
-      "dependencia": "Servicio Nacional de Inspección y Certificación de Semillas",
-      "count": 4
-    },
-    {
-      "dependencia": "Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria",
-      "count": 93
-    },
-    {
-      "dependencia": "Servicio Postal Mexicano",
-      "count": 26
-    },
-    {
-      "dependencia": "Servicios a la Navegación en el Espacio Aéreo Mexicano",
-      "count": 10
-    },
-    {
-      "dependencia": "Sistema Nacional para el Desarrollo Integral de la Familia",
-      "count": 6
-    },
-    {
-      "dependencia": "Telecomunicaciones de México",
-      "count": 5
-    }
-  ]
+  {
+    "dependencia": "Secretaría de Comunicaciones y Transportes",
+    "count": 533
+  },
+  {
+    "dependencia": "Comisión Nacional Bancaria y de Valores",
+    "count": 504
+  },
+  {
+    "dependencia": "Comisión Federal para la Protección contra Riesgos Sanitarios",
+    "count": 321
+  },
+  {
+    "dependencia": "Secretaría de Economía",
+    "count": 303
+  },
+  {
+    "dependencia": "Comisión Nacional de Seguros y Fianzas",
+    "count": 253
+  },
+  {
+    "dependencia": "Secretaría de Educación Pública",
+    "count": 166
+  },
+  {
+    "dependencia": "Secretaría de Medio Ambiente y Recursos Naturales",
+    "count": 161
+  },
+  {
+    "dependencia": "Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+    "count": 131
+  },
+  {
+    "dependencia": "Secretaría de Hacienda y Crédito Público",
+    "count": 125
+  },
+  {
+    "dependencia": "Instituto Mexicano del Seguro Social",
+    "count": 113
+  },
+  {
+    "dependencia": "Comisión Nacional de Hidrocarburos",
+    "count": 109
+  },
+  {
+    "dependencia": "Comisión Reguladora de Energía",
+    "count": 109
+  },
+  {
+    "dependencia": "Secretaría de Relaciones Exteriores",
+    "count": 106
+  },
+  {
+    "dependencia": "Comisión Nacional del Sistema de Ahorro para el Retiro",
+    "count": 101
+  },
+  {
+    "dependencia": "Agencia de Seguridad, Energía y Ambiente",
+    "count": 93
+  },
+  {
+    "dependencia": "Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria",
+    "count": 93
+  },
+  {
+    "dependencia": "Secretaría de Gobernación",
+    "count": 86
+  },
+  {
+    "dependencia": "Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación",
+    "count": 69
+  },
+  {
+    "dependencia": "Secretaría de Desarrollo Agrario, Territorial y Urbano",
+    "count": 68
+  },
+  {
+    "dependencia": "Secretaría de Desarrollo Social",
+    "count": 66
+  }
+]
 }

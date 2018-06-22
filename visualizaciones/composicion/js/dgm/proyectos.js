@@ -53,15 +53,15 @@ function obtenerValorParametro(sParametroNombre) {
 var visualization = d3plus.viz()
     .container("#treemapd3") // container DIV to hold the visualization
     .data(jsonChart.datos)
-    .id(["sector", "proyecto"]) // key for which our data is unique on
+    .id(["sector", "institucion", "proyecto"]) // key for which our data is unique on
     .type("tree_map") //visualization type
-    .size(1) //sizing of blocks
+    .size("conteo") //sizing of blocks
     //Rango de colores según valor
     .color({
         "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
         "range": ["#6985d0", "#f7d360", "#ec6d65"],
         "scale": ["#6985d0", "#f7d360", "#ec6d65"],
-        "value": "sector"
+        "value": "conteo"
     })
     .font({
         "family": "'Open Sans', Helvetica, Arial, sans-serif",
@@ -70,7 +70,7 @@ var visualization = d3plus.viz()
     .format({
         "text": function(text, params) {
             if (text === "conteo") {
-                return "Centros de Trabajo";
+                return "Proyectos de mejora concluidos";
             } else {
                 return d3plus.string.title(text, params);
             }
@@ -92,8 +92,8 @@ var visualization = d3plus.viz()
     .tooltip({
         "small": 500,
         "share": false,
-        "html" : "",
-        "value": ["objetivo", "alcance"]
+        "value": ["objetivo"],
+        "children": false
     })
     .resize(true)
     .height(dimension)

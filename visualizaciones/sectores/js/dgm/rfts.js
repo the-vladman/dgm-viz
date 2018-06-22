@@ -86,6 +86,9 @@ d3plus.viz()
     },
     "locale": "es_ES"
   })
+  .tooltip({
+    "share": false
+  })
   .resize(true)
   .height(dimension)
   .draw()

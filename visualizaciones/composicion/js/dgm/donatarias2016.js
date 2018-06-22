@@ -71,7 +71,7 @@ var visualization = d3plus.viz()
         "text": function(text, params) {
 
             if (text === "suma") {
-                return "Donativo efectivo (MXN)";
+                return "Donativo efectivo nacional (MXN)";
             } else {
                 return d3plus.string.title(text, params);
             }
@@ -83,7 +83,7 @@ var visualization = d3plus.viz()
             n = parseFloat(number).toFixed(1)
             var formatted = Number(n).toLocaleString('en');
             if (params.key == "suma") {
-                return formatted;
+                return "$ " + formatted;
             } else {
                 return formatted + '%';
             }

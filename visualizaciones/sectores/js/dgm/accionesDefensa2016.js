@@ -68,6 +68,15 @@ d3plus.viz()
     "size": 14
   })
   .format({
+    "text": function(text, params) {
+      if (text === "monto") {
+        return "ADD";
+      }
+      else {
+        return d3plus.string.title(text, params);
+      }
+
+    },
     "number": function(number, params) {
       n = parseFloat(number).toFixed(1)
       var formatted = Number(n).toLocaleString('en');

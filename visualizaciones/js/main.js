@@ -206,7 +206,7 @@ function getInfoChart(var1) {
       datos = ["Anuario Estadístico de las actividades sustantivas de la CONDUSEF", "CONDUSEF", "XLSX", "https://datos.gob.mx/busca/dataset/anuario-estadistico-de-las-actividades-sustantivas-de-la-condusef", "https://www.gob.mx/cms/uploads/attachment/file/229019/anuario-estadistico-2016.pdf"]
       break;
     case (grafica.match(/Registro Federal de Trámites y Servicios.*/) || {}).input:
-      descripcion: "El Registro Federal de Trámites y Servicios (RFTS) es un inventario en línea que incrementa la transparencia y certeza jurídica a los particulares. En esta gŕafica se visualizan las veinte principales instituciones con el mayor número de tŕamites.";
+      descripcion = "El Registro Federal de Trámites y Servicios (RFTS) es un inventario en línea que incrementa la transparencia y certeza jurídica a los particulares. En esta gŕafica se visualizan las veinte principales instituciones con el mayor número de tŕamites.";
       datos = ["RFTS", "COFEMER", "XLSX", "https://datos.gob.mx/busca/dataset/rfts", "https://www.gob.mx/cofemer/articulos/rfts"]
       break;
     case (grafica.match(/Incidencia delictiva del fuero federal.*/) || {}).input:

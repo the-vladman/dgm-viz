@@ -53,15 +53,15 @@ function obtenerValorParametro(sParametroNombre) {
 var visualization = d3plus.viz()
     .container("#treemapd3") // container DIV to hold the visualization
     .data(jsonChart.datos)
-    .id(["entidad_federativa", "tipo_donataria"]) // key for which our data is unique on
+    .id(["entidad", "tipodonataria", "tipodonativo", "razonsocial"]) // key for which our data is unique on
     .type("tree_map") //visualization type
-    .size("suma") //sizing of blocks
+    .size("monto") //sizing of blocks
     //Rango de colores según valor
     .color({
         "heatmap": ["#6985d0", "#f7d360", "#ec6d65"],
         "range": ["#6985d0", "#f7d360", "#ec6d65"],
         "scale": ["#6985d0", "#f7d360", "#ec6d65"],
-        "value": "suma"
+        "value": "monto"
     })
     .font({
         "family": "'Open Sans', Helvetica, Arial, sans-serif",
@@ -70,9 +70,21 @@ var visualization = d3plus.viz()
     .format({
         "text": function(text, params) {
 
-            if (text === "suma") {
-                return "Donativo efectivo nacional (MXN)";
-            } else {
+            if (text === "monto") {
+                return "Donativo (MXN)";
+            } else if (text === "donativo_efectivo_nacional") {
+                return "Donativo Efectivo Nacional (MXN)";
+            }
+            else if (text === "donativo_efectivo_extranjero") {
+                return "Donativo Efectivo Extranjero (MXN)";
+            }
+            else if (text === "donativo_especie_nacional") {
+                return "Donativo Especie Nacional (MXN)";
+            }
+            else if (text === "donativo_especie_extranjero") {
+                return "Donativo Especie Extranjero (MXN)";
+            }
+            else {
                 return d3plus.string.title(text, params);
             }
 
@@ -82,7 +94,7 @@ var visualization = d3plus.viz()
             //var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
             n = parseFloat(number).toFixed(1)
             var formatted = Number(n).toLocaleString('en');
-            if (params.key == "suma") {
+            if (params.key == "monto") {
                 return "$ " + formatted;
             } else {
                 return formatted + '%';

@@ -69,7 +69,7 @@ d3plus.viz()
   .format({
     "text": function(text, params) {
       if (text === "count") {
-        return "Número de trámites";
+        return "Trámites";
       } else {
         return d3plus.string.title(text, params);
       }

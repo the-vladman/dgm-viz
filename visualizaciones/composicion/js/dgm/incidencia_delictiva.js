@@ -71,7 +71,7 @@ var visualization = d3plus.viz()
         "text": function(text, params) {
 
             if (text === "suma") {
-                return "Número de incidencias";
+                return "Incidencias";
             } else {
                 return d3plus.string.title(text, params);
             }

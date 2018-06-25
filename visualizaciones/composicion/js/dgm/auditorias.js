@@ -70,14 +70,24 @@ var visualization = d3plus.viz()
     .format({
         "text": function(text, params) {
 
-            if (text === "numero_revisados") {
-                return "Auditorías y visitas de inspección";
-            } else {
-                return d3plus.string.title(text, params);
-            }
-
+          if (text === "numero_revisados") {
+              return "Auditorías y visitas de inspección";
+          } else {
+              return d3plus.string.title(text, params);
+          }
         },
-        "locale": "us_EN"
+        "number": function(number, params) {
+            var formattedFirst = d3plus.number.format(number, params);
+            //var formatted = number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            n = parseFloat(number).toFixed(1)
+            var formatted = Number(n).toLocaleString('en');
+            if (params.key == "numero_revisados") {
+                return formatted;
+            } else {
+                return formatted + '%';
+            }
+        },
+        "locale": "es_ES"
     })
     .tooltip({
         "small": 350

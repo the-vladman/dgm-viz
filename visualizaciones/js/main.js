@@ -229,8 +229,10 @@ function getInfoChart(var1) {
       descripcion = "Presupuesto autorizado  por institución y año para donativos a Instituciones sin fines de lucro, donativos a entidades federativas o municipios, donativos a fideicomisos privados, donativos a fideicomisos estatales y donativos internacionales.";
       datos = ["Presupuesto asignado a Donativos", "SFP", "CSV", "https://datos.gob.mx/busca/dataset/presupuesto-asignado-a-donativos", "http://2006-2012.funcionpublica.gob.mx/index.php/unidades-administrativas/unidad-de-control-de-la-gestion-publica/atribuciones-ucegp.html"]
       break;
-
-
+    case (grafica.match(/Ejercicio Presupuestal del Gasto 2017 - INECOL.*/) || {}).input:
+      descripcion = "Son los recursos económicos autorizados al Instituto de Ecología, A.C. (INECOL) en el Presupuesto de Egresos de la Federación (PEF); que permiten incrementar la capacidad científica y de desarrollo tecnológico de frontera para el cumplimiento de los objetivos estratégicos relacionados con la investigación científica, formación de recursos humanos, vinculación, transferencia del conocimiento e innovación, difusión y divulgación y gestión presupuestal.";
+      datos = ["Ejercicio presupuestal del Gasto", "INECOL", "XLSX", "https://datos.gob.mx/busca/dataset/ejercicio-presupuestal-del-gasto", "http://www.inecol.mx/inecol/index.php/es/sipot1"]
+      break;
     default:
       descripcion = "";
       datos = ["", "", "", "", ""];

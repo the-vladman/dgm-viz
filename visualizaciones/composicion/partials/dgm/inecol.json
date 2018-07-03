@@ -1,0 +1,89 @@
+{
+  "titulo": "Ejercicio Presupuestal del Gasto 2017 - INECOL",
+  "descripcion": "Son los recursos económicos autorizados al Instituto de Ecología, A.C. (INECOL) en el Presupuesto de Egresos de la Federación (PEF); que permiten incrementar la capacidad científica y de desarrollo tecnológico de frontera para el cumplimiento de los objetivos estratégicos relacionados con la investigación científica, formación de recursos humanos, vinculación, transferencia del conocimiento e innovación, difusión y divulgación y gestión presupuestal.",
+  "nombreDataset": "",
+  "institucionDataset": "",
+  "formatoDataset": "",
+  "enlaceDataset": "",
+  "datos": [{
+      "recurso": "Presupuesto anual autorizado por partida de gasto de operación modificado.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Fiscal",
+      "monto": 45336066,
+      "valor": "Modificado"
+    },
+    {
+      "recurso": "Presupuesto anual autorizado por partida de gasto de operación modificado.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Propio",
+      "monto": 45762859,
+      "valor": "Modificado"
+    },
+    {
+      "recurso": "Presupuesto anual autorizado por partida de gasto de operación original.",
+      "inicio": "1/1/2017",
+      "fin": "31/12/2017",
+      "tipo": "Fiscal",
+      "monto": 45336066,
+      "valor": "Original"
+    },
+    {
+      "recurso": "Presupuesto anual autorizado por partida de gasto de operación original.",
+      "inicio": "1/1/2017",
+      "fin": "31/12/2017",
+      "tipo": "Propio",
+      "monto": 45762859,
+      "valor": "Original"
+    },
+    {
+      "recurso": "Gasto de operación ejercido por partida de gasto anual.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Fiscal",
+      "monto": 33331366.42,
+      "valor": "Ejercido"
+    },
+    {
+      "recurso": "Gasto de operación ejercido por partida de gasto anual.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Propio",
+      "monto": 10605307.99,
+      "valor": "Ejercido"
+    },
+    {
+      "recurso": "Presupuesto autorizado modificado.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Fiscal",
+      "monto": 257791003.8,
+      "valor": "-"
+    },
+    {
+      "recurso": "Presupuesto autorizado modificado.",
+      "inicio": "1/1/2017",
+      "fin": "30/09/2017",
+      "tipo": "Propio",
+      "monto": 64609110,
+      "valor": "-"
+    },
+    {
+      "recurso": "Presupuesto autorizado original.",
+      "inicio": "1/1/2017",
+      "fin": "31/12/2017",
+      "tipo": "Fiscal",
+      "monto": 252550162,
+      "valor": "-"
+    },
+    {
+      "recurso": "Presupuesto autorizado original.",
+      "inicio": "1/1/2017",
+      "fin": "31/12/2017",
+      "tipo": "Propio",
+      "monto": 64609110,
+      "valor": "-"
+    }
+  ]
+}

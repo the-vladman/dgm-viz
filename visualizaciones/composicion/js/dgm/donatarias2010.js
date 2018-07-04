@@ -5,7 +5,7 @@ var jsonChart;
       type: "GET",
       contentType: "application/json; charset=utf-8",
       dataType: "json",
-      url: "partials/dgm/donatarias2016.json",
+      url: "partials/dgm/donatarias2010.json",
       success: function(data) {
           jsonChart = data;
       }

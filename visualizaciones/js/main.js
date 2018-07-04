@@ -213,9 +213,9 @@ function getInfoChart(var1) {
       descripcion = "Presuntos delitos del fuero federal registrados en las averiguaciones previas o carpetas de investigación iniciadas, reportados por la PGR, desde el año 2012 al 2018 (mayo), desglosados por entidad federativa, año y clasificación del delito.";
       datos = ["Incidencia delictiva del fuero federal.Excel", "SESNSP", "XLSX", "https://datos.gob.mx/busca/dataset/incidencia-delictiva-del-fuero-federal-excel", "http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-fuero-federal.php"]
       break;
-    case (grafica.match(/Reporte de donatarias autorizadas del ejercicio 2016.*/) || {}).input:
-      descripcion = "Listado de las donatarias autorizadas en 2017 con datos del ejercicio 2016, mostrados por entidad federativa y tipo.";
-      datos = ["Reporte de donatarias autorizadas en 2017 del ejercicio 2016", "SAT", "CSV", "https://datos.gob.mx/busca/dataset/informes-de-donatarias-autorizadas", "https://www.gob.mx/cms/uploads/attachment/file/149132/Reporte_de_Donatarias_Autorizadas_2016.pdf"]
+    case (grafica.match(/Reporte de donatarias autorizadas del ejercicio.*/) || {}).input:
+      descripcion = "Listado de las donatarias autorizadas, mostrados por entidad federativa y tipo.";
+      datos = ["Informes de Donatarias Autorizadas", "SAT", "CSV", "https://datos.gob.mx/busca/dataset/informes-de-donatarias-autorizadas", "https://www.gob.mx/cms/uploads/attachment/file/149132/Reporte_de_Donatarias_Autorizadas_2016.pdf"]
       break;
     case (grafica.match(/Reporte de proyectos de mejora concluidos.*/) || {}).input:
       descripcion = "Inventario de proyectos de mejora en el marco del Programa para un Gobierno Cercano y Moderno (PGCM) mostrados por sector, institución y proyecto.";
